@@ -1,1 +1,1 @@
-Welcome to the new-pac wiki!
+请点右边Pages下面的列表就可以查看各个项目（会持续更新，请关注)
