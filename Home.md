@@ -1,7 +1,7 @@
 请点右边Pages下面的列表就可以查看各个项目（持续更新，请留意)
 
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88%EF%BC%88windows%E7%94%B5%E8%84%91%E7%94%A8%EF%BC%89)（windows电脑用，7月22日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88%EF%BC%88windows%E7%94%B5%E8%84%91%E7%94%A8%EF%BC%89)（windows电脑用，7月23日更新）
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
