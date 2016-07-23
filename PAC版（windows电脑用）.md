@@ -2,9 +2,10 @@
 
 2016年7月22日更新
 
-百度网盘下载地址：http://pan.baidu.com/s/1hsK1Hac
+百度网盘下载地址：http://pan.baidu.com/s/1jIdeLEY 密码: yw2b
 
 使用方法：下载后解压，按使用说明操作，很简单。
 
+本次更新内容：内置了某些pac地址的账号和密码，所以不需要每次自己手动输入了。
 
 有问题请发邮件到kebi2014@gmail.com ,反馈邮件请注明“PAC版”。
