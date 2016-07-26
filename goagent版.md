@@ -1,3 +1,5 @@
+原ChromePlus版
+
 百度网盘： http://pan.baidu.com/s/1pLImoyR 密码: 4jc5
 
 2016年7月26日更新。本次更新内容：更新了软件所用appid，解决了近期软件无法使用的问题。
