@@ -1,4 +1,4 @@
-原ChromePlus版
+原ChromePlus版，一键翻墙浏览器
 
 百度网盘： http://pan.baidu.com/s/1pLImoyR 密码: 4jc5
 
