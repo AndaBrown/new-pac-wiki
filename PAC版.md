@@ -2,9 +2,9 @@
 
 2016年7月30日更新
 
-**百度网盘**下载地址： http://pan.baidu.com/s/1bIwKrk 密码: b2f7
+百度网盘下载地址： http://pan.baidu.com/s/1bIwKrk 密码: b2f7
 
-**坚果云网盘**下载地址：
+坚果云网盘下载地址：https://www.jianguoyun.com/p/DeDb_J4QidKCBhjU3Rg
 
 使用方法：下载后解压，按使用说明操作，很简单。
 
