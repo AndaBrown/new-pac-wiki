@@ -2,7 +2,7 @@
 
 百度网盘： http://pan.baidu.com/s/1pLImoyR 密码: 4jc5
 
-坚果云盘：https://www.jianguoyun.com/p/De3epTEQidKCBhjW3Rg
+微云：http://share.weiyun.com/dc3a5359fbf421846e30a8874b764de6
 
 2016年7月26日更新。本次更新内容：更新了软件所用appid，解决了近期软件无法使用的问题。
 
