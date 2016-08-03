@@ -4,7 +4,7 @@
 
 请点右边Pages下面的列表就可以查看各个项目（持续更新，请留意)
 
-[goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（7月26日更新）
+[goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（7月26日更新,首选）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（7月30日更新）
 
