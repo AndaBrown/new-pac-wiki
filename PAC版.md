@@ -4,7 +4,7 @@
 
 百度网盘下载地址： http://pan.baidu.com/s/1bIwKrk 密码: b2f7
 
-坚果云网盘下载地址：https://www.jianguoyun.com/p/DeDb_J4QidKCBhjU3Rg
+微云下载地址：http://share.weiyun.com/5fa99e07ccd8c9196a37b940e900d294
 
 使用方法：下载后解压，按使用说明操作，很简单。
 
