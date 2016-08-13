@@ -12,7 +12,7 @@
 
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%EF%BC%89)（免翻墙）
 
-[蓝灯新版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF%E6%96%B0%E7%89%88)（蓝灯版和PAC版集合体）
+[蓝灯新版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF%E6%96%B0%E7%89%88)（8月13日更新）
 
 由于某些地区没法使用百度网盘下载，所以提供了两种国内网盘下载方法，方便墙内用户。
 
