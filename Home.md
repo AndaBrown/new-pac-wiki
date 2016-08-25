@@ -17,7 +17,7 @@
 [平板电脑翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
 
 
-[CJ版](https://github.com/Alvin9999/new-pac/wiki/CJ(%E6%8F%92%E4%BB%B6%EF%BC%89%E7%89%88)
+[CJ版](https://github.com/Alvin9999/new-pac/wiki/CJ%E7%89%88)
 
 
 由于某些地区没法使用百度网盘下载，所以提供了两种国内网盘下载方法，方便墙内用户。
