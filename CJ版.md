@@ -1,6 +1,7 @@
 **一键翻墙浏览器CJ（插件）版**
 
 百度网盘下载地址: http://pan.baidu.com/s/1i5jot73 密码: 7xes
+
 微云下载地址：http://share.weiyun.com/e2dd67da63082a6f73d35733bbd3c0d7
 
 核心程序：谷歌商店里的插件Browsec VPN 3.6.2
