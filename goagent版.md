@@ -1,4 +1,4 @@
-**原ChromePlus版，一键翻墙浏览器，高质量谷歌ip，首选**
+**原ChromePlus版，一键翻墙浏览器，高质量谷歌ip，ip源充足，适合长期使用，推荐首选**
 
 百度网盘： http://pan.baidu.com/s/1pLImoyR 密码: 4jc5
 
