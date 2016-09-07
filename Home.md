@@ -4,6 +4,8 @@
 
 请点右边Pages下面的列表就可以查看各个项目（持续更新)
 
+goagent版、pac版和蓝灯新版软件适合windows操作系统，比如Xp、win7、win8、win10系统
+
 [goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（9月3日重要更新,请所有用户尽快下载新版软件）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（8月24日更新）
