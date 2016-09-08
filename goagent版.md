@@ -20,5 +20,11 @@
 
 可按照《Chrome内核升级方法.rtf》里面的方法升级chrome内核，不升级内核也能用。
 
+附实例图：
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E1.png)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa版使用说明2.png)
+
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa版使用说明3.png)
 
