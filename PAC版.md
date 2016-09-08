@@ -2,7 +2,7 @@
 
 2016年8月24日更新
 
-[国外网盘下载](https://mega.nz/#!AgpWTQrD!GMd9cNUwjMKwdnRk1dQ2o6q4is-dYFrg64dDTWGvNiQ)
+[国外网盘下载](https://mega.nz/#!AgpWTQrD!GMd9cNUwjMKwdnRk1dQ2o6q4is-dYFrg64dDTWGvNiQ)（打开下载页面后，选择右边的download）
 
 [百度网盘下载](http://pan.baidu.com/s/1mhEac6O )
 
