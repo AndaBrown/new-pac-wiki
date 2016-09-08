@@ -22,9 +22,12 @@
 
 附实例图：
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E1.png)
+使用前先看使用说明。然后打开一键启动程序chrome+.exe（Win7及以上系统需要右键点击Chrome+.exe，然后再点“以管理员身份运行”）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa版使用说明2.png)
 
+正常启动后，会自动打开goagent代理插件和谷歌浏览器，主要关注goagent插件，最顶端是更新动态及日期，中间要有内容才行，一般以白色的数据为主，如果你打开网站后没有数据，那就是goagent没有正常启动，最大的可能是杀毒软件在干扰，所以可以把杀毒软件退了，在重新解压并打开。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa版使用说明3.png)
 
+成功打开网站后，另一个比较重要的数据就是good ip的个数，如果为0或者速度成龟速，你就按照使用说明自动更新一下ip。
