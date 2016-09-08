@@ -20,13 +20,16 @@
 
 可按照《Chrome内核升级方法.rtf》里面的方法升级chrome内核，不升级内核也能用。
 
-附实例图：
+
+
+**附实例图：**
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E1.png)
-使用前先看使用说明。然后打开一键启动程序chrome+.exe（Win7及以上系统需要右键点击Chrome+.exe，然后再点“以管理员身份运行”）
+
+解压后，出现上面的图例，使用前先看使用说明！然后打开一键启动程序chrome+.exe（Win7及以上系统需要右键点击Chrome+.exe，然后再点“以管理员身份运行”）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa版使用说明2.png)
 
-正常启动后，会自动打开goagent代理插件和谷歌浏览器，主要关注goagent插件，最顶端是更新动态及日期，中间要有内容才行，一般以白色的数据为主，如果你打开网站后没有数据，那就是goagent没有正常启动，最大的可能是杀毒软件在干扰，所以可以把杀毒软件退了，在重新解压并打开。
+正常启动后，会自动打开goagent代理插件和谷歌浏览器，主要关注goagent插件里的内容，最顶端是更新动态及日期，中间要有内容才行，一般以白色的数据为主，如果你打开网站后没有数据，那就是goagent没有正常启动，最大的可能是杀毒软件在干扰，所以可以把杀毒软件退了，在重新解压并打开一键启动程序。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goa版使用说明3.png)
 
