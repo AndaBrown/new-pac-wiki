@@ -1,8 +1,11 @@
 **一键翻墙浏览器goagent版，高质量谷歌ip，ip源充足，适合长期使用，推荐首选**
 
+国外网盘下载：https://app.box.com/s/ivt06e69enlwsp8h19c2ziiofe7oo2qw
+
 百度网盘下载： http://pan.baidu.com/s/1kUN6bLP 密码: tkj2
 
 微云下载：http://share.weiyun.com/46a191fd2b044c6d89cbcf34cf823f77
+
 
 **重要更新：2016年9月3日更新软件使其能够重新支持gvs ip，扩大了ip源的使用范围。**建议所有用户下载新版使用。
 
