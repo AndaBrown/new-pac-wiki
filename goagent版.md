@@ -1,6 +1,6 @@
 **一键翻墙浏览器goagent版，高质量谷歌ip，ip源充足，适合长期使用，推荐首选**
 
-[国外网盘](https://app.box.com/s/ivt06e69enlwsp8h19c2ziiofe7oo2qw)
+[国外网盘](https://mega.nz/#!l4wTUJoD!qtTgy4C8k1494qVOPo9vwCT1jWb98BMcCf5oj29WdMg)（打开下载页面后，选择右边的download）
 
 [百度网盘](http://pan.baidu.com/s/1kUN6bLP) 密码: tkj2
 
