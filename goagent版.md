@@ -2,7 +2,7 @@
 
 百度网盘下载：  http://pan.baidu.com/s/1kUN6bLP 密码: tkj2
 
-微云下载：http://share.weiyun.com/46a191fd2b044c6d89cbcf34cf823f77
+[本地下载](https://sz-yun-ftn.weiyun.com/ftn_handler/f3d95c98f61fa467fadba8c71d0d07e7590580234557c7912110cfd5a3c7d3ef/Chrome49_v2016.9.3.7z?fname=Chrome49_v2016.9.3.7z&from=30111&version=2.0.0.2&uin=2793139492)
 
 
 **重要更新：2016年9月3日更新软件使其能够重新支持gvs ip，扩大了ip源的使用范围。**建议所有用户下载新版使用。
