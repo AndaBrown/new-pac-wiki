@@ -1,11 +1,8 @@
 **一键翻墙浏览器goagent版，高质量谷歌ip，ip源充足，适合长期使用，推荐首选**
 
-[本地下载1](https://public.boxcloud.com/d/1/gRsvT9qMn5HN2CvUgO3CscJfC6m93vcb7md6Jb5SoWwbhAYBuYmV19rbSPqhmOH5i87qSuaJmlhIWxAxMbwCeFSb98pfG5yVHn0yWkjb14J4dYQC1P7TIIgpXZetb72iE_q5BR0vpS8_QOMdmg6VQpFp4K8415tIT8kgAyrU0DrIk_UCAD4HzoZNmlzrU0-LTVrralUOMhw25RbFv7YWwaE9CoyoP-xUdQFEuDoFdNijZtB_XQV-wzwEx4x4CatazFVuLRQsN75JARTBx7r0zPKS-OSmC2K1fCFfmC-_LgzqHqn_G7KqXeC_YOv1933mDjq5Xfa39nePnTAyO1fn1_snvXMIsRCxJXKDj9NUZ_63gUPNq7HP5_J8AI_SVIQJ5_P9B37nO5loCZDUOOTKrvIqoO1cA5JqkBqj8b6WPx-km6WwlE-zJy36aiCJviQKplq0hPuWNYji1bbk38TMD-YlUMBE33vcnZXiWm4CqRiJt4BYDcVIR2a8zxwnzrwJWC4alh1Y6It57bQzDPeAFKrrUe83lH7jREGLJVX3J3Bs1XF494eCgyhfRaxaWxc_dsAQ_7gXjzdpWfrFl4OsmFLnBJfZeRIv2KFrLuZHbO7L-LNWzzjOozjFVNfus2BGQCTBalgmXLfa5OCFBsWKho8nR6S1JwxS_OAX1dFZW8vUI0dVEow0R3srYhqRZZsq9pTLpi9LVcJxCK9npy2J7ZlB3aWtpZ9RV4pEB3ruuKERVqFddKGNLHiyv95Qx4QrtkWDLO9gUm2Wp4WOROYTcmzJkFfsLCv6KNiP4eUJtu7Ly_v1wYFq6b5f8l9fyUlpzTKJ5eBLNi7pHT52tY4qSoN5JUKA59T7l0aCIMsJx-4RBf-DGzGrKH0aVRIO3JhQigqjR6NowwJb6GssxNhMFKHfdX_Cwl0AC4Nz7FlXozaWYcOigp7uB9Sh479yvRGdDwUdjcPGv5loKZ7nPigrUYjrl3QWoXiwl9234ZLI31PACt7imOJ57uBKo0bY8KvUtJllR8LqegroReDiPuIvoG852ZgJDiPYiV5Hv92IrVgkl89Q_ahRoeQ05YuKaW20-VzkClZuHBLURSWFqYbTdRoR/download)
+百度网盘下载： http://pan.baidu.com/s/1kUN6bLP 密码: tkj2
 
-[本地下载2](http://183.224.14.197/ws.cdn.baidupcs.com/file/5394e08a41cd23f84234c78d240bebdb?bkt=p3-0000ccfa3d173f06a5b2f2e7567980eea246&xcode=a72d88e230f2781d9056a7d2bbe3714b4be5a8260f86bb260b2977702d3e6764&fid=3729506616-250528-625511635741254&time=1473375040&sign=FDTAXGERBH-DCb740ccc5511e5e8fedcff06b081203-vh9v8VJJEricMavZ3%2FE2cM1Qs7w%3D&to=cb&fm=Yan,B,M,mn&sta_dx=106224311&sta_cs=833&sta_ft=7z&sta_ct=2&sta_mt=2&fm2=Yangquan,B,M,mn&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000ccfa3d173f06a5b2f2e7567980eea246&expires=8h&rt=sh&r=419069807&mlogid=5851205868818590005&vuk=-&vbdid=3703747252&fin=Chrome49_v2016.9.3.7z&fn=Chrome49_v2016.9.3.7z&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=5851205868818590005&dp-callid=0.1.1&csl=0&csign=TEXbDriRnvOMXarAK5QemFHKJf8%3D&wshc_tag=0&wsts_tag=57d1eb41&wsid_tag=b7e04532&wsiphost=ipdbm)
-
-[本地下载2](https://sz-yun-ftn.weiyun.com/ftn_handler/f3d95c98f61fa467fadba8c71d0d07e7590580234557c7912110cfd5a3c7d3ef/Chrome49_v2016.9.3.7z?fname=Chrome49_v2016.9.3.7z&from=30111&version=2.0.0.2&uin=2793139492)
-
+微云下载：http://share.weiyun.com/46a191fd2b044c6d89cbcf34cf823f77
 
 **重要更新：2016年9月3日更新软件使其能够重新支持gvs ip，扩大了ip源的使用范围。**建议所有用户下载新版使用。
 
