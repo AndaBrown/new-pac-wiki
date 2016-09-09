@@ -11,7 +11,7 @@ ps：软件分享出来就是给大家使用的，如果你想把软件分享给
 
 [goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（9月3日重要更新,请所有用户尽快下载新版软件）
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（8月24日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（9月9日更新）
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
