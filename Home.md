@@ -13,11 +13,12 @@ ps：软件分享出来就是给大家使用的，如果你想把软件分享给
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（9月9日更新）
 
+[蓝灯新版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF%E6%96%B0%E7%89%88)（9月9日更新）
+
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%EF%BC%89)（免翻墙）
 
-[蓝灯新版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF%E6%96%B0%E7%89%88)（9月9日更新）
 
 [平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
