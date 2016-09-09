@@ -2,7 +2,7 @@
 
 [国外网盘](https://mega.nz/#!l4wTUJoD!qtTgy4C8k1494qVOPo9vwCT1jWb98BMcCf5oj29WdMg)（打开下载页面后，选择右边的download）
 
-[百度网盘](http://pan.baidu.com/s/1kUN6bLP) 密码: tkj2
+[百度网盘](http://pan.baidu.com/s/1kUN6bLP) 密码: tkj2  （如果提示百度云升级，链接不存在等，刷新一下就出来了）
 
 [微云](http://share.weiyun.com/46a191fd2b044c6d89cbcf34cf823f77)
 
