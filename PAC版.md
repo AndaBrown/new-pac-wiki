@@ -6,6 +6,8 @@
 
 [百度网盘下载](http://pan.baidu.com/s/1skKCs1n )（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 
+[360云盘下载](https://yunpan.cn/ckJXAwQU97dxf ) 提取码：5f1d
+
 **更新动态：更了pac2和pac4代理地址。**
 
 
