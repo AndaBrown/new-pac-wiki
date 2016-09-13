@@ -12,6 +12,8 @@
 
 [goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（9月3日更新软件,9月10日增加流量并更新ip。）
 
+[goproxy版](https://github.com/Alvin9999/new-pac/wiki/goproxy%E7%89%88) （9月13日第一次发布此尝鲜版）
+
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（9月9日更新）
 
 [蓝灯新版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF%E6%96%B0%E7%89%88)（9月9日更新）
