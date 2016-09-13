@@ -6,9 +6,9 @@
 
 [国外网盘下载](https://mega.nz/#!csZSzYyA!PDecVEd3_b51hNvWV4jRaUYUcNviipgCw6tcFU3dSXw)
 
-[百度网盘下载](http://pan.baidu.com/s/1caGetS)密码: ae8n
+[百度网盘下载](http://pan.baidu.com/s/1caGetS) 密码: ae8n
 
-[360云盘下载](https://yunpan.cn/ckwwxLya6znCh)提取码：cadf
+[360云盘下载](https://yunpan.cn/ckwwxLya6znCh) 提取码：cadf
 
 
 使用方法：下载后解压，按说明操作。因为是将goproxy程序替换原先的goagent程序，所以整个操作与goagent差不多，有一些小的方面的不同，在使用说明里面有提到。
