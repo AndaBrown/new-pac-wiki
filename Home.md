@@ -2,6 +2,9 @@
 
                               一键翻墙谷歌浏览器
 
+祝大家中秋快乐！
+
+
 永久免费。稳定、流畅、高速，持续更新。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
