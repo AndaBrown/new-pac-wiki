@@ -17,6 +17,8 @@
 ***
 
 实测效果图：
+
+移动网络 100M
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gop1.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gop2.png)
