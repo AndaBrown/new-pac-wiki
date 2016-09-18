@@ -12,7 +12,7 @@
 介绍：goagent版、pac版和蓝灯新版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带AdBlock广告屏蔽插件、翻译插件和YouTube视频下载插件，方便且实用。打开YouTube视频后，在视频下方有个绿色的Download，点击一下，选择清晰度后就可以下载。**压缩包文件的格式是7z，如果解压出错，下载7z解压软件，用它来解压。**
 
 
-[goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（9月3日更新软件,9月10日增加流量并更新ip。）
+[goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（9月19日更新）
 
 [goproxy版](https://github.com/Alvin9999/new-pac/wiki/goproxy%E7%89%88) （9月13日第一次发布尝鲜版）
 
