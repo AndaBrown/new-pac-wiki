@@ -15,7 +15,7 @@
 ***
 goagant版和蓝灯新版都有升级浏览器内核的方法，唯独PAC版没有（不升级也能用）。综合考虑，发布一款关于PAC的高版本谷歌浏览器便携版，有兴趣的可以下载，内核版本为chrome53。win7、win8、win10系统可用，目前还不知道xp系统能不能用。
 
-chrome53版 [百度网盘下载](http://pan.baidu.com/s/1bpMbynt ) 密码：jt1y   [360云盘下载](https://yunpan.cn/ckxaNS3wvfVJJ) 提取码：393a
+chrome53版 [百度网盘下载](http://pan.baidu.com/s/1bpMbynt ) 密码：jt1y          [360云盘下载](https://yunpan.cn/ckxaNS3wvfVJJ) 提取码：393a
 
 
 
