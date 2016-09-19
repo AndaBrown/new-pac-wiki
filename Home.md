@@ -14,8 +14,6 @@
 
 [goagent版](https://github.com/Alvin9999/new-pac/wiki/goagent%E7%89%88)（9月19日更新）
 
-[goproxy版](https://github.com/Alvin9999/new-pac/wiki/goproxy%E7%89%88) （9月13日第一次发布尝鲜版）
-
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（9月15日更新PAC地址，18日增加一款高版本53内核PAC版）
 
 [蓝灯新版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF%E6%96%B0%E7%89%88)（9月9日更新）
