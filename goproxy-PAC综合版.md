@@ -6,7 +6,7 @@ goproxy简介：goproxy是goagent的加强版，相比较速度要快50%以上�
 
 [国外网盘下载](https://mega.nz/#!JtgWhQRJ!4w76hSdoU8zIsHqw0mHv9q3rKBqfktGC0H1uTZIhsLs)（打开下载页面后，选择右边的download进行下载）
 
-[百度云网盘下载](http://pan.baidu.com/s/1c2fwkYc)（如果提示百度云升级，链接不存在等，刷新一下网页，如果地址确实失效，可以提醒一下我）
+[百度云网盘下载](http://pan.baidu.com/s/1c2fwkYc) 密码:dqtj（如果提示百度云升级，链接不存在等，刷新一下网页，如果地址确实失效，可以提醒一下我）
 
 
 
