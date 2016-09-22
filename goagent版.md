@@ -1,6 +1,6 @@
 一键翻墙浏览器goagent版，高质量谷歌ip，ip源充足，适合长期使用，推荐首选
 
-该软件已合并到[goagent PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goagent-PAC%E7%BB%BC%E5%90%88%E7%89%88)
+****该软件已合并到****[goagent PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goagent-PAC%E7%BB%BC%E5%90%88%E7%89%88)
 
 **更新动态：**
 
