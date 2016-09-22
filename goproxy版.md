@@ -1,18 +1,6 @@
-**一键翻墙浏览器goproxy版**
+一键翻墙浏览器goproxy版
 
-2016年9月13日第一次发布此版本
-
-简介：goproxy是goagent的加强版，相比较速度要快50%以上，当然这也会跟你所在地区网络类型和封锁强度有关。goagent程序有好几年的历史了，程序比较稳定。目前goproxy程序的开发者还在完善此程序，正式版还未出。今天发布此版本，算是尝鲜版，供大家测试，欢迎反馈。
-
-[国外网盘下载](https://mega.nz/#!csZSzYyA!PDecVEd3_b51hNvWV4jRaUYUcNviipgCw6tcFU3dSXw)
-
-[百度网盘下载](http://pan.baidu.com/s/1caGetS) 密码: ae8n
-
-[360云盘下载](https://yunpan.cn/ckwwxLya6znCh) 提取码：cadf
-
-
-使用方法：下载后解压，按说明操作。因为是将goproxy程序替换原先的goagent程序，所以整个操作与goagent差不多，有一些小的方面的不同，在使用说明里面有提到。
-
+**该软件已合并到**[goproxy PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goproxy-PAC%E7%BB%BC%E5%90%88%E7%89%88)
 
 ***
 
