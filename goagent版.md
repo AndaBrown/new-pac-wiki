@@ -1,14 +1,6 @@
-**一键翻墙浏览器goagent版，高质量谷歌ip，ip源充足，适合长期使用，推荐首选**
+一键翻墙浏览器goagent版，高质量谷歌ip，ip源充足，适合长期使用，推荐首选
 
-本软件是谷歌浏览器便携版配置goagent插件来翻墙上网。服务器是谷歌云服务器，谷歌云服务器抗压强，所以软件使用下来很稳定，高质量谷歌ip速度不错，未来如果谷歌云服务器所提供的云服务一直免费，结合目前谷歌ip源很充足的情况下，软件可以一直使用下去。
-
-[国外网盘](https://mega.nz/#!98Iw2TxQ!3OhW7Nf7JOdiYZbpDFhwl3GK45fNpaSCxugK9ynVhGA)（打开下载页面后，选择右边的download进行下载）
-
-[百度网盘](http://pan.baidu.com/s/1pLhH0k7) 密码：gdiq  （如果提示百度云升级，链接不存在等，刷新一下网页）
-
-[360云盘](https://yunpan.cn/ckYB537N4EQDJ) 提取码：6f7b
-
-使用方法：下载后解压出来，按文件夹里面的使用说明（必看）操作。
+**### 该软件已合并到[goagent PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goagent-PAC%E7%BB%BC%E5%90%88%E7%89%88)**
 
 **更新动态：**
 
