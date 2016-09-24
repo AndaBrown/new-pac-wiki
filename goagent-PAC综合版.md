@@ -1,6 +1,8 @@
-此款是将goagent版和pac版集成，在一款软件上增加多种翻墙方式，方便不同封锁地区的用户。
+**此款是将goagent版和pac版集成，在一款软件上增加多种翻墙方式，方便不同封锁地区的用户。**
 
 2016年9月22日更新
+
+**下载地址：**
 
 [国外网盘下载](https://mega.nz/#!0oYljYJB!DSqc5GWo_Lj1YoO_2sST2vgpjXTi2bPB91Ilm5iuaE4)（打开下载页面后，选择右边的download进行下载）
 
