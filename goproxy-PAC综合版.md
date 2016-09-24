@@ -2,7 +2,7 @@
 
 goproxy简介：goproxy是原goagent作者开发又一款开源软件，相比较速度要快50%以上，当然这也会跟你所在地区网络类型和封锁强度有关。goagent程序有好几年的历史了，相对而言程序比较稳定，而goproxy程序的开发者还在完善此程序，正式版还未出。
 
-2016年9月22日更新，更新内容：更新goproxy版本至r1064，更新ip，增加流量。
+> 2016年9月22日更新，更新内容：更新goproxy版本至r1064，更新ip，增加流量。
 
 [国外网盘下载](https://mega.nz/#!JtgWhQRJ!4w76hSdoU8zIsHqw0mHv9q3rKBqfktGC0H1uTZIhsLs)（打开下载页面后，选择右边的download进行下载）
 
