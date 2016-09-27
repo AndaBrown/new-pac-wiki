@@ -19,30 +19,6 @@ chrome53版 [百度网盘下载](http://pan.baidu.com/s/1bpMbynt ) 密码：jt1y
 
 
 
-***
-如果你已经下载过旧版一键翻墙浏览器PAC版，可以下载这个PAC扩展文件（当前版本PAC扩展2016.9.15）（[下载地址](https://yunpan.cn/ckd9b9MaHBhZE )提取码4b93）  导入一下就更新了。教程如下：
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.png)
-
-打开浏览器，点击地址栏右边圆形的扩展按钮，然后选择“选项”
-
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.png)
-
-在弹出的界面，点击“导入/导出”，然后选择“从备份文件恢复”
-
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/14.png)
-
-找到你下载PAC扩展文件地址的地方，打开它既可
-
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/3.png)
-
-完成
-
-
-
 
 
 
