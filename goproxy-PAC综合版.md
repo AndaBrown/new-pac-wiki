@@ -1,4 +1,4 @@
-** 此款是将goproxy版和pac版集成，在一款软件上增加多种翻墙方式，方便不同封锁地区的用户。**
+**此款是将goproxy版和pac版集成，在一款软件上增加多种翻墙方式，方便不同封锁地区的用户**
 
 goproxy简介：goproxy是原goagent作者开发又一款开源软件，相比较速度快50%以上，当然这也会跟你所在地区网络类型和封锁强度有关。goagent程序有好几年的历史了，相对而言程序比较稳定，而goproxy程序的开发者还在完善此程序，正式版还未出。
 
@@ -9,6 +9,10 @@ goproxy简介：goproxy是原goagent作者开发又一款开源软件，相比�
 > 2016年9月22日更新，更新内容：更新goproxy版本至r1064，更新ip，增加流量。
 
 **下载地址：**
+
+[国外网盘下载](https://mega.nz/#!kkpCyQpb!HzPrwh01VcT4kDZD70hYjUgaY5AcL1ViN89JPZH_HoQ)
+
+[百度云网盘下载](http://pan.baidu.com/s/1qYxUTAG) （密码：ddwf）
 
 [360云盘下载](https://yunpan.cn/ckWYkW5T5IWqX) （提取码：894d）
 
