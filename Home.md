@@ -20,7 +20,7 @@
 
 [goproxy PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goproxy-PAC%E7%BB%BC%E5%90%88%E7%89%88)（9月24日更新）
 
-[蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（9月9日更新）
+[蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（9月30日更新）
 
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（9月15日更新PAC地址，18日增加一款53内核PAC版）
