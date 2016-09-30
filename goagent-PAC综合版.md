@@ -6,7 +6,7 @@
 
 [国外网盘下载](https://mega.nz/#!0oYljYJB!DSqc5GWo_Lj1YoO_2sST2vgpjXTi2bPB91Ilm5iuaE4)（打开下载页面后，选择右边的download进行下载）
 
-[百度云网盘下载](http://pan.baidu.com/s/1c2sTxny) 密码：j7cg（如果提示百度云升级，链接不存在等，刷新一下网页，如果地址确实失效，可以提醒一下我）
+[百度云网盘下载](http://pan.baidu.com/s/1c2sTxny) 密码：j7cg（第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了）
 
 [360云盘下载](https://yunpan.cn/ckvDbx8LtwSVB ) 提取码：dba8
 
