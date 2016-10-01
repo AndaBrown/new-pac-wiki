@@ -8,7 +8,9 @@ goproxy简介：goproxy是原goagent作者开发又一款开源软件，相比�
 
 > 2016年9月22日更新，更新内容：更新goproxy版本至r1064，更新ip，增加流量。
 
-压缩包名称Chrome53_gop_v2016.9.24.7z **下载地址：**
+压缩包名称Chrome53_gop_v2016.9.24.7z 
+
+**下载地址：**
 
 [国外网盘下载](https://mega.nz/#!kkpCyQpb!HzPrwh01VcT4kDZD70hYjUgaY5AcL1ViN89JPZH_HoQ)
 
