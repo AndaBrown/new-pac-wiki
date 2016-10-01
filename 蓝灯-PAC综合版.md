@@ -4,6 +4,8 @@
 
 **更新内容：蓝灯代理地址保持不变，更新部分PAC地址。**
 
+压缩包名称ChromeLT_v2016.9.30.7z **下载地址：**
+
 [国外网盘下载](https://mega.nz/#!BgJkgAIA!jvOA1O9oiXqe5W7woF5w-6kQuN6oFTn4v7B92hK7G3M)（打开下载页面后，选择右边的download）
 
 [百度网盘下载](http://pan.baidu.com/s/1skWO9C5) 提取密码:96hx （第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了）
