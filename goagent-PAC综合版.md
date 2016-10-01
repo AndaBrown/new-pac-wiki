@@ -2,7 +2,9 @@
 
 2016年10月1日更新，下载过9月22日版本的用户，只要按照文件夹里面的使用说明（必看）自动更新一下ip，就能同步到云端的最新配置。
 
-压缩包名称Chrome53_goa_v2016.9.22.7z **下载地址：**
+压缩包名称Chrome53_goa_v2016.9.22.7z 
+
+**下载地址：**
 
 [国外网盘下载](https://mega.nz/#!0oYljYJB!DSqc5GWo_Lj1YoO_2sST2vgpjXTi2bPB91Ilm5iuaE4)（打开下载页面后，选择右边的download进行下载）
 
