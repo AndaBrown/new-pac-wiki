@@ -37,3 +37,20 @@ DNSPod 公共 DNS 服务端使用 DPDK 开发，万兆网络接入，高效的�
 
 公共 DNS 相对 本地 DNS主要优势在于解析速度快、防污染。部分 DNS 比如114.114.114.114可以加速苹果商店 appstore 的下载速度。
 
+***
+
+**全平台清除 DNS 缓存方法**
+
+Windows 点击左下角开始键，运行 cmd ,在命令提示符运行命令 ipconfig /flushdns
+
+OS X 10.9OS X 10.10.4+ 在［应用程序］［实用工具］［终端］运行命令 
+
+sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder
+
+OS X 10.10 在［应用程序］［实用工具］［终端］运行命令 sudo discoveryutil udnsflushcaches
+
+OS X 10.7 ~ 10.8 在［应用程序］［实用工具］［终端］运行命令 sudo killall -HUP mDNSResponder
+
+Linux 在［终端］运行命令 /etc/rc.d/init.d/nscd restart
+
+Android、iOS 打开飞行模式 在关闭 重复3次，在重启设备
