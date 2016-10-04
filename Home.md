@@ -38,7 +38,7 @@
 [苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91macOS%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
 
-   
+[通过设置DNS解决部分地区无法翻墙的方法](https://github.com/Alvin9999/new-pac/wiki/%E9%80%9A%E8%BF%87%E8%AE%BE%E7%BD%AEDNS%E8%A7%A3%E5%86%B3%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%97%A0%E6%B3%95%E7%BF%BB%E5%A2%99%E7%9A%84%E6%96%B9%E6%B3%95)   
 
 ***
 
