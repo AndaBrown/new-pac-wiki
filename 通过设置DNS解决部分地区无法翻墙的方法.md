@@ -8,6 +8,8 @@ DNS设置教程：
 
 Windows XP/7/8/10 - Mac OS DNS 设置教程 https://support.dnspod.cn/Kb/showarticle/tsid/240/#link1  
 
+或者在路由器中将 DNS 设为第三方 DNS，一劳永逸。百度 DNS 路由器设置教程：http://dudns.baidu.com/support/localdns/Router/
+
 
 **DNS 服务器**
 
