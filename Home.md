@@ -28,15 +28,13 @@
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（9月16日更新，增加多款安卓版）
 
-[网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%EF%BC%89)（免翻墙）
-
-
-[平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
-
 [苹果手机翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（10月5日更新备选ss节点密码）
+
+[网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%EF%BC%89)（免翻墙）
 
 [苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91macOS%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
+[平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
 [通过设置DNS解决部分地区无法翻墙的方法](https://github.com/Alvin9999/new-pac/wiki/%E9%80%9A%E8%BF%87%E8%AE%BE%E7%BD%AEDNS%E8%A7%A3%E5%86%B3%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E6%97%A0%E6%B3%95%E7%BF%BB%E5%A2%99%E7%9A%84%E6%96%B9%E6%B3%95)   
 
