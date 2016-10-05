@@ -13,3 +13,9 @@
 [360云盘下载](https://yunpan.cn/ckvDbx8LtwSVB ) 提取码：dba8
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
+
+***
+实例图
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent综合版使用1.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent综合版使用2.png)
