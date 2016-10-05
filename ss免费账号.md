@@ -68,15 +68,15 @@
 
 地址：us02.namaho.com
 端口：8497
-密码：namahoKIC
+密码：**namahoKIC**
 加密：aes-256-cfb
 
 地址：us02.namaho.com
 端口：8498
-密码：namahoFWH
+密码：**namahoFWH**
 加密：aes-256-cfb
 
 地址：us02.namaho.com
 端口：8499
-密码：namahoAYV
+密码：**namahoAYV**
 加密：aes-256-cfb
