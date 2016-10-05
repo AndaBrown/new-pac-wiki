@@ -1,6 +1,6 @@
 以下ss账号均来自互联网，测试后速度不错，在这里感谢原作者无私的分享。防止被滥用，原作者会不定期（时间不定）更新密码或端口。如果哪天不能用了，此页面也没有更新，可以提醒一下我。
 
-**免费的ss账号（9月30日更新）**
+**免费的ss账号（10月5日更新备选节点）**
 
 **===雷锋行动节点列表(首选）===**（下次更换时间为：10 月 8 日下午 14:00）
 
@@ -45,38 +45,38 @@
 默认协议为：auth_sha1
 默认混淆为：http_simple
 
-**===备选节点列表===**
+**===备选节点列表===**（10月5日更新）
 
 日本节点(东京)
 
 地址：jp01.namaho.com
 端口：8497
-密码：namahoGNQ
+密码：**namahoKIC**
 加密：aes-256-cfb
 
 地址：jp01.namaho.com
 端口：8498
-密码：namahoJ1C
+密码：**namahoFWH**
 加密：aes-256-cfb
 
 地址：jp01.namaho.com
 端口：8499
-密码：namahoEEB
+密码：**namahoAYV**
 加密：aes-256-cfb
 
 美国节点
 
 地址：us02.namaho.com
 端口：8497
-密码：namahoGNQ
+密码：namahoKIC
 加密：aes-256-cfb
 
 地址：us02.namaho.com
 端口：8498
-密码：namahoJ1C
+密码：namahoFWH
 加密：aes-256-cfb
 
 地址：us02.namaho.com
 端口：8499
-密码：namahoEEB
+密码：namahoAYV
 加密：aes-256-cfb
