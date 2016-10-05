@@ -15,3 +15,9 @@
 
 使用方法：下载后解压，解压路径中最好不要包含中文，然后按使用说明（必看）操作即可。如果杀毒软件干扰翻墙上网，可以将软件添加为信任或白名单使用。
 
+***
+实例图
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/lantern使用说明1.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/lantern使用说明2.png)
+
