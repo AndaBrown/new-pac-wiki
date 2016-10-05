@@ -49,34 +49,34 @@
 
 日本节点(东京)
 
-地址：jp01.namaho.com
+地址：**jp.namaho.com**
 端口：8497
 密码：**namahoKIC**
 加密：aes-256-cfb
 
-地址：jp01.namaho.com
+地址：**jp.namaho.com**
 端口：8498
 密码：**namahoFWH**
 加密：aes-256-cfb
 
-地址：jp01.namaho.com
+地址：**jp.namaho.com**
 端口：8499
 密码：**namahoAYV**
 加密：aes-256-cfb
 
 美国节点
 
-地址：us02.namaho.com
+地址：**us.namaho.com**
 端口：8497
 密码：**namahoKIC**
 加密：aes-256-cfb
 
-地址：us02.namaho.com
+地址：**us.namaho.com**
 端口：8498
 密码：**namahoFWH**
 加密：aes-256-cfb
 
-地址：us02.namaho.com
+地址：**us.namaho.com**
 端口：8499
 密码：**namahoAYV**
 加密：aes-256-cfb
