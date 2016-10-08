@@ -5,7 +5,7 @@ epochtimes.com（新闻类）
 bannedbook.org（书籍类）
 zh-cn.shenyun.com（文化艺术类）
 
-**免费ss账号（10月7日晚更新并增加备选节点2）**
+**免费ss账号（10月8日增加备选节点3）**
 
 **请合理利用，尽量不要在高峰时段(20:00-24:00)看高清视频,不然真会挂掉**
 
@@ -55,12 +55,12 @@ zh-cn.shenyun.com（文化艺术类）
 
 使用支付宝扫描(手机的话可以长按二维码保存本地后再扫描)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付1.JPG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付11.JPG)
 
 
 使用微信扫描(手机的话可以长按二维码保存本地后再扫描)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付2.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付22.png)
 
 **===备选节点列表2===**（10月7日更新，更新时间不定）
 
