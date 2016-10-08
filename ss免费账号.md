@@ -55,7 +55,7 @@ zh-cn.shenyun.com（文化艺术类）
 
 使用支付宝扫描(手机的话可以长按二维码保存本地后再扫描)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付11.JPG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付11.jpg)
 
 
 使用微信扫描(手机的话可以长按二维码保存本地后再扫描)
