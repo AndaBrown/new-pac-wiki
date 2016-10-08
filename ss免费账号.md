@@ -1,4 +1,4 @@
-### 以下ss账号均来自互联网，且用且珍惜，在这里感谢原作者无私的分享。因为是免费的，为了防止被滥用，原作者会不定期更新服务器地址或密码或端口。
+以下ss账号均来自互联网，且用且珍惜，在这里感谢原作者无私的分享。因为是免费的，为了防止被滥用，原作者会不定期更新服务器地址或密码或端口。
 
 如果翻墙后不知道玩什么，推荐几个网站：youtube.com(视频类）  google.com(搜索类）  dongtaiwang.com(新闻类）ntdtv.com(视频新闻类）
 epochtimes.com（新闻类）
@@ -62,32 +62,7 @@ zh-cn.shenyun.com（文化艺术类）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付22.png)
 
-**===备选节点列表2===**（10月7日更新，更新时间不定）
-
-C服务器地址:s3.freessr.top
-端口:19801
-密码:877968
-加密方式:aes-256-cfb
-
-E服务器地址:s5.freessr.top
-端口:31114
-密码:kingss.pw
-加密方式:aes-256-cfb
-
-F服务器地址:s6.freessr.top
-端口:31379
-密码:kingss.pw
-加密方式:aes-256-cfb
-
-服务器地址:s7.freessr.top
-端口:31857
-密码:kingss.win
-加密方式:aes-256-cfb
-
-服务器地址:s8.freessr.top
-端口:31311
-密码:kingss.win
-加密方式:aes-256-cfb
+**===备选节点列表2===**（原作者每天都在更新密码，更新实在太频繁，影响使用体验，所以取消该列表）
 
 **===备选节点列表3===**（10月8日更新）
 
