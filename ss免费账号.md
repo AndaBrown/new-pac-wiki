@@ -47,12 +47,18 @@ zh-cn.shenyun.com（文化艺术类）
 密码：**namahoAYV**
 加密：aes-256-cfb
 
-服务器 : fighter.fuckgfwisverygood.tech
-端口:  6010
-密码 : tester43210#AbCd
-加密方式: chacha20
-
 备注：备选节点服务禁止了部分在国内不用翻的网站是为了节省流量，避免不必要的资源浪费，同时这些网站不翻的速度会更快。这时如果用了全局模式，访问这些网站时会打不开或者浏览器会有“连接中断”之类提示。
+
+备用节点共计6个节点，全部由网友自费无私分享，由于最近人数使用较多，服务器压力大，为了能长期使用，有条件的可以捐助，完全自愿，金额不限，1元都行。
+
+使用支付宝扫描(手机的话可以长按二维码保存本地后再扫描)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付1.png)
+
+
+使用微信扫描(手机的话可以长按二维码保存本地后再扫描)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/支付2.png)
 
 **===备选节点列表2===**（10月7日更新，更新时间不定）
 
@@ -80,5 +86,18 @@ F服务器地址:s6.freessr.top
 端口:31311
 密码:kingss.win
 加密方式:aes-256-cfb
+
+**===备选节点列表3===**（10月8日更新）
+
+服务器 : fighter.fuckgfwisverygood.tech
+端口:  6010
+密码 : tester43210#AbCd
+加密方式: chacha20
+
+服务器：72.136.128.170 
+端口：443 
+密码：12345678 
+加密方式：AES-256-CFB
+
 
 
