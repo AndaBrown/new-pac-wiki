@@ -79,7 +79,7 @@ zh-cn.shenyun.com（文化艺术类）
 
 如果你觉得该ss好用，可以对原作者进行打赏，以示鼓励。打赏二维码如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/yu1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/yu1.PNG)
 
 
 
