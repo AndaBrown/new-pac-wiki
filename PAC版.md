@@ -24,7 +24,7 @@
 
 压缩包名称 Chrome53_Pac_v2016.9.17.7z ，文件大小68.4M
 
-chrome53版 [百度网盘下载](http://pan.baidu.com/s/1bpMbynt ) 密码：jt1y          [360云盘下载](https://yunpan.cn/ckxaNS3wvfVJJ) 提取码：393a
+[百度网盘下载](http://pan.baidu.com/s/1bpMbynt ) 密码：jt1y          [360云盘下载](https://yunpan.cn/ckxaNS3wvfVJJ) 提取码：393a
 
 实例图：
 
