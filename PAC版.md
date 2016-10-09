@@ -35,4 +35,4 @@ chrome53版 [百度网盘下载](http://pan.baidu.com/s/1bpMbynt ) 密码：jt1y
 
 
 
-有问题请发邮件到kebi2014@gmail.com ,反馈邮件请注明“PAC版”。
+有问题请发邮件到kebi2014@gmail.com ,反馈邮件请注明压缩包名称。
