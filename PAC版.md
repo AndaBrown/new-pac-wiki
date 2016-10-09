@@ -1,6 +1,8 @@
-**一键翻墙浏览器**
+**一键翻墙浏览器PAC版**
 
-2016年9月15日更新 压缩包名称ChromePac_v2016.9.15.7z 文件大小68.8M
+2016年9月15日更新 
+
+压缩包名称ChromePac_v2016.9.15.7z 文件大小68.8M
 
 [国外网盘下载](https://mega.nz/#!04wWFRwI!UHaWLZmMBSZjwJU8nBPjKglDBI7NOCtNRhGcarhSwQA)（打开下载页面后，选择右边的download）
 
@@ -18,7 +20,7 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac使用说明2.png)
 
-***2016年9月18日发布一款关于PAC的高版本谷歌浏览器便携版，有兴趣的可以下载，内核版本为chrome53。win7、win8、win10系统可用。xp系统不能用，可以用楼上的版本。
+***2016年9月18日发布一款关于PAC的高版本谷歌浏览器便携版，有兴趣的可以下载，内核版本为chrome53。win7、win8、win10系统可用。xp系统不能用，xp系统可以用楼上的版本。
 
 压缩包名称 Chrome53_Pac_v2016.9.17.7z ，文件大小68.4M
 
