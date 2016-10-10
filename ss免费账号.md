@@ -38,7 +38,7 @@ zh-cn.shenyun.com（文化艺术类）
 密码：12345678 
 加密方式：AES-256-CFB
 
-服务器:freehk.ypaper.win
+服务器：freehk.ypaper.win
 端口：15724 
 密码：g67hk1nT 
 加密方式：rc4-md5
