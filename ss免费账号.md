@@ -12,22 +12,6 @@ zh-cn.shenyun.com（文化艺术类）
 
 **===节点列表3===**（10月10日更新）
 
-服务器1: us2.f.ss.101node.com
-端口:8989
-密码:12345678
-加密方式:chacha20
-
-服务器2: us1.f.ss.101node.com
-端口:8989
-密码:12345678
-加密方式:chacha20
-
-服务器3: hk1.f.ss.101node.com
-端口:8989
-密码:12345678
-加密方式:chacha20
-
-
 服务器4: fighter.fuckgfwisverygood.tech
 端口:  6010
 密码 : tester43210#AbCd
@@ -44,11 +28,6 @@ zh-cn.shenyun.com（文化艺术类）
 加密方式：rc4-md5
 
 服务器7：ss.rainman.me
-端口：54082 
-密码：hVUme2kq9Rw3 
-加密方式：aes-256-cfb
-
-服务器8：ss.rainman.me
 端口：54082 
 密码：hVUme2kq9Rw3 
 加密方式：aes-256-cfb
