@@ -23,7 +23,7 @@
 [蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月6日更新）
 
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（9月15日更新PAC地址，18日增加一款53内核PAC版）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（10月11日更新）
 
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（9月16日更新，增加多款安卓版）
