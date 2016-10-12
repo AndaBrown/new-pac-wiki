@@ -40,5 +40,4 @@
 
 ***
 
-有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，发帖的好处是如果问题解答了，对有同样问题的人会有参考价值
-或者发邮件到kebi2014@gmail.com进行反馈，反馈邮件标题最好注明压缩包名称。
+有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到kebi2014@gmail.com进行反馈，反馈邮件标题最好注明压缩包名称。
