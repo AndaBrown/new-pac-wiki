@@ -5,6 +5,7 @@
 **第一步**;下载客户端安装包，然后安装。 
 
 **下载地址** 
+
 windows版：http://gfw.press/GFW.Press.msi （由于GFW.Press被屏蔽，所以需要翻墙才能下载）
 MAC版：http://gfw.press/gfw.press.zip  （由于GFW.Press被屏蔽，所以需要翻墙才能下载）
 
