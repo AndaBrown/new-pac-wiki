@@ -14,12 +14,12 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/大杀器1.png)
 
-一键翻墙浏览器大杀器版，压缩包名称Chrome53_gfwpress_v2016.10.12.7z ，文件大小158.9M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。
-
 **下载地址：**
+
+一键翻墙浏览器大杀器版，压缩包名称Chrome53_gfwpress_v2016.10.12.7z ，文件大小158.9M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。
 
 [国外网盘下载](https://mega.nz/#!E5BiDSRI!rycX6LSpkC3PQN2AVqGgxispxK3N0mcEZQOhnTxOG4c)（打开下载页面后，选择右边的download进行下载）
 
-[百度云网盘下载](http://pan.baidu.com/s/1c2sTxny) 密码：j7cg（第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了）
+百度云网盘下载（待定）
 
 [360云盘下载](https://yunpan.cn/cvxT66rkPCYvb ) 提取码：1b04
