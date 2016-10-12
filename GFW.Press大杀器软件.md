@@ -22,6 +22,6 @@
 
 [国外网盘下载](https://mega.nz/#!E5BiDSRI!rycX6LSpkC3PQN2AVqGgxispxK3N0mcEZQOhnTxOG4c)（打开下载页面后，选择右边的download进行下载）
 
-[百度云网盘下载]（http://pan.baidu.com/s/1pLk00Cb）提取密码:sryw
+[百度云网盘下载](http://pan.baidu.com/s/1pLk00Cb)提取密码:sryw
 
 [360云盘下载](https://yunpan.cn/cvxT66rkPCYvb ) 提取码：1b04
