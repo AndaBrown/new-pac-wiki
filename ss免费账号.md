@@ -67,10 +67,10 @@ zh-cn.shenyun.com（文化艺术类）
 密码：BSLRjq
 加密方式：aes-256-cfb
 
-服务器12：108.61.168.250
-端口：60221
-密码：BSLRjq
-加密方式：aes-256-cfb
+服务器12：47.90.86.104
+端口：8000
+密码：thepassword
+加密方式：rc4-md5  
 
 服务器13：freejp1.ypaper.win
 端口：24609
