@@ -1,4 +1,4 @@
-第一种方法（推荐）：利用shadowsocks软件翻墙上网，需要配合ss账号使用，[点我获取最新免费ss账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+利用shadowsocks软件翻墙上网，需要配合ss账号使用，[点我获取最新免费ss账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
 具体步骤：
 
@@ -20,13 +20,9 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC4.png)
 
-打开SAFARI或者CHROME开始上网吧
+打开SAFARI或者CHROME开始上网吧！
+
+如果翻墙后不知道玩什么，推荐几个网站：youtube.com(视频类） google.com(搜索类） dongtaiwang.com(新闻类）ntdtv.com(视频新闻类） epochtimes.com（新闻类） bannedbook.org（书籍类） zh-cn.shenyun.com（文化艺术类）
 
 
-第二种方法：蓝灯MAC版，虽然一个月只有800M的免费流量，之后会限速到20kb/s，看网页没问题，看视频够呛。
-
-[本地下载](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg)
-[备用下载](https://s3.amazonaws.com/lantern/lantern-installer-beta.dmg)
-
-第三种方法：苹果电脑可以装双系统，也就是再装一个windows系统，之后就可以愉快的用我分享的众多windows版的软件了。如果是自己安装的话，可以参考这个方法[地址](http://jingyan.baidu.com/article/a3aad71a8e7fc2b1fb00960d.html )  如果是图方便的话，直接拿到电脑店里面，让专业人员帮你搞定。
 
