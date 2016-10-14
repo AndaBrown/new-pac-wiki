@@ -32,7 +32,7 @@
 
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%EF%BC%89)（免翻墙）
 
-[苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91macOS%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
+[苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91macOS%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（10月14日更新）
 
 [平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
