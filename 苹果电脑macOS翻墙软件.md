@@ -2,7 +2,7 @@
 
 具体步骤：
 
-STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 [百度网盘dmg下载地址](http://pan.baidu.com/s/1jHYypIe)
+STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 [百度网盘dmg下载地址](http://pan.baidu.com/s/1jHYypIe)  [本地下载](http://gfw.tapasy.com/download/ShadowsocksX-2.6.3.dmg)
 
 STEP2，打开下载的DMG文件，将程序图标拖到右边的APPLICATIONS，安装完成
 
