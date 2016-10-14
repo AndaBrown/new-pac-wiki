@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-介绍：goagent版、goproxy版、pac版和蓝灯版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带AdBlock广告屏蔽插件、翻译插件和YouTube视频下载脚本，方便且实用。**压缩包文件的格式是7z，如果解压出错，下载[7z解压软件](https://sparanoid.com/lab/7z/)，用它来解压。**如果杀毒软件误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利。
+介绍：goagent版、goproxy版、pac版和蓝灯版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带AdBlock广告屏蔽插件、翻译插件和YouTube视频下载脚本，方便且实用。**压缩包文件的格式是7z，如果解压出错，下载[7z解压软件](https://sparanoid.com/lab/7z/)，用它来解压。**某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利。
 
 选择指南：**首选goagent版和goproxy版**，它们使用的是谷歌云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。PAC版使用的是互联网上的免费pac代理地址，该地址所对应的服务器抗压小，可能会不太稳定，而且目前优质的地址很少，所以PAC版或其它综合版中的PAC代理地址只能作为备选。
 
