@@ -1,4 +1,4 @@
-第一种方法（推荐）：利用shadowsocks软件翻墙上方，需要配合ss账号使用，[点我获取最新免费ss账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+第一种方法（推荐）：利用shadowsocks软件翻墙上网，需要配合ss账号使用，[点我获取最新免费ss账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
 具体步骤：
 
