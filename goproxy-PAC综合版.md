@@ -1,4 +1,4 @@
-goproxy简介：goproxy是原goagent作者开发又一款开源软件,算是goagent的加强版。
+goproxy简介：goproxy是原goagent作者开发又一款开源软件,算是goagent的加强版。但目前还不是特别成熟（正式版未出），有些网站不是很流畅。
 
 **最近更新内容：**
 
