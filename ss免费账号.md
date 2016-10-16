@@ -20,14 +20,14 @@
 密码：1234567890
 加密方式：rc4-md5  
 
-服务器5: fighter.fuckgfwisverygood.tech
-端口:  6010
-密码 : tester43210#AbCd
-加密方式: chacha20
+服务器5: 99.235.183.31
+端口:  443
+密码 : 12345678
+加密方式: aes-256-cfb
 
-服务器7：ss.rainman.me
-端口：54082 
-密码：hVUme2kq9Rw3 
+服务器7：cn2.ss.node.kim
+端口：6036
+密码：FREE@tizi.asia
 加密方式：aes-256-cfb
 
 服务器8：node-hk7.dotunnel.site
@@ -35,9 +35,9 @@
 密码：rcA8z1Vc 
 加密方式：RC4-MD5
 
-服务器10：seaof-153-125-238-205.jp-tokyo-23.arukascloud.io
-端口：31011
-密码：12345
+服务器10：hk.ss.node.kim
+端口：6036
+密码：FREE@tizi.asia
 加密方式：aes-256-cfb
 
 服务器11：108.61.168.250
@@ -61,10 +61,10 @@
 密码：wGBwHg
 加密方式：rc4-md5
 
-服务器16：64.137.231.209
-端口：443
-密码：443
-加密方式：aes-256-cfb
+服务器16：tw.tskla.com
+端口：8080
+密码：0
+加密方式：CHACHA20
 
 服务器17：freejp3.ypaper.win
 端口：1404
@@ -113,7 +113,7 @@
 密码：92142f
 加密方式：aes-256-cfb
 
-新增临时ss获取方法：[点我获取Tempss（临时ss账号）](http://tempss.com/#accounts) tempss简介：temp shadowsocks这里不定期更新一组免费、快速的ss账号。服务器根据连接压力自动更新密码（更新频率为6h和24h以上）,保证了你在这里看到的ss账号都是可用的。
+新增临时ss获取方法：[点我获取Tempss（临时ss账号）](http://tempss.com/#accounts) tempss简介：temp shadowsocks这里不定期更新一组免费、快速的ss账号。服务器根据连接压力自动更新密码（更新频率为6h和24h以上)。
 
 
 
