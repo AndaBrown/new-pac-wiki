@@ -42,6 +42,11 @@ zh-cn.shenyun.com（文化艺术类）
 密码：hVUme2kq9Rw3 
 加密方式：aes-256-cfb
 
+服务器8：node-hk7.dotunnel.site
+端口：41511 
+密码：rcA8z1Vc 
+加密方式：RC4-MD5
+
 服务器10：seaof-153-125-238-205.jp-tokyo-23.arukascloud.io
 端口：31011
 密码：12345
