@@ -3,7 +3,7 @@
 **免费ss账号（长期更新）**
 
 **翻墙后推荐网站：** google.com(谷歌；搜索类）dongtaiwang.com(动态网；新闻类） youtube.com(油管；视频类） ntdtv.com(新唐人；视频新闻娱乐类）   epochtimes.com（大纪元；新闻类）  bannedbook.org（禁书网；书籍类）  soundofhope.org（希望之声国际广播电台）
-zh-cn.shenyun.com（神韵；文化艺术类）
+    zh-cn.shenyun.com（神韵；文化艺术类）
 
 
 **请大家分开选择各节点，可以减轻各个节点的服务器压力，为的是能够长期使用。**同时请合理利用，尽量不要在高峰时段(20:00-24:00)看高清视频，很容易节点挂掉。如果是看youtube视频的话，为了节省服务器每月流量，480p以上的清晰度就不要选了。
