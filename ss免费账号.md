@@ -113,7 +113,7 @@
 密码：92142f
 加密方式：aes-256-cfb
 
-新增临时ss获取方法：[点我获取Tempss（临时ss账号）](http://tempss.com/#accounts) tempss实际指 temp shadowsocks这里不定期更新一组免费、快速的ss账号。服务器根据连接压力自动更新密码（更新频率为6h和24h以上）,保证了你在这里看到的ss账号都是可用的。
+新增临时ss获取方法：[点我获取Tempss（临时ss账号）](http://tempss.com/#accounts) tempss简介：temp shadowsocks这里不定期更新一组免费、快速的ss账号。服务器根据连接压力自动更新密码（更新频率为6h和24h以上）,保证了你在这里看到的ss账号都是可用的。
 
 
 
