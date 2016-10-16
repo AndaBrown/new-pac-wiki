@@ -2,7 +2,7 @@
 
 **免费ss账号（长期更新）**
 
-如果翻墙后不知道玩什么，推荐几个网站： google.com(谷歌；搜索类）dongtaiwang.com(动态网；新闻类） youtube.com(油管；视频类） ntdtv.com(新唐人；视频新闻类）
+**翻墙后推荐网站：** google.com(谷歌；搜索类）dongtaiwang.com(动态网；新闻类） youtube.com(油管；视频类） ntdtv.com(新唐人；视频新闻类）
 epochtimes.com（大纪元；新闻类）  bannedbook.org（禁书网；书籍类）  zh-cn.shenyun.com（神韵；文化艺术类）
 
 
