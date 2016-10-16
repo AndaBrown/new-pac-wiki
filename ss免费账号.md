@@ -17,20 +17,15 @@ zh-cn.shenyun.com（文化艺术类）
 密码 : rc4-md5
 加密方式: thepassword
 
-服务器2: 104.223.19.120
-端口:  8000
-密码 : rc4-md5
-加密方式: thepassword
+服务器2：f1.sser.cf
+端口：15743
+密码：whufo
+加密方式：RC4-MD5
 
-服务器3: 172.247.32.73
-端口:  8000
-密码 : rc4-md5
-加密方式: thepassword
-
-服务器4: 103.72.5.8
-端口:  8000
-密码 : rc4-md5
-加密方式: thepassword
+服务器3：47.90.86.104
+端口：10000
+密码：thepassword
+加密方式：rc4-md5  
 
 服务器5: fighter.fuckgfwisverygood.tech
 端口:  6010
@@ -57,10 +52,6 @@ zh-cn.shenyun.com（文化艺术类）
 密码：BSLRjq
 加密方式：aes-256-cfb
 
-服务器12：47.90.86.104
-端口：8000
-密码：thepassword
-加密方式：rc4-md5  
 
 服务器13：freejp1.ypaper.win
 端口：24609
@@ -123,18 +114,14 @@ zh-cn.shenyun.com（文化艺术类）
 密码：92142f
 加密方式：aes-256-cfb
 
-服务器25：f1.sser.cf
-端口：12850
-密码：whufo
-加密方式：RC4-MD5
 
-服务器26：em.gface.pub
+服务器25：em.gface.pub
 端口：9057
 密码：f88ad9
 加密方式：aes-256-cfb
 
 
-服务器27：sz.goof.pub
+服务器26：sz.goof.pub
 端口：10129
 密码：e4bea6
 加密方式：aes-256-cfb
