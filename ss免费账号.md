@@ -16,8 +16,8 @@
 加密方式：RC4-MD5
 
 服务器3：47.90.86.104
-端口：10000
-密码：thepassword
+端口：8000
+密码：1234567890
 加密方式：rc4-md5  
 
 服务器5: fighter.fuckgfwisverygood.tech
