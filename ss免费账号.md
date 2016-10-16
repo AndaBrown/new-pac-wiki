@@ -2,10 +2,8 @@
 
 **免费ss账号（长期更新）**
 
-如果翻墙后不知道玩什么，推荐几个网站：youtube.com(视频类）  google.com(搜索类）  dongtaiwang.com(新闻类）ntdtv.com(视频新闻类）
-epochtimes.com（新闻类）
-bannedbook.org（书籍类）
-zh-cn.shenyun.com（文化艺术类）
+如果翻墙后不知道玩什么，推荐几个网站： google.com(搜索类）dongtaiwang.com(新闻类） youtube.com(视频类） ntdtv.com(视频新闻类）
+epochtimes.com（新闻类）  bannedbook.org（书籍类）  zh-cn.shenyun.com（文化艺术类）
 
 
 **请大家分开选择各节点，可以减轻各个节点的服务器压力，为的是能够长期使用。**同时请合理利用，尽量不要在高峰时段(20:00-24:00)看高清视频，很容易节点挂掉。为了节省服务器每月流量，看视频的话480p以上的清晰度就不要选了。
