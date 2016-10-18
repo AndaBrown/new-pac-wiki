@@ -10,7 +10,7 @@
 
 **===节点列表1===**（10月18日更新）
 
-服务器1：node-gg2.dotunnel.site
+服务器1：node-hk2.dotunnel.site
 端口：41511 
 密码：rcA8z1Vc
 加密方式：rc4-md5  
