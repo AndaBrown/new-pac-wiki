@@ -22,8 +22,9 @@
 
 [蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月6日更新）
 
-
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（10月12日更新）
+
+[火狐浏览器（GoAgent和Lantern版](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（10月18日）
 
 [苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91macOS%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（10月14日更新）
 
