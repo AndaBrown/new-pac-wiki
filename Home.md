@@ -16,7 +16,7 @@
 **PS：如果你觉得软件好用，可以分享给你的朋友。**
 
 
-[goagent PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goagent-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月1日更新,按照使用说明自动更新一下ip就能同步）
+[GoAgent PAC综合版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月1日更新,按照使用说明自动更新一下ip就能同步）
 
 [goproxy PAC综合版](https://github.com/Alvin9999/new-pac/wiki/goproxy-PAC%E7%BB%BC%E5%90%88%E7%89%88)（9月24日更新）
 
