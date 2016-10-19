@@ -92,7 +92,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/dotunel.png)
 
 
- [DoTunnel注册地址](https://www.dotunnel001.com/auth/register?ref_by=13855)（10元/月，不限流量）该网站提供的ss账号，亲测过速度不错，细心的人可能会发现我曾经短暂分享过几个与dotunnel有关的账号，但由于人数使用太多（节点短期内挂掉），从ss节点质量看，很不错。
+ [DoTunnel注册地址](https://www.dotunnel001.com/auth/register?ref_by=13855)（10元/月，不限流量）该网站提供的ss账号，亲测过速度不错，细心的人可能会发现我曾经短暂分享过几个与dotunnel有关的账号，但由于人数使用太多，节点短期内挂掉。从ss节点质量看，确实不错。
 
 
 
