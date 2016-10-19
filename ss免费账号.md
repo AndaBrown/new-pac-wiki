@@ -110,7 +110,9 @@
 
 服务器7：64.137.233.48 端口：49230  密码: dou-bi.co49230 加密方式：chacha20
 
-付费ss网站推荐：[牛叉网络加速](https://portal.niuxss.cn/cart.php) （最低11元/月）
+**===付费ss网站推荐===**
+
+[牛叉网络加速](https://portal.niuxss.cn/cart.php) （最低11元/月）
  [DoTunnel](https://www.dotunnel001.com/cart)（10元/月）
 [倚天剑](https://www.ashadowsocks.com/)（4元左右/月）
 
