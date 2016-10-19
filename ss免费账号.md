@@ -26,10 +26,6 @@
 密码：FREE@tizi.asia
 加密方式：aes-256-cfb
 
-服务器8：node-hk7.dotunnel.site
-端口：41511 
-密码：rcA8z1Vc 
-加密方式：RC4-MD5
 
 服务器10：hk.ss.node.kim
 端口：6036
