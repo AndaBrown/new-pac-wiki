@@ -88,10 +88,11 @@
 服务器7：64.137.233.48 端口：49230  密码: dou-bi.co49230 加密方式：chacha20
 
 **===付费ss网站推荐===**
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/dotunel.png)
 
 
- [DoTunnel](https://www.dotunnel001.com/auth/register?ref_by=13855)（10元/月，不限流量）该网站提供的ss账号，亲测过速度不错，细心的人可能会发现我曾经短暂分享过几个与dotunnel有关的账号，但由于人数使用太多（节点短期内挂掉），今天上午已经取消并更改了密码，所以从ss节点质量看，很不错。
+ [DoTunnel注册地址](https://www.dotunnel001.com/auth/register?ref_by=13855)（10元/月，不限流量）该网站提供的ss账号，亲测过速度不错，细心的人可能会发现我曾经短暂分享过几个与dotunnel有关的账号，但由于人数使用太多（节点短期内挂掉），今天上午已经取消并更改了密码，所以从ss节点质量看，很不错。
 
 
 
