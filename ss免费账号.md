@@ -89,9 +89,9 @@
 
 **===付费ss网站推荐===**
 
-[牛叉网络加速](https://portal.niuxss.cn/cart.php) （最低11元/月）
  [DoTunnel](https://www.dotunnel001.com/cart)（10元/月）
-[倚天剑](https://www.ashadowsocks.com/)（4元左右/月）
+
+
 
 
 ***
