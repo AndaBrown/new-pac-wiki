@@ -14,7 +14,6 @@ goproxy简介：goproxy是原goagent作者开发又一款开源软件,算是goag
 
 [百度云网盘下载](http://pan.baidu.com/s/1qYxUTAG) （密码：ddwf）(第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了)
 
-[360云盘下载](https://yunpan.cn/ckWYkW5T5IWqX) （提取码：894d）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
