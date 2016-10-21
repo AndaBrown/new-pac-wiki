@@ -15,8 +15,6 @@
 
 **PS：如果你觉得软件好用，可以分享给你的朋友。**
 
-通知：360云盘快倒闭了，所以取消了所有软件的360云盘下载地址。新疆用户没法用百度云，暂时请用国外网盘下载，如果不翻墙打开下载地址的话，速度较慢，多等一下会刷出来的。近期会增加新的网盘下载。
-
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月21日更新）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月21日更新）
