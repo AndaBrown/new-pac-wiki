@@ -18,7 +18,7 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。
 
 [MEGA网盘下载](https://mega.nz/#!toACkLbJ!u01spK1HgHmOfpgN3yiob5l0D-PAbBFGAuiI77ChE_Y)
 
-[百度云网盘下载](http://pan.baidu.com/s/1c1JdaNI) （密码：uauc）(第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了)
+[百度云网盘下载](http://pan.baidu.com/s/1mi4jQti) （密码：jirz）(第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了)
 
 
 
