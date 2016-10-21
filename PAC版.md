@@ -1,4 +1,4 @@
-**一键翻墙浏览器PAC版** 2016年10月12日更新 
+2016年10月12日更新 
 
 **10月12日增加PAC版内核升级方法（xp和win7及以上系统都行），不升级也能用。**
 
@@ -7,6 +7,8 @@
 压缩包名称Chrome53_Pac_v2016.10.12.7z 文件大小158.1M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。
 
 **下载地址:**
+
+[pCloud云盘下载](https://my.pcloud.com/publink/show?code=XZ4hN9ZPOEFErbddfpYndRunlLzKbcCcDgX)
 
 [国外网盘下载](https://mega.nz/#!c9QCCRRK!XNf38ouuamDzS_RXD8di0f27EbwfA0P0TazSZmCIR2o)（打开下载页面后，选择右边的download）
 
