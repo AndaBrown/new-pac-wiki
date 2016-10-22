@@ -17,7 +17,7 @@
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（10月21日更新）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（10月21日更新）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（10月21日更新版本，10月22日云端更新GoProxy ip）
 
 [蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月6日更新）
 
