@@ -21,8 +21,6 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac新版1.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac新版2.png)
-
 
 
 有问题请发邮件到kebi2014@gmail.com ,反馈邮件请注明压缩包名称。
