@@ -72,6 +72,16 @@
 密码: namahoDXW
 加密方式：aes-256-cfb
 
+服务器32：cn2.ss.node.kim
+端口：6036
+密码: FREE@tizi.asia
+加密方式：rc4-md5
+
+服务器33：hk.ss.node.kim
+端口：6036
+密码: FREE@tizi.asia
+加密方式：rc4-md5
+
 
 **===节点列表2===**（10月26日更新， 3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
