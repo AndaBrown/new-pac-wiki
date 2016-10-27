@@ -31,7 +31,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 ***
 **火狐蓝灯版**
 
-2016年10月18日，压缩包名称Firefox_LT_2016.10.18.7z ，文件大小62.0M。ps：蓝灯为收费前的版本。
+2016年10月18日，压缩包名称Firefox_LT_2016.10.18.7z ，文件大小62.0M。
 
 **下载地址：**
 
