@@ -6,6 +6,8 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **火狐GoAgent版（首选）**
 
+火狐浏览器GoAgent版和谷歌浏览器GoAgent版的所用云端配置一样，所以更新ip方法和内容也是一样的。2016年10月27日云端更新ip，如果感觉速度一般可以按照说明更新一下ip。
+
 2016年10月18日，压缩包名称Firefox_goa_2016.10.18.7z ，文件大小64.7M。
 
 **下载地址：**
