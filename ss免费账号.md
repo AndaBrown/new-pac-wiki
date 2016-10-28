@@ -129,7 +129,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/dotunel.png)
 
 
- [DoTunnel注册地址](https://www.dotunnel001.com/auth/register?ref_by=13855)（10元/月，不限流量）该网站提供的ss账号，节点较多且速度不错。注册帐号后有512M的体验流量，可以自己测试好后再考虑是否购买会员。
+ [DoTunnel注册地址](https://www.dotunnel002.com/auth/register?ref_by=13855)（10元/月，不限流量）该网站提供的ss账号，节点较多且速度不错。注册帐号后有512M的体验流量，可以自己测试好后再考虑是否购买会员。
 
 
 
