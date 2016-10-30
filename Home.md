@@ -15,7 +15,7 @@
 
 **PS：如果你觉得软件好用，可以分享给你的朋友使用，没有问题。**
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（10月21日更新版本，10月27日云端更新GoAgent ip）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（10月30日更新）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（10月21日更新版本，10月27日云端更新GoProxy ip）
 
