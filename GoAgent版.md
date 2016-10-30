@@ -12,7 +12,7 @@
 
 **下载地址：**
 
-[MEGA网盘下载](https://mega.nz/#!I5o1gZxb!-3Zlg1gI5yr0rAtlpO_LmT0_f3Rh_pYiotrBIlAH4sQ)（不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!9wZjkCIZ!Ea6lNKhSqAVkfs1D593y3C6Nkli9LOCvAKbjf-maKRk)（不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
 [百度云网盘下载](http://pan.baidu.com/s/1cEEelw) 密码：4cb5（第一次打开时如果出现提示百度云升级，链接不存在等，刷新一下）
 
