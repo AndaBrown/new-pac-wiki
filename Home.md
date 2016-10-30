@@ -21,7 +21,7 @@
 
 [蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月6日更新）
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（10月23日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（10月30日更新）
 
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（10月18日）
 
