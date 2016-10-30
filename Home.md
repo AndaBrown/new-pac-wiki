@@ -11,7 +11,7 @@
 
 介绍：GoAgent版、GoProxy版和Lantern版、pac版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。**压缩包文件的格式是7z，如果解压出错，下载[7z解压软件](https://sparanoid.com/lab/7z/)，用它来解压。**某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
 
-选择指南：**首选GoAgent版和GoProxy版**，它们使用的是谷歌云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。每天的[美国加州时间](http://zh.thetimenow.com/united_states/california/san_francisco)24点（一般为北京时间15点），谷歌服务器会重置，也就是15点之后流量又是全新的；蓝灯程序为收费前版本；PAC版使用的是互联网上的免费pac代理地址，服务器抗压小，可能会不太稳定，所以只能作为备选。
+选择指南：**首选GoAgent版和GoProxy版**，它们使用的是谷歌云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。每天的[美国加州时间](http://zh.thetimenow.com/united_states/california/san_francisco)24点（一般为北京时间15点），谷歌服务器会重置，也就是15点之后流量又是全新的；蓝灯程序为官方收费前版本；PAC版使用的是互联网上的免费pac代理地址，服务器抗压小，可能会不太稳定，所以只能作为备选。
 
 **PS：如果你觉得软件好用，可以分享给你的朋友使用，没有问题。**
 
@@ -19,7 +19,7 @@
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（10月30日更新）
 
-[蓝灯PAC综合版](https://github.com/Alvin9999/new-pac/wiki/%E8%93%9D%E7%81%AF-PAC%E7%BB%BC%E5%90%88%E7%89%88)（10月6日更新）
+[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（10月30日更新）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（10月30日更新）
 
