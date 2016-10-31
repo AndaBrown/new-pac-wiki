@@ -37,8 +37,6 @@
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%EF%BC%89)（免翻墙）
 
 
-[通过设置DNS解决部分用户无法翻墙的方法](https://github.com/Alvin9999/new-pac/wiki/%E9%80%9A%E8%BF%87%E8%AE%BE%E7%BD%AEDNS%E8%A7%A3%E5%86%B3%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E6%97%A0%E6%B3%95%E7%BF%BB%E5%A2%99%E7%9A%84%E6%96%B9%E6%B3%95)   
-
 [网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86)
 
 ***
