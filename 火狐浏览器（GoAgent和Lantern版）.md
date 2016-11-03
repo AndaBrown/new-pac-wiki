@@ -39,7 +39,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 [MEGA网盘下载](https://mega.nz/#!JpxnhZyb!wanmoyCuxWJNdlkSGsUlGJ7lCDqcSfwjCcF5BkD-Ox4)（打开下载页面后，选择右边的download进行下载）
 
-[百度云网盘下载](http://pan.baidu.com/s/1jH6FwGI) 密码：4cpz（第一次打开时可能会提示百度云升级，链接不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1jH6FwGI) 密码：qxr5（第一次打开时可能会提示百度云升级，链接不存在等，刷新一下）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
