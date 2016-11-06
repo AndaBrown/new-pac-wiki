@@ -31,6 +31,9 @@ DNSPOD DNS （首选）       119.29.29.29
 
 **Windows 点击左下角开始键，运行 cmd ,在命令提示符运行命令 ipconfig /flushdns**
 
+Android、iOS 打开飞行模式 在关闭 重复3次，在重启设备
+
+Linux 在【终端】运行命令 /etc/rc.d/init.d/nscd restart
 
 OSX10.7 ~ 10.8 在【应用程序】-【实用工具】-【终端】运行命令 sudo killall -HUP mDNSResponder
 
@@ -39,6 +42,4 @@ OS X 10.9～OS X 10.10.4+ 在【应用程序】-【实用工具】-【终端】�
 OSX10.10 在【应用程序】-【实用工具】-【终端】运行命令 sudo discoveryutil udnsflushcaches
 
 
-Linux 在【终端】运行命令 /etc/rc.d/init.d/nscd restart
 
-Android、iOS 打开飞行模式 在关闭 重复3次，在重启设备
