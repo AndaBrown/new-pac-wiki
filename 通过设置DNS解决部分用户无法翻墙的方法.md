@@ -1,4 +1,4 @@
-如果你排除了杀毒软件和防火墙的干扰，那么你可以通过手动设置DNS的方法来尝试着解决。例如：在PAC代理地址没有失效的前提下，上海电信使用PAC版无效，一个PAC地址都没法使用。（但可以使用GoAgent、GoProxy、Lantern版）
+如果你排除了杀毒软件和防火墙的干扰，那么你可以通过手动设置DNS的方法来尝试着解决。
 
 DNS设置教程：
 
@@ -39,6 +39,6 @@ OS X 10.9～OS X 10.10.4+ 在【应用程序】-【实用工具】-【终端】�
 OSX10.10 在【应用程序】-【实用工具】-【终端】运行命令 sudo discoveryutil udnsflushcaches
 
 
-Linux 在［终端］运行命令 /etc/rc.d/init.d/nscd restart
+Linux 在【终端】运行命令 /etc/rc.d/init.d/nscd restart
 
 Android、iOS 打开飞行模式 在关闭 重复3次，在重启设备
