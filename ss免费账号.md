@@ -15,7 +15,7 @@
 加密方式：aes-256-cfb
 
 
-服务器2：76.74.177.86
+服务器2：f1.sser.cf
 端口：10000~20000(随机选一个）
 密码：whufo
 加密方式：RC4-MD5
@@ -154,6 +154,11 @@
 服务器10：153.125.239.177  端口：31549  密码：guowenxxl  加密方式：aes-256-cfb
 
 服务器11：153.125.239.178  端口：31475  密码：guowenxxl2  加密方式：aes-256-cfb
+
+服务器12：us.namaho.com  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
+
+服务器13：jp.namaho.com  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
+
 
 
 
