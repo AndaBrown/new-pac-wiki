@@ -36,6 +36,8 @@
 
 [平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
+[Linux---ubuntu-系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux---ubuntu-%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
+
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8)
 
 
