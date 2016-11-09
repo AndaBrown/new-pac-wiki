@@ -2,6 +2,11 @@ ubuntu 安装 shadowsocks，配后shadowsocks账号就能翻墙，[点我获取�
 
 **第一种方法：**
 
+ubuntu 安装 shadowsocks
+
+***
+
+
 用 PIP 安装很简单，
 
 ***
