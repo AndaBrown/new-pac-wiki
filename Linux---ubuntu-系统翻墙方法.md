@@ -1,4 +1,4 @@
-ubuntu 安装 shadowsocks，配后shadowsocks账号就能翻墙，[点我获取最新ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+ubuntu 安装 shadowsocks，配合shadowsocks账号就能翻墙，[点我获取最新ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
 **第一种方法：**
 
