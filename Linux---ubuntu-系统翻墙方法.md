@@ -209,3 +209,5 @@ sudo cp /usr/bin/SSlocal /bin (注意空格)
 sudo gedit /etc/rc.local
 
 在这个配置文件的 exit 0 前面一行加上 service supervisor start 保存。看你是否配置成功你可以在现在关机重启之后直接打开浏览器看是否代理成功。
+
+ps：我对linus系统不懂，这是网上找来的教程，如果有什么问题，可以自己百度搜索一下。
