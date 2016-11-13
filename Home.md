@@ -21,9 +21,9 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月13日更新）
 
-[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（11月13日更新）
+[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（10月30日更新）
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（10月30日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（11月13日更新）
 
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（10月18日）
 
