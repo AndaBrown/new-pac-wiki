@@ -17,6 +17,8 @@
 
 不同的网络类型，翻墙速度会有差别。目前大家公认的是移动网络翻墙速度最快，电信最差，当然也有例外。所以，如果你是电信用户，翻墙速度犹如蜗牛，那么你可以考虑换宽带了，移动为首选。——节选自《实用网络小知识》
 
+通知：近期会出一个教你自己制作PAC地址的教程。
+
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（11月5日更新）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月5日更新）
@@ -42,6 +44,7 @@
 
 
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86)
+
 
 ***
 
