@@ -15,8 +15,6 @@
 
 PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
-通知：近期会出一个自己搭建PAC服务器的教程。
-
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（11月13日更新）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月13日更新）
@@ -40,6 +38,7 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8)
 
+[自己搭建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86)
 
