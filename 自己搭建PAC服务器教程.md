@@ -1,0 +1,202 @@
+教程很简单，整个教程分四步：
+
+第一步：购买VPS服务器
+
+第二步：部署VPS服务器
+
+第三步：一键加速VPS服务器 （对速度要求不高的话，此步骤可省略）
+
+第四步：实测
+
+
+***
+**第一步：购买VPS服务器**
+
+VPS服务器需要选择国外的，目前[Vultr](https://www.vultr.com/)和国际阿里云提供的VPS服务器速度很不错。因为购买国外VPS服务器一般都需要信用卡且购买网站都是英文的，为了方便，可以自己去淘宝网上购买，这样很省心，价格稍微比官网上贵点。淘宝上关键词搜索为“vultr服务器”和”国际阿里云”，需要说一下，国际阿里云从明年1月31日后开始采取和国内阿里云一样的收费模式，到时候应该会很贵，现在很便宜，想体验的可以入手。购买VPS服务器最好采取月付的形式。如果是个人使用的话，服务器配置选最低的就足够了，每个月1T～2T流量，按照每天算下来是30G~60G流量，根本用不完。
+
+购买VPS服务器后，你需要告诉老板你买的VPS服务器地址在哪里，vultr选择日本服务器，国际阿里云可以选择香港等亚洲的服务器。然后VPS服务器需要安装**CentOS 6.7 x64系统**，如果老板告诉你没有，那么你就选择CentOS 6.X的系统（不要选择7以上的系统）。之后老板会给你**服务器ip和系统的密码**，保存好，部署服务器时需要用到。同时会给你控制面板网址，这个是方便自己平时管理服务器和查看服务器状态的。
+
+***
+**第二步：部署VPS服务器**
+
+购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫Xshell的软件来远程部署。Xshell下载地址：
+
+MEGA网盘：https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5uDy0 （翻墙打开此下载地址会更快）
+
+百度软件中心：http://rj.baidu.com/soft/detail/15201.html?ald
+
+***
+
+部署教程：
+
+下载xshell软件并安装后，打开软件
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
+
+选择文件，新建
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell12.png)
+
+随便取个名字，然后把你的服务器ip填上
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
+
+连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名linus系统默认都是root，密码是老板给你的系统密码
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell15.png)
+
+链接成功后，会出现如上图所示，之后就可以输入代码部署成PAC了。
+
+代码如下：
+
+————————————————————————————-——————————————代码分割线————————————————————————————————————
+
+setenforce 0
+
+ulimit -n 800000
+
+echo "* soft nofile 800000" >> /etc/security/limits.conf
+
+echo "* hard nofile 800000" >> /etc/security/limits.conf
+
+echo "alias net-pf-10 off" >> /etc/modprobe.d/dist.conf
+
+echo "alias ipv6 off" >> /etc/modprobe.d/dist.conf
+
+killall sendmail
+
+/etc/init.d/postfix stop
+
+chkconfig --level 2345 postfix off
+
+chkconfig --level 2345 sendmail off
+
+yum -y install squid wget
+
+wget http://github.itzmx.com/1265578519/PAC/master/squid/centos-squid.conf -O /etc/squid/squid.conf
+
+echo "root:W10fM8VWO04aM" >> /etc/squid/passwd
+
+mkdir -p /var/cache/squid
+
+chmod -R 777 /var/cache/squid
+
+squid -z
+
+service squid restart
+
+chkconfig --level 2345 squid on
+
+iptables -t nat -F
+
+iptables -t nat -X
+
+iptables -t nat -P PREROUTING ACCEPT
+
+iptables -t nat -P POSTROUTING ACCEPT
+
+iptables -t nat -P OUTPUT ACCEPT
+
+iptables -t mangle -F
+
+iptables -t mangle -X
+
+iptables -t mangle -P PREROUTING ACCEPT
+
+iptables -t mangle -P INPUT ACCEPT
+
+iptables -t mangle -P FORWARD ACCEPT
+
+iptables -t mangle -P OUTPUT ACCEPT
+
+iptables -t mangle -P POSTROUTING ACCEPT
+
+iptables -F
+
+iptables -X
+
+iptables -P FORWARD ACCEPT
+
+iptables -P INPUT ACCEPT
+
+iptables -P OUTPUT ACCEPT
+
+iptables -t raw -F
+
+iptables -t raw -X
+
+iptables -t raw -P PREROUTING ACCEPT
+
+iptables -t raw -P OUTPUT ACCEPT
+
+service iptables save
+
+————————————————————————————-——————————————代码分割线————————————————————————————————————
+
+将上面整个代码复制下来，鼠标右键即可。然后粘贴到到shell软件的命令栏里，之后就自动开始部署了。部署成功标志如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell16.png)
+
+注意上图两个带箭头的标志。
+
+之后可以重启服务器确保部署生效，有时候不用重启也行。可以在命令栏里输入reboot 或者根据之前老板给你的控制面板网址上去重启服务器。该代码默认PAC验证用户名为：root  密码为：pac.itzmx.com
+
+***
+
+**第三步：一键加速VPS服务器 **
+
+按照第二步的步骤，重新连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+卸载一键加速代码命令为：
+
+chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+这是锐速破解版方法，该方法是开机自动启动，不用每次都部署。但有些内核是不适合的，需要亲测，当部署时出现以下字样：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速2.PNG)
+
+提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
+
+锐速安装成功标志如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速3.png)
+
+出现running字样即可
+
+***
+
+**第四步：实测 **
+
+以我分享的谷歌浏览器PAC版为例：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/001.png)
+
+依次打开浏览器地址栏右边的代理扩展按钮，打开选项
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/002.png)
+
+先选择右边的新建情景模式，然后再弹出的对话框中，输入名称（随便取），情景模式类型为第一个的代理服务器。然后点击创建
+
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/004.png)
+
+代理协议为http ，服务器填你的vps服务器ip，代理端口选择25 。最后点击右侧绿色的应用选项使设置生效。
+
+然后你选中你的PAC地址，试试能不能翻出去以及翻墙速度如何就可以了。整个教程，第二步很关键，通常第二步完成后，在加速前就可以先实测一下是否部署成功。
+
+
+***
+ps：如果你学会了此教程，且经济条件不错，如果你愿意帮助更多的人，可以用你的闲置资金适当购买服务器来捐助，可以部署好了给我ip地址，我直接加在PAC版的云端里。如果有很多人来捐助服务器，相信PAC版体验度会越来越好。
+
+
+
+
+有问题请发邮件到kebi2014@gmail.com 
+
+
+
+
