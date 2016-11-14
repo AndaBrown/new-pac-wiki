@@ -145,7 +145,7 @@ service iptables save
 
 ***
 
-**第三步：一键加速VPS服务器 **
+**第三步：一键加速VPS服务器**
 
 按照第二步的步骤，重新连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
 
@@ -169,7 +169,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
-**第四步：实测 **
+**第四步：实测**
 
 以我分享的谷歌浏览器PAC版为例：
 
