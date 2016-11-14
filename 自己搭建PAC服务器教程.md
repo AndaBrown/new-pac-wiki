@@ -182,9 +182,9 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 先选择右边的新建情景模式，然后再弹出的对话框中，输入名称（随便取），情景模式类型为第一个的代理服务器。然后点击创建
 
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/004.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/005.png)
 
-代理协议为http ，服务器填你的vps服务器ip，代理端口选择25 。最后点击右侧绿色的应用选项使设置生效。
+代理协议为http ，服务器填你的vps服务器ip，代理端口选择25 。然后输入用户名和密码。最后点击右侧绿色的应用选项使设置生效。
 
 然后你选中你的PAC地址，试试能不能翻出去以及翻墙速度如何就可以了。整个教程，第二步很关键，通常第二步完成后，在加速前就可以先实测一下是否部署成功。
 
