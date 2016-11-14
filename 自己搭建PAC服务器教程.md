@@ -141,7 +141,11 @@ service iptables save
 
 注意上图两个带箭头的标志。
 
-之后可以重启服务器确保部署生效，有时候不用重启也行。可以在命令栏里输入reboot 或者根据之前老板给你的控制面板网址上去重启服务器。该代码默认PAC验证用户名为：root  密码为：pac.itzmx.com
+之后可以重启服务器确保部署生效，有时候不用重启也行。可以在命令栏里输入reboot 或者根据之前老板给你的控制面板网址上去重启服务器。
+
+注：上述指令中的这个指令 echo "root:W10fM8VWO04aM" >> /etc/squid/passwd 是将PAC代理的验证账号设定为默认帐号：root 密码：pac.itzmx.com。想设定其他账号的话可以用http://tool.oschina.net/htpasswd这个在线的htppasswd生成工具，加密算法选Crypt（All Unix Servers），如下图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/006.png)
 
 ***
 
