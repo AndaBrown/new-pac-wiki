@@ -26,12 +26,6 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/PAC111.png)
 
-温馨提醒：**PAC（备用）暂时解除了对YouTube视频的限制，原因是本月流量富裕很多。**
-
-请珍惜PAC1-PAC5，这些代理地址每个月是有流量限制的。所以，如果没有视频清晰度强迫症的话，YouTube清晰度最好不要超过720P以上。
-
-
-
 
 
 有问题请发邮件到kebi2014@gmail.com ,反馈邮件请注明压缩包名称。
