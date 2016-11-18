@@ -17,9 +17,9 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 温馨提醒：GoAgent版和GoProxy版只要不是涉及到版本的更新，通常不需要再下载新版，只要按照使用说明（必看）运行一下ip更新文件就能同步到最新配置，比如流量的增加、ip的更新。争取做到每周更新一次ip，以保证各个地区都能正常翻出去。如果你此时的ip用的不错，可以不用更新。
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（11月13日更新）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（11月18日更新）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月16日更新）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月18日更新）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（11月13日更新）
 
