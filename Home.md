@@ -11,7 +11,7 @@
 
 介绍：GoAgent版、GoProxy版和Lantern版、PAC版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。**压缩包文件的格式是7z，如果解压出错，下载[7z解压软件](https://sparanoid.com/lab/7z/)，用它来解压。**某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
 
-选择指南：**首选GoAgent版和GoProxy版**，它们使用的是谷歌云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。Lantern版和PAC版适合作为备选：Lantern程序为官方收费前版本，不限流量；PAC版使用的是pac代理地址，有多个，可以切换使用，但单个地址使用人数不宜过多。
+选择指南：**首选GoAgent版和GoProxy版**，它们使用的是谷歌云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。Lantern版和PAC版适合作为备选：Lantern程序为官方收费前版本，不限流量；PAC版使用的是pac代理地址，有多个，可以切换使用，单个地址使用人数不宜过多。
 
 温馨提醒：GoAgent版和GoProxy版只要不是涉及到版本的更新，通常不需要再下载新版，只要按照使用说明（必看）运行一下ip更新文件就能同步到最新配置，比如流量的增加、ip的更新。争取做到每周更新一次ip，以保证各个地区都能正常翻出去。如果你此时的ip用的不错，可以不用更新。
 
@@ -23,7 +23,7 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月18日更新）
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（11月13日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（11月19日更新）
 
 [Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（10月30日更新）
 
