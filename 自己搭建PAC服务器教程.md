@@ -188,7 +188,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/005.png)
 
-代理协议为http ，服务器填你的vps服务器ip，代理端口选择25 。然后输入用户名和密码。最后点击右侧绿色的应用选项使设置生效。
+代理协议为http ，服务器填你的vps服务器ip，代理端口选择25 。然后输入用户名和密码。最后点击右侧绿色的应用选项使设置生效。这样设置的话，就是全局代理了，即所有的网站都通过国外代理。如果你想弄成自动pac地址，即国内不走代理。可以参考此教程：http://www.ishouyou.cn/news/jiaocheng/1608.html
 
 然后你选中你的PAC地址，试试能不能翻出去以及翻墙速度如何就可以了。整个教程，第二步很关键，通常第二步完成后，在加速前就可以先实测一下是否部署成功。
 
