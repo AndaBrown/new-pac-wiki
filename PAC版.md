@@ -11,13 +11,13 @@
 > 10月12日增加PAC版内核升级方法（xp和win7及以上系统都行），不升级也能用。
 
 
-压缩包名称Chrome53_Pac_v2016.11.13.7z 文件大小162.0M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。如果需要网页翻译功能，需要升级内核。
+压缩包名称Chrome53_Pac_v2016.11.19.7z 文件大小162.0M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。如果需要网页翻译功能，需要升级内核。
 
 **下载地址:**
 
-[MEGA网盘下载](https://mega.nz/#!l5B3mCZC!mUAS4ZFDvS7X7pT0M5xLyW6iWzE_Fukgo9XR-QCW9YI)（不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!wpwxwBCQ!uq4cmjhPO4tPC1cDWXqMFPwSrzMiRtxzy1fwFjpsz9U)（不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
-[百度云网盘下载](http://pan.baidu.com/s/1mhRBwjY) 密码:ymw7（第一次打开时如果出现提示百度云升级，链接不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1gePecUn) 密码:k61c（第一次打开时如果出现提示百度云升级，链接不存在等，刷新一下）
 
 
 使用方法：下载后解压，按使用说明（必看）操作即可。
