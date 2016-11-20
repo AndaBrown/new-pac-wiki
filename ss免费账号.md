@@ -5,7 +5,7 @@
 **翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
 
-请大家分开选择各节点，可以减轻各个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT/PT下载。
+请大家分开选择各节点，可以减轻各个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT下载。
 
 **===节点列表1===**（11月20日更新）
 
