@@ -19,9 +19,9 @@
 PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（11月18日更新）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年11月22日更新ip，本次ip对电信网络环境的适应性增强，尤其是晚上。旧版用户按照使用说明运行一下ip更新文件即可同步）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（11月18日更新）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年11月22日更新ip，本次ip对电信网络环境的适应性增强，尤其是晚上。旧版用户按照使用说明运行一下ip更新文件即可同步）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（11月19日更新）
 
