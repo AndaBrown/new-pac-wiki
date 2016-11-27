@@ -51,9 +51,9 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 真心希望每位善良的人都能够明白真相，拥有一个美好的未来。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.JPG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
 
 
 ***
