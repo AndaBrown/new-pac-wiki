@@ -19,7 +19,7 @@
 PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年11月28日更新ip。旧版用户按照使用说明运行一下ip更新文件即可同步云端）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年12月1日更新ip,试图解决部分网站的登录问题，期待大家的反馈。旧版用户按照使用说明运行一下ip更新文件即可同步云端）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年11月28日更新GoProxy版本，同时更新ip）
 
