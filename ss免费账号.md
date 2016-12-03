@@ -14,7 +14,7 @@
 密码：whufo
 加密方式：RC4-MD5
 
-服务器2：cn2.yuweining.cn
+服务器2：172.247.34.104
 端口：6666
 密码：leifeng
 加密方式：CHACHA20
