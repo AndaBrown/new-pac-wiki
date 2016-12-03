@@ -29,6 +29,9 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（10月18日）
 
+[自己搭建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (12月3日更新）
+
+
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（11月5日更新）
 
 [苹果手机翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（长期更新可用ss账号）
@@ -41,8 +44,6 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 [Linux---ubuntu-系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux---ubuntu-%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
 
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8)
-
-[自己搭建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (12月3日更新）
 
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86)
 
