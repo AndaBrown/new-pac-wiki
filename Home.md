@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-介绍：GoAgent版、GoProxy版和Lantern版、PAC版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，下载7解压软件（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)），用它来解压。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
+介绍：GoAgent版、GoProxy版和Lantern版、PAC版软件适合windows操作系统，比如Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
 
 选择指南：**首选GoAgent版和GoProxy版**，它们使用的是谷歌云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。Lantern版和PAC版适合作为备选：Lantern程序为官方收费前版本，不限流量；PAC版使用的是pac代理地址。
 
