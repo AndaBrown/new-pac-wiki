@@ -193,8 +193,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 
 ***
-ps：如果你经济条件不错且愿意帮助更多的人，可以用你的闲置资金适当购买服务器来捐助，可以部署好了给我ip地址，我直接加在PAC版的云端里或者直接把服务器ip和系统密码告诉我，我来部署。如果有很多人来捐助服务器，相信PAC版体验度会越来越好，同时也能减轻我维护PAC版的压力。
-
 
 
 
