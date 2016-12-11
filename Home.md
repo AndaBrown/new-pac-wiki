@@ -23,22 +23,22 @@
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年12月1日更新ip,试图解决部分网站的登录问题，期待大家的反馈。旧版用户按照使用说明运行一下ip更新文件即可同步云端）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年12月11日更新GoPrxoy ip,旧版用户按照使用说明运行一下ip更新文件即可同步云端）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年12月11日更新GoProxy ip,旧版用户按照使用说明运行一下ip更新文件即可同步云端）
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（11月19日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2016年12月12日更新）
 
-[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（10月30日更新）
+[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2016年10月30日更新）
 
-[火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（12月1日更新ip）
+[火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（2016年12月1日更新ip）
 
-[自己搭建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (12月3日更新）
+[自己搭建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%B7%B1%E6%90%AD%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (2016年12月3日更新）
 
 
-[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（11月5日更新）
+[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2016年11月5日更新）
 
 [苹果手机翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（长期更新可用ss账号）
 
-[苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（10月14日更新）
+[苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2016年10月14日更新）
 
 
 [平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
