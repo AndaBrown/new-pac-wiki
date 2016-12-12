@@ -21,9 +21,9 @@
 **公告：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，最近的直觉告诉我这个网站会被墙（即国内ip打不开）。也许是我多虑了。但如果真是这样，你也不用太担心，只要你能翻出来打开此页面，就能下载最新的翻墙软件。****提个醒。**
 
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年12月1日更新GoAgent ip,试图解决部分网站的登录问题。旧版用户按照使用说明运行一下ip更新文件即可同步云端）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年12月12日更新版本）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年12月11日更新GoProxy ip,旧版用户按照使用说明运行一下ip更新文件即可同步云端）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年12月12日更新版本）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2016年12月12日更新）
 
