@@ -179,7 +179,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 
 chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
-这是锐速破解版方法，该方法是开机自动启动，不用每次都部署。但有些内核是不适合的，需要亲测，当部署时出现以下字样：
+该方法是开机自动启动，部署一次就可以了。但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速2.PNG)
 
