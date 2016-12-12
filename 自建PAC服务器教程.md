@@ -169,11 +169,13 @@ service iptables save
 
 **第三步：一键加速VPS服务器**
 
+此加速教程为破解版锐速加速教程，但仅支持KVM框架的vps服务器，vultr的服务器都是KVM框架。如果你购买的不是vultr的服务器，那么你需要搞清楚你买的vps服务器是否是KVM框架的，很重要。
+
 按照第二步的步骤，重新连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
-卸载一键加速代码命令为：
+如果嫌速度太快，受不了，可以选择卸载加速（可能性不大）。卸载一键加速代码命令为：
 
 chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
