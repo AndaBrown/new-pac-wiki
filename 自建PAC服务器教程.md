@@ -27,8 +27,6 @@ VPS服务器需要选择国外的，首选vultr，速度不错。用此链接注
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程03.png)
-
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
