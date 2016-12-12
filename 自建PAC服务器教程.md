@@ -1,3 +1,5 @@
+**2016年12月12日更新，增加一些细节，图文说明，更详细点。**
+
 教程很简单，整个教程分四步：
 
 第一步：购买VPS服务器
@@ -14,7 +16,24 @@
 
 VPS服务器需要选择国外的，首选vultr，速度不错。用此链接注册http://www.vultr.com/?ref=7052665-3B （夏季促销，新用户账号可获得20美元奖励资金，我也会得到一定的奖励），vps服务器最低配置是5美元/月，每月流量1000G，个人用完全够了。虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文，然后绑定下信用卡，或者用paypal就能获得20美元的奖励资金，相当于你能免费用4个月。5美元/月服务器配置信息：单核   768M内存   15G SSD硬盘   1G带宽    1000G流量    
 
-购买vps服务器时，服务器地址优先选择：**日本、洛杉矶、新加坡、硅谷**。选择**CentOS 6.X64**位的系统（不要选择7以上的系统）。完成购买后，找到系统的密码记下来，部署服务器时需要用到。
+注册并激活账号后，需要首次充值最低5美元，方可获得25美元的优惠奖励。方式是信用卡或者采用全球付的paypal，paypal可以支持一般储蓄卡。如图：
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程00.png)
+
+
+购买vps服务器时，服务器地址优先选择：**日本、新加坡（移动联通网络首选）；洛杉矶、硅谷（电信网络首选）**。选择**CentOS 6.X64**位的系统（不要选择7以上的系统）。完成购买后，找到系统的密码记下来，部署服务器时需要用到。如图：
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程03.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程06.png)
 
 ***
 **第二步：部署VPS服务器**
