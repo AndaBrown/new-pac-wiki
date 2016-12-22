@@ -11,7 +11,7 @@
 
 **介绍：**GoAgent版、GoProxy版、Lantern版、PAC版软件适合windows操作系统：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
 
-**选择指南：****首选GoAgent版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，适合长期使用，所以这两款版本值得首选。**Lantern版和PAC版适合作为备选：Lantern程序为官方收费前版本，不限流量；PAC版使用的是vps服务器搭建的PAC代理地址。
+**选择指南：****首选GoAgent版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，这两款版本值得首选。**Lantern版和PAC版适合作为备选：Lantern程序为官方收费前版本，不限流量；PAC版使用的是vps服务器搭建的PAC代理地址。
 
 **温馨提醒：**GoAgent版和GoProxy版只要不是涉及到版本的更新，通常不需要再下载新版，只要按照使用说明（必看）运行一下ip更新文件就能同步到最新的云端配置，比如流量的增加、ip的更新。
 
@@ -32,6 +32,8 @@
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（2016年12月1日更新ip）
 
 [自建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (2016年12月12日更新）
+
+自建ss服务器教程 (近期发布）
 
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2016年11月5日更新）
