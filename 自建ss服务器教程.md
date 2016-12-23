@@ -63,9 +63,9 @@ MEGA网盘：https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5u
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell15.png)
 
-链接成功后，会出现如上图所示，之后就可以输入代码部署成PAC了。
+链接成功后，会出现如上图所示，之后就可以输入代码部署成ss了。
 
-代码如下：
+一键部署ss代码如下：
 
 ———————————————————代码分割线————————————————
 
