@@ -97,7 +97,7 @@ chmod +x shadowsocks-libev.sh
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/ss4.png)
 
 
-之后可以重启服务器确保部署生效，有时候不用重启也行。重启需要在命令栏里输入reboot。如果部署失败，卡在某个部署，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署
+之后可以重启服务器确保部署生效，有时候不用重启也行。重启需要在命令栏里输入reboot。如果部署失败，卡在某个位置，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署
 
 ***
 
