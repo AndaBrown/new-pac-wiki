@@ -23,7 +23,7 @@
 **公告：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了——国内ip打不开，你也不用太担心，只要你能翻墙出来打开此页面，就能下载最新的翻墙软件。****提个醒。**
 
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年12月29日更新ip，解决网站打开后出现404问题）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2016年12月29日更新ip，解决偶尔的网站打开后出现404问题）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2016年12月12日更新版本）
 
