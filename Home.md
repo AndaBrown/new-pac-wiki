@@ -4,6 +4,8 @@
 
 
 
+## 祝大家新年快乐！=^_^=
+
 永久免费。不用安装，无需设置，解压后使用。稳定、流畅、高速，长期更新。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
