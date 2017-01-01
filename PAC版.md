@@ -20,7 +20,7 @@
 
 **下载地址:**
 
-[百度云网盘下载](http://pan.baidu.com/s/1o7P8h30) 密码:fh3c（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+[百度云网盘下载](http://pan.baidu.com/s/1o7P8h30) 密码：fh3c（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 [MEGA网盘下载](https://mega.nz/#!d5gXkQCK!iN7__cNiqELzpLSMRcCwmBop2HnNFGE2er1dx3H2j4U)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
@@ -34,7 +34,7 @@
 
 **下载地址:**
 
-[百度云网盘下载](http://pan.baidu.com/s/1b4rQXo) 密码:j4by（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+[百度云网盘下载](http://pan.baidu.com/s/1b4rQXo) 密码：j4by（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 [MEGA网盘下载](https://mega.nz/#!1lQRwSCa!xO0eFxw9Mb96gKac1W8oHRcBQUqYLDQBNT5hua-a7Hk)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
