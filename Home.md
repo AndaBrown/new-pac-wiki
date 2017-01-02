@@ -4,8 +4,6 @@
 
 
 
-## 祝大家新年快乐！=^_^=
-
 永久免费。不用安装，无需设置，解压后使用。稳定、流畅、高速，长期更新。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
@@ -20,12 +18,14 @@
 
 **PS：**如果你觉得软件好用，可以分享给你的朋友使用。
 
-**公告：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了——国内ip打不开，你也不用太担心，只要你能翻墙出来打开此页面，就能下载最新的翻墙软件。****提个醒。**
+**提醒**：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了——国内ip打不开，你也不用太担心，只要你能翻墙出来打开此页面，就能下载最新的翻墙软件。
+
+### 公告：最近GoAgent版和GoProxy版不稳定，时不时的会出现404问题，原因找到了，不是ip的问题，是google appid（代表流量）账号的问题。我已经在云端更新了，删掉了失效的appid。所以请大家手动按照《使用说明》运行ip更新文件即可解决此问题。考虑到使用人数的不断增加，这两款软件内置了很多appid，鉴于此，最近会出一个自建流量即自己申请google appid，然后把软件内置的appid替换下来，这样每个人都是独立的流量，应该可以避免同样问题的再次发生。2016年1月2日
 
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年1月1日更新）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年1月2日更新）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年1月1日更新）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年1月2日更新）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年1月1日更新）
 
