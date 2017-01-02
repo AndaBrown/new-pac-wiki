@@ -73,6 +73,7 @@ MEGA网盘：https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5u
 ———————————————————代码分割线————————————————
 
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh
+
 chmod +x shadowsocks-libev.sh
 
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
