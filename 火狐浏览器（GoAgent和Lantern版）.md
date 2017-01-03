@@ -4,7 +4,7 @@
 http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe （如果哪天浏览器提醒你要更新flash插件，还是用此下载地址下载即可，这是官方的地址，会自动更新）
 
 
-**火狐GoAgent版（首选）**
+### 火狐GoAgent版（首选）
 
 火狐浏览器GoAgent版和谷歌浏览器GoAgent版的所用云端配置一样，所以更新ip方法和内容也是一样的**。2017年1月2日云端更新appid**，如果感觉速度一般，可以按照《使用说明》更新一下ip。
 
@@ -28,15 +28,18 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 
 ***
-**火狐蓝灯版**
 
-2016年10月18日，压缩包名称Firefox_LT_2016.10.18.7z ，文件大小62.0M。
+### 火狐蓝灯版
+
+**2017年1月3日更新Lantern版本至v2典藏版，无弹窗，便携，单进程，禁止自动更新。PS：为何要禁止自动更新？因为如果自动更新到官方的最新版就变成收费版本了。**
+
+压缩包名称Firefox_LT_2017.1.3.7z ，文件大小57.9M。
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1jH6FwGI) 密码：qxr5（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1bo6XNOF) 密码：tjph（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
-[MEGA网盘下载](https://mega.nz/#!JpxnhZyb!wanmoyCuxWJNdlkSGsUlGJ7lCDqcSfwjCcF5BkD-Ox4)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!8p41WQYJ!wPxIzpocbGo8Xov1fYPJfOSJNil1tiHDI4IKiHaaa9Q)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
 
 
