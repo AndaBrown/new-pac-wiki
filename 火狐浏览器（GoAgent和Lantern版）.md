@@ -6,15 +6,16 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **火狐GoAgent版（首选）**
 
-火狐浏览器GoAgent版和谷歌浏览器GoAgent版的所用云端配置一样，所以更新ip方法和内容也是一样的**。2017年1月1日云端更新ip**，如果感觉速度一般，可以按照说明更新一下ip。
+火狐浏览器GoAgent版和谷歌浏览器GoAgent版的所用云端配置一样，所以更新ip方法和内容也是一样的**。2017年1月2日云端更新appid**，如果感觉速度一般，可以按照《使用说明》更新一下ip。
 
-2016年10月18日，压缩包名称Firefox_goa_2016.10.18.7z ，文件大小64.7M。
+2017年1月2日，压缩包名称Firefox_goa_2017.1.2.7z ，文件大小64.6M。
 
 **下载地址：**
 
-[MEGA网盘下载](https://mega.nz/#!VlBzFYbC!9mhbeCaIPyz5Yt-CxaipMFiSd-eSoAhk_Vf7xRJZBBA)（不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[百度云网盘下载](http://pan.baidu.com/s/1qYxuf6k) 密码：9zaj（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
-[百度云网盘下载](https://pan.baidu.com/s/1slF8QXR) 密码：357b（第一次打开时可能会提示百度云升级，链接不存在等，刷新一下就出来了）
+[MEGA网盘下载](https://mega.nz/#!9lpjSRLS!Le4-kKj0eB2ctjHg-k6HYqGW-A8LD53K8me68EjpFN4)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
@@ -33,9 +34,10 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[MEGA网盘下载](https://mega.nz/#!JpxnhZyb!wanmoyCuxWJNdlkSGsUlGJ7lCDqcSfwjCcF5BkD-Ox4)（不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[百度云网盘下载](http://pan.baidu.com/s/1jH6FwGI) 密码：qxr5（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
-[百度云网盘下载](http://pan.baidu.com/s/1jH6FwGI) 密码：qxr5（第一次打开时可能会提示百度云升级，链接不存在等，刷新一下）
+[MEGA网盘下载](https://mega.nz/#!JpxnhZyb!wanmoyCuxWJNdlkSGsUlGJ7lCDqcSfwjCcF5BkD-Ox4)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
