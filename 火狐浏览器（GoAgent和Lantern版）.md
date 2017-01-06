@@ -31,16 +31,17 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐蓝灯版
 
-**2017年1月3日更新Lantern版本至v2典藏版，无弹窗，便携，单进程，禁止自动更新。PS：为何要禁止自动更新？因为如果自动更新到官方的最新版就变成收费版本了。**
+**2017年1月6日优化了一下**
 
-压缩包名称Firefox_LT_2017.1.3.7z ，文件大小57.9M。
+2017年1月3日更新Lantern版本至v2典藏版
+
+压缩包名称Firefox_LT_2017.1.6.7z ，文件大小58.4M。
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1bo6XNOF) 密码：tjph（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1hrLaXq0) 密码：8a2v（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
-[MEGA网盘下载](https://mega.nz/#!8p41WQYJ!wPxIzpocbGo8Xov1fYPJfOSJNil1tiHDI4IKiHaaa9Q)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
-
+[MEGA网盘下载](https://mega.nz/#!J4xRFbRa!hQXtt4Xa_tIYQ9ovtoLwzm2kc3FTRt0stNoGkjbhl_g)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
