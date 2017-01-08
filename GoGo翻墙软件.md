@@ -22,6 +22,6 @@ GoGo是一款基于Java开发的完全异步非阻塞的高性能代理工具。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo3.png)
 
-再次提醒：需要先安装GoGo1.8.1版，然后运行GoGo，之后才能用上的便携版浏览器翻墙上网。
+再次提醒：需要先安装GoGo1.8.1版，然后运行GoGo，之后才能用上面的GoGo翻墙浏览器翻墙上网。
 
 
