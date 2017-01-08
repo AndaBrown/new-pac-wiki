@@ -22,6 +22,6 @@ GoGo1.8.1版 下载地址：[百度云盘](http://pan.baidu.com/s/1qY51TMW) 密�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo3.png)
 
-
+再次提醒：需要先安装GoGo1.8.1版，然后运行GoGo，之后才能用上的便携版浏览器翻墙上网。
 
 
