@@ -30,6 +30,8 @@
 
 [GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（非一键翻墙方法，2017年1月8日发布）
 
+[GFW.Press大杀器软件](https://github.com/Alvin9999/new-pac/wiki/GFW.Press%E5%A4%A7%E6%9D%80%E5%99%A8%E8%BD%AF%E4%BB%B6)（非一键翻墙方法，2017年1月8日更新使用说明）
+
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年1月2日更新GoAgent版，1月6日更新Lantern版）
 
 [自建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (2017年1月5日更新）
