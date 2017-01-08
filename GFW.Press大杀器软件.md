@@ -29,8 +29,7 @@ MAC版：http://gfw.press/gfw.press.zip  （由于GFW.Press被屏蔽，所以需
 
 大杀器版翻墙浏览器，压缩包名称Chrome53_gfwpress_v2016.10.12.7z ，文件大小158.9M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。
 
-[国外网盘下载](https://mega.nz/#!E5BiDSRI!rycX6LSpkC3PQN2AVqGgxispxK3N0mcEZQOhnTxOG4c)（打开下载页面后，选择右边的download进行下载）
+[百度云网盘下载](http://pan.baidu.com/s/1pLk00Cb) 提取密码：sryw  （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[百度云网盘下载](http://pan.baidu.com/s/1pLk00Cb)提取密码:sryw
+[国外网盘下载](https://mega.nz/#!E5BiDSRI!rycX6LSpkC3PQN2AVqGgxispxK3N0mcEZQOhnTxOG4c)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
 
-[360云盘下载](https://yunpan.cn/cvxT66rkPCYvb ) 提取码：1b04
