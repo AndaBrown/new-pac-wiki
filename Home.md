@@ -15,10 +15,9 @@
 
 **温馨提醒：**GoAgent版和GoProxy版只要不是涉及到版本的更新，通常不需要再下载新版，只要按照使用说明（必看）运行一下ip更新文件就能同步到最新的云端配置，比如流量的增加、ip的更新。
 
-**提醒**：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了——国内ip打不开，你也不用太担心，只要你能翻墙出来打开此页面，就能下载最新的翻墙软件。PS：如果你觉得软件好用，可以分享给你的朋友使用。
+**提醒**：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了——国内ip打不开，你也不用太担心，只要你能翻墙出来打开此页面，就能下载最新的翻墙软件。
 
-### 公告：目前仍在使用2017年1月2日之前版本的GoAgent版和GoProxy版用户，如果偶尔打开网站出现404错误，可以通过运行ip更新文件来同步到最新的云端配置。
-
+PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年1月2日更新）
 
@@ -29,8 +28,6 @@
 [Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2017年1月6日更新）
 
 [GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（非一键翻墙方法，2017年1月8日发布）
-
-[GFW.Press大杀器软件](https://github.com/Alvin9999/new-pac/wiki/GFW.Press%E5%A4%A7%E6%9D%80%E5%99%A8%E8%BD%AF%E4%BB%B6)（非一键翻墙方法，2017年1月8日更新使用说明）
 
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年1月2日更新GoAgent版，1月6日更新Lantern版）
 
