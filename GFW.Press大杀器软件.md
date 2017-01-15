@@ -23,11 +23,14 @@ MAC版：http://gfw.press/gfw.press.zip  （由于GFW.Press被屏蔽，所以需
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/大杀器1.png)
 
-**下载地址：**
 
 再此提醒,需要先安装大杀器客户端和配置服务器信息后，才能用这款浏览器。
 
 大杀器版翻墙浏览器，压缩包名称Chrome53_gfwpress_v2016.10.12.7z ，文件大小158.9M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户，不升级也能用。
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=731126692164998) 提取密码：68458
 
 [天禾云盘下载](http://demo.flyui.net/s.aspx/VSJUOG) 提取密码：ymy0
 
