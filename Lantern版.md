@@ -8,6 +8,8 @@
 
 **下载地址：**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=547362294429627) 提取密码：42623
+
 [天禾云盘下载](http://demo.flyui.net/s.aspx/TSZJSF) 提取密码：imxn
 
 [百度网盘下载](http://pan.baidu.com/s/1b5Eg5C) 提取密码：u48i （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下）
@@ -23,6 +25,8 @@
 压缩包名称Chrome53LT_v2017.1.6.7z ，文件大小60.8M。
 
 **下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=2965619813187789) 提取密码：96017
 
 [天禾云盘下载](http://demo.flyui.net/s.aspx/ESKKEX) 提取密码：oqah
 
