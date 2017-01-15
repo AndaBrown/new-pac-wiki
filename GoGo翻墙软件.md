@@ -39,6 +39,6 @@ GoGo1.8.1下载地址：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo3.png)
 
-再次提醒：需要先安装GoGo1.8.1版，然后运行GoGo，之后才能用上面的GoGo翻墙浏览器翻墙上网。
+再次提醒：需要先安装JAVA，然后运行GoGo1.8.1，最后用GoGo翻墙浏览器就能翻墙上网。
 
 
