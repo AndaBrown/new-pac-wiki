@@ -33,7 +33,7 @@
 
 **下载地址：**
 
-[巴别鸟云盘下载](链接 : http://www.babel.cc/share.do?s=4007042126287650) 提取密码 : 4293
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5529120065135472) 提取密码 : 13612
 
 [天禾云盘下载](http://demo.flyui.net/s.aspx/SS47Q2) 提取密码：dv8d
 
