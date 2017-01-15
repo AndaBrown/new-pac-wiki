@@ -8,6 +8,8 @@
 
 **下载地址:**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=4350334554231059) 提取密码：45694
+
 [天禾云盘下载](http://demo.flyui.net/s.aspx/4SP13R) 提取密码：tgjr
 
 [百度云网盘下载](http://pan.baidu.com/s/1kVykw4Z) 密码：naed（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
@@ -23,6 +25,8 @@
 压缩包名称Chrome36_Pac_v2017.1.5.7z 文件大小73.4M。
 
 **下载地址:**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=7289454219779550) 提取密码：13895
 
 [天禾云盘下载](http://demo.flyui.net/s.aspx/JSZSSP) 提取密码：7q39
 
