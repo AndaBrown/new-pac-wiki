@@ -14,6 +14,8 @@
 
 **下载地址：**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=2215429781736757) 提取密码：99398
+
 [天禾云盘下载](http://demo.flyui.net/s.aspx/9SHBJL) 提取密码：wpj7
 
 [百度云网盘下载](http://pan.baidu.com/s/1nuZdDHZ) 密码：mjst（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
@@ -30,6 +32,8 @@
 压缩包名称Chrome36_goa_v2017.1.2.7z ，文件大小61.3M。
 
 **下载地址：**
+
+[巴别鸟云盘下载](链接 : http://www.babel.cc/share.do?s=4007042126287650) 提取密码 : 4293
 
 [天禾云盘下载](http://demo.flyui.net/s.aspx/SS47Q2) 提取密码：dv8d
 
