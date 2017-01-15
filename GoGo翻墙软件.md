@@ -4,6 +4,8 @@ GoGo是一款基于Java开发的完全异步非阻塞的高性能代理工具。
 
 接着下载这款**GoGo翻墙浏览器（代理已设置好）下载地址**：
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=8664484439408910) 提取密码：32371
+
 [天禾云盘下载](http://demo.flyui.net/s.aspx/TSZR68) 提取密码：ta52
 
 [百度云盘](http://pan.baidu.com/s/1mi16vlm) 密码: p5dx （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
