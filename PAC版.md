@@ -8,6 +8,8 @@
 
 **下载地址:**
 
+[天禾云盘下载](http://demo.flyui.net/s.aspx/4SP13R) 提取密码：tgjr
+
 [百度云网盘下载](http://pan.baidu.com/s/1kVykw4Z) 密码：naed（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 [MEGA网盘下载](https://mega.nz/#!R8ABlaYZ!7DzQl_L9MFzr19SU3rGhC1UvxZOP3F-CExDns5Nd2M8)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
@@ -21,6 +23,8 @@
 压缩包名称Chrome36_Pac_v2017.1.5.7z 文件大小73.4M。
 
 **下载地址:**
+
+[天禾云盘下载](http://demo.flyui.net/s.aspx/JSZSSP) 提取密码：7q39
 
 [百度云网盘下载](http://pan.baidu.com/s/1gf0u0a3) 密码：ytc8（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
