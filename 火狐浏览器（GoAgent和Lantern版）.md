@@ -14,6 +14,8 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=6811906110077462) 提取密码：33832
+
 [天禾云盘下载](http://demo.flyui.net/s.aspx/SS0OUO) 提取密码：7muv
 
 [百度云网盘下载](http://pan.baidu.com/s/1qYxuf6k) 密码：9zaj（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
@@ -42,6 +44,8 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 压缩包名称Firefox_LT_2017.1.6.7z ，文件大小58.4M。
 
 **下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3646160127611112) 提取密码：27462
 
 [天禾云盘下载](http://demo.flyui.net/s.aspx/GS3BKA) 提取密码：hjvx
 
