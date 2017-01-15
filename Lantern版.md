@@ -8,6 +8,8 @@
 
 **下载地址：**
 
+[天禾云盘下载](http://demo.flyui.net/s.aspx/TSZJSF) 提取密码：imxn
+
 [百度网盘下载](http://pan.baidu.com/s/1b5Eg5C) 提取密码：u48i （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下）
 
 [MEGA网盘下载](https://mega.nz/#!d5AyDBYQ!cdwvhAGKzlpnN9lPwA81ms8JxbkM5ATnis3HS4lwuEw)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
@@ -21,6 +23,8 @@
 压缩包名称Chrome53LT_v2017.1.6.7z ，文件大小60.8M。
 
 **下载地址：**
+
+[天禾云盘下载](http://demo.flyui.net/s.aspx/ESKKEX) 提取密码：oqah
 
 [百度网盘下载](http://pan.baidu.com/s/1geGZoGz) 提取密码：k5r9 （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下）
 
