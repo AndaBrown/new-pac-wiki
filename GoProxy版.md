@@ -23,6 +23,8 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。
 
 **下载地址：**
 
+[天禾云盘下载](http://demo.flyui.net/s.aspx/1SI4O9) 提取密码：vmue
+
 [百度云网盘下载](http://pan.baidu.com/s/1i5LoXsL) 密码：vxvq（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 [MEGA网盘下载](https://mega.nz/#!phpXSAjA!W7zhpmcD7yq7r4GtZqPEBNTj30tt8NydMdrsYwHq8SY)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
@@ -35,6 +37,8 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。
 压缩包名称Chrome36_gop_v2017.1.2.7z ，文件大小58.0M。
 
 **下载地址：**
+
+[天禾云盘下载](http://demo.flyui.net/s.aspx/JSE7WC) 提取密码：arnm
 
 [百度云网盘下载](http://pan.baidu.com/s/1kVBb66N) （密码：8w6v）（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
