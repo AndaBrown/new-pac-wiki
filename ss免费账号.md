@@ -103,9 +103,9 @@
 
 服务器9：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb
 
-服务器10：138.197.216.90  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
+服务器10：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
-服务器11：108.61.186.173  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
+服务器11：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
 服务器12：153.125.239.173  端口：31862  密码：guowenxxl  加密方式：aes-256-cfb
 
