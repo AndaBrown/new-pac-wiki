@@ -38,6 +38,7 @@ http://www.ntdtv.com/xtr/b5/tv_ch1china.html
 
 13:00-16:00 重播 180分钟
 
+海外观众如要观看最新的〝神韵晚会〞，请到当地剧院买票观看，演出行程可以查询：www.shenyun.com
 ***
 
 
