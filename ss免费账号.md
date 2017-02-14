@@ -130,8 +130,6 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器5：153.125.238.141 端口：31015 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器6：153.125.238.142 端口：31557 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器7：153.125.238.141 端口：31511 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器9：153.125.238.141 端口：31515 密码：dongtaiwang.com 加密方式：aes-256-cfb
@@ -141,12 +139,6 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
-
-服务器16：153.125.238.142 端口: 31099 密码: zh-cn.shenyun.com 加密方式: aes-256-cfb
-
-服务器19：153.125.238.142 端口: 31088 密码: bannedbook.org 加密方式: aes-256-cfb
-
-服务器21：153.125.238.142 端口: 31589 密码: bannedbook.org 加密方式: aes-256-cfb
 
 ***
 
