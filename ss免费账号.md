@@ -145,4 +145,4 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 ***
 
 
-如果你有闲置的 SS ，愿意分享出来，可以联系我帮助更多的人。联系邮箱:kebi2014@gmail.com
+如果你有闲置的 SS ，愿意分享出来，可以联系我帮助更多的人。联系邮箱:kebi2014@gmail.com  或者在此[发帖留言](https://github.com/Alvin9999/new-pac/issues/35)
