@@ -151,6 +151,17 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
+服务器16：jp1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
+
+服务器17：us1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
+
+服务器18：us2.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
+
+服务器19：uk1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
+
+服务器20：uk2.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
+
+
 ***
 
 
