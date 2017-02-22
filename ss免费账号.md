@@ -62,6 +62,11 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器25： 162.220.11.228 端口：8355 密码：IcomefromDoub.io 加密方式：aes-256-cfb
 
+服务器26： 107.191.106.184 端口：889 密码：doubiss 加密方式：aes-256-cfb
+
+服务器27： 104.168.103.153 端口：889 密码：doubiss 加密方式：aes-256-cfb
+
+
 ===免费节点列表2之樱花节点===（2月22日更新，密码不变，ip或端口可能会不定期变化）
 
 服务器1：153.125.238.237 端口：31999 密码：dongtaiwang.com 加密方式：aes-256-cfb
@@ -101,8 +106,6 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 服务器24：153.125.235.140 端口：31619 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器25：153.125.235.207 端口：31866 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器26：153.125.237.210 端口：31719 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器27：153.125.237.173 端口：31960 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -147,6 +150,8 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb
 
 服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
+
+服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
 服务器16：jp1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
 
