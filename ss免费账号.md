@@ -132,7 +132,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器40：153.125.235.178 端口：31604 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（2月22日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（2月23日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器3：45.63.126.162  端口：9999 密码： 638 加密方式：RC4-MD5
 
@@ -151,16 +151,6 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
-
-服务器16：jp1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
-
-服务器17：us1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
-
-服务器18：us2.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
-
-服务器19：uk1.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
-
-服务器20：uk2.xiaoheijia.top  端口：80  密码：491923129QQqun  加密方式：aes-256-cfb
 
 
 ***
