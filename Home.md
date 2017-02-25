@@ -22,7 +22,7 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年2月21日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行更新ip文件来同步到最新云端）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年2月21日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行更新ip文件来同步到最新云端）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年2月25日更新GoProxy版本）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年1月5日更新）
 
@@ -34,9 +34,9 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 [火狐浏览器（GoAgent和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年1月2日更新GoAgent版，1月6日更新Lantern版）
 
-[自建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (2017年1月5日更新）
+[自建SS服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2017年2月25日更新）
 
-[自建ss服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2017年1月5日更新）
+[自建PAC服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAPAC%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) (2017年1月5日更新）
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2016年11月5日更新）
 
