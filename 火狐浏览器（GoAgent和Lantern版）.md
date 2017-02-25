@@ -8,15 +8,13 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 火狐浏览器GoAgent版和谷歌浏览器GoAgent版的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
-**2017年1月10日云端更新ip**，如果感觉速度一般，可以按照《使用说明》运行ip更新文件来同步到云端
+**2017年2月21日云端更新ip**，如果感觉速度一般，可以按照《使用说明》运行ip更新文件来同步到云端
 
-2017年1月2日，压缩包名称Firefox_goa_2017.1.2.7z ，文件大小64.6M。
+压缩包名称Firefox_goa_2017.1.2.7z ，文件大小64.6M。
 
 **下载地址：**
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=6811906110077462) 提取密码：33832
-
-[天禾云盘下载](http://demo.flyui.net/s.aspx/SS0OUO) 提取密码：7muv
 
 [百度云网盘下载](http://pan.baidu.com/s/1qYxuf6k) 密码：9zaj（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
@@ -37,17 +35,13 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐蓝灯版
 
-**2017年1月6日优化了一下**
-
-2017年1月3日更新Lantern版本至v2典藏版
+**2017年1月6日更新Lantern版本至v2典藏版**
 
 压缩包名称Firefox_LT_2017.1.6.7z ，文件大小58.4M。
 
 **下载地址：**
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=3646160127611112) 提取密码：27462
-
-[天禾云盘下载](http://demo.flyui.net/s.aspx/GS3BKA) 提取密码：hjvx
 
 [百度云网盘下载](http://pan.baidu.com/s/1hrLaXq0) 密码：8a2v（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
