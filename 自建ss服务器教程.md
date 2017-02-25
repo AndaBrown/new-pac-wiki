@@ -1,4 +1,4 @@
-**2017年1月5日更新**
+**2017年2月25日更新一键部署ss代码命令**
 
 教程很简单，整个教程分三步：
 
@@ -81,6 +81,8 @@ MEGA网盘：https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5u
 一键部署ss代码如下：
 
 ———————————————————代码分割线————————————————
+
+yum -y install wget
 
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh
 
