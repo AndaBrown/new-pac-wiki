@@ -18,8 +18,6 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=2215429781736757) 提取密码：99398
 
-[天禾云盘下载](http://demo.flyui.net/s.aspx/9SHBJL) 提取密码：wpj7
-
 [百度云网盘下载](http://pan.baidu.com/s/1nuZdDHZ) 密码：mjst（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 [MEGA网盘下载](https://mega.nz/#!thJ1ibBQ!XWeEihSiNYm6SwZnG2eQxRQ_K7xb_jfSDlLEWZLrUx4)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
@@ -36,8 +34,6 @@
 **下载地址：**
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=5529120065135472) 提取密码 : 13612
-
-[天禾云盘下载](http://demo.flyui.net/s.aspx/SS47Q2) 提取密码：dv8d
 
 [百度云网盘下载](http://pan.baidu.com/s/1bp5mj8b) 密码：qbqv（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
