@@ -133,7 +133,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 [doub免费节点](https://doub.io/sszhfx/)
 
-[小双免费日本](https://xsjs.yhyhd.org/free-ss)
+[小双免费节点](https://xsjs.yhyhd.org/free-ss)
 
 [Freess免费节点](http://freess.co/)
 
