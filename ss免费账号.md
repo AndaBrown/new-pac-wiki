@@ -128,6 +128,11 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb
 
+【其它免费ss网站】
+
+doubi网站：https://doub.io/sszhfx/
+
+会陆续更新一些网站，方便大家
 
 ***
 
