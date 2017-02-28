@@ -24,13 +24,13 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器5：210.6.194.115 端口：9823 密码：HKShareCBKEY 加密方式：chacha20（网友分享）
 
-服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb  [ubox免费节点](https://www.ubox.co/)
+服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ [ubox免费节点](https://www.ubox.co/) ）
 
-服务器9： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb  [ubox免费节点](https://www.ubox.co/)
+服务器9： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ [ubox免费节点](https://www.ubox.co/)）
 
 服务器11： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
-服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb [ubox免费节点](https://www.ubox.co/)
+服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （[ubox免费节点](https://www.ubox.co/)）
 
 
 服务器14： 153.125.238.141 端口：31411 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建）
@@ -41,7 +41,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 ===免费节点列表2之樱花节点===（2月27日更新，密码不变，ip或端口可能会不定期变化）
 
-此列表的ss账号全来自于自建的[樱花节点](https://arukas.io/)
+此列表的ss账号全来自于自建的免费[樱花节点](https://arukas.io/)
 
 服务器1：153.125.238.237 端口：31999 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -103,15 +103,15 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器1：45.32.31.32   端口：11111 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建）
 
-服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  [小双免费日本](https://xsjs.yhyhd.org/free-ss)
+服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （[小双免费日本](https://xsjs.yhyhd.org/free-ss)）
 
 服务器3：153.125.239.172  端口：31877 密码：wxguowenxxl 加密方式：aes-256-cfb （果闻公众号）
 
 服务器4：153.125.239.176  端口：31784 密码：guowenxxl 加密方式：aes-256-cfb （果闻公众号）
 
-服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  [小双免费美国](https://xsjs.yhyhd.org/free-ss)
+服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  （ [小双免费美国](https://xsjs.yhyhd.org/free-ss)）
 
-服务器6：104.128.236.22  端口：8215 密码：3MBgSATa 加密方式：RC4-MD5  [小双免费美国](https://xsjs.yhyhd.org/free-ss)
+服务器6：104.128.236.22  端口：8215 密码：3MBgSATa 加密方式：RC4-MD5  （[小双免费美国](https://xsjs.yhyhd.org/free-ss)）
 
 服务器7：153.125.238.141 端口：31015 密码：ntdtv.com 加密方式：aes-256-cfb （自建樱花）
 
@@ -123,7 +123,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器12：153.125.239.176 端口：31036 密码：guowenxxl3 加密方式：aes-256-cfb（果闻公众号）
 
-服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb[kevinhu新加坡节点分享](http://www.kevinandhu.com/)
+服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （[kevinhu新加坡节点分享](http://www.kevinandhu.com/)）
 
 服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb （网友分享）
 
