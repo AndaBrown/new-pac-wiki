@@ -9,11 +9,6 @@
 
 PS：如果想分享本页面的ss账号，请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
-
-**===自建ss服务器教程===**
-
-[点我获取教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
-
 **===免费节点列表1===**（2月28日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建）
@@ -22,7 +17,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
-服务器5：210.6.194.115 端口：9823 密码：HKShareCBKEY 加密方式：chacha20（网友分享）
+服务器5：210.6.194.115 端口：9823 密码：HKShareCBKEY 加密方式：chacha20（Lobert Cheung网友分享）
 
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ [ubox免费节点](https://www.ubox.co/) ）
 
@@ -32,8 +27,11 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （[ubox免费节点](https://www.ubox.co/)）
 
-
 服务器14： 153.125.238.141 端口：31411 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建）
+
+服务器15：104.233.64.114  端口：8388   密码：666  加密方式：aes-256-cfb（James Villa网友分享 ）
+
+服务器16：69.12.73.132  端口：8388  密码：789 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器32： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
@@ -136,5 +134,11 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 [小双免费节点](https://xsjs.yhyhd.org/free-ss)
 
 [Freess免费节点](http://freess.co/)
+
+
+**===自建ss服务器教程===**
+
+[点我获取教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+
 
 如果你有优秀的免费节点分享网站，可以联系我帮助更多的人，或者如果你有闲置的 SS ，愿意分享出来，也可以联系我。联系邮箱:kebi2014@gmail.com 
