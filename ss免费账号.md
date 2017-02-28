@@ -127,7 +127,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb（网友分享）
 
-【其它免费ss网站】
+**===其它免费节点网站===**
 
 [doub免费节点](https://doub.io/sszhfx/)
 
@@ -138,7 +138,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 **===自建ss服务器教程===**
 
-[点我获取教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+[点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 
 如果你有优秀的免费节点分享网站，可以联系我帮助更多的人，或者如果你有闲置的 SS ，愿意分享出来，也可以联系我。联系邮箱:kebi2014@gmail.com 
