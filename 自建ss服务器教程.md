@@ -82,7 +82,7 @@ MEGA网盘：https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5u
 
 链接成功后，会出现如上图所示，之后就可以输入代码部署成ss了。
 
-一键部署ss代码如下：
+一键部署ss代码（适用于：CentOS 6&7）如下：
 
 ———————————————————代码分割线————————————————
 
@@ -129,7 +129,7 @@ chmod +x shadowsocks-libev.sh
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
-如果嫌速度太快，受不了，可以选择卸载加速（可能性不大）。卸载一键加速代码命令为：
+如果嫌速度太快，受不了，可以选择卸载加速。卸载一键加速代码命令为：
 
 chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
