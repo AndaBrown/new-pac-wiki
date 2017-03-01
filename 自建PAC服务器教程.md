@@ -188,7 +188,7 @@ service iptables save
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
-如果嫌速度太快，受不了，可以选择卸载加速（可能性不大）。卸载一键加速代码命令为：
+如果嫌速度太快，受不了，可以选择卸载加速。卸载一键加速代码命令为：
 
 chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
