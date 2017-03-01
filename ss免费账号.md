@@ -14,6 +14,8 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 [点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
+ps：2017年3月1日vultr服务商新增了2.5美元/月的vps服务器，按照1：7的汇率，折算下来只要人民币17.5元/月！
+
 
 **===免费节点列表1===**（3月1日更新）
 
