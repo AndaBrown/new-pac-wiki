@@ -7,7 +7,7 @@
 
 提醒下：如果某个账号连不上，请换用其它账号，因为我可能没法做到第一时间将无效账号删除。
 
-PS：如果想分享本页面的ss账号，请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
+PS：如果想分享本页面的ss账号给你的朋友，请告诉他本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 这样当账号没法使用时，他可以自己到此页面来选择其它的账号
 
 **===自建ss服务器教程===**
 
@@ -24,7 +24,8 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 服务器4：45.32.31.32   端口：11111 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器5：210.6.194.115 端口：9823 密码：HKShareCBKEY 加密方式：chacha20（Lobert Cheung网友分享）
+服务器5：123.203.222.72  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
+OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ [ubox免费节点](https://www.ubox.co/) ）
 
