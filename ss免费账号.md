@@ -16,7 +16,7 @@ PS：如果想分享本页面的ss账号，请带上本页面的更新地址http
 
 **===免费节点列表1===**（3月1日更新）
 
-服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified服务器](rectified.net)）
+服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified服务器](https://rectified.net/)）
 
 服务器2：a1.sser.cf 端口：14523 密码：Qun595936571 加密方式：RC4-MD5  （网友分享）
 
