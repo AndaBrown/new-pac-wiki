@@ -137,7 +137,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb（网友分享）
 
-服务器16：45.63.126.162  端口：9999  密码：290  加密方式：rc4-md5（Freess[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器16：45.63.126.162  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
 
 
