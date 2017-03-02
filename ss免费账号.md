@@ -107,9 +107,9 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器40：153.125.235.178 端口：31604 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（2月27日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（3月2日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：45.32.31.32   端口：11111 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器1：45.76.101.208   端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
 服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （[小双免费日本](https://xsjs.yhyhd.org/free-ss)）
 
