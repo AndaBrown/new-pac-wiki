@@ -18,7 +18,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器，很简单，关键是学会了一劳永逸。当你有能力了，你还可以帮助身边的人
 
-**===免费节点列表1===**（3月2日更新）
+**===免费节点列表1===**（3月3日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified服务器](https://rectified.net/)）
 
@@ -33,21 +33,21 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建微软azure服务器）
 
-服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ [ubox免费节点](https://www.ubox.co/) ）
+服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B) ）
 
-服务器9： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ [ubox免费节点](https://www.ubox.co/)）
+服务器9： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean美国服务器](https://www.digitalocean.com/) ）
 
 服务器11： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
-服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （[ubox免费节点](https://www.ubox.co/)）
-
-服务器16：69.12.73.132  端口：8388  密码：789 加密方式：aes-256-cfb（James Villa网友分享 ）
+服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B) ）
 
 服务器17：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器18：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器19：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb（James Villa网友分享 ）
+
+服务器25：138.128.202.53   端口：7601  密码：oTkFlC2EKsRx 加密方式：aes-256-cfb (Xiaoming Liu网友分享）
 
 服务器32： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
@@ -111,15 +111,15 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器1：45.76.101.208   端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （[小双免费日本](https://xsjs.yhyhd.org/free-ss)）
+服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
 服务器3：153.125.239.172  端口：31877 密码：wxguowenxxl 加密方式：aes-256-cfb （果闻公众号）
 
 服务器4：153.125.239.176  端口：31784 密码：guowenxxl 加密方式：aes-256-cfb （果闻公众号）
 
-服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  （ [小双免费美国](https://xsjs.yhyhd.org/free-ss)）
+服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器6：104.128.236.22  端口：8215 密码：3MBgSATa 加密方式：RC4-MD5  （[小双免费美国](https://xsjs.yhyhd.org/free-ss)）
+服务器6：104.128.236.22  端口：8215 密码：3MBgSATa 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
 
 服务器7：153.125.238.141 端口：31015 密码：ntdtv.com 加密方式：aes-256-cfb （自建樱花）
 
@@ -131,13 +131,13 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器12：153.125.239.176 端口：31036 密码：guowenxxl3 加密方式：aes-256-cfb（果闻公众号）
 
-服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （[kevinhu新加坡节点分享](http://www.kevinandhu.com/)）
+服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费节点）(http://www.kevinandhu.com/)）
 
 服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb （网友分享）
 
 服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb（网友分享）
 
-服务器16：45.63.126.162  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器16：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
 
 
@@ -146,6 +146,8 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 [doub免费节点网址](https://doub.io/sszhfx/)
 
 [小双免费节点网址](https://xsjs.yhyhd.org/free-ss)
+
+[ubox免费节点网址](https://www.vbox.co/)
 
 [Freess免费节点网址](http://freess.co/)
 
