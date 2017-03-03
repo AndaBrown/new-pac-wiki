@@ -31,7 +31,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 服务器5：123.203.222.72  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
 OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
-服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建微软azure服务器）
+服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
 
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B) ）
 
