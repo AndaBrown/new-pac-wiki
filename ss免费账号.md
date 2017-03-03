@@ -131,7 +131,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器12：153.125.239.176 端口：31036 密码：guowenxxl3 加密方式：aes-256-cfb（果闻公众号）
 
-服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费节点）(http://www.kevinandhu.com/)）
+服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
 
 服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb （网友分享）
 
