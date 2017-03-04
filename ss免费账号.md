@@ -139,6 +139,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器16：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
+服务器17：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
 
 
 **===其它免费节点网站===**
