@@ -51,7 +51,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器33： 104.250.147.22 端口：22845 密码：46914077 加密方式：aes-256-cfb （网友分享）
 
-**===免费节点列表2之樱花节点===**（2月27日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月5日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[樱花节点](https://arukas.io/)
 
@@ -62,8 +62,6 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 服务器4：153.125.238.143 端口：31316 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器7：153.125.235.207 端口：31206 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器9：153.125.238.174 端口：31440 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器10：153.125.238.173 端口：31199 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -87,13 +85,9 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器27：153.125.237.173 端口：31960 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器28：153.125.238.174 端口：31142 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器29：153.125.238.143 端口：31034 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器33：153.125.235.240 端口：31614 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器34：153.125.235.179 端口：31299 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器36：153.125.235.236 端口：31370 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -111,23 +105,10 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器3：153.125.239.172  端口：31877 密码：wxguowenxxl 加密方式：aes-256-cfb （果闻公众号）
-
-服务器4：153.125.239.176  端口：31784 密码：guowenxxl 加密方式：aes-256-cfb （果闻公众号）
 
 服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
 
 服务器6：104.128.236.22  端口：8215 密码：3MBgSATa 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
-
-服务器7：153.125.238.141 端口：31015 密码：ntdtv.com 加密方式：aes-256-cfb （自建樱花）
-
-服务器9：153.125.238.141 端口：31511 密码：dongtaiwang.com 加密方式：aes-256-cfb（自建樱花）
-
-服务器10：153.125.238.141 端口：31515 密码：dongtaiwang.com 加密方式：aes-256-cfb（自建樱花）
-
-服务器11：153.125.239.175 端口：31002 密码：guowenxxl2 加密方式：aes-256-cfb（果闻公众号）
-
-服务器12：153.125.239.176 端口：31036 密码：guowenxxl3 加密方式：aes-256-cfb（果闻公众号）
 
 服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
 
