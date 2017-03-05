@@ -61,7 +61,13 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器4：153.125.238.143 端口：31316 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器6：153.125.238.207 端口：31782 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器7：153.125.235.207 端口：31206 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器8：153.125.238.207 端口：31567 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器9：153.125.238.173 端口：31695 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器10：153.125.238.173 端口：31199 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -71,11 +77,19 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器13：153.125.238.205 端口：31151 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器14：153.125.234.242 端口：31631 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器15：59.106.238.240 端口：31041 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器16：153.125.234.239 端口：31444 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器19：153.125.235.147 端口：31611 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器20：153.125.234.239 端口：31718 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器22：153.125.234.241 端口：31858 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -83,11 +97,19 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器25：153.125.235.207 端口：31866 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器26：153.125.237.211 端口：31423 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器27：153.125.237.173 端口：31960 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器29：153.125.238.143 端口：31034 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器30：153.125.235.147 端口：31571 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器31：153.125.235.236 端口：31783 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器33：153.125.235.240 端口：31614 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器35：153.125.235.242 端口：31513 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器36：153.125.235.236 端口：31370 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
