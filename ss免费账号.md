@@ -24,20 +24,20 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
-服务器4：45.32.31.32   端口：11111 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器4：45.32.31.32   端口：11111 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
 服务器5：123.203.222.72  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
 OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
 
-服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B) ）
+服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7048874) ）
 
 服务器9： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean美国服务器](https://www.digitalocean.com/) ）
 
 服务器11： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
-服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B) ）
+服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr日本服务器](hhttp://www.vultr.com/?ref=7048874) ）
 
 服务器17：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
 
@@ -123,9 +123,9 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 **===免费节点列表3===**（3月2日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：45.76.101.208   端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器1：45.76.101.208   端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
-服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
 
 服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
@@ -134,11 +134,11 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
 
-服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb （网友分享[vultr美国服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb （网友分享[vultr美国服务器](http://www.vultr.com/?ref=7048874)）
 
-服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb（网友分享[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb（网友分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
-服务器16：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器16：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
 服务器17：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
 
