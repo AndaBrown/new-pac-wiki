@@ -121,16 +121,16 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器40：153.125.235.178 端口：31604 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月2日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（3月6日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器1：45.76.101.208   端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
-服务器2：108.61.200.63  端口：8214 密码:K7fgiPYd 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
+服务器2：108.61.200.63  端口：8156 密码: 0QRkV2dp 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
 
-服务器5：172.246.47.195  端口：8216 密码： DLMGaUES 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器5：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器6：104.128.236.22  端口：8215 密码：3MBgSATa 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
+服务器6：104.128.236.22  端口：8157 密码：TIRrbbQC 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
 
 服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
 
@@ -146,14 +146,11 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 **===其它免费节点网站===**
 
 [doub免费节点网址](https://doub.io/sszhfx/)
-
 [小双免费节点网址](https://xsjs.yhyhd.org/free-ss)
-
 [ubox免费节点网址](https://www.vbox.co/)
-
 [Freess免费节点网址](http://freess.co/)
-
 [kevinhu免费节点网址](http://www.kevinandhu.com/)
+[kxsw免费节点网址](https://kxsw.me/)
 
 
 如果你有优秀的免费节点分享网站，可以联系我帮助更多的人，或者如果你有闲置的 SS ，愿意分享出来，也可以联系我。联系邮箱:kebi2014@gmail.com 
