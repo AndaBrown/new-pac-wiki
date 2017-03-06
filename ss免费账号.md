@@ -33,25 +33,25 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7048874) ）
 
-服务器9： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean美国服务器](https://www.digitalocean.com/) ）
+服务器8： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean美国服务器](https://www.digitalocean.com/) ）
 
-服务器11： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
+服务器9： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
-服务器12： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr日本服务器](hhttp://www.vultr.com/?ref=7048874) ）
+服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr日本服务器](hhttp://www.vultr.com/?ref=7048874) ）
 
-服务器17：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
+服务器11：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器18：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
+服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器19：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb（James Villa网友分享 ）
+服务器13：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器25：138.128.202.53   端口：7601  密码：oTkFlC2EKsRx 加密方式：aes-256-cfb (Xiaoming Liu网友分享）
+服务器14：138.128.202.53   端口：7601  密码：oTkFlC2EKsRx 加密方式：aes-256-cfb (Xiaoming Liu网友分享）
 
-服务器32： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
+服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
-服务器33： 104.250.147.22 端口：22845 密码：46914077 加密方式：aes-256-cfb （网友分享）
+服务器16： 104.250.147.22 端口：22845 密码：46914077 加密方式：aes-256-cfb （网友分享）
 
-**===免费节点列表2之樱花节点===**（3月5日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月6日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[樱花节点](https://arukas.io/)
 
@@ -64,8 +64,6 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 服务器6：153.125.238.207 端口：31782 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器7：153.125.235.207 端口：31206 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器8：153.125.238.207 端口：31567 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器9：153.125.238.173 端口：31695 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
