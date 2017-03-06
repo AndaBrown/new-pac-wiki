@@ -128,20 +128,19 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 服务器2：108.61.200.63  端口：8156 密码: 0QRkV2dp 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
 
-服务器5：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器3：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器6：104.128.236.22  端口：8157 密码：TIRrbbQC 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
+服务器4：104.128.236.22  端口：8157 密码：TIRrbbQC 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
 
-服务器13：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
+服务器5：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
 
-服务器14：us.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb （网友分享[vultr美国服务器](http://www.vultr.com/?ref=7048874)）
+服务器6：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
-服务器15：jp.bilibilitv.pw  端口：14846  密码：namahoEQXAG  加密方式：aes-256-cfb（网友分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
+服务器7：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
 
-服务器16：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
+服务器8：35.187.221.31  端口：10000  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
-服务器17：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
-
+服务器9：47.52.16.227  端口：443  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
 **===其它免费节点网站===**
 
