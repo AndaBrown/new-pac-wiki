@@ -20,9 +20,9 @@ PS：如果你觉得软件好用，可以分享给你的朋友使用。
 
 ***
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年3月6日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行更新ip文件来同步到最新云端）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年3月7日更新appid，2017年3月6日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行更新ip文件来同步到最新云端）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月6日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行更新ip文件来同步到最新云端）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月7日更新appid，2017年3月6日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行更新ip文件来同步到最新云端）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年1月5日更新）
 
