@@ -16,7 +16,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器，很简单，关键是学会了一劳永逸。当你有能力了，你还可以帮助身边的人
 
-**===免费节点列表1===**（3月3日更新）
+**===免费节点列表1===**（3月7日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified服务器](https://rectified.net/)）
 
@@ -50,6 +50,12 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
 服务器16： 104.250.147.22 端口：22845 密码：46914077 加密方式：aes-256-cfb （网友分享）
+
+服务器17：137.135.40.199 端口：47431  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
+
+服务器18：40.122.42.212 端口：26107  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
+
+服务器19：104.209.135.21 端口：44307  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
 **===免费节点列表2之樱花节点===**（3月6日更新，密码不变，ip或端口可能会不定期变化）
 
@@ -121,10 +127,9 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 **===免费节点列表3===**（3月6日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：45.76.101.208   端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb (自建[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
+服务器1：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
 
 服务器2：108.61.200.63  端口：8156 密码: 0QRkV2dp 加密方式：RC4-MD5  （小双免费[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
-
 
 服务器3：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
 
@@ -134,11 +139,9 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
 
-服务器7：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
+服务器7：35.187.221.31  端口：10000  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
-服务器8：35.187.221.31  端口：10000  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
-
-服务器9：47.52.16.227  端口：443  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
+服务器8：47.52.16.227  端口：443  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
 **===其它免费节点网站===**
 
