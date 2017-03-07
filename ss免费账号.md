@@ -16,7 +16,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 **===免费节点列表1===**（3月8日更新）
 
-服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified服务器](https://rectified.net/)）
+服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
 服务器2：a1.sser.cf 端口：14523 密码：Qun595936571 加密方式：RC4-MD5  （网友分享）
 
@@ -25,15 +25,15 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 服务器5：123.203.222.72  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
 OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
-服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
+服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
-服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr日本服务器](http://www.vultr.com/?ref=7048874) ）
+服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器8： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean美国服务器](https://www.digitalocean.com/) ）
+服务器8： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean](https://www.digitalocean.com/) ）
 
 服务器9： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
-服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr日本服务器](hhttp://www.vultr.com/?ref=7048874) ）
+服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr](hhttp://www.vultr.com/?ref=7048874) ）
 
 服务器11：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
 
@@ -49,7 +49,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 **===免费节点列表2之樱花节点===**（3月8日更新，密码不变，ip或端口可能会不定期变化）
 
-此列表的ss账号全来自于自建的[樱花节点](https://arukas.io/)
+此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
 
 服务器1：153.125.238.237 端口：31999 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -115,15 +115,15 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 **===免费节点列表3===**（3月8日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure服务器](https://azure.microsoft.com/zh-cn/)）
+服务器1：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
-服务器3：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu美国服务器](http://www.vultr.com/?ref=7052665-3B)）
+服务器3：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu](http://www.vultr.com/?ref=7052665-3B)）
 
-服务器4：104.128.236.22  端口：8157 密码：TIRrbbQC 加密方式：RC4-MD5  （小双免费[hostus美国服务器](https://hostus.us/)）
+服务器4：104.128.236.22  端口：8157 密码：TIRrbbQC 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
 
-服务器5：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean新加坡服务器](https://www.digitalocean.com/)）
+服务器5：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean](https://www.digitalocean.com/)）
 
-服务器6：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr日本服务器](http://www.vultr.com/?ref=7048874)）
+服务器6：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr](http://www.vultr.com/?ref=7048874)）
 
 服务器7：35.187.221.31  端口：10000  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
