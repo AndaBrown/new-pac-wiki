@@ -33,7 +33,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器9： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
-服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr](hhttp://www.vultr.com/?ref=7048874) ）
+服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器11：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
 
