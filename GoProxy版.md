@@ -24,7 +24,7 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。提醒：运行ip
 
 [百度云网盘下载](http://pan.baidu.com/s/1eR2QIzS) 密码：5ngz（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[MEGA网盘下载](https://mega.nz/#!0gxiyJSC!VmCNDomH9MXSQI9B-TW8L9MOPmHLFb4MUMrPU7oTyxQ)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!0gxiyJSC!VmCNDomH9MXSQI9B-TW8L9MOPmHLFb4MUMrPU7oTyxQ)（翻墙打开,出现下载界面后选择右边的download进行下载）
 
 ***
 ### 精简版
@@ -39,7 +39,7 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。提醒：运行ip
 
 [百度云网盘下载](http://pan.baidu.com/s/1gfOdEEn) 密码：h26z （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[MEGA网盘下载](https://mega.nz/#!hkRiTByT!074cucl8nr-DWxPp7bfwid2Z5Twrp-HzdBUirqACkgE)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!hkRiTByT!074cucl8nr-DWxPp7bfwid2Z5Twrp-HzdBUirqACkgE)（翻墙打开,出现下载界面后选择右边的download进行下载）
 
 
 ***
