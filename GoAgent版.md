@@ -24,7 +24,7 @@
 
 [百度云网盘下载](http://pan.baidu.com/s/1nuZdDHZ) 密码：mjst（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[MEGA网盘下载](https://mega.nz/#!thJ1ibBQ!XWeEihSiNYm6SwZnG2eQxRQ_K7xb_jfSDlLEWZLrUx4)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!thJ1ibBQ!XWeEihSiNYm6SwZnG2eQxRQ_K7xb_jfSDlLEWZLrUx4)（翻墙打开,出现下载界面后选择右边的download进行下载）
 
 
 ***
@@ -41,7 +41,7 @@
 
 [百度云网盘下载](http://pan.baidu.com/s/1bp5mj8b) 密码：qbqv（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[MEGA网盘下载](https://mega.nz/#!4hJkiCLK!1xus7R31MFnA3rGaduQoKNrB-4UVpWakAMFSP2h8HyE)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!4hJkiCLK!1xus7R31MFnA3rGaduQoKNrB-4UVpWakAMFSP2h8HyE)（翻墙打开,出现下载界面后选择右边的download进行下载）
 
 
 ***
