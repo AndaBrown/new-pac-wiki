@@ -10,7 +10,7 @@
 
 [百度网盘下载](http://pan.baidu.com/s/1b5Eg5C) 提取密码：u48i （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下）
 
-[MEGA网盘下载](https://mega.nz/#!d5AyDBYQ!cdwvhAGKzlpnN9lPwA81ms8JxbkM5ATnis3HS4lwuEw)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!d5AyDBYQ!cdwvhAGKzlpnN9lPwA81ms8JxbkM5ATnis3HS4lwuEw)（翻墙打开,出现下载界面后选择右边的download进行下载）
 
 ***
 
@@ -26,7 +26,7 @@
 
 [百度网盘下载](http://pan.baidu.com/s/1geGZoGz) 提取密码：k5r9 （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下）
 
-[MEGA网盘下载](https://mega.nz/#!ho4Cha7L!ronchqMcEVH2wysVkrutL5zi8NoKFB7_xcsb6o3gdvg)（翻墙打开下载地址更快；不翻墙的话，打开下载页面较慢，多等一下会出现下载界面，之后选择右边的download进行下载）
+[MEGA网盘下载](https://mega.nz/#!ho4Cha7L!ronchqMcEVH2wysVkrutL5zi8NoKFB7_xcsb6o3gdvg)（翻墙打开,出现下载界面后选择右边的download进行下载）
 
 ***
 
