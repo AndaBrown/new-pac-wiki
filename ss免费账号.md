@@ -14,7 +14,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器教程，很简单，关键是学会了一劳永逸。当你有能力了，你还可以帮助身边的人
 
-**===免费节点列表1===**（3月8日更新）
+**===免费节点列表1===**（3月9日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
@@ -47,7 +47,11 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器16： 104.250.147.22 端口：22845 密码：46914077 加密方式：aes-256-cfb （网友分享）
 
-**===免费节点列表2之樱花节点===**（3月8日更新，密码不变，ip或端口可能会不定期变化）
+服务器17： leifeng1.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
+
+服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
+
+**===免费节点列表2之樱花节点===**（3月9日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
 
@@ -75,11 +79,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器15：59.106.238.240 端口：31041 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器16：153.125.234.239 端口：31444 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器19：153.125.235.147 端口：31611 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器20：153.125.234.239 端口：31718 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -137,6 +137,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 [Freess免费节点网址](http://freess.co/)
 [kevinhu免费节点网址](http://www.kevinandhu.com/)
 [kxsw免费节点网址](https://kxsw.me/)
+[busi.me免费节点网址](http://yuweining.cn/leifeng/)
 
 
 如果你有优秀的免费节点分享网站，可以联系我帮助更多的人，或者如果你有闲置的 SS ，愿意分享出来，也可以联系我。联系邮箱:kebi2014@gmail.com 
