@@ -14,7 +14,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器教程，很简单，关键是学会了一劳永逸。当你有能力了，你还可以帮助身边的人
 
-**===免费节点列表1===**（3月9日更新）
+**===免费节点列表1===**（3月10日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
@@ -22,7 +22,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
-服务器5：123.203.222.72  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
+服务器5：124.244.98.246  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
 OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
@@ -51,15 +51,13 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
-**===免费节点列表2之樱花节点===**（3月9日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月10日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
 
 服务器1：153.125.238.237 端口：31999 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器3：153.125.234.241 端口：31354 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器4：153.125.238.143 端口：31316 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器6：153.125.238.207 端口：31782 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -81,8 +79,6 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器20：153.125.234.239 端口：31718 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器22：153.125.234.241 端口：31858 密码：dongtaiwang.com 加密方式：aes-256-cfb
@@ -94,8 +90,6 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 服务器26：153.125.237.211 端口：31423 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器27：153.125.237.173 端口：31960 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器29：153.125.238.143 端口：31034 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器30：153.125.235.147 端口：31571 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -113,7 +107,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月8日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（3月10日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器1：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
@@ -125,9 +119,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr](http://www.vultr.com/?ref=7048874)）
 
-服务器7：35.187.221.31  端口：10000  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
-
-服务器8：47.52.16.227  端口：443  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
+服务器7：47.52.16.227  端口：443  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
 
 **===其它免费节点网站===**
 
