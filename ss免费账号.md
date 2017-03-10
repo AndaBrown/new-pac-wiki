@@ -123,13 +123,14 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 **===其它免费节点网站===**
 
-[doub免费节点网址](https://doub.io/sszhfx/)
-[小双免费节点网址](https://xsjs.yhyhd.org/free-ss)
-[ubox免费节点网址](https://www.vbox.co/)
-[Freess免费节点网址](http://freess.co/)
-[kevinhu免费节点网址](http://www.kevinandhu.com/)
-[kxsw免费节点网址](https://kxsw.me/)
-[busi.me免费节点网址](http://yuweining.cn/leifeng/)
+[doub](https://doub.io/sszhfx/)
+[小双](https://xsjs.yhyhd.org/free-ss)
+[ubox](https://www.vbox.co/)
+[Freess](http://freess.co/)
+[kevinhu](http://www.kevinandhu.com/)
+[kxsw](https://kxsw.me/)
+[busi.me](http://yuweining.cn/leifeng/)
+[FreeSS](http://freess.org/)
 
 
 如果你有优秀的免费节点分享网站，可以联系我帮助更多的人，或者如果你有闲置的 SS ，愿意分享出来，也可以联系我。联系邮箱:kebi2014@gmail.com 
