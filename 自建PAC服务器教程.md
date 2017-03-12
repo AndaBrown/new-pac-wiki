@@ -233,6 +233,8 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 鸣谢：[小樱](http://bbs.itzmx.com/thread-8815-1-1.html) [91yun](https://www.91yun.org/archives/683)  
 
 
+***
+
 有问题请发邮件到kebi2014@gmail.com 
 
 
