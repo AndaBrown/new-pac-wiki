@@ -228,9 +228,9 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 然后你选中你的PAC地址，试试能不能翻出去以及翻墙速度如何就可以了。整个教程，第二步很关键，通常第二步完成后，在加速前就可以先实测一下是否部署成功。
 
-
 ***
 
+鸣谢：[小樱](http://bbs.itzmx.com/thread-8815-1-1.html) [91yun](https://www.91yun.org/archives/683)  
 
 
 有问题请发邮件到kebi2014@gmail.com 
