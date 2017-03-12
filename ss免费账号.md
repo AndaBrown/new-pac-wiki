@@ -51,7 +51,7 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
-**===免费节点列表2之樱花节点===**（3月10日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月12日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
 
@@ -73,13 +73,9 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器13：153.125.238.205 端口：31151 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器14：153.125.234.242 端口：31631 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器15：59.106.238.240 端口：31041 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器22：153.125.234.241 端口：31858 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -132,11 +128,11 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
 [FreeSS.org](http://freess.org/)
 
-***
+**===Shadowsocks软件下载及教程===**
 
 [SS全平台客户端以及APP下载](https://busi.me/archives/173/) （不死鸟科学上网分享）
 
-[Shadowsocks 影梭全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
+[Shadowsocks（影梭）全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
 
 ***
 
