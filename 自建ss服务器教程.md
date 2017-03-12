@@ -148,6 +148,9 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
+鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)
 
+
+***
 
 有问题请发邮件到kebi2014@gmail.com 
