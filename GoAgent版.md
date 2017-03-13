@@ -24,7 +24,7 @@
 
 [百度云网盘下载](http://pan.baidu.com/s/1c2OkyPy) 密码：i3rs（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[盛天云盘](http://pan.stnts.com/s/g2X0bbu)
+[盛天云盘](http://pan.stnts.com/s/2KkspKe)
 
 ***
 
@@ -40,7 +40,7 @@
 
 [百度云网盘下载](http://pan.baidu.com/s/1o8txVnk) 密码：zyf6（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[盛天云盘](http://pan.stnts.com/s/2KkspKe)
+[盛天云盘](http://pan.stnts.com/s/g2X0bbu)
 
 
 ***
