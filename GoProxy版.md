@@ -24,6 +24,7 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。提醒：运行ip
 
 [百度云网盘下载](http://pan.baidu.com/s/1skCEw7z) 密码：hbm4（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
+[盛天云盘](http://pan.stnts.com/s/ldWWwi6)
 
 ***
 ### 精简版
@@ -38,6 +39,7 @@ GoProxy简介：GoProxy是类似GoAgent的一款翻墙软件。提醒：运行ip
 
 [百度云网盘下载](http://pan.baidu.com/s/1skR739V) 密码：w9hg （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
+[盛天云盘](http://pan.stnts.com/s/dcOgPjt)
 
 ***
 
