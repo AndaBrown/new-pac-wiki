@@ -12,6 +12,7 @@
 
 [百度云网盘下载](http://pan.baidu.com/s/1kURJECJ) 密码：xyxj（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
+[盛天云盘](http://pan.stnts.com/s/3l4ArAI)
 
 ***
 
@@ -27,6 +28,7 @@
 
 [百度云网盘下载](http://pan.baidu.com/s/1boHkA31) 密码：xah9（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
+[盛天云盘](http://pan.stnts.com/s/K9NqTpk)
 
 使用方法：下载后解压，按使用说明（必看）操作即可。
 
