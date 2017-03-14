@@ -12,18 +12,15 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 [点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
-正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器教程，很简单，关键是学会了一劳永逸。当你有能力了，你还可以帮助身边的人
+正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器教程，很简单，重点是学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
 
-**===免费节点列表1===**（3月10日更新）
+**===免费节点列表1===**（3月14日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
 服务器2：a1.sser.cf 端口：14523 密码：Qun595936571 加密方式：RC4-MD5  （网友分享）
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
-
-服务器5：124.244.98.246  端口：18746  密码：HKSharedCBKEY!*&$^  加密方式：chacha20-ietf  Protocol:auth_aes128_sha1 
-OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
