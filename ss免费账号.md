@@ -103,26 +103,21 @@ OBFS:tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月10日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（3月14日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器1：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
-服务器3：172.246.47.195  端口：8158  密码： Es9ed1nE 加密方式：RC4-MD5  （ 小双免费[enzu](http://www.vultr.com/?ref=7052665-3B)）
+服务器2：172.246.47.195  端口：8870  密码：BVYLHLfT 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
 
-服务器4：104.128.236.22  端口：8157 密码：TIRrbbQC 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
+服务器3：104.128.236.22  端口：8869 密码：A5ianxp0 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
 
-服务器5：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean](https://www.digitalocean.com/)）
-
-服务器6：s1.freess.co  端口：9999  密码：290  加密方式：rc4-md5（Freess分享[vultr](http://www.vultr.com/?ref=7048874)）
-
-服务器7：47.52.16.227  端口：443  密码：kxsw.me  加密方式：aes-256-cfb（kxsw.me免费节点）
+服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean](https://www.digitalocean.com/)）
 
 **===其它免费节点网站===**
 
 [doub.io](https://doub.io/sszhfx/)
 [小双加速](https://xsjs.yhyhd.org/free-ss)
 [ubox.co](https://www.vbox.co/)
-[Freess.co](http://freess.co/)
 [kevinhu.com](http://www.kevinandhu.com/)
 [kxsw.me](https://kxsw.me/)
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
