@@ -119,6 +119,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 [kxsw.me](https://kxsw.me/)
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
 [FreeSS.org](http://freess.org/)
+[Namaho](https://www.namaho.org)
 
 **===Shadowsocks软件下载及教程===**
 
