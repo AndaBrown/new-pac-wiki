@@ -14,7 +14,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器教程，很简单，重点是学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
 
-**===免费节点列表1===**（3月14日更新）
+**===免费节点列表1===**（3月15日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
@@ -37,8 +37,6 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器13：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb（James Villa网友分享 ）
-
-服务器14：138.128.202.53   端口：7601  密码：oTkFlC2EKsRx 加密方式：aes-256-cfb (Xiaoming Liu网友分享）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
@@ -109,6 +107,10 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 服务器3：104.128.236.22  端口：8869 密码：A5ianxp0 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
 
 服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean](https://www.digitalocean.com/)）
+
+服务器5：us.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
+
+服务器6：jp.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
 
 **===其它免费节点网站===**
 
