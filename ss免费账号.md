@@ -46,6 +46,20 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
+服务器19： hk11.kxsw.ga 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+
+服务器20： hk14.kxsw.ga 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+
+服务器21： 159.203.140.6 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+
+服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
+
+服务器23： 52.90.27.215 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
+
+服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+
+服务器25： 64.137.234.170 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+
 **===免费节点列表2之樱花节点===**（3月12日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
@@ -118,7 +132,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 [小双加速](https://xsjs.yhyhd.org/free-ss)
 [ubox.co](https://www.vbox.co/)
 [kevinhu.com](http://www.kevinandhu.com/)
-[kxsw.me](https://kxsw.me/)
+[kxsw.me](https://kxsw.me/kxsw/)
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
