@@ -14,7 +14,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 正所谓“授人以鱼不如授人以渔”，有条件的朋友建议你学习一下自己搭建ss服务器教程，很简单，重点是学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
 
-**===免费节点列表1===**（3月15日更新）
+**===免费节点列表1===**（3月16日更新）
 
 服务器1：104.160.181.92 端口：9999 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
@@ -22,7 +22,7 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
-服务器6：52.230.24.148  端口：1234  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
+服务器6：52.230.24.148  端口：8388  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
@@ -112,9 +112,9 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月14日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（3月16日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：52.230.18.223  端口：9090  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
+服务器1：52.230.18.223  端口：8080  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
 服务器2：172.246.47.195  端口：8870  密码：BVYLHLfT 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
 
