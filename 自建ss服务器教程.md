@@ -1,6 +1,8 @@
-**2017年3月1日vultr服务商新增了2.5美元/月的vps服务器，按照1：7的汇率，折算下来只要人民币17.5元/月，新用户账号首次充值5美元送10美元（送的10美元有效期1年），15美元选用最低配置的服务器，可以用6个月**
+**2017年3月18日增加防ddos脚本**
 
-**2017年2月25日更新一键部署ss代码命令** 
+2017年3月1日vultr服务商新增了2.5美元/月的vps服务器，按照1：7的汇率，折算下来只要人民币17.5元/月，新用户账号首次充值5美元送10美元（送的10美元有效期1年），15美元选用最低配置的服务器，可以用6个月
+
+2017年2月25日更新一键部署ss代码命令
 
 教程很简单，整个教程分三步：
 
@@ -145,10 +147,32 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 出现running字样即可!
 
+***
+
+附：【一个简单的防DDOS脚本】
+
+**安装：**
+
+wget http://www.inetbase.com/scripts/ddos/install.sh
+
+chmod +x install.sh
+
+./install.sh
+
+**卸载：**
+
+wget http://www.inetbase.com/scripts/ddos/uninstall.sh
+
+chmod +x uninstall.sh
+
+./uninstall.sh
+
+**原理：**用Cron计划任务定时执行脚本统计单个IP的最大连接数，如果超过阈值则用APF活着iptables来阻止，并在预设的阻止时间后释放。
+
 
 ***
 
-鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)
+鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)  [张朝权博客](https://www.zhangchaoquan.com/index.php/linux/219.html)
 
 
 ***
