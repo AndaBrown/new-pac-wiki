@@ -133,7 +133,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 **===其它免费节点网站===**
 
-[doub.io](https://doub.io/sszhfx/)
+[doub.io](https://doub.io/sszhfx/) （被墙）
 [小双加速](https://xsjs.yhyhd.org/free-ss)
 [ubox.co](https://www.vbox.co/)
 [kevinhu.com](http://www.kevinandhu.com/)
