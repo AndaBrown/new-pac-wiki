@@ -24,6 +24,8 @@
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月18日更新GoProxy版本至r1329，同时更新高质量ip）
 
+[GoAgent版和GoProxy版运行ip更新文件失败解决方法](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%E8%BF%90%E8%A1%8Cip%E6%9B%B4%E6%96%B0%E6%96%87%E4%BB%B6%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95) （2017年3月19日发布）
+
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年3月8日更新）
 
 [Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2017年1月6日更新）
