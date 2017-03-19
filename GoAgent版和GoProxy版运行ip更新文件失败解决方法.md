@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ip.PNG)
 
 
-使用GoProxy版时请检查Agent文件夹里面是否有名为gae.user.json_backup文件，如果没有，请自行建立一个文件，方法是复制proxy.user.ini并粘贴在Agent文件夹里，然后改其名字为gae.user.json_backup即可。记住一定要保证Agent文件夹里面有gae.user.json和gae.user.json_backup两个文件。
+使用GoProxy版时请检查Agent文件夹里面是否有名为gae.user.json_backup文件，如果没有，请自行建立一个文件，方法是复制gae.user.json并粘贴在Agent文件夹里，然后改其名字为gae.user.json_backup即可。记住一定要保证Agent文件夹里面有gae.user.json和gae.user.json_backup两个文件。
 
 
 如图：
