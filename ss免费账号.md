@@ -14,13 +14,18 @@ https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7
 
 “授人以鱼不如授人以渔”，有条件的朋友可以学习一下自己搭建ss服务器教程，按照教程来很简单，学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
 
-**===免费节点列表1===**（3月18日更新）
+**===免费节点列表1===**（3月19日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
 
 服务器2：a1.sser.cf 端口：14523 密码：Qun595936571 加密方式：RC4-MD5  （网友分享）
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
+
+服务器4：123.203.223.94  端口：37910 密码：HKShare37910 加密方式：chacha20   （Lobert Cheung网友分享）
+
+服务器5：123.203.223.94  端口：37909 密码：HKShare37909 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
+OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器6：52.230.24.148  端口：8388  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
