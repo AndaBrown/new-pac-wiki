@@ -40,8 +40,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器11：45.63.58.245  端口：8989  密码：654321 加密方式：aes-256-cfb（James Villa网友分享 ）
-
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器13：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb（James Villa网友分享 ）
@@ -144,6 +142,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
+[追梦人博客](https://dream.ren/ss.html)
 
 **===Shadowsocks软件下载及教程===**
 
