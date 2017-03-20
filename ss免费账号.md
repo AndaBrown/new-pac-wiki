@@ -3,7 +3,7 @@
 **翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
 
-以下免费ss账号来自于网络资源以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT下载。如果想分享本页面的ss账号给你的朋友，请告诉他本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 这样当账号没法使用时，他可以自己到此页面来选择其它的账号。
+以下免费ss账号来自于网络资源以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT下载。如果想分享本页面的ss账号给你的朋友，请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 
 
 **提醒**：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了——国内ip打不开，你也不用太担心，只要你能翻墙出来打开此页面，就能获取最新的ss免费账号。所以说，多备用几款翻墙软件就很有必要了，推荐一键翻墙浏览器https://github.com/Alvin9999/new-pac/wiki
 
