@@ -144,13 +144,13 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 **===其它免费节点网站===**
 
-[doub.io](https://doub.io/sszhfx/) （被墙）
+[doub.bid](https://doub.bid/sszhfx/) 
 [小双加速](https://xsjs.yhyhd.org/free-ss)
 [ubox.co](https://www.vbox.co/)
 [kevinhu.com](http://www.kevinandhu.com/)
 [kxsw.me](https://kxsw.me/kxsw/)
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
-[freess.co](http://freess.co/)
+[freess.co](http://freess.co/) (被墙）
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
 [追梦人博客](https://dream.ren/ss.html)
