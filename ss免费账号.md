@@ -123,9 +123,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器1：52.230.18.223  端口：8080  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
 
-服务器2：172.246.47.195  端口：8870  密码：BVYLHLfT 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
+服务器2：172.246.47.195  端口：8605  密码：Q6W2zVH2 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
 
-服务器3：104.128.236.22  端口：8869 密码：A5ianxp0 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
+服务器3：104.128.236.22  端口：8604 密码：jEA6RKJu 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
 
 服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean](https://www.digitalocean.com/)）
 
