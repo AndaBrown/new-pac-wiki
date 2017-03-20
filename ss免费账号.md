@@ -18,7 +18,7 @@
 
 **===免费节点列表1===**（3月19日更新）
 
-服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://rectified.net/)）
+服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：a1.sser.cf 端口：14523 密码：Qun595936571 加密方式：RC4-MD5  （网友分享）
 
