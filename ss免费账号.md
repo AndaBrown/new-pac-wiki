@@ -5,7 +5,7 @@
 
 以下免费ss账号来自于网络资源以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT下载。如果想分享本页面的ss账号给你的朋友，请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 
 
-**===免费节点列表1===**（3月20日更新）
+**===免费节点列表1===**（3月21日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -18,8 +18,6 @@
 服务器5：123.203.223.94  端口：37909 密码：HKShare37909 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
 OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
-服务器6：52.230.24.148  端口：8388  密码：dongtaiwang.com  加密方式：aes-256-cfb （自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
-
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器8： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean](https://www.digitalocean.com/) ）
@@ -27,8 +25,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器9： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
 服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
-
-服务器11：107.191.58.153 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
@@ -42,10 +38,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
-服务器19： hk11.kxsw.ga 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
-
-服务器20： hk14.kxsw.ga 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
-
 服务器21： 159.203.140.6 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
@@ -56,11 +48,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器25： 64.137.234.170 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（3月12日更新，密码不变，ip或端口可能会不定期变化。此列表节点最近很稳定）
+**===免费节点列表2之樱花节点===**（3月21日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
-
-服务器1：153.125.238.237 端口：31999 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器3：153.125.234.241 端口：31354 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -108,9 +98,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月20日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
-
-服务器1：52.230.18.223  端口：8080  密码：dongtaiwang.com  加密方式：aes-256-cfb（自建[microsoft azure](https://azure.microsoft.com/zh-cn/)）
+**===免费节点列表3===**（3月21日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器2：172.246.47.195  端口：8605  密码：Q6W2zVH2 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
 
