@@ -137,6 +137,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器8：47.88.188.62 端口：10005  密码: 8938  加密方式：rc4-md5 (追梦人博客分享）
 
+服务器9：108.61.246.51 端口：8603  密码: 9nXBdmlU  加密方式：rc4-md5 (小双免费[vultr](http://www.vultr.com/?ref=7048874) ）
+
+服务器10：s1.freess.co 端口：9999  密码: 821  加密方式：rc4-md5 (freess.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
 
 **===其它免费节点网站===**
@@ -147,9 +150,11 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 [kevinhu.com](http://www.kevinandhu.com/)
 [kxsw.me](https://kxsw.me/kxsw/)
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
+[freess.co](http://freess.co/)
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
 [追梦人博客](https://dream.ren/ss.html)
+[laozhang](http://www.laozhang.tk/?p=4)
 
 **===Shadowsocks软件下载及教程===**
 
