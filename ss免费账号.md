@@ -1,21 +1,15 @@
-### 长期更新
+### SS免费账号（长期更新）
 
 **翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
 
 以下免费ss账号来自于网络资源以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT下载。如果想分享本页面的ss账号给你的朋友，请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 
 
-
-**===自建ss服务器教程===**
-
-[点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
-
-“授人以鱼不如授人以渔”，有条件的朋友可以学习一下自己搭建ss服务器教程，按照教程来很简单，学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
-
-
 **===免费节点列表1===**（3月20日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+
+服务器2：104.160.176.31 端口：5555 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
@@ -150,6 +144,13 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 [Namaho](https://www.namaho.org)
 [追梦人博客](https://dream.ren/ss.html)
 [laozhang](http://www.laozhang.tk/?p=4)
+
+
+**===自建ss服务器教程===**
+
+[点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+
+“授人以鱼不如授人以渔”，有条件的朋友可以学习一下自己搭建ss服务器教程，按照教程来很简单，学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
 
 **===Shadowsocks软件下载及教程===**
 
