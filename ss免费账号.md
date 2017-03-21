@@ -133,18 +133,21 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 [追梦人博客](https://dream.ren/ss.html)
 [laozhang](http://www.laozhang.tk/?p=4)
 
-
-**===自建ss服务器教程===**
-
-[点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
-
-“授人以鱼不如授人以渔”，有条件的朋友可以学习一下自己搭建ss服务器教程，按照教程来很简单，学会了一劳永逸。当你有能力了，你还可以帮助你的朋友。
-
 **===Shadowsocks软件下载及教程===**
 
 [SS全平台客户端以及APP下载](https://busi.me/archives/173/) （不死鸟科学上网分享）
 
 [Shadowsocks（影梭）全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
+
+
+**===搭建ss服务器教程===**
+
+[点我获取详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+
+上面的教程是关于在vultr服务器上搭建ss的教程,最低配置是2.5美元/月,按小时计费。
+
+除此之外，目前谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，算了下，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。Asia节点（台湾你）速度666，而且Google Cloud 访问 Youtube 并不计算流量到服务器，这点对于YouTube爱好者来说绝对是福音。教程：[Google Cloud服务免费申请试用以及使用教程](http://51.ruyo.net/p/2144.html#comment-15426)
+
 
 ***
 
