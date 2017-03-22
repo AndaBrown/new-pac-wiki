@@ -5,6 +5,8 @@
 
 以下免费ss账号来自于网络资源以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。禁止使用账号进行垃圾邮件、DDOS、BT下载。如果想分享本页面的ss账号给你的朋友，请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 
 
+ps:如果想自己搭建ss，网页的末端有搭建方法
+
 **===免费节点列表1===**（3月21日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
