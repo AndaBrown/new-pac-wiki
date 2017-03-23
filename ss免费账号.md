@@ -40,8 +40,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
-服务器21： 159.203.140.6 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
-
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
 服务器23： 52.90.27.215 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
@@ -50,7 +48,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器25： 64.137.234.170 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（3月21日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月23日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
 
@@ -87,8 +85,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器30：153.125.235.147 端口：31571 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器31：153.125.235.236 端口：31783 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器33：153.125.235.240 端口：31614 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器35：153.125.235.242 端口：31513 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
