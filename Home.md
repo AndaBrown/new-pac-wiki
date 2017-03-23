@@ -26,7 +26,7 @@
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月23日更新版本）
 
-[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年3月8日更新）
+[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年3月23日更新版本）
 
 [Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2017年1月6日更新）
 
