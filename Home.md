@@ -18,13 +18,13 @@
 
 **PS**：你可以只用某一款软件，但最好多下载几款软件作为备用，以备不时之需。如果你觉得软件好用，可以分享给你的朋友使用。
 
-### 公告：GoAgent版和GoProxy版更新ip时，请运行ip-2文件来更新，有些地区运行ip-1文件会出现文件丢失！正在想办法来解决此问题。如果已经运行ip-1文件多次造成两个文件丢失，请运行ip-2文件两次或者重新解压再运行ip-2。
+### 公告：GoAgent版和GoProxy版运行ip更新文件出现“无法找到文件”字样，旧版用户请用ip-2文件来更新，或者下载最新的3月23日版本，最新版已解决此问题
 
 ***
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年3月18日更新高质量ip，旧版用户可以按照《使用说明（必看）》运行ip-2更新文件来同步到最新云端）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年3月23日更新版本）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月22日更新云端GoProxy DNS，旧版用户可以按照《使用说明（必看）》运行ip-2更新文件来同步到最新云端）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月23日更新版本）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年3月8日更新）
 
