@@ -19,7 +19,7 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=2565855037477112) 提取密码：32292
 
-[NoFile云盘下载](https://www.NoFile.io/f/L4pq7AZnxEF) 密码：7823
+[盛天云盘下载](http://pan.stnts.com/s/yysLe5r)
 
 [百度云网盘下载](http://pan.baidu.com/s/1jI5cj2m) 密码：2nem（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
@@ -36,7 +36,7 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=1379066902082618) 提取密码 : 20055
 
-[NoFile云盘下载](https://www.NoFile.io/f/AN4yb5YRug5) 密码：8467
+[盛天云盘下载](http://pan.stnts.com/s/WWC35LN)
 
 [百度云网盘下载](http://pan.baidu.com/s/1c2Mjxp2) 密码：7tf4（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
