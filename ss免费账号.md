@@ -7,7 +7,7 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
-**===免费节点列表1===**（3月23日更新）
+**===免费节点列表1===**（3月24日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -45,8 +45,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器23： 52.90.27.215 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
-
-服务器25： 64.137.234.170 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
 **===免费节点列表2之樱花节点===**（3月24日更新，密码不变，ip或端口可能会不定期变化）
 
@@ -88,8 +86,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器22：153.125.234.241 端口：31858 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器24：153.125.235.140 端口：31619 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器25：153.125.235.207 端口：31866 密码：dongtaiwang.com 加密方式：aes-256-cfb
@@ -105,8 +101,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器30：153.125.235.147 端口：31571 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器31：153.125.235.236 端口：31783 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器32：153.125.235.242 端口：31995 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器33：153.125.235.242 端口：31747 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
