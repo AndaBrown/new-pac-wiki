@@ -48,9 +48,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器25： 64.137.234.170 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（3月23日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月24日更新，密码不变，ip或端口可能会不定期变化）
 
-此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （听说樱花免费节点至6月30日结束）
+此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （听说樱花免费服务器至6月30日结束）
 
 服务器2：153.125.238.145 端口：31818 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
