@@ -50,13 +50,19 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 **===免费节点列表2之樱花节点===**（3月23日更新，密码不变，ip或端口可能会不定期变化）
 
-此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/)
+此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （听说樱花免费节点至6月30日结束）
+
+服务器2：153.125.238.145 端口：31818 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器3：153.125.234.241 端口：31354 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器4：153.125.238.140 端口：31469 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器6：153.125.238.207 端口：31782 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器7：153.125.235.207 端口：31206 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器8：153.125.238.207 端口：31558 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器9：153.125.238.173 端口：31695 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -68,9 +74,19 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器13：153.125.238.205 端口：31151 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器14：153.125.234.239 端口：31092 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器15：59.106.238.240 端口：31041 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器16：153.125.234.238 端口：31340 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器19：153.125.235.147 端口：31611 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器20：153.125.234.237 端口：31706 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器22：153.125.234.241 端口：31858 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -82,9 +98,19 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器27：153.125.237.173 端口：31960 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
+服务器28：153.125.238.178 端口：31534 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器29：153.125.238.145 端口：31908 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
 服务器30：153.125.235.147 端口：31571 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器31：153.125.235.236 端口：31783 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器32：153.125.235.242 端口：31995 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器33：153.125.235.242 端口：31747 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器34：153.125.235.173 端口：31228 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器35：153.125.235.242 端口：31513 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -95,6 +121,8 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器38：153.125.235.177 端口：31587 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
+
+服务器40：153.125.235.178 端口：31795 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 **===免费节点列表3===**（3月22日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
