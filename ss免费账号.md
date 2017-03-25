@@ -46,9 +46,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（3月24日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月25日更新，密码不变，ip或端口可能会不定期变化）
 
-此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （听说樱花免费服务器至6月30日结束）
+此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
 服务器2：153.125.238.145 端口：31818 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -80,8 +80,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器19：153.125.235.147 端口：31611 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器20：153.125.234.237 端口：31706 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
@@ -97,8 +95,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器28：153.125.238.178 端口：31534 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器29：153.125.238.145 端口：31908 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器30：153.125.235.147 端口：31571 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器31：153.125.235.236 端口：31783 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -169,9 +165,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 [免费搭建heroku ss服务器教程](https://github.com/divalu2333/shadowsocks-heroku/blob/master/README.md) （测试看网页很快，看视频清晰度一般，YouTube视频480p，毕竟是免费的东西）
 
 [Google Cloud服务免费申请试用以及使用教程（如有乐享）](http://51.ruyo.net/p/2144.html)
-谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，算了下，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。Asia节点（台湾）速度666（配合锐速），而且Google Cloud 访问 Youtube 并不计算流量到服务器，这点对于YouTube爱好者来说绝对是福音。
+谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，算了下，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。Asia节点（台湾）速度666（配合锐速），另外Google Cloud 访问 Youtube 并不计算流量到服务器。
 
-ps:在搭建过程中，如果遇到一些搞不懂的地方，记得擅用google搜索哦～只要是网上有的，基本上都能搜到。如果你没有搜到，不妨试着优化一下关键词。
+ps:在搭建过程中，如果遇到一些搞不懂的地方，记得擅用google搜索，只要是网上有的，基本上都能搜到。如果你没有搜到，不妨试着优化一下关键词。
 
 ***
 
