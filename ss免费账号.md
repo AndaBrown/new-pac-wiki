@@ -168,7 +168,8 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 [免费搭建heroku ss服务器教程](https://github.com/divalu2333/shadowsocks-heroku/blob/master/README.md) （测试看网页很快，看视频清晰度一般，YouTube视频480p，毕竟是免费的东西）
 
-除此之外，谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，算了下，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。Asia节点（台湾）速度666（配合锐速），而且Google Cloud 访问 Youtube 并不计算流量到服务器，这点对于YouTube爱好者来说绝对是福音。教程：[Google Cloud服务免费申请试用以及使用教程（如有乐享）](http://51.ruyo.net/p/2144.html)
+[Google Cloud服务免费申请试用以及使用教程（如有乐享）](http://51.ruyo.net/p/2144.html)
+谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，算了下，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。Asia节点（台湾）速度666（配合锐速），而且Google Cloud 访问 Youtube 并不计算流量到服务器，这点对于YouTube爱好者来说绝对是福音。
 
 ps:在搭建过程中，如果遇到一些搞不懂的地方，记得擅用google搜索哦～只要是网上有的，基本上都能搜到。如果你没有搜到，不妨试着优化一下关键词。
 
