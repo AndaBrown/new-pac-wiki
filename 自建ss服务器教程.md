@@ -47,13 +47,11 @@ VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、
 
 购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫Xshell的软件来远程部署。Xshell下载地址：
 
-巴别鸟云盘下载：http://www.babel.cc/share.do?s=5793540665720793 提取密码：38693
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5793540665720793) 提取密码：38693
 
-天禾云盘下载：http://demo.flyui.net/s.aspx/3STR5P 提取密码：r9c5
+[MEGA云盘下载](https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5uDy0) （翻墙打开）
 
-MEGA网盘：https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5uDy0 （翻墙打开此下载地址会更快）
-
-百度软件中心：http://rj.baidu.com/soft/detail/15201.html?ald
+[百度软件中心](http://rj.baidu.com/soft/detail/15201.html?ald)
 
 ***
 
