@@ -25,7 +25,7 @@
 
 **下载地址:**
 
-[巴别鸟云盘下载](链接 : http://www.babel.cc/share.do?s=93336252107414) 提取密码：42940
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=93336252107414) 提取密码：42940
 
 [盛天云盘下载](http://pan.stnts.com/s/a8f67CC) 
 
