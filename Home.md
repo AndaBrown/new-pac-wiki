@@ -28,11 +28,11 @@
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年3月23日更新版本）
 
-[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2017年1月6日更新；暂停更新）
-
-[谷歌浏览器内核升级方法](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95)  （2017年3月26日更新）   
+[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2017年1月6日更新；暂停更新） 
 
 [GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（非一键翻墙方法，2017年1月8日发布）
+
+[谷歌浏览器内核升级方法](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8%E5%8D%87%E7%BA%A7%E6%96%B9%E6%B3%95)  （2017年3月26日更新）  
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（无界和自由门，更新自由门版本至7.60）
 
