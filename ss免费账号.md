@@ -46,7 +46,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（3月25日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（3月27日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
@@ -106,10 +106,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器36：153.125.235.236 端口：31370 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器37：153.125.235.177 端口：31064 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器38：153.125.235.177 端口：31587 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
 服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器40：153.125.235.178 端口：31795 密码：dongtaiwang.com 加密方式：aes-256-cfb
@@ -118,9 +114,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器1：67.21.78.225  端口：8989 密码：doub.io666 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器2：172.246.47.195  端口：8605  密码：Q6W2zVH2 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
+服务器2：172.246.47.195  端口：8226  密码：GMOcDC9V 加密方式：RC4-MD5  （ 小双免费[enzu](https://enzu.com/)）
 
-服务器3：104.128.236.22  端口：8604 密码：jEA6RKJu 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
+服务器3：104.128.236.22  端口：8225  密码：5AjDRyVm 加密方式：RC4-MD5  （小双免费[hostus](https://hostus.us/)）
 
 服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu免费[digitalocean](https://www.digitalocean.com/)）
 
@@ -132,7 +128,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器8：47.88.188.62 端口：10005  密码: 8938  加密方式：rc4-md5 (追梦人博客分享）
 
-服务器9：108.61.246.51 端口：8603  密码: 9nXBdmlU  加密方式：rc4-md5 (小双免费[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器9：108.61.246.51 端口：8224  密码: 0SKCWs6U  加密方式：rc4-md5 (小双免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器10：s1.freess.co 端口：9999  密码: 821  加密方式：rc4-md5 (freess.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
