@@ -7,7 +7,7 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
-**===免费节点列表1===**（3月24日更新）
+**===免费节点列表1===**（3月28日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -20,6 +20,8 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器5：210.6.194.71  端口：37909 密码：HKShare37909 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
 OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
+服务器6：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
+
 服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器8： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co免费[digitalocean](https://www.digitalocean.com/) ）
@@ -27,6 +29,8 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器9： f1.sser.cf 端口: 15743 密码: whufo  加密方式: rc4-md5（网友分享）
 
 服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co免费[vultr](http://www.vultr.com/?ref=7048874) ）
+
+服务器11：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
@@ -39,6 +43,8 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 服务器17： leifeng1.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
+
+服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
