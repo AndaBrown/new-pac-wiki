@@ -7,7 +7,7 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
-**===免费节点列表1===**（3月28日更新）
+**===免费节点列表1===**（3月29日更新）
 
 服务器1：104.160.181.92 端口：8888 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -15,9 +15,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
-服务器4：210.6.194.71  端口：37910 密码：HKShare37910 加密方式：chacha20   （Lobert Cheung网友分享）
+服务器4：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY 加密方式：chacha20   （Lobert Cheung网友分享）
 
-服务器5：210.6.194.71  端口：37909 密码：HKShare37909 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
+服务器5：210.6.194.71  端口：37909 密码：HKFreeShareAbuseDENY 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
 OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器6：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
@@ -116,7 +116,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器40：153.125.235.178 端口：31795 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月22日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（3月28日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器1：67.21.78.225  端口：8989 密码：doub.io666 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
