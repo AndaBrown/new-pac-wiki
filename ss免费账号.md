@@ -15,9 +15,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器3：153.125.232.144  端口：31209  密码：666666 加密方式：aes-256-cfb （网友分享）
 
-服务器4：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY 加密方式：chacha20   （Lobert Cheung网友分享）
+服务器4：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY37910 加密方式：chacha20   （Lobert Cheung网友分享）
 
-服务器5：210.6.194.71  端口：37909 密码：HKFreeShareAbuseDENY 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
+服务器5：210.6.194.71  端口：37909 密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
 OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器6：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
