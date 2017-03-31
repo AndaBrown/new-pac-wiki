@@ -1,4 +1,6 @@
-**2017年3月18日增加防ddos脚本**
+**2017年3月31日增加搭建SSR脚本和防BT下载脚本**
+
+***
 
 **教程很简单，整个教程分三步**：
 
@@ -88,12 +90,21 @@ chmod +x shadowsocks-libev.sh
 
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
 
+———————————————————代码分割线————————————————
+
+一键部署ssR代码(支持混淆协议）如下：
+
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
+
+chmod +x shadowsocksR.sh
+
+./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 
 ———————————————————代码分割线————————————————
 
-将上面整个代码复制下来，鼠标右键即可。然后粘贴到到shell软件的命令栏里，之后就自动开始部署了，如果没有反应，敲键盘的“回车键”。
+根据需求选择SS代码或SSR代码，然后将代码复制下来，鼠标右键即可。然后粘贴到到shell软件的命令栏里，之后就自动开始部署了，如果没有反应，敲键盘的“回车键”。
 
-运行后，首先会提示你设置密码，以12345678为例，输入密码后，敲回车键，如图：
+以SS代码运行为例，首先会提示你设置密码，以12345678为例，输入密码后，敲回车键，如图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/ss1.png)
 
@@ -141,7 +152,11 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
-附：【一个简单的防DDOS脚本】
+如果你部署的ss服务器只是自己用，可以不用看下面的教程。下面的教程主要是针对愿意将ss账号分享给别人使用时，可供参考的其它脚本。
+
+附：
+
+**一个简单的防DDOS脚本**
 
 **安装：**
 
@@ -164,7 +179,13 @@ chmod +x uninstall.sh
 
 ***
 
-鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)  [张朝权博客](https://www.zhangchaoquan.com/index.php/linux/219.html)
+**CentOS上封邮件发出实现防SPAM和BT、PT的教程**，代码如下：
+
+wget -4qO- onekey.sh/Get_Out_Spam|bash
+
+***
+
+鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)  [张朝权博客](https://www.zhangchaoquan.com/index.php/linux/219.html) [时刻知](http://www.shikezhi.com/html/2016/linux_1004/1227496.html)
 
 
 ***
