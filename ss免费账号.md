@@ -156,7 +156,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 **===搭建ss服务器教程===**
 
-[vultr搭建ss详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss的教程,最低配置是2.5美元/月。
+[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss的教程,最低配置是2.5美元/月。
 
 [免费搭建heroku ss服务器教程](https://github.com/521xueweihan/shadowsocks-heroku) （测试看网页很快，看视频清晰度一般，YouTube视频480p，毕竟是免费的东西）
 
