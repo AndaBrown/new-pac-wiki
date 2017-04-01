@@ -39,4 +39,9 @@ GoGo1.8.1下载地址：
 
 再次提醒：需要先安装JAVA，然后运行GoGo1.8.1，最后用GoGo翻墙浏览器就能翻墙上网。
 
+***
+
+### 鸣谢：[gogotunnel官网](http://www.gogotunnel.com/)
+
+
 
