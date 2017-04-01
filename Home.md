@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoAgent版、GoProxy版、Lantern版、PAC版软件适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
+**介绍**：GoAgent版、GoProxy版、PAC版软件适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙程序被删了，需要重新解压才行。
 
 **选择指南**：首选GoAgent版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，这两款版本值得首选。PAC版和Lantern版适合作为备选：PAC版使用的是vps服务器搭建的PAC代理地址；Lantern程序为免费版本。
 
@@ -18,8 +18,6 @@
 
 **PS**：你可以只用某一款软件，但最好多下载几款软件作为备用，以备不时之需。如果你觉得软件好用，可以分享给你的朋友使用。
 
-### 公告：GoAgent版和GoProxy版运行ip更新文件出现“无法找到文件”字样，旧版用户请用ip-2文件来更新，或者下载最新的3月23日版本，最新版已解决此问题
-
 ***
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年3月23日更新版本）
@@ -27,8 +25,6 @@
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年3月23日更新版本；3月24日更新云端配置和ip，进行了一些新的尝试）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年3月23日更新版本）
-
-[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)（2017年1月6日更新；暂停更新） 
 
 [GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（非一键翻墙方法，2017年1月8日发布）
 
