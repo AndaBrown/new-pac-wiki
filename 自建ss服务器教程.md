@@ -185,7 +185,7 @@ wget -4qO- onekey.sh/Get_Out_Spam|bash
 
 ***
 
-鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)  [张朝权博客](https://www.zhangchaoquan.com/index.php/linux/219.html) [时刻知](http://www.shikezhi.com/html/2016/linux_1004/1227496.html)
+### 鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)  [张朝权博客](https://www.zhangchaoquan.com/index.php/linux/219.html) [时刻知](http://www.shikezhi.com/html/2016/linux_1004/1227496.html)
 
 
 ***
