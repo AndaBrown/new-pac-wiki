@@ -139,9 +139,9 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 [freess.co](http://freess.co/) 
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
-[追梦人博客](https://dream.ren/ss.html)
 [kevinandhu](http://www.kevinandhu.com/?page_id=14)
 [子小耗的博客](https://it2you.xyz/?page_id=445)
+
 
 **===Shadowsocks软件下载及教程===**
 
