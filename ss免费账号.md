@@ -7,7 +7,7 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
-**===免费节点列表1===**（3月31日更新）
+**===免费节点列表1===**（4月1日更新）
 
 服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -32,7 +32,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器13：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb（James Villa网友分享 ）
+服务器13：66.112.211.56  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb（it2you.xyz分享）
 
 服务器14： 47.52.16.227 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
@@ -54,13 +54,11 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（3月30日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（4月1日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
 服务器2：153.125.238.145 端口：31818 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器3：153.125.234.241 端口：31354 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
 服务器4：153.125.238.140 端口：31469 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
@@ -112,25 +110,23 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器40：153.125.235.178 端口：31795 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（3月28日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（4月1日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：67.21.78.225  端口：8989 密码：doub.io666 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器1：67.21.78.225  端口：8355 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：172.246.47.195  端口：8226  密码：GMOcDC9V 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
 
 服务器3：104.128.236.22  端口：8225  密码：5AjDRyVm 加密方式：RC4-MD5  （小双加速分享[hostus](https://hostus.us/)）
 
-服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinhu.com分享[digitalocean](https://www.digitalocean.com/)）
+服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinandhu分享[digitalocean](https://www.digitalocean.com/)）
 
 服务器5：us.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
 
 服务器6：jp.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
 
-服务器7：47.89.9.201 端口：10010  密码: 8641  加密方式：rc4-md5 (追梦人博客分享）
+服务器7：108.61.246.51 端口：8224  密码: 0SKCWs6U  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器9：108.61.246.51 端口：8224  密码: 0SKCWs6U  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
-
-服务器10：s1.freess.co 端口：9999  密码: 821  加密方式：rc4-md5 (freess.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器8：s1.freess.co 端口：9999  密码: 592  加密方式：rc4-md5 (freess.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
 
 **===其它免费节点网站===**
