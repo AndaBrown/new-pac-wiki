@@ -54,7 +54,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
-全部失效
+全部失效，请求支援～
 
 
 **===免费节点列表3===**（4月3日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
@@ -101,10 +101,8 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss的教程,最低配置是2.5美元/月。
 
-[免费搭建heroku ss服务器教程](https://github.com/521xueweihan/shadowsocks-heroku) （测试看网页很快，看视频清晰度一般，YouTube视频480p，毕竟是免费的东西）
-
-[Google Cloud服务免费申请试用以及使用教程（如有乐享）](http://51.ruyo.net/p/2144.html)
-谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。Asia节点（台湾）速度666（配合锐速），另外Google Cloud 访问 Youtube 并不计算流量到服务器。
+[Google Cloud服务免费申请试用以及使用教程](http://51.ruyo.net/p/2144.html)
+谷歌云推出了300美金的免费试用服务，有效期1年，信用卡支付1美元即可，按照最低配置的服务器计算，如果用满12个月，每月的流量是80G左右，个人用完全够了。
 
 ps:在搭建过程中，如果遇到一些搞不懂的地方，记得擅用google搜索，只要是网上有的，基本上都能搜到。如果你没有搜到，不妨试着优化一下关键词。
 
