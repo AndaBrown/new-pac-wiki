@@ -7,13 +7,13 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
-**===免费节点列表1===**（4月1日更新）
+**===免费节点列表1===**（4月3日更新）
 
 服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：104.160.176.31 端口：5555 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器3：67.21.80.200  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
+服务器3：67.21.80.200  端口：10522  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
 服务器4：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY37910 加密方式：chacha20   （Lobert Cheung网友分享）
 
@@ -32,13 +32,11 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器13：66.112.211.56  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb（it2you.xyz分享）
-
-服务器14： 47.52.16.227 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+服务器13：66.112.211.56  端口：10520  密码：it2you.xyz 加密方式：aes-256-cfb（it2you.xyz分享）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
-服务器16：155.94.230.119  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
+服务器16：155.94.230.119  端口：10521  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
 服务器17： leifeng1.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
@@ -46,77 +44,25 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
-服务器20：107.150.8.102  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
-
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
 服务器23： 52.90.27.215 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（4月1日更新，密码不变，ip或端口可能会不定期变化）
+**===免费节点列表2之樱花节点===**（4月3日更新，密码不变，ip或端口可能会不定期变化）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
-服务器2：153.125.238.145 端口：31818 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器4：153.125.238.140 端口：31469 密码：dongtaiwang.com 加密方式：aes-256-cfb
 
-服务器6：153.125.238.207 端口：31782 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器7：153.125.235.207 端口：31206 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器8：153.125.238.207 端口：31558 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器9：153.125.238.173 端口：31695 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器10：153.125.238.173 端口：31199 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器12：153.125.237.178 端口：31579 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器13：153.125.238.205 端口：31151 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器14：153.125.234.239 端口：31092 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器15：59.106.238.240 端口：31041 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器16：153.125.234.238 端口：31340 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器18：153.125.238.243 端口：31888 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器20：153.125.234.237 端口：31706 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器21：59.106.238.237 端口：31466 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器24：153.125.235.140 端口：31619 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器25：153.125.235.207 端口：31866 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器26：153.125.237.211 端口：31423 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器29：153.125.238.145 端口：31908 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器31：153.125.235.236 端口：31783 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器33：153.125.235.242 端口：31747 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器34：153.125.235.173 端口：31228 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器35：153.125.235.242 端口：31513 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器36：153.125.235.236 端口：31370 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器39：153.125.235.176 端口：31130 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-服务器40：153.125.235.178 端口：31795 密码：dongtaiwang.com 加密方式：aes-256-cfb
-
-**===免费节点列表3===**（4月1日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（4月3日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器1：67.21.78.225  端口：8355 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器2：172.246.47.195  端口：8226  密码：GMOcDC9V 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
+服务器2：172.246.47.195  端口：8626  密码：fYrFU91C 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
 
-服务器3：104.128.236.22  端口：8225  密码：5AjDRyVm 加密方式：RC4-MD5  （小双加速分享[hostus](https://hostus.us/)）
+服务器3：104.128.236.22  端口：8625  密码：YwnZ7gGV 加密方式：RC4-MD5  （小双加速分享[hostus](https://hostus.us/)）
 
 服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinandhu分享[digitalocean](https://www.digitalocean.com/)）
 
@@ -124,7 +70,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器6：jp.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
 
-服务器7：108.61.246.51 端口：8224  密码: 0SKCWs6U  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器7：108.61.246.51 端口：8624  密码: C1ldLCGN  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器8：s1.freess.co 端口：9999  密码: 592  加密方式：rc4-md5 (freess.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
