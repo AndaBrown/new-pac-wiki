@@ -7,6 +7,8 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
+免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错。
+
 **===免费节点列表1===**（4月5日更新）
 
 服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
