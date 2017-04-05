@@ -7,18 +7,17 @@
 
 ps:如果想自己搭建ss，网页的末端有搭建方法。
 
-**===免费节点列表1===**（4月3日更新）
+**===免费节点列表1===**（4月5日更新）
 
 服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：104.160.176.31 端口：5555 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器3：67.21.80.200  端口：10522  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
+服务器3：155.254.33.84  端口：8989 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建OpenVZ便宜服务器，没法锐速，速度较慢）
 
-服务器4：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY37910 加密方式：chacha20   （Lobert Cheung网友分享）
+服务器4：67.21.80.200  端口：10522  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
-服务器5：210.6.194.71  端口：37909 密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf Protocal：auth_aes128_sha1 
-OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
+服务器5：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY37910 加密方式：chacha20   （Lobert Cheung网友分享）
 
 服务器6：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
@@ -36,8 +35,6 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
-服务器16：155.94.230.119  端口：10521  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
-
 服务器17： leifeng1.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
@@ -46,27 +43,17 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
-服务器23： 52.90.27.215 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
-
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（4月4日更新）
+**===免费节点列表2之樱花节点===**（4月5日更新）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
 服务器1：153.125.234.172  端口：31294 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器2：153.125.239.206  端口：31154 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器3：153.125.237.241  端口：31899 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器4：153.125.234.174  端口：31172 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器5：153.125.237.239  端口：31332 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器6：153.125.237.240  端口：31480 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器7：153.125.237.239  端口：31809 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器8：153.125.239.178  端口：31612密码：ntdtv.com 加密方式：aes-256-cfb
 
@@ -92,7 +79,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器20：153.125.239.175  端口：31177 密码：ntdtv.com 加密方式：aes-256-cfb
 
-**===免费节点列表3===**（4月3日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
+**===免费节点列表3===**（4月5日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
 服务器1：67.21.78.225  端口：8355 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -108,7 +95,7 @@ OBFS：tls1.2_ticket_auth   （Lobert Cheung网友分享）
 
 服务器7：108.61.246.51 端口：8624  密码: C1ldLCGN  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器8：s1.freess.co 端口：9999  密码: 592  加密方式：rc4-md5 (freess.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器8：limited.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
 
 
 **===其它免费节点网站===**
