@@ -103,7 +103,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器3：104.128.236.22  端口：8625  密码：YwnZ7gGV 加密方式：RC4-MD5  （小双加速分享[hostus](https://hostus.us/)）
 
-服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （kevinandhu分享[digitalocean](https://www.digitalocean.com/)）
+服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （网友分享[digitalocean](https://www.digitalocean.com/)）
 
 服务器5：us.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
 
