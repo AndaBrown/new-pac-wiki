@@ -11,7 +11,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===免费节点列表1===**（4月6日更新）
 
-服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器1：104.160.181.92 端口：915 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -97,7 +97,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===免费节点列表3===**（4月5日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
 
-服务器1：67.21.78.225  端口：8355 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器1：67.21.78.225  端口：325 密码：ntdtv.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：172.246.47.195  端口：8626  密码：fYrFU91C 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
 
@@ -121,10 +121,8 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 [ubox.co](https://www.vbox.co/)
 [kxsw.me](https://kxsw.me/kxsw/)
 [不死鸟科学上网](http://yuweining.cn/leifeng/)
-[freess.co](http://freess.co/) 
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
-[kevinandhu](http://www.kevinandhu.com/?page_id=14)
 [子小耗的博客](https://it2you.xyz/?page_id=445)
 
 
