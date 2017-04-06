@@ -13,7 +13,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器2：104.160.176.31 端口：5555 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器3：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建OpenVZ便宜服务器，BBR优化）
 
