@@ -9,15 +9,13 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错。
 
-**===免费节点列表1===**（4月5日更新）
+**===免费节点列表1===**（4月6日更新）
 
 服务器1：104.160.181.92 端口：7777 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器2：104.160.176.31 端口：5555 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器3：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建OpenVZ便宜服务器，BBR优化，有流量限制）
-
-服务器4：67.21.80.200  端口：10522  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
 服务器5：210.6.194.71  端口：37910 密码：HKFreeShareAbuseDENY37910 加密方式：chacha20   （Lobert Cheung网友分享）
 
@@ -33,8 +31,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器13：66.112.211.56  端口：10520  密码：it2you.xyz 加密方式：aes-256-cfb（it2you.xyz分享）
-
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
 服务器17： leifeng1.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
@@ -47,7 +43,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-**===免费节点列表2之樱花节点===**（4月5日更新）
+**===免费节点列表2之樱花节点===**（4月6日更新）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束）
 
@@ -68,8 +64,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器12：153.125.239.173  端口：31907 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器13：153.125.239.172  端口：31703 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器14：153.125.239.174  端口：31251 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器15：153.125.239.172  端口：31508 密码：ntdtv.com 加密方式：aes-256-cfb
 
