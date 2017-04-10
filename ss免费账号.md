@@ -150,9 +150,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器7：108.61.246.51 端口：8120  密码: JFCdOySH  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器8：limited.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
-
-
 **===其它免费节点网站===**
 
 [doub.bid](https://doub.bid/sszhfx/) 
