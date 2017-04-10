@@ -59,8 +59,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器7：153.125.237.236  端口：31755 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器8：153.125.239.178  端口：31612密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器9：153.125.239.172  端口：31783 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器11：153.125.239.172  端口：31964 密码：ntdtv.com 加密方式：aes-256-cfb
@@ -72,8 +70,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器16：153.125.239.178  端口：31568 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器17：153.125.239.175  端口：31164 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器18：153.125.239.178  端口：31439 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器20：153.125.239.175  端口：31177 密码：ntdtv.com 加密方式：aes-256-cfb
 
@@ -93,25 +89,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器29：153.125.233.240  端口：31298 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器30：153.125.233.243  端口：31663 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器31：153.125.237.238  端口：31915 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器32：153.125.233.237  端口：31231 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器33：153.125.239.172  端口：31319 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器34：153.125.233.238  端口：31521 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器35：153.125.239.173  端口：31124 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器36：153.125.237.238  端口：31935 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器37：153.125.233.239  端口：31393 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器38：153.125.237.239  端口：31237 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器39：153.125.239.173  端口：31070 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器40：153.125.233.236  端口：31222 密码：ntdtv.com 加密方式：aes-256-cfb
 
@@ -152,17 +134,17 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===其它免费节点网站===**
 
-[doub.bid](https://doub.bid/sszhfx/) 
-[小双加速](https://xsjs.yhyhd.org/free-ss)
-[ubox.co](https://www.vbox.co/)
-[kxsw.me](https://kxsw.me/kxsw/)
-[不死鸟科学上网](http://yuweining.cn/leifeng/)
-[FreeSS.org](http://freess.org/)
-[Namaho](https://www.namaho.org)
-[子小耗的博客](https://it2you.xyz/?page_id=445)
-[FreeVPNSS](https://get.freevpnss.me/#shadowsocks)
-[吾皇SS](https://freessr.xyz/)
-[ISS](https://b.ishadow.tech/)
+### [doub.bid](https://doub.bid/sszhfx/) 
+### [小双加速](https://xsjs.yhyhd.org/free-ss)
+### [ubox.co](https://www.vbox.co/)
+### [kxsw.me](https://kxsw.me/kxsw/)
+### [不死鸟科学上网](http://yuweining.cn/leifeng/)
+### [FreeSS.org](http://freess.org/)
+### [Namaho](https://www.namaho.org)
+### [子小耗的博客](https://it2you.xyz/?page_id=445)
+### [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)
+### [吾皇SS](https://freessr.xyz/)
+### [ISS](https://b.ishadow.tech/)
 
 
 **===Shadowsocks软件下载及教程===**
