@@ -134,7 +134,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===其它免费节点网站===**
 
-### [doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
+[doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
  [kxsw.me](https://kxsw.me/kxsw/) [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
  [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/)  [ISS](https://b.ishadow.tech/)
 
