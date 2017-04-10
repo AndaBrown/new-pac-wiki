@@ -152,6 +152,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 [FreeSS.org](http://freess.org/)
 [Namaho](https://www.namaho.org)
 [子小耗的博客](https://it2you.xyz/?page_id=445)
+[FreeVPNSS](https://get.freevpnss.me/#shadowsocks)
+[吾皇SS](https://freessr.xyz/)
+[ISS](https://b.ishadow.tech/)
 
 
 **===Shadowsocks软件下载及教程===**
