@@ -9,7 +9,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错。
 
-**===免费节点列表1===**（4月9日更新）
+**===免费节点列表1===**（4月12日更新）
 
 服务器1：104.160.181.92 端口：915 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -22,10 +22,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器5：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
 
 服务器6：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
-
-服务器7： ss2.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
-
-服务器8： ss6.ubox.co 端口: 8388 密码: password 加密方式: aes-256-cfb （ubox.co分享[digitalocean](https://www.digitalocean.com/) ）
 
 服务器9：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
@@ -50,6 +46,14 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
+
+服务器25：67.21.78.225  端口：325 密码：ntdtv.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+
+服务器26：172.246.47.195  端口：8122  密码：IIF1ABXD 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
+
+服务器27：104.128.236.22  端口：8121  密码：0Po9GPbK 加密方式：RC4-MD5  （小双加速分享[hostus](https://hostus.us/)）
+
+服务器28：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （网友分享[digitalocean](https://www.digitalocean.com/)）
 
 **===免费节点列表2之樱花节点===**（4月11日更新）
 
@@ -142,23 +146,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器48：153.125.233.236  端口：31637 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器50：153.125.233.242  端口：31314 密码：ntdtv.com 加密方式：aes-256-cfb
-
-
-**===免费节点列表3===**（4月10日更新， 一般3-7 天更换一次端口或密码，账号不同更新时间可能不同）
-
-服务器1：67.21.78.225  端口：325 密码：ntdtv.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
-
-服务器2：172.246.47.195  端口：8122  密码：IIF1ABXD 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
-
-服务器3：104.128.236.22  端口：8121  密码：0Po9GPbK 加密方式：RC4-MD5  （小双加速分享[hostus](https://hostus.us/)）
-
-服务器4：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （网友分享[digitalocean](https://www.digitalocean.com/)）
-
-服务器5：us.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
-
-服务器6：jp.bilibilitv.pw 端口：12559  密码: namahoISX  加密方式：aes-256-cfb (网友分享）
-
-服务器7：108.61.246.51 端口：8120  密码: JFCdOySH  加密方式：rc4-md5 (小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
 **===其它免费节点网站===**
 
