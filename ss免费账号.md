@@ -15,7 +15,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器3：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建OpenVZ服务器，BBR优化）
+服务器3：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
 
 服务器4：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
