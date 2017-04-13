@@ -9,7 +9,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
-**===免费节点列表1===**（4月13日更新）
+**===免费节点列表1===**（4月14日更新）
 
 服务器1：104.160.181.92 端口：915 密码：dongtaiwang.com 加密方式：aes-256-cfb （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -25,7 +25,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器8：124.244.99.187  端口： 37909  密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf 协议插件: auth_aes128_sha1
+服务器8：124.244.98.162  端口： 37909  密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf 协议插件: auth_aes128_sha1
 混淆插件: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器9：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
@@ -65,7 +65,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器28：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （网友分享[digitalocean](https://www.digitalocean.com/)）
 
 服务器29：108.61.246.51 端口：8120  密码: JFCdOySH  加密方式：RC4-MD5 （小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
-
 
 **===免费节点列表2之樱花节点===**（4月12日更新）
 
