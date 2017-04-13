@@ -25,7 +25,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器8：210.6.194.86  端口： 37909  密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf 协议插件: auth_aes128_sha1
+服务器8：124.244.99.187  端口： 37909  密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf 协议插件: auth_aes128_sha1
 混淆插件: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器9：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
