@@ -175,6 +175,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 [Shadowsocks（影梭）全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
 
+[ShadowsocksR 客户端下载及小白使用教程](https://doub.bid/ss-jc10/)（doub.bid分享）
+
+
 
 **===搭建ss服务器教程===**
 
