@@ -55,7 +55,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器25（SSR)：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器26：172.246.47.195  端口：8122  密码：IIF1ABXD 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
 
