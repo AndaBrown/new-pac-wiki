@@ -15,7 +15,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器3：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
+服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
 服务器4：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
@@ -42,6 +42,8 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
 服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+
+服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
