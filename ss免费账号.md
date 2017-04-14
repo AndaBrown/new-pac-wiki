@@ -43,15 +43,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器17： leifeng1.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
-
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
 服务器20（SSR)： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
-
-服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
@@ -70,7 +66,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
 
-**===免费节点列表2之樱花节点===**（4月12日更新）
+**===免费节点列表2之樱花节点===**（4月14日更新）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束，目前处于公测期）
 
@@ -142,8 +138,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器39：153.125.239.177  端口：31841 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器40：153.125.233.236  端口：31222 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器41：153.125.233.240  端口：31213 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器42：153.125.233.241  端口：31243 密码：ntdtv.com 加密方式：aes-256-cfb
@@ -154,8 +148,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器45：153.125.233.239  端口：31589 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器46：153.125.233.241  端口：31060 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器47：153.125.233.239  端口：31657 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器48：153.125.233.236  端口：31637 密码：ntdtv.com 加密方式：aes-256-cfb
@@ -165,7 +157,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 **===其它免费节点网站===**
 
 [doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
- [kxsw.me](https://kxsw.me/kxsw/) [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
+ [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
  [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/)  [ISS](https://b.ishadow.tech/)
 
 
