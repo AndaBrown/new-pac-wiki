@@ -1,4 +1,4 @@
-### SS免费账号（长期更新）
+### SS or SSR免费账号（长期更新）
 
 **翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
@@ -49,7 +49,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
-服务器20： 47.90.121.235  端口：6677  密码：ntdtv.com 加密方式：aes-256-cfb （自建服务器）
+服务器20（SSR)： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
 服务器22： 107.170.214.159 端口：443 密码：kxsw.me 加密方式：aes-256-cfb （kxsw.me分享）
 
