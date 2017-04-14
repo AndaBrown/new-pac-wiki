@@ -25,12 +25,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器8：124.244.98.162  端口： 37909  密码：HKFreeShareAbuseDENY37909 加密方式：chacha20-ietf 协议插件: auth_aes128_sha1
-混淆插件: tls1.2_ticket_auth （Lobert Cheung网友分享）
+服务器8：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器9：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
+服务器9：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器10： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器10：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器11：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
@@ -65,6 +64,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器28：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （网友分享[digitalocean](https://www.digitalocean.com/)）
 
 服务器29：108.61.246.51 端口：8120  密码: JFCdOySH  加密方式：RC4-MD5 （小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
+
+服务器30：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
+
+服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+
 
 **===免费节点列表2之樱花节点===**（4月12日更新）
 
