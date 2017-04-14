@@ -173,7 +173,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===搭建ss服务器教程===**
 
-[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss的教程,最低配置是2.5美元/月。
+[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程,最低配置是2.5美元/月。
 
 [Google Cloud服务免费申请试用以及使用教程](http://51.ruyo.net/p/2144.html) （适合老手）
 谷歌云300美金的免费试用服务，有效期1年，信用卡支付1美元即可，按照最低配置的服务器计算，总共1043G流量，如果用满12个月，每月流量是86.9G。
