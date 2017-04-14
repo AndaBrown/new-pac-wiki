@@ -11,9 +11,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===免费节点列表1===**（4月14日更新）
 
-服务器1（SSR)：104.160.181.92 端口：123 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器1：104.160.181.92 端口：123 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器2（SSR)：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器3：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
 
@@ -47,11 +47,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
-服务器20（SSR)： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器20： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-服务器25（SSR)：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器26：172.246.47.195  端口：8122  密码：IIF1ABXD 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
 
