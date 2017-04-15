@@ -35,9 +35,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （小星网友分享）
+服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
 
-服务器14： 47.89.185.122  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （小星网友分享）
+服务器14： 47.89.185.122  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
