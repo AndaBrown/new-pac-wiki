@@ -15,7 +15,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
+服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建新加坡阿里云）
 
 服务器4：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
@@ -35,9 +35,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
+服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享澳大利亚阿里云）
 
-服务器14： 47.89.185.122  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
+服务器14： 47.89.185.122  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享美国阿里云）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
@@ -49,7 +49,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
-服务器20： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器20： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建香港阿里云）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
