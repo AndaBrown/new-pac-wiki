@@ -9,7 +9,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
-**===免费节点列表1===**（4月16日更新）
+**===免费节点列表1===**（4月17日更新）
 
 服务器1：104.160.181.92 端口：123 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -51,17 +51,19 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器20： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建香港阿里云）
 
+服务器21：104.128.236.22  端口：8238  密码: fZrnCrz8  加密方式：RC4-MD5 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享洛杉矶CN2 ）
+
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
 服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器26：172.246.47.195  端口：8122  密码：IIF1ABXD 加密方式：RC4-MD5  （ 小双加速分享[enzu](https://enzu.com/)）
+服务器26：172.246.47.195  端口：8239  密码：kgoY6YDC 加密方式：RC4-MD5  协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享洛杉矶CN2 ）
 
 服务器27：47.88.158.89  端口：2333  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享新加坡阿里云）
 
 服务器28：128.199.168.250 端口：8388  密码: kevinandhu1  加密方式：aes-256-cfb （网友分享[digitalocean](https://www.digitalocean.com/)）
 
-服务器29：108.61.246.51 端口：8120  密码: JFCdOySH  加密方式：RC4-MD5 （小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器29：108.61.246.51 端口：8237  密码: RQmpBn2q  加密方式：RC4-MD5 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器30：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
