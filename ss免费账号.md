@@ -17,11 +17,12 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建新加坡阿里云）
 
-服务器4：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
+服务器4： 123.203.220.63 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
 
-服务器5：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
+服务器5： 123.203.220.63 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf 协议：: auth_aes128_sha1
+混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
-服务器6：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
+服务器6：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
 
 服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
@@ -53,10 +54,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器21：104.128.236.22  端口：8238  密码: fZrnCrz8  加密方式：RC4-MD5 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享洛杉矶CN2 ）
 
-服务器22： 123.203.220.63 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf 协议：: auth_aes128_sha1
-混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
+服务器22：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
-服务器23： 123.203.220.63 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
+服务器23：69.197.149.43  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
