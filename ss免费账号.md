@@ -9,7 +9,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
-**===免费节点列表1===**（4月17日更新）
+**===免费节点列表1===**（4月18日更新）
 
 服务器1：104.160.181.92 端口：123 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
@@ -52,6 +52,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器20： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建香港阿里云）
 
 服务器21：104.128.236.22  端口：8238  密码: fZrnCrz8  加密方式：RC4-MD5 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享洛杉矶CN2 ）
+
+服务器22： 123.203.220.63 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf 协议：: auth_aes128_sha1
+混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
+
+服务器23： 123.203.220.63 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
