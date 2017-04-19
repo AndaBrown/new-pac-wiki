@@ -71,7 +71,7 @@ VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
 
-连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名linus系统默认都是root，密码是购买服务器后的cent系统的密码。
+连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名linux系统默认都是root，密码是购买服务器后的cent系统的密码。
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell15.png)
