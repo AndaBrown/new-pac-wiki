@@ -11,9 +11,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===免费节点列表1===**（4月20日更新）
 
-服务器1：104.160.181.92 端口：123 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
-服务器2：104.160.176.31 端口：456 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
 
 服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建新加坡阿里云）
 
@@ -38,13 +38,13 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享澳大利亚阿里云）
 
-服务器14： 47.89.185.122  端口：8388  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享美国阿里云）
+服务器14： 47.89.185.122  端口：52348  密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享美国阿里云）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
 服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
+服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建便宜服务器）
 
 服务器18： leifeng2.busi.me 端口：6600 密码：busi.me 加密方式：CHACHA20 （busi.me分享）
 
@@ -56,6 +56,8 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器22：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
+服务器23：47.52.44.115  端口：1212  密码：ntdtv.com 加密方式：CHACHA20 （小马哥网友分享香港阿里云）
+
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
 服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
@@ -64,19 +66,17 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器27：47.88.158.89  端口：2333  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享新加坡阿里云）
 
+服务器28：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20 （小马哥网友分享）
+
 服务器29：108.61.246.51 端口：8237  密码: RQmpBn2q  加密方式：RC4-MD5 协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
 服务器30：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
 服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
 
-服务器32：63.223.116.17  端口：36885  密码：tsqF4S 加密方式：rc4-md5 （sm ty网友分享）
-
 服务器33：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享）
 
-
-
-**===免费节点列表2之樱花节点===**（4月19日更新）
+**===免费节点列表2之樱花节点===**（4月20日更新）
 
 此列表的ss账号全来自于自建的[arukas docker](https://arukas.io/) （樱花免费服务器至6月30日结束，目前处于公测期）
 
@@ -84,13 +84,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器4：153.125.234.178  端口：31579 密码：ntdtv.com 加密方式：aes-256-cfb
 
-服务器5：153.125.237.236  端口：31523 密码：ntdtv.com 加密方式：aes-256-cfb
-
 服务器6：153.125.237.240  端口：31480 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器7：153.125.237.236  端口：31755 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器11：153.125.239.174  端口：31337 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器21：153.125.233.239  端口：31483 密码：ntdtv.com 加密方式：aes-256-cfb
 
@@ -121,8 +117,6 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 服务器37：153.125.233.239  端口：31393 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器38：153.125.237.238  端口：31003 密码：ntdtv.com 加密方式：aes-256-cfb
-
-服务器39：153.125.239.177  端口：31841 密码：ntdtv.com 加密方式：aes-256-cfb
 
 服务器41：153.125.233.240  端口：31213 密码：ntdtv.com 加密方式：aes-256-cfb
 
