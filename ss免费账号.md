@@ -11,9 +11,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===免费节点列表1===**（4月20日更新）
 
-服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
 
-服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
 
 服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建新加坡阿里云）
 
@@ -24,7 +24,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器6：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
 
-服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
 
 服务器8：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
@@ -42,7 +42,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
-服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
 
 服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建便宜服务器）
 
@@ -60,7 +60,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206)）
+服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified服务器）
 
 服务器26：172.246.47.195  端口：8239  密码：kgoY6YDC 加密方式：RC4-MD5  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享洛杉矶CN2 ）
 
@@ -68,11 +68,11 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器28：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20 （小马哥网友分享）
 
-服务器29：108.61.246.51 端口：8237  密码: RQmpBn2q  加密方式：RC4-MD5  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器29：108.61.246.51 端口：8237  密码: RQmpBn2q  加密方式：RC4-MD5  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（小双加速分享vultr服务器）
 
 服务器30：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
-服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享[vultr](http://www.vultr.com/?ref=7048874) ）
+服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
 
 服务器33：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享）
 
