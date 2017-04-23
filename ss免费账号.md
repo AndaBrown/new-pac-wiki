@@ -17,9 +17,9 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 服务器3：47.88.168.164 端口：31253 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建新加坡阿里云）
 
-服务器4： 123.203.220.63 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
+服务器4： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
 
-服务器5： 123.203.220.63 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
+服务器5： 58.177.7.249 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器6：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
