@@ -152,7 +152,10 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
-如果你部署的ss服务器只是自己用，可以不用看下面的教程。下面的教程主要是针对愿意将ss账号分享给别人使用时，可供参考的其它脚本。
+**如果你部署的ss服务器只是自己用，可以不用看下面的教程。下面的教程主要是针对愿意将ss账号分享给别人使用时，可供参考的其它脚本。**
+
+
+***
 
 附：
 
@@ -190,4 +193,4 @@ wget -4qO- onekey.sh/Get_Out_Spam|bash
 
 ***
 
-有问题请发邮件到kebi2014@gmail.com 
+上面的教程很详细了，如果在搭建过程中，还遇到一些搞不懂的地方，可以用google搜索，只要是网上有的，基本上都能搜到。如果你没有搜到，不妨试着优化一下关键词。或者有问题你也可以发邮件到kebi2014@gmail.com 
