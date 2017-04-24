@@ -126,13 +126,7 @@ ps:如果想自己搭建ss，网页的末端有搭建方法。
 
 **===搭建ss服务器教程===**
 
-[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程,最低配置是2.5美元/月。
-
-2.5美元/月的服务器配置信息：单核   500M内存   20G SSD硬盘   100M带宽    500G流量/月   （太火，目前缺货）
-
-5美元/月的服务器配置信息：单核   1G内存   25G SSD硬盘   100M带宽    1000G流量/月  
- 
-10美元/月的服务器配置信息：单核  2G内存   40G SSD硬盘   100M带宽    2000G流量/月  
+[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程。
 
 
 ***
