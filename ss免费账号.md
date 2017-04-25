@@ -46,9 +46,9 @@
 
 服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
 
-服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建便宜服务器）
+服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
 
-服务器18：104.160.173.67  端口：923密码：dongtaiwang.com 加密方式：CHACHA20   （自建便宜服务器）
+服务器18：104.160.173.67  端口：923密码：dongtaiwang.com 加密方式：CHACHA20   （自建服务器）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
