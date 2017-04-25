@@ -16,13 +16,13 @@
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程。
 
 
-**===免费节点列表===**（4月25日更新）
+**===免费节点列表===**（4月26日更新）
 
 服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
 
 服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
 
-服务器3：47.88.168.164 端口：999 密码：ntdtv.com 加密方式：aes-256-cfb  （自建新加坡阿里云）
+服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified服务器）
 
 服务器4： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
 
@@ -53,7 +53,7 @@
 
 服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
 
-服务器18：104.160.173.67  端口：923密码：dongtaiwang.com 加密方式：CHACHA20   （自建服务器）
+服务器18：47.88.168.164 端口：999 密码：ntdtv.com 加密方式：aes-256-cfb  （自建新加坡阿里云）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
