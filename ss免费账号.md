@@ -17,7 +17,7 @@
 
 服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
 
-服务器3：47.88.168.164 端口：999 密码：ntdtv.com 加密方式：CHACHA20  （自建新加坡阿里云）
+服务器3：47.88.168.164 端口：999 密码：ntdtv.com 加密方式：aes-256-cfb  （自建新加坡阿里云）
 
 服务器4： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
 
