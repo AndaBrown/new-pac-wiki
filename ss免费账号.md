@@ -52,7 +52,7 @@
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
-服务器20： 47.90.121.235  端口：8989  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建香港阿里云）
+服务器20： 47.90.121.235  端口：6781  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建香港阿里云）
 
 服务器22：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
