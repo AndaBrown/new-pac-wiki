@@ -31,7 +31,7 @@
 
 服务器6：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
 
-服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
+服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
 服务器8：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
@@ -43,37 +43,37 @@
 
 服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享澳大利亚阿里云）
+服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
 
-服务器14： 47.89.185.122  端口：52348  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享美国阿里云）
+服务器14： 47.89.185.122  端口：52348  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
-服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
+服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
 服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
-服务器20： 47.90.121.235  端口：6781  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建香港阿里云）
+服务器20： 47.90.121.235  端口：6781  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器21：47.52.66.88 端口：666 密码：ntdtv.com 加密方式：aes-256-cfb  （自建香港阿里云）
+服务器21：47.52.66.88 端口：666 密码：ntdtv.com 加密方式：aes-256-cfb  （自建服务器）
 
 服务器22：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
 
-服务器23：47.52.44.115  端口：1212  密码：ntdtv.com 加密方式：CHACHA20 （小马哥网友分享香港阿里云）
+服务器23：47.52.44.115  端口：1212  密码：ntdtv.com 加密方式：CHACHA20 （小马哥网友分享）
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
 服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified服务器）
 
-服务器27：47.88.158.89  端口：2333  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享新加坡阿里云）
+服务器27：47.88.158.89  端口：567  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享）
 
 服务器28：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20 （小马哥网友分享）
 
 服务器30：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
-服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享vultr服务器）
+服务器31： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
 服务器33：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享）
 
