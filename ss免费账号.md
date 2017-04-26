@@ -18,11 +18,11 @@
 
 **===免费节点列表===**（4月26日更新）
 
-服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
+服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
-服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified服务器）
+服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
-服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified服务器）
+服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
 服务器4： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
 
@@ -65,7 +65,7 @@
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified服务器）
+服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
 服务器27：47.88.158.89  端口：567  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享）
 
