@@ -56,3 +56,11 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent综合版使用1.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOP1.png)
+
+***
+
+**感谢GoProxy作者phuslu**
+
+***
+
+有问题可以来信交流kebi2014@gmail.com
