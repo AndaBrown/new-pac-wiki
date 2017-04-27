@@ -24,12 +24,12 @@
 
 服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器4： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
+服务器4：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器5： 58.177.7.249 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
+服务器5： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
+
+服务器6： 58.177.7.249 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
-
-服务器6：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
 
 服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
@@ -67,7 +67,7 @@
 
 服务器24： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器26：64.137.194.217  端口：36172  密码：j7wppH 加密方式：chacha20 （sm ty网友分享）
 
 服务器27：47.88.158.89  端口：333  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享）
 
