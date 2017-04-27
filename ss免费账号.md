@@ -16,7 +16,7 @@
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程。
 
 
-**===免费节点列表===**（4月26日更新）
+**===免费节点列表===**（4月27日更新）
 
 服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
@@ -51,7 +51,9 @@
 
 服务器16： ss2.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
-服务器17：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建服务器）
+服务器17：128.199.195.15  端口：1684 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆无 （gtemp网友分享）
+
+服务器18：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建服务器）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
@@ -59,7 +61,7 @@
 
 服务器21：47.52.66.88 端口：666 密码：ntdtv.com 加密方式：aes-256-cfb  （自建服务器）
 
-服务器22：89.46.222.249  端口：8366  密码：it2you.xyz 加密方式：aes-256-cfb （it2you.xyz分享）
+服务器22：128.199.195.15  端口：1425 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆无 （gtemp网友分享）
 
 服务器23：47.52.44.115  端口：1212  密码：ntdtv.com 加密方式：CHACHA20 （小马哥网友分享）
 
@@ -67,7 +69,7 @@
 
 服务器25：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器27：47.88.158.89  端口：567  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享）
+服务器27：47.88.158.89  端口：333  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享）
 
 服务器28：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20 （小马哥网友分享）
 
