@@ -43,10 +43,11 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac12.PNG)
 
-温馨提醒：PAC备用地址禁用了YouTube视频，目的是为了节省服务器流量，以便能够长期使用,可以作为备用。当然，如果你不看YouTube视频那就是首选了，因为备用地址延迟很低。
 
 注意：有时候服务器会进行维护，所以在维护时间内个别地址会用不了。
 
+
+***
 
 
 有问题请发邮件到kebi2014@gmail.com ,反馈邮件请注明压缩包名称。
