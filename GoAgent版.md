@@ -54,3 +54,12 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent综合版使用1.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOA1.png)
+
+
+***
+
+**感谢GoAgent作者phuslu**
+
+***
+
+有问题可以来信交流kebi2014@gmail.com
