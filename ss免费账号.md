@@ -124,9 +124,9 @@
 
 [SS全平台客户端以及APP下载](https://busi.me/archives/173/) （不死鸟科学上网分享）
 
-[Shadowsocks（影梭）全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
+[SS全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
 
-[ShadowsocksR 客户端下载及小白使用教程](https://doub.bid/ss-jc10/)（doub.bid分享）
+[SSR客户端下载及小白使用教程](https://doub.bid/ss-jc10/)（doub.bid分享）
 
 
 ***
