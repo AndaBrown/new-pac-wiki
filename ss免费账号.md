@@ -43,10 +43,6 @@
 
 服务器12：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
-服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
-
-服务器14： 47.89.185.122  端口：52348  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
-
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
 服务器17：128.199.195.15  端口：1684 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆无 （gtemp网友分享）
@@ -54,10 +50,6 @@
 服务器18：155.254.33.84  端口：9002 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建服务器）
 
 服务器19： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
-
-服务器20： 47.90.121.235  端口：6781  密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
-
-服务器21：47.52.66.88 端口：666 密码：ntdtv.com 加密方式：aes-256-cfb  （自建服务器）
 
 服务器22：128.199.195.15  端口：1425 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆无 （gtemp网友分享）
 
