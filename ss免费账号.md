@@ -16,32 +16,32 @@
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程。
 
 
-**===免费节点列表===**（4月27日更新）
+**===免费节点列表1===**（4月29日更新）
 
 服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
-服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
+服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
-服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器4：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器4：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器5： 58.177.7.249 端口：11008 密码：HKLobert@11008 加密方式：chacha20 （Lobert Cheung网友分享）
+服务器5：104.156.239.211  端口：2333 密码：dongtaiwang.com 加密方式：RC4-MD5   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器6： 58.177.7.249 端口：4784 密码：HKLobert@4784 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
+服务器6：123.203.222.74 端口：16810 密码：HKLobert@16810  加密方式：chacha20 （Lobert Cheung网友分享）
+
+服务器7：123.203.222.74 端口：16815 密码：HKLobert@16815 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
-服务器7： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
+服务器8： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
-服务器8：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器9：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器9：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器10：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器10：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器11：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器11：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
-
-服务器12：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
+服务器12：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
 服务器13： 47.91.44.188  端口：8388  密码：ntdtv.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （无名网友分享）
 
@@ -76,6 +76,42 @@
 服务器28： ss1.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
 服务器29：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享）
+
+服务器30：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
+
+**===免费节点列表2===**（4月29日更新）
+
+应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
+
+服务器3：153.125.237.238  端口：31693 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器4：153.125.234.172  端口：31314 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器5：153.125.237.236  端口：31523 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器6：153.125.237.240  端口：31480 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器7：153.125.237.236 端口：31755 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器11：153.125.239.239 端口：31797 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器12：153.125.239.242 端口：31095 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器13：153.125.239.243 端口：31861 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器14：153.125.239.241 端口：31983 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器15：153.125.239.237 端口：31435 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器16：153.125.239.242 端口：31827 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器17：153.125.239.239 端口：31077 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器18：153.125.239.243 端口：31442 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器19：153.125.239.238 端口：31240 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器20：153.125.239.242 端口：31315 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 **===其它免费节点网站===**
 
