@@ -26,16 +26,17 @@
 
 服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器4：67.21.78.225  端口：678 密码：ntdtv.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器4：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
+（自建服务器）
 
 服务器5：104.156.239.211  端口：2333 密码：dongtaiwang.com 加密方式：RC4-MD5   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器6：123.203.222.74 端口：16810 密码：HKLobert@16810  加密方式：chacha20 （Lobert Cheung网友分享）
+服务器6：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
 
-服务器7：123.203.222.74 端口：16815 密码：HKLobert@16815 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
+服务器7：123.203.222.74 端口：16810 密码：HKLobert@16810  加密方式：chacha20 （Lobert Cheung网友分享）
+
+服务器8：123.203.222.74 端口：16815 密码：HKLobert@16815 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
-
-服务器8： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
 服务器9：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
@@ -61,9 +62,9 @@
 
 服务器25：47.88.158.89  端口：333  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享）
 
-服务器26：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20 （小马哥网友分享）
-
 服务器27：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
+
+服务器28： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
 服务器29：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享）
 
