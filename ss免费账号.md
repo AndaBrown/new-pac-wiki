@@ -18,6 +18,8 @@
 
 **===免费节点列表1===**（4月29日更新）
 
+**备注：我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。**
+
 服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
 
 服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
@@ -42,6 +44,8 @@
 服务器11：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器12：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
+
+服务器13：107.175.95.241  端口：1828  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器15： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
