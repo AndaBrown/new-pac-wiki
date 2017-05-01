@@ -7,29 +7,32 @@
 
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
+随着使用人数的不断增多，维护该项目的压力越来越大，虽然我自己搭建了一些ss账号，还有不少优秀的网站和热心的网友提供了免费的ss账号，但据我观察和测试，很多账号面临的服务器压力不小。如果未来的某天当我已经尽了最大努力，但供求还是严重失衡的时候，我会考虑终止此项目。所以，只要你会用电脑，都建议你学习一下自己搭建ss方法，学会了一劳永逸。下面的教程是在vultr上搭建ss的教程，只要你学会了，在其它vps服务器上搭建都是大同小异的事情。
 
 **===自己搭建ss服务器教程===**
 
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程。
 
-**===免费节点列表1===**（4月29日更新）
+便宜vps推荐：[vultr](http://www.vultr.com/?ref=7048874 ) （按小时计费，KVM） [rectified](https://secure.rectified.net/aff.php?aff=206) （按月付费，KVM，不限流量，8折优惠码LET20)
+
+**===免费节点列表1===**（5月1日更新）
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制。有的账号禁用了YouTube视频。
 
 **备注：我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。**
 
-服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
+服务器1：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建服务器）
+服务器2：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器3：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
 服务器4：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
-（自建服务器）
+（自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器5：104.156.239.211  端口：3333 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器5：104.156.239.211  端口：3333 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[vultr](http://www.vultr.com/?ref=7048874 ) ）
 
-服务器6：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建服务器）
+服务器6：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
 服务器7：123.203.222.74 端口：16810 密码：HKLobert@16810  加密方式：chacha20 （Lobert Cheung网友分享）
 
