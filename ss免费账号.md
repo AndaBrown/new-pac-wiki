@@ -19,7 +19,7 @@
 
 [rectified](https://secure.rectified.net/aff.php?aff=206) （按月付费，KVM框架，不限流量，8折优惠码LET20)  
 
-[国际阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) （首选新加坡或香港）
+[国际阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) （首选新加坡或香港，新注册有效账号可免费领取20美元vps优惠券）
 
 **===免费节点列表1===**（5月1日更新）
 
