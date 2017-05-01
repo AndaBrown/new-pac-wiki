@@ -13,7 +13,7 @@
 
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）此教程是关于在vultr服务器上搭建ss（ssr）的教程。
 
-便宜vps推荐：[vultr](http://www.vultr.com/?ref=7048874 ) （按小时计费，KVM） [rectified](https://secure.rectified.net/aff.php?aff=206) （按月付费，KVM，不限流量，8折优惠码LET20)
+高性价比vps推荐：[vultr](http://www.vultr.com/?ref=7048874 ) （按小时计费，KVM） [rectified](https://secure.rectified.net/aff.php?aff=206) （按月付费，KVM，不限流量，8折优惠码LET20)
 
 **===免费节点列表1===**（5月1日更新）
 
