@@ -22,7 +22,7 @@
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年4月23日更新版本）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年4月2日云端更新高质量ip）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年5月1日云端更新400+高质量ip）
 
 [PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年4月14日更新版本）
 
