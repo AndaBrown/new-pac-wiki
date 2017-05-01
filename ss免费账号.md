@@ -34,8 +34,6 @@
 
 服务器6：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器6：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
-
 服务器7：47.90.121.235 端口：6666  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) ）
 
 服务器8：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) ）
