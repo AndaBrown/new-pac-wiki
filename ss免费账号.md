@@ -30,7 +30,7 @@
 服务器4：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
 （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器5：104.156.239.211  端口：3333 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[vultr](http://www.vultr.com/?ref=7048874 ) ）
+服务器5：45.76.77.115  端口：3333 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[vultr](http://www.vultr.com/?ref=7048874 ) ）
 
 服务器6：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
