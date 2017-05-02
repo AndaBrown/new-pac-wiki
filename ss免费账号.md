@@ -9,9 +9,9 @@
 
 **===自己搭建ss服务器教程===**
 
-[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）只要你会用电脑，都建议你学习一下自己搭建ss方法，学会了一劳永逸。此教程是在vultr上搭建ss的教程，只要你学会了，在其它vps服务器上搭建都是大同小异的事情。
+[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建都是大同小异的事情。
 
-高性价比vps推荐：
+vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874 ) （全球15个服务器位置可选，KVM框架，新账号首次充值5美元送10美元） 
 
