@@ -15,11 +15,11 @@
 
 高性价比vps推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874 ) （按小时计费，KVM框架，新账号首次充值5美元送10美元） 
+[vultr](http://www.vultr.com/?ref=7048874 ) （全球15个服务器位置可选，KVM框架，新账号首次充值5美元送10美元） 
 
-[rectified](https://secure.rectified.net/aff.php?aff=206) （按月付费，KVM框架，不限流量，8折优惠码LET20)  
+[rectified](https://secure.rectified.net/aff.php?aff=206) （KVM框架，不限流量，8折优惠码LET20)  
 
-[国际阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) （首选香港日本新加坡，新注册有效账号可免费领取20美元vps优惠券）
+[国际阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) （KVM框架，首选香港日本新加坡，新注册有效账号可免费领取20美元vps优惠券）
 
 **===免费节点列表1===**（5月2日更新）
 
