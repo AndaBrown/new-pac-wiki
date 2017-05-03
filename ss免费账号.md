@@ -47,7 +47,7 @@ vps推荐：
 
 服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
 
-服务器12（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D)）
+服务器12（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享阿里云）
 
 服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
 
