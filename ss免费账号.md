@@ -19,7 +19,7 @@ vps推荐：
 
 [国际阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) （KVM框架，首选香港日本新加坡，新注册有效账号可免费领取20美元vps优惠券）
 
-**===免费节点列表1===**（5月2日更新）
+**===免费节点列表1===**（5月4日更新）
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制。有的账号禁用了YouTube视频。
 
@@ -42,9 +42,9 @@ vps推荐：
 
 服务器8（中国香港）：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) ）
 
-服务器9（中国香港）：123.203.222.74 端口：16810 密码：HKLobert@16810  加密方式：chacha20 （Lobert Cheung网友分享）
+服务器9（中国香港）：123.203.222.74 端口：11236 密码：HKLobert@11236  加密方式：chacha20 （Lobert Cheung网友分享）
 
-服务器10（中国香港）：123.203.222.74 端口：16815 密码：HKLobert@16815 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
+服务器10（中国香港）：123.203.222.74 端口：12632 密码：HKLobert@12632 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
