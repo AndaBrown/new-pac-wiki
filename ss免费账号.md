@@ -17,8 +17,6 @@ vps推荐：
 
 [rectified](https://secure.rectified.net/aff.php?aff=206) （KVM框架，不限流量，8折优惠码LET20)  
 
-[国际阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) （KVM框架，首选香港日本新加坡，新注册有效账号可免费领取20美元vps优惠券）
-
 **===免费节点列表1===**（5月4日更新）
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制。有的账号禁用了YouTube视频。
@@ -34,13 +32,13 @@ vps推荐：
 服务器4(美国洛杉矶）：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
 （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器5（美国弗吉尼亚）：47.89.185.122 端口：12345 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) ）
+服务器5（美国弗吉尼亚）：47.89.185.122 端口：12345 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
 
 服务器6(美国洛杉矶）：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器7（中国香港）：47.90.121.235 端口：6666  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) ）
+服务器7（中国香港）：47.90.121.235 端口：6666  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
 
-服务器8（中国香港）：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D) ）
+服务器8（中国香港）：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
 
 服务器9（中国香港）：123.203.222.74 端口：11236 密码：HKLobert@11236  加密方式：chacha20 （Lobert Cheung网友分享）
 
@@ -69,7 +67,7 @@ vps推荐：
 
 服务器24（新加坡）： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
-服务器25（新加坡）：47.88.158.89  端口：222  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享[阿里云](https://account-intl.aliyun.com/register/intl_register.htm?biz_params=%7B%22intl%22%3A%22%7B%5C%22referralCode%5C%22%3A%5C%22n9ep5z%5C%22%7D%22%7D)）
+服务器25（新加坡）：47.88.158.89  端口：222  密码：ntdtv.com 加密方式：aes-256-cfb  （自由飞翔网友分享阿里云）
 
 服务器27（美国洛杉矶）：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
