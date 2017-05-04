@@ -105,4 +105,8 @@ vps推荐：
 
 ***
 
+SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
+
+***
+
 如果你有闲置的 SS ，愿意分享出来帮助更多的人，可以联系我，联系邮箱:kebi2014@gmail.com 
