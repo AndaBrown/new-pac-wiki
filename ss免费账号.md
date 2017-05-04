@@ -103,16 +103,6 @@ vps推荐：
  [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
  [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/)  [ISS](https://b.ishadow.tech/)
 
-
-**===Shadowsocks软件下载及教程===**
-
-[SS全平台客户端以及APP下载](https://busi.me/archives/173/) （不死鸟科学上网分享）
-
-[SS全平台教程索引](https://busi.me/archives/32/) （不死鸟科学上网分享）
-
-[SSR客户端下载及小白使用教程](https://doub.bid/ss-jc10/)（doub.bid分享）
-
-
 ***
 
-如果你有优秀的免费节点分享网站，可以联系我帮助更多的人，或者如果你有闲置的 SS ，愿意分享出来，也可以联系我。联系邮箱:kebi2014@gmail.com 
+如果你有闲置的 SS ，愿意分享出来帮助更多的人，可以联系我，联系邮箱:kebi2014@gmail.com 
