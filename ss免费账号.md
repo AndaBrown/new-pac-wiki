@@ -17,11 +17,11 @@ vps推荐：
 
 [rectified](https://secure.rectified.net/aff.php?aff=206) （KVM框架，不限流量，8折优惠码LET20)  
 
+SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
+
 **===免费节点列表1===**（5月4日更新）
 
-为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制。有的账号禁用了YouTube视频。
-
-备注：我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
+为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
 
 服务器1(美国洛杉矶）：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
@@ -102,10 +102,6 @@ vps推荐：
 [doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
  [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
  [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/)  [ISS](https://b.ishadow.tech/)
-
-***
-
-SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 ***
 
