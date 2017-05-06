@@ -19,7 +19,7 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**===免费节点列表1===**（5月4日更新）
+**===免费节点列表1===**（5月6日更新）
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
 
@@ -51,7 +51,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
 
-服务器14（美国纽约）：107.175.95.241  端口：1828  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
+服务器14（美国纽约）：107.175.95.241  端口：1920  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器15（美国拉斯维加斯）： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
