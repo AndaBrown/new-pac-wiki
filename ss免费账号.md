@@ -17,11 +17,13 @@ vps推荐：
 
 [rectified](https://secure.rectified.net/aff.php?aff=206) （KVM框架，不限流量，8折优惠码LET20)  
 
-[digitalocean](https://www.digitalocean.com/)
+[digitalocean](https://m.do.co/c/a4162a6fabc2) （新手点击推广链接注册的可以获得$10的余额）
 
 [virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 
 
-移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com/?ref=7048874 ) (直连)；电信推荐香港阿里云(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
+[阿里云](https://intl.aliyun.com/zh/starter-packages/general)
+
+移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com/?ref=7048874 ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
