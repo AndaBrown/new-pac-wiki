@@ -19,13 +19,13 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**===免费节点列表1===**（5月6日更新）
+**===免费节点列表1===**（5月8日更新）
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
 
 服务器1(美国洛杉矶）：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
-服务器2(美国洛杉矶）：104.160.176.31 端口：817 密码：dongtaiwang.com 加密方式：CHACHA20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
+服务器2(美国洛杉矶）：104.160.185.148 端口：513 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
 服务器3(美国洛杉矶）：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
 
@@ -70,6 +70,13 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器22（日本东京）：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
 
 服务器23（美国波特兰）：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
+
+服务器24（美国洛杉矶）：52.89.166.180  端口：22347  密码：h3ue8d9zxh3t  加密方式：chacha20-life（网友分享 ）
+
+服务器25（日本东京）：153.125.235.211  端口：31058  密码：666666 加密方式：aes-256-cfb（网友分享 ）
+
+服务器26（新加坡）：47.88.158.89  端口：513  密码：ntdtv.com 加密方式：aes-256-cfb（自建阿里云 ）
+
 
 **===免费节点列表2===**（5月2日更新）
 
