@@ -9,13 +9,19 @@
 
 **===自己搭建ss服务器教程===**
 
-[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建都是大同小异的事情。
+[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
 
 vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874 ) （全球15个服务器位置可选，KVM框架，新账号首次充值5美元送10美元） 
 
 [rectified](https://secure.rectified.net/aff.php?aff=206) （KVM框架，不限流量，8折优惠码LET20)  
+
+[digitalocean](https://www.digitalocean.com/)
+
+[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 
+
+移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com/?ref=7048874 ) (直连)；电信推荐香港阿里云(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -71,7 +77,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器23（美国波特兰）：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
-服务器24（美国洛杉矶）：52.89.166.180  端口：22347  密码：h3ue8d9zxh3t  加密方式：chacha20-life（网友分享 ）
+服务器24（美国洛杉矶）：107.181.152.181  端口：22347  密码：h3ue8d9zxh3t  加密方式：chacha20-life（网友分享 ）
 
 服务器25（日本东京）：153.125.235.211  端口：31058  密码：666666 加密方式：aes-256-cfb（网友分享 ）
 
@@ -82,23 +88,17 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
 
-服务器3：153.125.237.238  端口：31693 密码：ntdtv.com 加密方式：aes-256-cfb 
-
 服务器4：153.125.234.172  端口：31314 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器11：153.125.239.239 端口：31797 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器12：153.125.239.242 端口：31095 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器13：153.125.239.243 端口：31861 密码：ntdtv.com 加密方式：aes-256-cfb 
-
 服务器14：153.125.239.241 端口：31983 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器15：153.125.239.237 端口：31435 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器17：153.125.239.239 端口：31077 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器18：153.125.239.243 端口：31442 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器19：153.125.239.238 端口：31240 密码：ntdtv.com 加密方式：aes-256-cfb 
 
