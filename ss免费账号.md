@@ -13,9 +13,9 @@
 
 vps推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874 ) （全球15个服务器位置可选，KVM框架，新账号首次充值5美元送10美元） 
+[vultr](http://www.vultr.com) （全球15个服务器位置可选，KVM框架，新账号首次充值5美元送10美元） 
 
-[rectified](https://secure.rectified.net/aff.php?aff=206) （KVM框架，不限流量，8折优惠码LET20)  
+[rectified](https://secure.rectified.net) （KVM框架，不限流量，8折优惠码LET20)  
 
 [digitalocean](https://m.do.co/c/a4162a6fabc2) （新手点击推广链接注册的可以获得$10的余额）
 
@@ -23,7 +23,7 @@ vps推荐：
 
 [阿里云](https://intl.aliyun.com/zh/starter-packages/general)
 
-移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com/?ref=7048874 ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
+移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
 
 **===免费节点列表1===**（5月8日更新）
 
@@ -31,18 +31,18 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
 
-服务器1(美国洛杉矶）：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
+服务器1(美国洛杉矶）：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net) ）
 
-服务器2(美国洛杉矶）：104.160.185.148 端口：513 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
+服务器2(美国洛杉矶）：104.160.185.148 端口：513 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net) ）
 
-服务器3(美国洛杉矶）：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
+服务器3(美国洛杉矶）：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net) ）
 
 服务器4(美国洛杉矶）：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
-（自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
+（自建[rectified](https://secure.rectified.net) ）
 
 服务器5（美国弗吉尼亚）：47.89.185.122 端口：12345 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
 
-服务器6(美国洛杉矶）：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net/aff.php?aff=206) ）
+服务器6(美国洛杉矶）：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net) ）
 
 服务器7（中国香港）：47.90.121.235 端口：6666  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
 
@@ -53,11 +53,11 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器10（中国香港）：123.203.222.74 端口：12632 密码：HKLobert@12632 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
-服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
+服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com ) ）
 
 服务器12（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享阿里云）
 
-服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
+服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com ) ）
 
 服务器14（美国纽约）：107.175.95.241  端口：1920  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
@@ -75,7 +75,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器21（美国旧金山）： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
-服务器22（日本东京）：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享[vultr](http://www.vultr.com/?ref=7048874 ) ）
+服务器22（日本东京）：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享[vultr](http://www.vultr.com) ）
 
 服务器23（美国波特兰）：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
