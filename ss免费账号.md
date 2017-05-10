@@ -25,15 +25,13 @@ vps推荐：
 
 移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
 
-**===免费节点列表1===**（5月8日更新）
+**===免费节点列表1===**（5月10日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
 
 服务器1(美国洛杉矶）：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net) ）
-
-服务器2(美国洛杉矶）：104.160.185.148 端口：513 密码：dongtaiwang.com 加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建[rectified](https://secure.rectified.net) ）
 
 服务器3(美国洛杉矶）：104.160.173.67  端口：923 密码：dongtaiwang.com 加密方式：CHACHA20    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建[rectified](https://secure.rectified.net) ）
 
@@ -86,25 +84,18 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器26（新加坡）：47.88.158.89  端口：513  密码：ntdtv.com 加密方式：aes-256-cfb（自建阿里云 ）
 
 
-**===免费节点列表2===**（5月2日更新）
+**===免费节点列表2===**（5月10日更新）
 
 应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
 
-服务器4：153.125.234.172  端口：31314 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器4：153.125.234.175  端口：31945 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器11：153.125.239.239 端口：31797 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器5：153.125.237.242 端口：31901 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器12：153.125.239.242 端口：31095 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器6：153.125.237.243 端口：31211 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器14：153.125.239.241 端口：31983 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器7：153.125.237.241 端口：31285 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器15：153.125.239.237 端口：31435 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器17：153.125.239.239 端口：31077 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器19：153.125.239.238 端口：31240 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器20：153.125.239.242 端口：31315 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 **===其它免费节点网站===**
 
