@@ -25,7 +25,7 @@ vps推荐：
 
 移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
 
-**===免费节点列表1===**（5月10日更新）
+**===免费节点列表1===**（5月11日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -53,11 +53,11 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器10（中国香港）：123.203.222.74 端口：12632 密码：HKLobert@12632 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
 混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
 
-服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com ) ）
+服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享vultr）
 
 服务器12（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享阿里云）
 
-服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享[vultr](http://www.vultr.com ) ）
+服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享vultr）
 
 服务器14（美国纽约）：107.175.95.241  端口：1920  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
@@ -75,15 +75,13 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器21（美国旧金山）： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
-服务器22（日本东京）：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享[vultr](http://www.vultr.com) ）
+服务器22（日本东京）：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享vultr）
 
 服务器23（美国波特兰）：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器24（美国洛杉矶）：107.181.152.181  端口：22347  密码：h3ue8d9zxh3t  加密方式：chacha20-life（网友分享 ）
 
 服务器25（日本东京）：153.125.235.211  端口：31058  密码：666666 加密方式：aes-256-cfb（网友分享 ）
-
-服务器26（新加坡）：47.88.158.89  端口：513  密码：ntdtv.com 加密方式：aes-256-cfb（自建阿里云 ）
 
 
 **===免费节点列表2===**（5月10日更新）
