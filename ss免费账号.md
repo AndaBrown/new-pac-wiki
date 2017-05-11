@@ -23,13 +23,13 @@ vps推荐：
 
 [阿里云](https://intl.aliyun.com/zh/starter-packages/general)
 
-移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。
+移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。 **（这只是建议，是否直连主要影响延迟，如果要求不太高的话，可以不按照推荐来选择，自己亲测是最好的）**
 
 **===免费节点列表1===**（5月11日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。
+**为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。**
 
 服务器1(美国洛杉矶）：104.160.181.92 端口：923 密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified ）
 
