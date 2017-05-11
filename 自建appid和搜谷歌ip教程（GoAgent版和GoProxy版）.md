@@ -84,9 +84,9 @@
 
 **打开Agent文件夹，然后用Notepad++打开proxy.user.ini**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid19.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid20.png)
 
-**在上图所示位置天上自己的appid即可，如果是多个appid，请按照原先的appid格式来弄**
+**在上图所示位置填上自己的appid即可，如果是多个appid，请按照原先的appid格式来弄**
 
 保存后就可以测试翻墙了，记得如果你填上自己的appid后，但之后你又运行ip更新文件，那么会覆盖你自己的appid，这个时候你需要自己再填一遍
 
