@@ -23,8 +23,6 @@ vps推荐：
 
 [virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) （最低2.1美元/月）
 
-[阿里云](https://intl.aliyun.com/zh/starter-packages/general) （最低10美元/月)
-
 
 **===免费节点列表1===**（5月13日更新）
 
