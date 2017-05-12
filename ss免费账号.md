@@ -13,19 +13,20 @@
 
 vps推荐：
 
-[vultr](http://www.vultr.com) （全球15个服务器位置可选，KVM框架，新账号首次充值5美元送10美元） 
+[vultr](https://www.vultr.com/match) （全球15个服务器位置可选，KVM框架，冲多少送多少） 
 
-[rectified](https://secure.rectified.net) （KVM框架，不限流量，8折优惠码LET20)  
+[rectified](https://secure.rectified.net) （鲨鱼机房，KVM框架，不限流量，8折优惠码LET20)  
 
-[digitalocean](https://m.do.co/c/a4162a6fabc2) （新手点击推广链接注册的可以获得$10的余额）
+[changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，最低2.5美元/月）
 
-[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 
+[digitalocean](https://www.digitalocean.com/) （最低5美元/月）
 
-[阿里云](https://intl.aliyun.com/zh/starter-packages/general)
+[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) （最低2.1美元/月）
 
-移动推荐[digitalocean](https://www.digitalocean.com/)新加坡(直连)；联通推荐日本[vultr](http://www.vultr.com ) (直连)；电信推荐香港[阿里云](https://intl.aliyun.com/zh/starter-packages/general)(直连)，如果对延迟要求不高，推荐[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) 低价线路，最低2.1美元/月。 **（这只是建议，是否直连主要影响延迟，如果要求不太高的话，可以不按照推荐来选择，自己亲测是最好的）**
+[阿里云](https://intl.aliyun.com/zh/starter-packages/general) （最低10美元/月)
 
-**===免费节点列表1===**（5月11日更新）
+
+**===免费节点列表1===**（5月13日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -59,7 +60,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器13（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享vultr）
 
-服务器14（美国纽约）：107.175.95.241  端口：1920  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
+服务器14（美国纽约）：107.175.95.241  端口：2602  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器15（美国拉斯维加斯）： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
@@ -84,17 +85,37 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器25（日本东京）：153.125.235.211  端口：31058  密码：666666 加密方式：aes-256-cfb（网友分享 ）
 
 
-**===免费节点列表2===**（5月10日更新）
+**===免费节点列表2===**（5月13日更新）
 
 应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
 
 服务器4：153.125.234.175  端口：31945 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器5：153.125.237.242 端口：31901 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器5：153.125.237.242 端口：31723 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器6：153.125.237.243 端口：31211 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器7：153.125.237.241 端口：31285 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器7：153.125.237.243 端口：31691 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器11：153.125.239.243 端口：31081 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器12：153.125.239.238 端口：31386 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器13：153.125.239.238 端口：31123 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器14：153.125.239.238 端口：31042 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器15：153.125.239.237 端口：31184 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器16：153.125.239.241 端口：31515 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器17：153.125.239.240 端口：31199 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器18：153.125.239.240 端口：31301 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器19：153.125.239.241 端口：31370 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器02：153.125.239.238 端口：31482 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 
 **===其它免费节点网站===**
