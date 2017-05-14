@@ -15,13 +15,13 @@ vps推荐：
 
 [vultr](https://www.vultr.com/match) （全球15个服务器位置可选，KVM框架，新账号冲多少送多少） 
 
-[rectified](https://secure.rectified.net) （鲨鱼机房，KVM框架，不限流量，8折优惠码LET20)  
+[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，不限流量，8折优惠码LET20)  
 
 [changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，最低2.5美元/月）
 
 [digitalocean](https://www.digitalocean.com/) （最低5美元/月）
 
-[virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) （最低2.1美元/月）
+[virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
 
 **===免费节点列表1===**（5月14日更新）
