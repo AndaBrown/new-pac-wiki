@@ -24,7 +24,7 @@ vps推荐：
 [virmach](https://virmach.com/cheap-kvm-linux-vps-windows-vps/) （最低2.1美元/月）
 
 
-**===免费节点列表1===**（5月13日更新）
+**===免费节点列表1===**（5月14日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -39,13 +39,13 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器4(美国洛杉矶）：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
 （自建rectified）
 
-服务器5（美国弗吉尼亚）：47.89.185.122 端口：12345 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
+服务器5（美国弗吉尼亚）：47.89.185.122 端口：12345 密码：ntdtv.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器6(美国洛杉矶）：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified）
 
-服务器7（中国香港）：47.90.121.235 端口：6666  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
+服务器7（中国香港）：47.90.121.235 端口：6666  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器8（中国香港）：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建阿里云）
+服务器8（中国香港）：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器9（中国香港）：58.177.7.153 端口：33126  密码：HKLobert@33126 加密方式：chacha20 （Lobert Cheung网友分享）
 
@@ -64,24 +64,17 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器16（加拿大）：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
-服务器17（美国洛杉矶）：155.254.33.84  端口：8388 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建服务器）
+服务器17（美国洛杉矶）：155.254.33.84  端口：8388 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建）
 
 服务器18（加拿大）： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
-
-服务器19（新加坡）： 128.199.163.158 端口：443 密码：freess.cf 加密方式：aes-256-cfb （freess.cf分享）
 
 服务器20（美国洛杉矶）：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
 服务器21（美国旧金山）： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
 
-服务器22（日本东京）：45.32.9.126  端口：233  密码：970722 加密方式：chacha20 （sm ty网友分享vultr）
-
 服务器23（美国波特兰）：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
 
 服务器24（美国洛杉矶）：107.181.152.181  端口：22347  密码：h3ue8d9zxh3t  加密方式：chacha20-life（网友分享 ）
-
-服务器25（日本东京）：153.125.235.211  端口：31058  密码：666666 加密方式：aes-256-cfb（网友分享 ）
-
 
 **===免费节点列表2===**（5月13日更新）
 
