@@ -13,7 +13,7 @@
 
 vps推荐：
 
-[vultr](https://www.vultr.com/match) （全球15个服务器位置可选，KVM框架，冲多少送多少） 
+[vultr](https://www.vultr.com/match) （全球15个服务器位置可选，KVM框架，新账号冲多少送多少） 
 
 [rectified](https://secure.rectified.net) （鲨鱼机房，KVM框架，不限流量，8折优惠码LET20)  
 
