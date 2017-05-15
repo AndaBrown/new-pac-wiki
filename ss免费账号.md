@@ -24,7 +24,7 @@ vps推荐：
 [virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
 
-**===免费节点列表1===**（5月14日更新）
+**===免费节点列表1===**（5月15日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -47,11 +47,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器8（中国香港）：47.52.66.88  端口：8388  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器9（中国香港）：58.177.7.153 端口：33126  密码：HKLobert@33126 加密方式：chacha20 （Lobert Cheung网友分享）
-
-服务器10（中国香港）：58.177.7.153 端口：33621 密码：HKLobert@33621 加密方式：chacha20-ietf  SSR协议：: auth_aes128_sha1
-混淆: tls1.2_ticket_auth （Lobert Cheung网友分享）
-
 服务器11（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享vultr）
 
 服务器12（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享阿里云）
@@ -63,8 +58,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器15（美国拉斯维加斯）： 76.164.224.102 端口：58945 密码：31527782 加密方式：aes-256-cfb （网友分享）
 
 服务器16（加拿大）：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
-
-服务器17（美国洛杉矶）：155.254.33.84  端口：8388 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建）
 
 服务器18（加拿大）： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
@@ -111,7 +104,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 **===其它免费节点网站===**
 
-[doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
+[doub.bid](https://doub.bid/sszhfx/)  [shadowsocksr.ru](https://shadowsocksr.ru/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
  [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
  [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) 
 ***
