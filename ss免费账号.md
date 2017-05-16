@@ -75,6 +75,13 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器7：153.125.237.243 端口：31691 密码：ntdtv.com 加密方式：aes-256-cfb 
 
+服务器13：153.125.233.243 端口：31547 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器15：153.125.233.237 端口：31070 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器19：153.125.233.238 端口：31905 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+
 **===其它免费节点网站===**
 
 [doub.bid](https://doub.bid/sszhfx/)  [guapi.tk](http://guapi.tk/home/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
