@@ -92,6 +92,22 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 保存后就可以测试翻墙了，记得如果你填上自己的appid后，但之后你又运行ip更新文件，那么会覆盖你自己的appid，这个时候你需要自己再填一遍
 
-**以上就是申请appid和部署appid的全部教程。等空了再写如何自己搜谷歌ip的教程。**
+**以上就是申请appid和部署appid的全部教程**
+
+
+***
+
+### 自己搜谷歌ip教程
+
+**首先电脑先安装NET4.6，自己可以在网上搜。然后下载搜ip工具——MFF2017.5.17**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=2895736640853237) 提取密码：5548
+
+[百度云盘下载](http://pan.baidu.com/s/1nuXjfrN) 提取密码：1nfb
+
+**下载后解压出来**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip1.png)
+
 
 
