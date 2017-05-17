@@ -115,7 +115,7 @@ MFF2017.5.17下载地址：
 
 **运行搜ip工具（ps：该工具由网友开发分享，工具名字有点不雅，请见谅）**
 
-**把名字为“内置ip段.txt"文件拖到搜ip工具中，目前内置了50万ip个数**
+**把名字为“内置ip段.txt"文件拖到搜ip工具中，目前内置了大量的ip个数**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip3.png)
 
