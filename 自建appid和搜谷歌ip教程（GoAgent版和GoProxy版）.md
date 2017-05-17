@@ -107,7 +107,7 @@ MFF2017.5.17下载地址：
 
 [百度云盘下载](http://pan.baidu.com/s/1nuXjfrN) 提取密码：1nfb
 
-**下载后解压出来**
+**下载后解压出来；使用前要先退出杀毒软件，以免被误报，如果不幸被误删了，请重新解压**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip1.png)
 
