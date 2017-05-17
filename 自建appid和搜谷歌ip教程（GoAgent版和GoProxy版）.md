@@ -109,5 +109,40 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip1.png)
 
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip2.png)
 
+**运行搜ip工具（ps：该工具由网友开发分享，工具名字有点不雅，请见谅）**
 
+**把名字为“内置ip段.txt"文件拖到搜ip工具中，目前内置了50万ip个数**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip3.png)
+
+**关于线程数和超时说明如图：**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip4.png)
+
+**我把线程数调到了400，超时300，搜了几分钟后，搜到了44个ip**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip5.png)
+
+**单击延迟按钮可以将搜到的ip进行排序。特别提醒：每个ip都能看到归属地，如果发现有归属地为中国的，搜完ip后将它去除，因为归属地为中国的ip没法使用**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip6.png)
+
+**选中要导入的ip，右键，如果是要导入到GoProxy版，请选择第一个；如果是要导入到GoAgent版，请选择第三个**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip7.png)
+
+**以GoAgent版为例，选择第三个ip格式后，打开GoAgent版的proxy.user.ini，替换前面两行，第三行为gws ip，把你之前搜到的ip按ip类型排序，然后选中gws ip复制到第三行即可**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip8.png)
+
+**以GoProxy版为例，选择第一个ip格式后，打开GoProxy版的gae.user.json，替换如图所示的那行即可，GoProxy版不分gws和gvs ip**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip9.png)
+
+**替换ip之后点击保存，然后亲测翻墙。**
+
+**自己搜ip一般2周搜一次即可，特殊情况除外。通常自己搜的ip肯定是更加适应自己的网络环境。**
+
+以上就是全部教程了，有问题可以发邮件到kebi2014@gmail.com
