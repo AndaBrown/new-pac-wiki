@@ -28,8 +28,6 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**为了节省服务器流量，如果是看视频的话，清晰度不要选的太高，最好不要超过720P，绝大多数vps服务器每个月都有流量限制，有的账号禁用了YouTube视频。我自建的服务器SS客户端和SSR客户端都能用，如果你用的是SS客户端，不管是电脑还是手机，只需要填SSR协议之前的内容即可使用。**
-
 服务器1(美国洛杉矶）：104.160.181.92 端口：3219 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified ）
 
 服务器2(美国洛杉矶）：67.21.78.149 端口：123 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建rectified ）
