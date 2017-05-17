@@ -24,7 +24,7 @@ vps推荐：
 [virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
 
-**===免费节点列表1===**（5月16日更新）
+**===免费节点列表1===**（5月17日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -39,7 +39,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器4(美国洛杉矶）：67.21.78.225    端口：678 密码：ntdtv.com  加密方式：CHACHA20         SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth 
 （自建rectified）
 
-服务器5(美国洛杉矶）：104.160.181.26  端口：1212  密码：dongtaiwang.com 加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified）
+服务器5(美国洛杉矶）：104.160.185.80  端口：47072  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建rectified）
 
 服务器7（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享vultr）
 
@@ -57,17 +57,11 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器14（美国洛杉矶）：198.98.101.14  端口：443  密码：P&2Xa472%u 加密方式：aes-256-cfb （网友分享）
 
-服务器15（美国旧金山）： ss6.ubox.co  端口: 8388 密码: password 加密方式: aes-256-cfb  （ubox.co分享）
-
-服务器16（美国波特兰）：52.89.166.180  端口：444  密码：zhizhu444 加密方式：aes-256-cfb（James Villa网友分享 ）
-
-服务器17（美国洛杉矶）：107.181.152.181  端口：22347  密码：h3ue8d9zxh3t  加密方式：chacha20-life（网友分享 ）
-
-**===免费节点列表2===**（5月16日更新）
+**===免费节点列表2===**（5月17日更新）
 
 应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
 
-服务器4：153.125.234.175  端口：31624 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器4：153.125.234.179  端口：31624 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器5：153.125.237.242 端口：31723 密码：ntdtv.com 加密方式：aes-256-cfb 
 
@@ -77,7 +71,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器13：153.125.233.243 端口：31547 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器15：153.125.233.237 端口：31070 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器15：153.125.233.238 端口：31070 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器19：153.125.233.238 端口：31905 密码：ntdtv.com 加密方式：aes-256-cfb 
 
