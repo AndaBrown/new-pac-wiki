@@ -20,9 +20,9 @@
 
 ***
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年5月17日云端更新appid）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年5月18日云端更新appid）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年5月17日云端更新appid）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年5月18日云端更新appid）
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) （2017年5月17日更新搜ip教程）
 
