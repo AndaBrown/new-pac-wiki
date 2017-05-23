@@ -15,7 +15,7 @@ vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架） 
 
-[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，不限流量，8折优惠码LET20)  
+[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码LET20)  
 
 [changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，最低2.5美元/月）
 
