@@ -24,7 +24,7 @@ vps推荐：
 [virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
 
-**===免费节点列表1===**（5月21日更新）
+**===免费节点列表1===**（5月23日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -53,9 +53,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器12（加拿大）：158.69.212.186  端口：10423  密码：KsFp88wnAX 加密方式：aes-256-cfb （网友分享）
 
 服务器13（加拿大）： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
-
-服务器14(美国洛杉矶）：155.254.33.84  端口：8388 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建）
-
 
 **===免费节点列表2===**（5月17日更新）
 
