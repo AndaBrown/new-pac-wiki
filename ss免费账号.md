@@ -24,7 +24,7 @@ vps推荐：
 [virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
 
-**===免费节点列表1===**（5月24日更新）
+**===免费节点列表1===**（5月25日更新）
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
@@ -59,6 +59,8 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器15(美国洛杉矶）：104.129.16.13 端口：13456 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
 服务器16(美国洛杉矶）：104.160.185.110 端口：6789 密码：dongtaiwang.com 加密方式：aes-256-cfb    （自建 ）
+
+服务器16(新加坡）：47.88.175.170 端口：443 密码：dongtaiwang.com 加密方式：aes-256-cfb    （自建，限速，延迟低适合看网页）
 
 **===免费节点列表2===**（5月17日更新）
 
