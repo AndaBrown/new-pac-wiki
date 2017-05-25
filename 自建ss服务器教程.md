@@ -1,3 +1,5 @@
+### 2017年5月25日增加一键搭建脚本
+
 **教程很简单，整个教程分三步**：
 
 第一步：购买VPS服务器
@@ -88,6 +90,8 @@ chmod +x shadowsocks-libev.sh
 
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
 
+卸载命令：./shadowsocks-libev.sh uninstall
+
 ———————————————————代码分割线————————————————
 
 一键部署ssR代码(支持混淆协议）如下：
@@ -155,38 +159,52 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
-附：
+### 其它好的SSR（支持SS)一键搭建脚本
 
-**一个简单的防DDOS脚本**
+CentOS/Debian/Ubuntu ShadowsocksR 单/多端口 一键管理脚本：
 
-**安装：**
+wget -N --no-check-certificate https://softs.pw/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
-wget http://www.inetbase.com/scripts/ddos/install.sh
+备用下载地址：wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
-chmod +x install.sh
+下载运行后会提示你输入数字来选择要做什么。
 
-./install.sh
+界面如下：
 
-**卸载：**
+运行脚本：bash ssr.sh
 
-wget http://www.inetbase.com/scripts/ddos/uninstall.sh
+输入对应的数字来执行相应的命令。
 
-chmod +x uninstall.sh
-
-./uninstall.sh
-
-原理：用Cron计划任务定时执行脚本统计单个IP的最大连接数，如果超过阈值则用APF活着iptables来阻止，并在预设的阻止时间后释放。
+请输入一个数字来选择菜单选项
+ 
+ 1. 安装 ShadowsocksR
+ 2. 更新 ShadowsocksR
+ 3. 卸载 ShadowsocksR
+ 4. 安装 libsodium(chacha20)
+————————————
+ 5. 查看 账号信息
+ 6. 显示 连接信息
+ 7. 设置 用户配置
+ 8. 手动 修改配置
+ 9. 切换 端口模式
+————————————
+ 10. 启动 ShadowsocksR
+ 11. 停止 ShadowsocksR
+ 12. 重启 ShadowsocksR
+ 13. 查看 ShadowsocksR 日志
+————————————
+ 14. 其他功能
+ 15. 升级脚本
+ 
+ 当前状态: 已安装 并 已启动
+ 当前模式: 单端口
+ 
+请输入数字(1-15)：
 
 
 ***
 
-**CentOS上封邮件发出实现防SPAM和BT、PT的教程**，代码如下：
-
-wget -4qO- onekey.sh/Get_Out_Spam|bash
-
-***
-
-### 鸣谢：[秋水逸冰](https://teddysun.com/392.html) [91yun](https://www.91yun.org/archives/683)  [张朝权博客](https://www.zhangchaoquan.com/index.php/linux/219.html) [时刻知](http://www.shikezhi.com/html/2016/linux_1004/1227496.html)
+鸣谢：[秋水逸冰](https://teddysun.com/392.html)  [91yun](https://www.91yun.org/archives/683)  [doub.bid](https://doub.bid/ss-jc42/)
 
 
 ***
