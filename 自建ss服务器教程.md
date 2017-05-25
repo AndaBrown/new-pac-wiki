@@ -152,10 +152,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 出现running字样即可!
 
-***
-
-**如果你部署的ss服务器只是自己用，可以不用看下面的教程。下面的教程主要是针对愿意将ss账号分享给别人使用时，可供参考的其它脚本。**
-
 
 ***
 
