@@ -159,7 +159,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
-### 其它好的SSR（支持SS)一键搭建脚本
+### 其它好用的SSR（支持SS)一键搭建脚本
 
 CentOS/Debian/Ubuntu ShadowsocksR 单/多端口 一键管理脚本：
 
