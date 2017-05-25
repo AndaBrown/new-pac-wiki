@@ -1,24 +1,5 @@
 ### 2017年5月25日增加单/多端口一键管理脚本 (脚本在此页面的末尾）
 
-**脚本内容：**
-
-支持 限制 端口限速
-
-支持 限制 端口设备数
-
-支持 显示 当前连接IP
-
-支持 显示 SS/SSR连接+二维码
-
-支持 切换管理 单/多端口
-
-支持 一键安装 BBR
-
-支持 一键安装 锐速
-
-支持 一键安装 LotServer
-
-支持 一键封禁 垃圾邮件(SMAP)/BT/PT
 
 
 ***
@@ -186,6 +167,27 @@ CentOS/Debian/Ubuntu ShadowsocksR 单/多端口 一键管理脚本：
 wget -N --no-check-certificate https://softs.pw/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 备用下载地址：wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
+**脚本内容：**
+
+> 支持 限制 端口限速
+
+> 支持 限制 端口设备数
+
+> 支持 显示 当前连接IP
+
+> 支持 显示 SS/SSR连接+二维码
+
+> 支持 切换管理 单/多端口
+
+> 支持 一键安装 BBR
+
+> 支持 一键安装 锐速
+
+> 支持 一键安装 LotServer
+
+> 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
+
 
 下载运行后会提示你输入数字来选择要做什么。
 
