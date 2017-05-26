@@ -27,7 +27,7 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**===免费节点列表1===**（5月26日更新）
+**===免费节点列表1===**（5月27日更新）
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：46245 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
@@ -39,7 +39,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器5(美国硅谷）：47.89.243.62  端口：9245  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6（美国纽约）：107.175.95.241  端口：2017  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
+服务器6（美国纽约）：107.175.95.241  端口：2046  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器7（美国纽约）：107.175.94.126  端口：1502  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
@@ -62,6 +62,9 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器16(美国洛杉矶）：104.129.16.13 端口：13456 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
 服务器17(美国洛杉矶）：104.160.185.110 端口：6789 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建 ）
+
+服务器18(美国洛杉矶）：66.112.219.119 端口：2333 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （步惊云网友分享）
+
 
 **===免费节点列表2===**（5月17日更新）
 
