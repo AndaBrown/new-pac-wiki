@@ -60,8 +60,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器16(美国洛杉矶）：104.160.185.110 端口：6789 密码：dongtaiwang.com 加密方式：aes-256-cfb    （自建 ）
 
-服务器17(新加坡）：47.88.175.170 端口：443 密码：dongtaiwang.com 加密方式：aes-256-cfb    （自建，限速，延迟低适合看网页）
-
 **===免费节点列表2===**（5月17日更新）
 
 应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
