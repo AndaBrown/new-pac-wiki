@@ -37,9 +37,9 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器5(美国硅谷）：47.89.243.62  端口：9245  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6（美国纽约）：107.175.95.241  端口：2017  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （jing zhang网友分享）
+服务器6（美国纽约）：107.175.95.241  端口：2017  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
-服务器7（美国纽约）：107.175.94.126  端口：1502  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （jing zhang网友分享）
+服务器7（美国纽约）：107.175.94.126  端口：1502  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器8(中国香港）：123.203.223.133 端口：17133  密码：HKLobert@17133 加密方式：chacha20 （Lobert Cheung分享）
 
