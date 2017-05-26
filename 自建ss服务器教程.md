@@ -1,4 +1,4 @@
-### 2017年5月25日增加单/多端口一键管理脚本 (脚本在此页面的末尾）
+### 2017年5月26日更新单/多端口一键管理脚本 (脚本在此页面的末尾）
 
 
 
@@ -101,6 +101,8 @@ chmod +x shadowsocks-libev.sh
 
 一键部署ssR代码(支持混淆协议）如下：
 
+yum -y install wget
+
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
 
 chmod +x shadowsocksR.sh
@@ -163,6 +165,8 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 ### 其它好用的SSR（支持SS)一键搭建脚本
 
 CentOS/Debian/Ubuntu ShadowsocksR 单/多端口 一键管理脚本：
+
+yum -y install wget
 
 wget -N --no-check-certificate https://softs.pw/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
