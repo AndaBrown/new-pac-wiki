@@ -23,10 +23,9 @@ vps推荐：
 
 [virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
+SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 **===免费节点列表1===**（5月26日更新）
-
-SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：46245 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
