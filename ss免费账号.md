@@ -49,7 +49,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器8（中国香港）：123.203.223.133  端口：17133  密码：HKLobert@17133 加密方式：chacha20 （Lobert Cheung网友分享）
 
-服务器9（中国香港）：123.203.223.133  端口：13317  密码：HKLobert@13317 加密方式：chacha20 SSR协议：auth_chain_a  混淆：tls1.2_ticket_auth （Lobert Cheung网友分享）
+服务器9（中国香港）：123.203.223.133  端口：13317  密码：HKLobert@13317 加密方式：无 SSR协议：auth_chain_a  混淆：tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器10（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
