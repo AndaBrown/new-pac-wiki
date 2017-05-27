@@ -93,7 +93,9 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 [doub.bid](https://doub.bid/sszhfx/)   [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
  [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
- [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)
+ [Namaho](https://www.namaho.org) [子小耗的博客](https://it2you.xyz/?page_id=445)  [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)  [guapi.ml](https://guapi.ml/home/)
+
+
 ***
 
 如果你有闲置的 SS ，愿意分享出来帮助更多的人，可以联系我，联系邮箱:kebi2014@gmail.com 
