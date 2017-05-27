@@ -69,6 +69,8 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器18(美国洛杉矶）：66.112.219.119 端口：2333 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （步惊云网友分享）
 
+服务器19(美国洛杉矶）：128.1.159.113 端口：5678 密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （小可爱网友分享）
+
 
 **===免费节点列表2===**（5月27日更新）
 
