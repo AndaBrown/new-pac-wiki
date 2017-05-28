@@ -72,7 +72,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器19(美国洛杉矶）：128.1.159.113 端口：5678 密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （小可爱网友分享）
 
 
-**===免费节点列表2===**（5月27日更新）
+**===免费节点列表2===**（5月28日更新）
 
 应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
 
@@ -80,9 +80,9 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器5：153.125.237.242 端口：31723 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器6：153.125.237.243 端口：31980 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器6：153.125.237.237 端口：31965 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器7：153.125.237.243 端口：31691 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器7：153.125.237.240 端口：31044 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器13：153.125.233.243 端口：31547 密码：ntdtv.com 加密方式：aes-256-cfb 
 
