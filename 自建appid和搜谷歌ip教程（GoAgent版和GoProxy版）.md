@@ -99,7 +99,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ### 自己搜谷歌ip教程
 
-**首先电脑先安装NET4.6，自己可以在网上搜NET4.6。如果不安装NET，没有正常运行搜ip工具。然后下载搜ip工具——MFF2017.5.17**
+**首先电脑先安装NET4.6，自己可以在网上搜NET4.6。如果不安装NET，没法正常运行搜ip工具。然后下载搜ip工具——MFF2017.5.17**
 
 MFF2017.5.17下载地址：
 
@@ -133,9 +133,9 @@ MFF2017.5.17下载地址：
 
 **选中要导入的ip，右键，如果是要导入到GoProxy版，请选择第一个；如果是要导入到GoAgent版，请选择第三个**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip7.png)
-
 **以GoAgent版为例，选择第三个ip格式后，打开GoAgent版的proxy.user.ini，替换前面两行，第三行为gws ip，把你之前搜到的ip按ip类型排序，然后选中gws ip复制到第三行即可**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip7.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip8.png)
 
