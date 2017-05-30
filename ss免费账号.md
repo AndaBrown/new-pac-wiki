@@ -5,7 +5,7 @@
 
 以下免费ss账号来自于网络资源以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
 
-禁止使用账号进行垃圾邮件、DDOS、BT下载。如果想分享ss账号给你的朋友，请告诉他本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 如果是个人网站，允许转载我分享的自建账号（需带上本页面地址），但别人分享的账号在未经分享者同意时，禁止转载。
+**禁止使用账号进行垃圾邮件、DDOS、BT下载。如果你认为这些ss帐号对你有帮助, 允许分享本页面的地址** https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7  **禁止直接复制粘贴本页面的帐号信息。**
 
 > 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
@@ -40,10 +40,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器4(美国洛杉矶）：104.160.185.80  端口：47072  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器5(美国硅谷）：47.89.243.62  端口：9245  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
-
-服务器6（美国纽约）：107.175.95.241  端口：2046  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
-
-服务器7（美国纽约）：107.175.94.126  端口：1502  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器8（中国香港）：123.203.223.133  端口：15543  密码：HKLobert@15543 加密方式：chacha20 （Lobert Cheung网友分享）
 
@@ -91,7 +87,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 [doub.bid](https://doub.bid/sszhfx/)   [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
  [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
- [Namaho](https://www.namaho.org)   [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)  [guapi.ml](https://guapi.ml/home/)
+ [Namaho](https://www.namaho.org)   [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)  [guapi.ml](https://guapi.ml/home/) [瓜瓜樱花SS](http://guaguass.lol/)
 
 
 ***
