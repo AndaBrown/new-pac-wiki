@@ -29,7 +29,7 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**===免费节点列表1===**（5月28日更新）
+**===免费节点列表1===**（5月30日更新）
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：46245 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
@@ -45,9 +45,9 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器7（美国纽约）：107.175.94.126  端口：1502  密码：dongtaiwang.com 加密方式：aes-256-cfb SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
-服务器8（中国香港）：123.203.223.133  端口：17133  密码：HKLobert@17133 加密方式：chacha20 （Lobert Cheung网友分享）
+服务器8（中国香港）：123.203.223.133  端口：15543  密码：HKLobert@15543 加密方式：chacha20 （Lobert Cheung网友分享）
 
-服务器9（中国香港）：123.203.223.133  端口：13317  密码：HKLobert@13317 加密方式：none  SSR协议：auth_chain_a  混淆：tls1.2_ticket_auth （Lobert Cheung网友分享）
+服务器9（中国香港）：123.203.223.133  端口：11229  密码：HKLobert@11229 加密方式：chacha20-ietf  SSR协议：auth_aes128_sha1  混淆：tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器10（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
@@ -62,8 +62,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器15（加拿大）： 158.69.212.21  端口：10409  密码：U3DD7nvWjR 加密方式：aes-256-cfb （网友分享）
 
 服务器16(美国洛杉矶）：104.129.16.13 端口：13456 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
-
-服务器17(美国洛杉矶）：104.160.185.110 端口：6789 密码：dongtaiwang.com 加密方式：aes-256-cfb  （自建 ）
 
 服务器18(美国洛杉矶）：66.112.219.119 端口：2333 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （步惊云网友分享）
 
