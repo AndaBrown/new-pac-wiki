@@ -75,7 +75,7 @@
 
 ***
 
-**感谢GoProxy开发作者phuslu**
+**感谢GoProxy开发作者[phuslu](https://github.com/phuslu/goproxy)**
 
 ***
 
