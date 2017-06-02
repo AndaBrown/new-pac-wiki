@@ -65,7 +65,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 **===免费节点列表2===**（5月28日更新）
 
-应网友强烈要求，重新启用arukas docker节点 （arukas docker免费期至6月30日，目前处于公测期）
+应网友强烈要求，重新启用[樱花docker](https://app.arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期）
 
 服务器4：153.125.234.179  端口：31624 密码：ntdtv.com 加密方式：aes-256-cfb 
 
@@ -81,6 +81,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器19：153.125.233.237 端口：31985 密码：ntdtv.com 加密方式：aes-256-cfb 
 
+如果想自己搭建上面的樱花节点，可以参考此教程（If you want to build your own server above, you can refer to this tutorial:）：http://51.ruyo.net/p/3597.html
 
 **===其它免费节点网站===**
 
