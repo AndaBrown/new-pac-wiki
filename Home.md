@@ -56,7 +56,7 @@
 [网门](https://github.com/Alvin9999/new-pac/wiki/%E7%BD%91%E9%97%A8)
 
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86)
-（2017年1月11日更新）
+（2017年6月4日更新）
 
 ***
 
