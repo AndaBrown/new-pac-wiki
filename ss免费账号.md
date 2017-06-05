@@ -7,7 +7,7 @@
 
 **禁止使用账号进行滥用，包括但不限于垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。**
 
-**（You can't copy the following account directly to other websites, unless you have the authorization and bring the address of my page. If you do not agree, please do not use the following account number and close this page.）**
+**（You can't copy the following accounts directly to other websites, unless you have the authorization and bring the address of my page. If you do not agree, please do not use the following accounts and close this page.）**
 
 如果你是个人网站，未经授权，不允许直接复制帐号信息进行转载，如果想转载请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
 
