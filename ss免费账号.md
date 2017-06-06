@@ -70,7 +70,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器17(美国洛杉矶）：128.1.159.113 端口：12345 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （小可爱网友分享）
 
 
-**===免费节点列表2===**（6月15日更新）
+**===免费节点列表2===**（6月7日更新）
 
 应网友强烈要求，重新启用[樱花docker](https://app.arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期）
 
