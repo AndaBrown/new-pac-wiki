@@ -1,4 +1,6 @@
-### 2017年5月26日更新单/多端口一键管理脚本 (脚本在此页面的末尾）
+2017年6月6日增加一键BBR加速脚本
+
+> 2017年5月26日更新单/多端口一键管理脚本 (脚本在此页面的末尾）
 
 
 
@@ -159,6 +161,15 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 出现running字样即可!
 
+**假如你的vps服务器没法安装锐速加速脚本或者安装不成功。那么可以用BBR加速脚本**：
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
+复制上述代码后，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。
 
 ***
 
