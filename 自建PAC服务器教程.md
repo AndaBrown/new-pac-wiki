@@ -1,4 +1,4 @@
-**2017年3月18日增加一键部署PAC代码注意事项**
+**2017年6月6日更新一键部署PAC代码**
 
 教程很简单，整个教程分四步：
 
@@ -106,7 +106,7 @@ chkconfig --level 2345 sendmail off
 
 yum -y install squid wget
 
-wget http://github.itzmx.com/1265578519/PAC/master/squid/centos-squid.conf -O /etc/squid/squid.conf
+wget https://raw.githubusercontent.com/Alvin9999/PAC/master/centos-squid.conf -O /etc/squid/squid.conf
 
 echo "root:W10fM8VWO04aM" >> /etc/squid/passwd
 
