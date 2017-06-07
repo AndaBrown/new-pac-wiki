@@ -72,7 +72,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 **===免费节点列表2===**（6月8日更新）
 
-应网友强烈要求，重新启用[樱花docker](https://app.arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期）
+应网友强烈要求，重新启用[樱花docker](https://arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期）
 
 服务器1：153.125.234.210  端口：31001 密码：ntdtv.com 加密方式：aes-256-cfb 
 
