@@ -70,7 +70,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器17(美国洛杉矶）：128.1.159.113 端口：12345 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （小可爱网友分享）
 
 
-**===免费节点列表2===**（6月7日更新）
+**===免费节点列表2===**（6月8日更新）
 
 应网友强烈要求，重新启用[樱花docker](https://app.arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期）
 
@@ -114,7 +114,28 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器20：153.125.234.207 端口：31072 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-如果想自己搭建上面的樱花节点，可以参考此教程（If you want to build your own server account, you can refer to this tutorial）：http://51.ruyo.net/p/3597.html  不过，听说现在注册账号需要一个月的时间才会收到激活邮件。
+服务器21：153.125.234.209 端口：31164 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器22：153.125.234.206 端口：31601 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器23：153.125.234.204 端口：31806 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器24：153.125.234.208 端口：31396 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器25：153.125.234.211 端口：31831 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器26：153.125.234.206 端口：31686 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器27：153.125.234.206 端口：31357 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器28：153.125.234.206 端口：31923 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器29：153.125.234.209 端口：31474 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+服务器30：153.125.234.205 端口：31720 密码：ntdtv.com 加密方式：aes-256-cfb 
+
+
+如果想自己搭建上面的樱花节点，可以参考此教程（If you want to build your own server account, you can refer to this tutorial）：http://51.ruyo.net/p/3597.html  然而，听说现在注册账号需要一个月的时间才会收到激活邮件。
 
 **===其它免费节点网站===**
 
