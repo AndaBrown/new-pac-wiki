@@ -35,7 +35,7 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**===免费节点列表1===**（6月7日更新，不定期更新账号端口或密码）
+**===免费节点列表1===**（6月9日更新，不定期更新账号端口或密码）
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：46245 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
@@ -48,10 +48,6 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器6(美国纽约）：107.175.95.241  端口：2625  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
 
 服务器7(美国纽约）：107.175.94.126  端口：1386  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （gtemp网友分享）
-
-服务器8（中国香港）：123.203.221.4  端口：44588 密码：HKLobert@44588 加密方式：chacha20 （Lobert Cheung网友分享）
-
-服务器9（中国香港）：123.203.221.4 端口：45884 密码：HKLobert@45884 加密方式：chacha20-ietf SSR协议：auth_aes128_md5 混淆：tls1.2_ticket_auth （Lobert Cheung网友分享）
 
 服务器10（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
@@ -70,7 +66,7 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器17(美国洛杉矶）：128.1.159.113 端口：12345 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （小可爱网友分享）
 
 
-**===免费节点列表2===**（6月8日更新）
+**===免费节点列表2===**（6月9日更新）
 
 应网友强烈要求，重新启用[樱花docker](https://arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期）
 
@@ -82,17 +78,17 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器4：153.125.234.177  端口：31782 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器5：153.125.237.243 端口：31253 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器5：153.125.237.243 端口：31230 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器6：153.125.234.205 端口：31520 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器7：153.125.237.240 端口：31044 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器7：153.125.237.241 端口：31790 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器8：153.125.234.210 端口：31206 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器9：153.125.234.209 端口：31152 密码：ntdtv.com 加密方式：aes-256-cfb
+服务器9：153.125.234.210 端口：31321 密码：ntdtv.com 加密方式：aes-256-cfb
  
-服务器10：153.125.234.209 端口：31479 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器10：153.125.234.210 端口：31751 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器11：153.125.234.204 端口：31667 密码：ntdtv.com 加密方式：aes-256-cfb
  
@@ -102,21 +98,21 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器14：153.125.234.208 端口：31377 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器15：153.125.233.241 端口：31186 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器15：153.125.233.243 端口：31571 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器16：153.125.234.210 端口：31930 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器17：153.125.234.207 端口：31931 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器17：153.125.234.208 端口：31967 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器18：153.125.234.204 端口：31048 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器19：153.125.233.241 端口：31352 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器20：153.125.234.207 端口：31072 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器20：153.125.234.205 端口：31361 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器21：153.125.234.209 端口：31164 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器21：153.125.234.210 端口：31093 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器22：153.125.234.206 端口：31601 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器22：153.125.234.210 端口：31027 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器23：153.125.234.204 端口：31806 密码：ntdtv.com 加密方式：aes-256-cfb 
 
@@ -124,13 +120,13 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
 服务器25：153.125.234.211 端口：31831 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器26：153.125.234.206 端口：31686 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器26：153.125.234.204 端口：31832 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器27：153.125.234.206 端口：31357 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器27：153.125.234.205 端口：31793 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器28：153.125.234.206 端口：31923 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器28：153.125.234.204 端口：31042 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器29：153.125.234.209 端口：31474 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器29：153.125.234.210 端口：31934 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器30：153.125.234.205 端口：31720 密码：ntdtv.com 加密方式：aes-256-cfb 
 
