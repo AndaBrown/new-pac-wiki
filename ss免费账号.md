@@ -131,11 +131,11 @@ SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 服务器30：153.125.234.205 端口：31720 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 
-如果想自己搭建上面的樱花节点，可以参考此教程（If you want to build your own server account, you can refer to this tutorial）：http://51.ruyo.net/p/3597.html  然而，听说现在注册账号需要一个月的时间才会收到激活邮件。
+如果想自己搭建上面的樱花节点，可以参考此教程（If you want to build your own server account, you can refer to this tutorial）：http://51.ruyo.net/p/3597.html 现在注册账号需要一个月左右的时间才会收到激活邮件。
 
 **===其它免费节点网站===**
 
-[doub.bid](https://doub.bid/sszhfx/)   [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
+[doub.bid](https://doub.bid/sszhfx/) （答案：doub.io)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
  [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
  [Namaho](https://www.namaho.org)   [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)  [guapi.ml](https://guapi.ml/home/) [瓜瓜樱花SS](http://guaguass.lol/)
 
