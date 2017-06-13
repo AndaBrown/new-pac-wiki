@@ -18,6 +18,8 @@
 
 **PS**：如果你觉得软件好用，可以分享给你的朋友使用。
 
+### 最新公告：关于最近使用GoAgent版和GoProxy版时出现仅YouTube首页无法打开的问题，现已在云端进行了初步修改，请按照使用说明运行ip更新文件来同步到最新配置，欢迎反馈。
+
 ***
 
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月13日云端更新设置，解决YouTube首页无法打开的问题）
