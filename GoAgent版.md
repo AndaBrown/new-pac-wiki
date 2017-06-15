@@ -11,12 +11,6 @@
 
 > 2017年5月18日云端更新appid
 
-> 2017年4月23日更新，内容：更新GoAgent证书，更新900+高质量ip
-
-> 2017年4月2日云端更新高质量ip
-
-> 2017年3月23日更新ip更新文件
-
 ***
 
 ### 完整版 （适合windows系统，包括xp）
@@ -27,7 +21,7 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=5773674419824848) 提取密码：78348
 
-[盛天云盘下载](http://pan.stnts.com/s/dcYBwiz)
+[盛天云盘下载](http://pan.stnts.com/s/TpOgINy)
 
 [百度云网盘下载](http://pan.baidu.com/s/1qYRSwRq) 密码：nvf6（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
@@ -44,7 +38,7 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=2131173093753313) 提取密码 : 40598
 
-[盛天云盘下载](http://pan.stnts.com/s/Sr2KyyK)
+[盛天云盘下载](http://pan.stnts.com/s/vaVx8aA)
 
 [百度云网盘下载](http://pan.baidu.com/s/1o8g9nq6) 密码：knjp（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
