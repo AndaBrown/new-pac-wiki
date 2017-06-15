@@ -17,7 +17,7 @@
 
 ***
 
-### 完整版
+### 完整版 （适合windows系统，包括xp）
 
 压缩包名称Chrome53_gop_v2017.5.23.7z ，文件大小146.7M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M。
 
@@ -31,7 +31,7 @@
 
 
 ***
-### 精简版
+### 精简版 （适合windows系统，包括xp）
 
 精简版和完整版的区别是：精简版不包含内核升级包，文件大小更小。
 
@@ -72,10 +72,6 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent综合版使用1.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOP1.png)
-
-***
-
-**感谢GoProxy开发作者[phuslu](https://github.com/phuslu/goproxy)**
 
 ***
 
