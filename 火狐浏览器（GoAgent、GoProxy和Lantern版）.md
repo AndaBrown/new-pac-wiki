@@ -4,24 +4,24 @@
 http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe （如果哪天浏览器提醒你要更新flash插件，还是用此下载地址下载即可，这是官方的地址，会自动更新）
 
 
-### 火狐GoAgent版（首选）
+### 火狐GoAgent版
 
-### 2017年5月28日更新，本次更新内容：修复ip-1更新文件，更新400+高质量ip
+### 2017年6月15日更新，本次更新内容：升级浏览器内核为52，同时更新ip，解决YouTube无法打开的问题
 
-压缩包名称Firefox_GA_2017.5.28.7z ，文件大小64.55M。
+压缩包名称Firefox52_GA_2017.6.15.7z ，文件大小93.61M。
 
 > 火狐浏览器GoAgent版和[谷歌浏览器GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=8321578192682265) 提取密码：90425
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=7196421663634798) 提取密码：32534
 
-[盛天云盘下载](http://pan.stnts.com/s/rAzEG7W)
+[盛天云盘下载](http://pan.stnts.com/s/bbyy5LN)
 
-[百度云网盘下载](http://pan.baidu.com/s/1eSquMlG) 密码：fhdh（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载](http://pan.baidu.com/s/1mi9Mui0) 密码：rn74（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
 
-使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，对你了解软件和长期使用很有帮助。
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
 实例图：
 
@@ -31,6 +31,30 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 
 ***
+
+### 火狐GoProxy版
+
+### 2017年6月15日第一次发布
+
+压缩包名称Firefox52_GP_2017.6.15.7z ，文件大小77.87M。
+
+> 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
+
+提醒：使用GoProxy版时，如果刚启动一会发现good ip=0，遇到这种情况重新启动GoProxy即可，一般1～3次。
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1801188255226959) 提取密码：95241
+
+[盛天云盘下载](http://pan.stnts.com/s/g22K7CC)
+
+[百度云网盘下载](http://pan.baidu.com/s/1jIIDOZO) 密码：ahar（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+
+***
+
 
 **火狐蓝灯版（暂停更新）**
 
