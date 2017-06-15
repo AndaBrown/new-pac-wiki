@@ -78,3 +78,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐1.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐2.png)
+
+***
+
+有问题可以来信交流kebi2014@gmail.com
