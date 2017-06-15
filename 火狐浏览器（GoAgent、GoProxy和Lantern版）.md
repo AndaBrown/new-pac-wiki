@@ -56,9 +56,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 ***
 
 
-**火狐蓝灯版（暂停更新）**
+火狐蓝灯版（暂停更新）
 
-**2017年1月6日更新Lantern版本至v2典藏版**
+2017年1月6日更新Lantern版本至v2典藏版
 
 压缩包名称Firefox_LT_2017.1.6.7z ，文件大小58.4M。
 
