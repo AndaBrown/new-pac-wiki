@@ -17,7 +17,7 @@
 
 ***
 
-### 完整版
+### 完整版 （适合windows系统，包括xp）
 
 压缩包名称Chrome53_goa_v2017.4.23.7z ，文件大小152.6M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统42M和win7及以上系统44M），共计86M，方便想升级内核的用户。
 
@@ -32,7 +32,7 @@
 
 ***
 
-### 精简版
+### 精简版 （适合windows系统，包括xp）
 
 精简版和完整版的区别是：精简版不包含内核升级包，文件大小更小。
 
@@ -57,10 +57,6 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOA1.png)
 
-
-***
-
-**感谢GoAgent作者phuslu**
 
 ***
 
