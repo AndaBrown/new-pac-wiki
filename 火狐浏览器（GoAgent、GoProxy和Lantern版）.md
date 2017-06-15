@@ -40,7 +40,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 > 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
-提醒：使用GoProxy版时，如果刚启动一会发现good ip=0，遇到这种情况重新启动GoProxy即可，一般1～3次。
+提醒：使用GoProxy版时，如果刚启动一会发现good ip=0，遇到这种情况重新启动FFgo.exe即可，一般1～3次。
 
 **下载地址：**
 
