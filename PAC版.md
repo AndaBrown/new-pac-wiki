@@ -14,7 +14,7 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=5570230946076487) 提取密码：93371
 
-[盛天云盘下载](http://pan.stnts.com/s/cQjXsL8)
+[盛天云盘下载](http://pan.stnts.com/s/X0EeG7h)
 
 [百度云网盘下载](http://pan.baidu.com/s/1qYRTQpQ) 密码：4ai5（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
@@ -30,7 +30,7 @@
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=5420149179892745) 提取密码：97108
 
-[盛天云盘下载](http://pan.stnts.com/s/QnpKFFZ)
+[盛天云盘下载](http://pan.stnts.com/s/rAjXLvX)
 
 [百度云网盘下载](http://pan.baidu.com/s/1jIuWbn4) 密码：c2j3（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
