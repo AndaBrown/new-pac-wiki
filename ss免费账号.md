@@ -35,25 +35,27 @@ vps推荐：
 
 SSR客户端下载及更新地址：https://github.com/breakwa11/shadowsocks-rss
 
-**===免费节点列表1===**（6月16日更新，不定期更新账号端口或密码）
+**===免费节点列表1===**（6月17日更新，不定期更新账号端口或密码）
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：46245 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
 服务器2(美国洛杉矶）：104.160.185.150 端口：3528 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器3(美国洛杉矶）：67.21.78.149 端口：4791 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
+服务器3(美国洛杉矶）：67.21.78.149 端口：4791 密码：dongtaiwang.com 加密方式：aes-256-cfb  > SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
-服务器4(美国洛杉矶）：104.160.185.80  端口：7072  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器4(美国洛杉矶）：104.160.185.80  端口：7072  密码：dongtaiwang.com 加密方式：aes-256-cfb  > SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+
+服务器5(新加坡）：47.74.132.157  端口：54879  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（自建）
 
 服务器6(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
 服务器7(美国纽约）：107.175.94.126 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
 
-服务器10（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器8（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器11（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器9（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器12（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器10（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 
 
