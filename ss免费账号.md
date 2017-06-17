@@ -5,7 +5,7 @@
 
 以下免费ss账号来自于网友分享以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
 
-**禁止使用账号进行滥用，包括但不限于垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。**
+### 禁止使用账号进行滥用，包括但不限于垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。
 
 You can't copy the following accounts directly to other websites, unless you have the authorization and bring the address of my page.
 
@@ -58,6 +58,9 @@ vps推荐：
 
 服务器10（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
+服务器11 (新加坡）：47.74.128.250  端口：3245  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（步惊云网友分享）
+
+服务器12 (新加坡）：47.74.135.36  端口：3246  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（步惊云网友分享）
 
 
 **===免费节点列表2===**（6月14日更新）
