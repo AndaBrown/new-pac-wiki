@@ -4,7 +4,7 @@
 
 具体步骤：
 
-STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 [Shadowsocks国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/AVAAymgzYrglH5XB)  [Shadowsocks国内备份下载](https://www.babel.cc/share.do?s=7105933012929395)    [ShadowsocksR国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/WvdlTiIPOOMDWPgV)
+STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 [Shadowsocks国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [Shadowsocks国内备份下载](https://www.babel.cc/share.do?s=1540367796358713)   
 
 STEP2，打开下载的DMG文件，将程序图标拖到右边的APPLICATIONS，安装完成
 
