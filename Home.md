@@ -22,7 +22,7 @@
 
 **2017年6月14日公告：GoAgent版和GoProxy版无法上YouTube的解决方法如下：**
 
-如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。其次，你还可以用刚发布的[谷歌浏览器59内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) 
+如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。其次，你还可以用刚发布的[谷歌浏览器59内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)。 
 
 如果你的电脑是xp系统，因为XP系统最高只能用49内核，根据反馈和测试，目前用GoAgent版和GoProxy版升级到49内核后不能成功打开YouTube。鉴于此，有两个建议：一、换电脑系统为win7或以上系统；二、如果不换系统的话，可以换其它版本的软件，比如谷歌浏览器PAC版或GOGO翻墙软件等，又或者[火狐浏览器便携版](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
