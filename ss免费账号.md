@@ -36,15 +36,15 @@ vps推荐：
 **软件下载地址：**[SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   [SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
 
 
-**===免费节点列表1===**（6月17日更新，不定期更新账号端口或密码）
+**===免费节点列表1===**（6月18日更新，不定期更新账号端口或密码）
 
-服务器1(美国洛杉矶）：67.21.78.208 端口：46245 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
+服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器2(美国洛杉矶）：104.160.185.150 端口：3528 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
+服务器2(美国洛杉矶）：104.160.185.150 端口：6123 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器3(美国洛杉矶）：67.21.78.149 端口：4791 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
+服务器3(美国洛杉矶）：67.21.78.149 端口：1978 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
-服务器4(美国洛杉矶）：104.160.185.80  端口：7072  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器5(新加坡）：47.74.132.157  端口：54879  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（自建）
 
