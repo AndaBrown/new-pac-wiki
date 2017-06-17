@@ -11,6 +11,10 @@ STEP1，下载用于MAC OS X的SHADOWSOCKSX软件
 **SSR客户端下载地址：**[ShadowsocksX-NG-SSR国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [ShadowsocksX-NG-SSR国内备份下载](https://www.babel.cc/share.do?s=1540367796358713)   
 
 
+***
+
+以SS客户端为例：
+
 STEP2，打开下载的DMG文件，将程序图标拖到右边的APPLICATIONS，安装完成
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC1.png)
