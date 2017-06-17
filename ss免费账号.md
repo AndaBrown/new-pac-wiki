@@ -33,8 +33,7 @@ vps推荐：
 
 [搬瓦工](https://bwh1.net/cart.php?a=confproduct&i=1) (6个机房可选，KVM框架，最低2.99美元/月，年付19.99美元，优惠码（可优惠6%）：BWH1ZBPVK ）
 
-[SS客户端下载及更新地址](https://lai.yuweining.cn/archives/173)
-[SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
+**软件下载地址：**[SS客户端下载及更新地址](https://lai.yuweining.cn/archives/173)   [SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
 
 
 **===免费节点列表1===**（6月17日更新，不定期更新账号端口或密码）
