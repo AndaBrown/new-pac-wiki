@@ -1,8 +1,10 @@
+**2017年6月17日更新苹果电脑SS客户端下载地址，同时增加SSR客户端下载地址**
+
 利用shadowsocks软件翻墙上网，需要配合ss账号使用，[点我获取最新免费ss账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
 具体步骤：
 
-STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 [百度网盘dmg下载](http://pan.baidu.com/s/1jHYypIe)  [本地下载](http://gfw.tapasy.com/download/ShadowsocksX-2.6.3.dmg)
+STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 [Shadowsocks 影梭 国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/AVAAymgzYrglH5XB)  [Shadowsocks 影梭国内备份下载](https://www.babel.cc/share.do?s=7105933012929395)    [ShadowsocksR 影梭国内 CDN 高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/WvdlTiIPOOMDWPgV)
 
 STEP2，打开下载的DMG文件，将程序图标拖到右边的APPLICATIONS，安装完成
 
