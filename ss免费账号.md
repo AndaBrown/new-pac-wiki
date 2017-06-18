@@ -46,8 +46,6 @@ vps推荐：
 
 服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器5(新加坡）：47.74.132.157  端口：54879  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（自建）
-
 服务器6(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
 服务器7(美国纽约）：107.175.94.126 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
@@ -58,9 +56,6 @@ vps推荐：
 
 服务器10（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器11 (新加坡）：47.74.128.250  端口：3245  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（步惊云网友分享）
-
-服务器12 (新加坡）：47.74.135.36  端口：3246  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth（步惊云网友分享）
 
 
 **===免费节点列表2===**（6月18日更新）
