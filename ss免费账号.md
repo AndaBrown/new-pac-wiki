@@ -40,11 +40,19 @@ vps推荐：
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
+> IPV6：2610:150:c012::8e57:4856 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
+
 服务器2(美国洛杉矶）：104.160.185.150 端口：6123 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
+
+> IPV6：2610:150:c012::1fe3:f7c9 端口：6123 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
 服务器3(美国洛杉矶）：67.21.78.149 端口：1978 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
+> IPV6：2610:150:c012::e20:8eb3 端口：1978 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
+
 服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+
+> IPV6：2610:150:c012::9ec4:6a92  端口：4810  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器6(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
