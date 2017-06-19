@@ -34,6 +34,8 @@
 
 ***
 
+[高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统）
+
 [GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月17日云端更新400+高质量谷歌ip；2017年6月14日云端更新设置，需要手动升级内核至53，解决YouTube首页无法打开的问题）
 
 [GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年6月17日云端更新400+高质量谷歌ip；2017年6月14日云端更新设置，需要手动升级内核至53，解决YouTube首页无法打开的问题）
