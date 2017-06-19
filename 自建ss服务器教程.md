@@ -163,6 +163,8 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 **假如你的vps服务器没法安装锐速加速脚本或者安装不成功。那么可以用BBR加速脚本**：
 
+yum -y install wget
+
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
 chmod +x bbr.sh
