@@ -3,9 +3,9 @@
 **翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
 
-以下免费ss账号来自于网友分享以及我自建的服务器，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
+以下免费ss账号来自于我自建的服务器和热心网友的分享，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
 
-### 禁止使用账号进行滥用，包括但不限于垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。
+### 禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。
 
 You can't copy the following accounts directly to other websites, unless you have the authorization and bring the address of my page.
 
@@ -38,13 +38,17 @@ vps推荐：
 
 **===免费节点列表1===**（6月19日更新，不定期更新账号端口或密码）
 
+**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。**
+
+Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.
+
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器2(美国洛杉矶）：104.160.185.150 端口：6123 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
+服务器2(美国洛杉矶）：104.160.185.150 端口：6123 密码：ntdtv.com 加密方式：aes-256-cfb   （自建 ）
 
 服务器3(美国洛杉矶）：67.21.78.149 端口：1978 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
-服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器5(新加坡）：47.74.132.157  端口：2345  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
