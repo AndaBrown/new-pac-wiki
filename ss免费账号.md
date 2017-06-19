@@ -13,7 +13,7 @@ You can't copy the following accounts directly to other websites, unless you hav
 
 请珍惜免费资源，让此项目可以更长久，能够帮助更多需要帮助的人。
 
-免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
+免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙谷歌浏览器高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
 **===自己搭建ss服务器教程===**
 
@@ -50,21 +50,23 @@ Prohibit the use of account abuse, including: sending spam, DDOS, BT download, e
 
 服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器5(新加坡）：47.74.132.157  端口：2345  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
+服务器6(新加坡）：47.74.132.157  端口：2345  密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器7(美国纽约）：107.175.94.126 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
+服务器7(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
-服务器8（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器8(美国纽约）：107.175.94.126 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
 
-服务器9（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器9（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器10（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器10（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器11(新加坡）：47.74.128.250  端口：2333  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+服务器11（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器12(新加坡）：47.74.135.36  端口：2334  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+服务器12(新加坡）：47.74.128.250  端口：2333  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+
+服务器13(新加坡）：47.74.135.36  端口：2334  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
 
 **===免费节点列表2===**（6月18日更新）
 
