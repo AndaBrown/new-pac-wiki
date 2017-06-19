@@ -40,7 +40,7 @@ vps推荐：
 
 **禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。**
 
-Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.
+### Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
