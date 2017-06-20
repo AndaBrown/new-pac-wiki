@@ -60,7 +60,7 @@ vps推荐：
 
 服务器9（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器10（中国香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器10（香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器11（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
