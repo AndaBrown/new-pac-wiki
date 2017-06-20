@@ -28,7 +28,7 @@
 
 ***
 
-### 2017年6月15日发布新软测试——[谷歌浏览器59内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统，xp系统不可用，xp系统可以用[火狐浏览器便携版](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)）
+### 2017年6月15日发布新软测试——[谷歌浏览器59内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统)）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
 
