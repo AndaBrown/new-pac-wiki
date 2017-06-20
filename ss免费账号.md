@@ -93,8 +93,8 @@ vps推荐：
 **===其它免费节点网站===**
 
 [doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [ubox.co](https://www.vbox.co/)
- [不死鸟科学上网](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
- [Namaho](https://www.namaho.org)   [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)  [瓜瓜樱花SS](http://guaguass.lol/)
+ [Leifeng ss](http://yuweining.cn/leifeng/) [FreeSS.org](http://freess.org/)
+ [Namaho](https://www.namaho.org)   [FreeVPNSS](https://get.freevpnss.me/#shadowsocks)  [吾皇SS](https://freessr.xyz/) [shadowsocksr.ru](https://shadowsocksr.ru/)  [瓜瓜樱花SS](http://guaguass.lol/) [SHADOWSOCKS8](http://get.shadowsocks8.cc/)
 
 
 ***
