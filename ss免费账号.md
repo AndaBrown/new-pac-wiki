@@ -9,7 +9,7 @@
 
 You can't copy the following accounts directly to other websites, unless you have the authorization and bring the address of my page.
 
-如果你是个人网站，未经授权，不允许直接复制帐号信息进行转载，如果想转载请带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
+如果你是个人网站，未经授权，不允许直接复制帐号信息进行转载，如果想转载需带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
 
 请珍惜免费资源，让此项目可以更长久，能够帮助更多需要帮助的人。
 
