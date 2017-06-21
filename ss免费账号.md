@@ -36,7 +36,7 @@ vps推荐：
 **软件下载地址：**[SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   [SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
 
 
-**===免费节点列表1（不定期更新账号端口或密码）===**（6月20日优化部分服务器）
+**===免费节点列表1（不定期更新账号端口或密码）===**（6月21日优化部分服务器）
 
 **禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。**
 
@@ -69,6 +69,13 @@ vps推荐：
 服务器13(新加坡）：47.74.135.36  端口：2334  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
 
 服务器14(美国芝加哥）：185.191.229.119  端口：8388  密码：m  加密方式：aes-128-ctr  SSR协议：auth_aes128_md5  混淆：tls1.2_ticket_auth （无名网友分享）
+
+服务器15（美国西雅图）：us.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
+
+服务器16（香港）：hk.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
+
+服务器17（日本）：jp.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
+
 
 **===免费节点列表2===**（6月20日更新）
 
