@@ -11,8 +11,6 @@ You can't copy the following accounts directly to other websites, unless you hav
 
 如果你是个人网站，未经授权，不允许直接复制帐号信息进行转载，如果想转载需带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
 
-请珍惜免费资源，让此项目可以更长久，能够帮助更多需要帮助的人。
-
 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙谷歌浏览器高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
 **===自己搭建ss服务器教程===**
@@ -38,9 +36,9 @@ vps推荐：
 
 **===免费节点列表1（不定期更新账号端口或密码）===**（6月21日优化部分服务器）
 
-**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。**
+**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费资源，让项目更长久，帮助更多需要帮助的人。**
 
-**Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.**
+**Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.Please cherish the free resources so that the project can be more long and can help more people in need.**
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
