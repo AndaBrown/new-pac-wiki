@@ -74,6 +74,7 @@ vps推荐：
 
 服务器17（日本）：jp.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
+服务器18 (新加坡）：47.88.169.103  端口：666  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （聂风网友分享）
 
 **===免费节点列表2===**（6月20日更新）
 
