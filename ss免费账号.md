@@ -36,9 +36,9 @@ vps推荐：
 
 **===免费节点列表1（不定期更新账号端口或密码）===**（6月21日优化部分服务器）
 
-**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费资源，让项目更长久，帮助更多需要帮助的人。**
+**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费SS账号，让项目更长久，帮助更多需要帮助的人。**
 
-**Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.Please cherish the free resources so that the project can be more long and can help more people in need.**
+**Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.Please cherish the free accounts so that the project can be more longer and can help more people in need.**
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
