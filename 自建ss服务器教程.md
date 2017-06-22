@@ -139,15 +139,35 @@ chmod +x shadowsocksR.sh
 
 **第三步：一键加速VPS服务器**
 
-此加速教程为破解版锐速加速教程，但仅支持KVM框架的vps服务器，vultr的服务器都是KVM框架。如果你购买的不是vultr的服务器，那么你需要搞清楚你买的vps服务器是否是KVM框架的，很重要。
+此加速教程为谷歌BBR加速和破解版锐速加速教程，**两者只能成功装一个**，都仅支持KVM框架的vps服务器，vultr的服务器都是KVM框架。如果你购买的不是vultr的服务器，那么你需要搞清楚你买的vps服务器是否是KVM框架的，很重要。
 
 按照第二步的步骤，重新连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
 
+【BBR加速教程】
+
+yum -y install wget
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
+复制上述代码后，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。
+
+如图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/bbr1.PNG)
+
+出现上面这个图按回车
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/bbr2.PNG)
+
+最后输入y重启服务器或者手动输入代码reboot
+
+【锐速加速教程】
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
-
-如果嫌速度太快，受不了，可以选择卸载加速。卸载一键加速代码命令为：
-
-chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
 
 该方法是开机自动启动，部署一次就可以了。但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
@@ -160,18 +180,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速3.png)
 
 出现running字样即可!
-
-**假如你的vps服务器没法安装锐速加速脚本或者安装不成功。那么可以用BBR加速脚本**：
-
-yum -y install wget
-
-wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
-
-chmod +x bbr.sh
-
-./bbr.sh
-
-复制上述代码后，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。
 
 ***
 
