@@ -29,9 +29,9 @@ Java官网下载地址：http://java.com  ，下载后安装在电脑上，之�
 ***
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo100.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo100.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo101.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo101.PNG)
 
 
 ***
