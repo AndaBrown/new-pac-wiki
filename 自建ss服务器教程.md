@@ -157,11 +157,11 @@ chmod +x bbr.sh
 
 如图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/bbr1.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/bbr1.PNG)
 
 出现上面这个图按回车
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/bbr2.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/bbr2.PNG)
 
 最后输入y重启服务器或者手动输入代码reboot
 
