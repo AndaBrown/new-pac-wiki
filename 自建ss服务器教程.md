@@ -1,4 +1,6 @@
-**2017年6月6日增加一键BBR加速脚本**
+**2017年6月22日更新加速教程**
+
+> 2017年6月6日增加一键BBR加速脚本
 
 > 2017年5月26日更新单/多端口一键管理脚本 (脚本在此页面的末尾）
 
@@ -153,7 +155,7 @@ chmod +x bbr.sh
 
 ./bbr.sh
 
-复制上述代码后，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。
+把上面整个代码复制后粘贴进去，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。该方法是开机自动启动，部署一次就可以了。
 
 如图：
 
@@ -169,7 +171,7 @@ chmod +x bbr.sh
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
-该方法是开机自动启动，部署一次就可以了。但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
+把上面整个代码复制后粘贴进去。该方法是开机自动启动，部署一次就可以了。但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速2.PNG)
 
