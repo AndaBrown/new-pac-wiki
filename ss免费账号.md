@@ -88,13 +88,15 @@ vps推荐：
 
 
 
-**===免费节点列表2===**（6月20日更新）
+**===免费节点列表2===**（6月23日更新）
 
-应网友强烈要求，重新启用[樱花docker](https://arukas.io/ )节点 （按照官方的说法免费期至6月30日，目前处于公测期。服务器ip和端口易自动变。）
+免费[樱花docker](https://arukas.io/ )节点 （官方公告免费期延长至7月31日，6月23日起停止新用户注册。免费服务器ip和端口易自动变。）
+
+Official announcement free period extended to July 31st, from June 23rd to stop the registration of new users. Free servers, IP, and ports are easy to change automatically.
 
 服务器1：153.125.237.177 端口：31935 密码：ntdtv.com 加密方式：aes-256-cfb 
 
-服务器2：153.125.237.176  端口：31752 密码：ntdtv.com 加密方式：aes-256-cfb 
+服务器2：153.125.237.173  端口：31407 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 服务器3：153.125.234.210 端口：31890 密码：ntdtv.com 加密方式：aes-256-cfb 
 
