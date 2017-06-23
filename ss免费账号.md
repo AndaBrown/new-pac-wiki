@@ -5,7 +5,7 @@
 
 以下免费ss账号来自于我自建的服务器和热心网友的分享，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
 
-### 禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。
+**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费SS账号，让项目更长久，帮助更多需要帮助的人。**
 
 You can't copy the following accounts directly to other websites, unless you have the authorization and bring the address of my page.
 
