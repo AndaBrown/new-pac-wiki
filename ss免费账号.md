@@ -11,7 +11,7 @@ You can't copy the following accounts directly to other websites, unless you hav
 
 如果你是个人网站，未经授权，不允许直接复制帐号信息进行转载，如果想转载需带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
 
-免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙谷歌浏览器高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
+> 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙谷歌浏览器高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
 **===自己搭建ss服务器教程===**
 
@@ -34,7 +34,11 @@ vps推荐：
 **软件下载地址：**[SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   [SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
 
 
-**===免费节点列表1（不定期更新账号端口或密码）===**（6月21日优化部分服务器）
+**===免费节点列表1（不定期更新账号端口或密码）===**
+
+6月23日增加服务器19
+
+> 6月21日优化部分服务器
 
 **禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费SS账号，让项目更长久，帮助更多需要帮助的人。**
 
@@ -75,6 +79,10 @@ vps推荐：
 服务器17（日本）：jp.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
 服务器18 (新加坡）：47.88.169.103  端口：666  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （聂风网友分享）
+
+服务器19 (日本）：45.76.199.250  端口：888  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
+
+
 
 **===免费节点列表2===**（6月20日更新）
 
