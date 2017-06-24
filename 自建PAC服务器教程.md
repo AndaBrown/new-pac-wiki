@@ -29,13 +29,13 @@ vultr注册地址： http://www.vultr.com/?ref=7048874  （全球15个服务器�
 
 先准备好一个从来没有注册过Vultr的电子邮箱，再用从来没有注册过Vultr的信用卡或者PayPal账号，登录网址[vultr](http://www.vultr.com/?ref=7048874) 进行注册
 
-注册地址：vultr:http://www.vultr.com/?ref=7048874 
+注册地址：http://www.vultr.com/?ref=7048874 
 
 第二步、充值5美元进刚刚注册的账号里面
 
 第三步、也是最重要的一步，登录下面地址领取25美元
 
-25美元领取地址: https://www.vultr.com/promo25b 
+25美元领取地址: https://www.vultr.com/promo25b (送的25美元1年内有效）
 
 以上步骤一定要严格执行，顺序也不能颠倒，且一定要确保是新注册的用户，才能领取成功。
 
