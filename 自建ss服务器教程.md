@@ -167,6 +167,12 @@ chmod +x bbr.sh
 
 最后输入y重启服务器或者手动输入代码reboot
 
+重启完成后，进入 VPS，验证一下是否成功安装最新内核并开启 TCP BBR，输入以下命令：
+
+lsmod | grep bbr
+
+返回值有 tcp_bbr 模块即说明bbr已启动。
+
 【锐速加速教程】
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
