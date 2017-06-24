@@ -21,25 +21,6 @@ vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架。2017年5月7日，官方补货，可以买纽约和迈阿密机房的月付2.5美元的VPS。推荐买日本服务器，延迟低速度快。**2017年6月13日起新促销活动：新账号首次充值5美元送25美元**） 
 
-***
-
-**vultr充值5美元送25美元详细步骤：**
-
-先准备好一个从来没有注册过Vultr的电子邮箱，再用从来没有注册过Vultr的信用卡或者PayPal账号，登录网址[vultr](http://www.vultr.com/?ref=7048874) 进行注册
-
-注册地址：http://www.vultr.com/?ref=7048874 
-
-第二步、充值5美元进刚刚注册的账号里面
-
-第三步、也是最重要的一步，登录下面地址领取25美元
-
-25美元领取地址: https://www.vultr.com/promo25b (送的25美元1年内有效）
-
-以上步骤一定要严格执行，顺序也不能颠倒，且一定要确保是新注册的用户，才能领取成功。
-
-
-***
-
 [rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码LET20)  
 
 [changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，KVM框架，最低2.5美元/月）
