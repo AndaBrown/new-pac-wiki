@@ -2,6 +2,9 @@
 
 > 2017年6月6日更新一键部署PAC代码以及增加BBR加速脚本
 
+
+***
+
 教程很简单，整个教程分四步：
 
 第一步：购买VPS服务器
@@ -211,13 +214,6 @@ chmod +x bbr.sh
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/bbr2.PNG)
 
 最后输入y重启服务器或者手动输入代码reboot
-
-重启完成后，进入 VPS，验证一下是否成功安装最新内核并开启 TCP BBR，输入以下命令：
-
-lsmod | grep bbr
-
-返回值有 tcp_bbr 模块即说明bbr已启动。
-
 【锐速加速教程】
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
