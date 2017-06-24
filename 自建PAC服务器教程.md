@@ -214,6 +214,7 @@ chmod +x bbr.sh
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/bbr2.PNG)
 
 最后输入y重启服务器或者手动输入代码reboot
+
 【锐速加速教程】
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
