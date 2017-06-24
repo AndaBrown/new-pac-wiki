@@ -1,4 +1,6 @@
-**2017年6月22日更新加速教程**
+**2017年6月25日增加没有用户名和密码验证的PAC脚本代码**
+
+> 2017年6月22日更新加速教程
 
 > 2017年6月6日更新一键部署PAC代码以及增加BBR加速脚本
 
@@ -85,7 +87,9 @@ vultr注册地址： http://www.vultr.com/?ref=7048874  （全球15个服务器�
 
 链接成功后，会出现如上图所示，之后就可以输入代码部署成PAC了。
 
-代码如下：
+**部署代码有两种，一种是有用户名和密码验证的PAC脚本，另外一种是没有用户名和密码验证的PAC脚本。可根据自己需要选择。**
+
+**有用户名和密码验证的PAC脚本代码如下：**
 
 ———————————————————代码分割线————————————————
 
@@ -170,6 +174,92 @@ iptables -t raw -P OUTPUT ACCEPT
 service iptables save
 
 ———————————————————代码分割线————————————————
+
+
+**没有用户名和密码验证的PAC脚本代码如下：**
+
+———————————————————代码分割线————————————————
+
+setenforce 0
+
+ulimit -n 800000
+
+echo "* soft nofile 800000" >> /etc/security/limits.conf
+
+echo "* hard nofile 800000" >> /etc/security/limits.conf
+
+echo "alias net-pf-10 off" >> /etc/modprobe.d/dist.conf
+
+echo "alias ipv6 off" >> /etc/modprobe.d/dist.conf
+
+killall sendmail
+
+/etc/init.d/postfix stop
+
+chkconfig --level 2345 postfix off
+
+chkconfig --level 2345 sendmail off
+
+yum -y install squid wget
+
+wget https://raw.githubusercontent.com/Alvin9999/PAC/master/no-password.conf -O /etc/squid/squid.conf
+
+mkdir -p /var/cache/squid
+
+chmod -R 777 /var/cache/squid
+
+squid -z
+
+service squid restart
+
+chkconfig --level 2345 squid on
+
+iptables -t nat -F
+
+iptables -t nat -X
+
+iptables -t nat -P PREROUTING ACCEPT
+
+iptables -t nat -P POSTROUTING ACCEPT
+
+iptables -t nat -P OUTPUT ACCEPT
+
+iptables -t mangle -F
+
+iptables -t mangle -X
+
+iptables -t mangle -P PREROUTING ACCEPT
+
+iptables -t mangle -P INPUT ACCEPT
+
+iptables -t mangle -P FORWARD ACCEPT
+
+iptables -t mangle -P OUTPUT ACCEPT
+
+iptables -t mangle -P POSTROUTING ACCEPT
+
+iptables -F
+
+iptables -X
+
+iptables -P FORWARD ACCEPT
+
+iptables -P INPUT ACCEPT
+
+iptables -P OUTPUT ACCEPT
+
+iptables -t raw -F
+
+iptables -t raw -X
+
+iptables -t raw -P PREROUTING ACCEPT
+
+iptables -t raw -P OUTPUT ACCEPT
+
+service iptables save
+
+———————————————————代码分割线————————————————
+
 
 **代码注意事项：如果你用的是vultr最低配置即2.5美元/月的服务器，当操作后没法正常使用，那么请将上述代码中的前三行数字800000改为稍小数字，然后再重新部署。**
 
