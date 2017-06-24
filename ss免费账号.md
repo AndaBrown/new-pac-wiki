@@ -23,7 +23,7 @@ vps推荐：
 
 **vultr充值5美元送25美元详细步骤：**
 
-先准备好一个从来没有注册过Vultr的电子有限，再用从来没有注册过Vultr的信用卡或者PayPal账号，登录网址Vultr进行注册
+先准备好一个从来没有注册过Vultr的电子邮箱，再用从来没有注册过Vultr的信用卡或者PayPal账号，登录网址[vultr](http://www.vultr.com/?ref=7048874) 进行注册
 
 注册地址：vultr:http://www.vultr.com/?ref=7048874 
 
