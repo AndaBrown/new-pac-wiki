@@ -25,7 +25,7 @@ vps推荐：
 
 先准备好一个从来没有注册过Vultr的电子有限，再用从来没有注册过Vultr的信用卡或者PayPal账号，登录网址Vultr进行注册
 
-注册地址：[vultr](http://www.vultr.com/?ref=7048874) 
+注册地址：vultr:http://www.vultr.com/?ref=7048874 
 
 第二步、充值5美元进刚刚注册的账号里面
 
@@ -35,6 +35,8 @@ vps推荐：
 
 以上步骤一定要严格执行，顺序也不能颠倒，且一定要确保是新注册的用户，才能领取成功。
 
+
+***
 
 [rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码LET20)  
 
