@@ -19,9 +19,7 @@ You can't copy the following accounts directly to other websites, unless you hav
 
 vps推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架。2017年5月7日，官方补货，可以买纽约和迈阿密机房的月付2.5美元的VPS。推荐买日本服务器，延迟低速度快。**2017年6月13日起新促销活动：新账号首次充值5美元送25美元**） 
-
-**新账号首次充值5美元送25美元的活动不知道现在结束了没？我问下官方。**
+[vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架。2017年5月7日，官方补货，可以买纽约和迈阿密机房的月付2.5美元的VPS。推荐买日本服务器，延迟低速度快。*2017年6月13日起的充5送25美元的活动已结束**） 
 
 [rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码LET20)  
 
