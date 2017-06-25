@@ -34,7 +34,7 @@ vps推荐：
 **软件下载地址：**[SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   [SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
 
 
-**===免费节点列表1===**（不定期更新账号ip或端口或密码）
+**===免费节点列表===**（不定期更新账号ip或端口或密码）
 
 近期更新动态：
 
@@ -86,29 +86,6 @@ vps推荐：
 
 服务器19 (日本）：45.76.199.250  端口：888  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
-
-
-**===免费节点列表2===**（6月23日更新）
-
-免费[樱花docker](https://arukas.io/ )节点 （官方公告免费期延长至7月31日，6月23日起停止新用户注册。免费服务器ip和端口易自动变。）
-
-Official announcement free period extended to July 31st, from June 23rd to stop the registration of new users. Free servers, IP, and ports are easy to change automatically.
-
-服务器1：153.125.237.177 端口：31935 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器2：153.125.237.173  端口：31407 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器3：153.125.234.210 端口：31890 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器4：153.125.234.173  端口：31031 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器7：153.125.234.210 端口：31467 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器8：153.125.234.206 端口：31252 密码：ntdtv.com 加密方式：aes-256-cfb 
-
-服务器9：153.125.234.211 端口：31234 密码：ntdtv.com 加密方式：aes-256-cfb
- 
-服务器10：153.125.234.209 端口：31354 密码：ntdtv.com 加密方式：aes-256-cfb 
 
 **===其它免费节点网站===**
 
