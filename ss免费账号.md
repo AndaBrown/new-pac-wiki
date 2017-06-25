@@ -5,11 +5,7 @@
 
 以下免费ss账号来自于我自建的服务器和热心网友的分享，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
 
-**禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费SS账号，让项目更长久，帮助更多需要帮助的人。**
-
-You can't copy the following accounts directly to other websites, unless you have the authorization and bring the address of my page.
-
-如果你是个人网站，未经授权，不允许直接复制帐号信息进行转载，如果想转载需带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
+如果你是个人网站，不允许直接复制帐号信息进行转载，如果想转载需带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
 
 > 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙谷歌浏览器高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
