@@ -3,6 +3,8 @@
 **翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
 
+***
+
 以下免费ss账号来自于我自建的服务器和热心网友的分享，希望大家珍惜使用。同时，请大家分开选择各节点，可以减轻单个节点的服务器压力。
 
 如果你是个人网站，不允许直接复制帐号信息进行转载，如果想转载需带上本页面的更新地址https://github.com/Alvin9999/new-pac/wiki/ss免费账号  
