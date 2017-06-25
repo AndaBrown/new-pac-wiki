@@ -1,6 +1,8 @@
 ### SS or SSR免费账号（长期更新）
 
-**翻墙后推荐网站：** google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
+### 翻墙后推荐网站：
+
+google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）   bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
     zh-cn.shenyun.com（神韵；文化艺术类）
 
 ***
@@ -10,7 +12,7 @@
 
 > 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙谷歌浏览器高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
-**===自己搭建ss服务器教程===**
+### ===自己搭建ss服务器教程===
 
 [vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
 
@@ -31,7 +33,7 @@ vps推荐：
 **软件下载地址：**[SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   [SSR客户端下载及更新地址](https://github.com/breakwa11/shadowsocks-rss)
 
 
-**===免费节点列表===**（不定期更新账号ip或端口或密码）
+### ===免费节点列表===（不定期更新账号ip或端口或密码）
 
 近期更新动态：
 
