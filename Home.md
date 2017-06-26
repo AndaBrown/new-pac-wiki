@@ -36,9 +36,9 @@
 
 [高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统）
 
-[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月17日云端更新400+高质量谷歌ip；2017年6月14日云端更新设置，需要手动升级内核至53，解决YouTube首页无法打开的问题）
+[GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月26日云端更新400+高质量谷歌ip；2017年6月14日云端更新设置，需要手动升级内核至53，解决YouTube首页无法打开的问题）
 
-[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年6月17日云端更新400+高质量谷歌ip；2017年6月14日云端更新设置，需要手动升级内核至53，解决YouTube首页无法打开的问题）
+[GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年6月26日云端更新400+高质量谷歌ip；2017年6月14日云端更新设置，需要手动升级内核至53，解决YouTube首页无法打开的问题）
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) （2017年5月17日更新搜ip教程）
 
