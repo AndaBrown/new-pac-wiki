@@ -37,7 +37,9 @@ vps推荐：
 
 近期更新动态：
 
-6月23日增加服务器19
+6月26日增加服务器20
+
+> 6月23日增加服务器19
 
 > 6月21日优化部分服务器
 
@@ -86,10 +88,12 @@ vps推荐：
 服务器19 (日本）：45.76.199.250  端口：888  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
 
+服务器20 (维也纳）：159.100.24.61  端口：2333  密码：123456  加密方式：CHACHA20 （瘤子网友分享）
+
 **===其它免费节点网站===**
 
 [doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [Leifeng ss](http://yuweining.cn/leifeng/)   [Namaho](https://www.namaho.org)  [shadowsocksr.ru](https://shadowsocksr.ru/)  
 
 ***
 
-如果你有闲置的 SS ，愿意分享出来帮助更多的人，可以联系我，联系邮箱:kebi2014@gmail.com 
+如果你有闲置的SS想分享出来可以联系我。如果担心被滥用，没关系，有脚本可以防止这些滥用的发生。联系邮箱:kebi2014@gmail.com 
