@@ -103,7 +103,7 @@ chmod +x shadowsocks-libev.sh
 
 ———————————————————代码分割线————————————————
 
-一键部署ssR代码(支持混淆协议）如下：
+一键部署ssr代码(支持SS）如下：
 
 yum -y install wget
 
