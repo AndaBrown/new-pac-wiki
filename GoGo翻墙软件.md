@@ -10,7 +10,7 @@ Java官网下载地址：http://java.com  ，下载后安装在电脑上，之�
 
 ***
 
-### GoGo翻墙软件（适合windows系统，包括xp）
+### 低内核GoGo翻墙软件（适合windows系统，包括xp）
 
 压缩包名称Chrome53_GoGo_v2017.6.16.7z ，文件大小181.52M。压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49内核和win7及以上系统53内核），共计86M，方便想升级内核的用户。
 
@@ -27,6 +27,7 @@ Java官网下载地址：http://java.com  ，下载后安装在电脑上，之�
 下载后解压，按使用说明操作即可。
 
 ***
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/gogo100.PNG)
