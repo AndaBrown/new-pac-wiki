@@ -34,7 +34,7 @@
 
 ***
 
-[高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统；2017年6月27日更新GoAgent新版）
+[高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
 
 [低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月26日更新）
 
