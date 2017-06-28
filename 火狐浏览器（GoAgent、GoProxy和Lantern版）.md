@@ -6,19 +6,23 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoAgent版
 
-### 2017年6月15日更新，本次更新内容：升级浏览器内核为52，同时更新ip，解决YouTube无法打开的问题
+**2017年6月28日更新**
 
-压缩包名称Firefox52_GA_2017.6.15.7z ，文件大小93.61M。
+**近期更新内容：**
+
+> 2017年6月15日升级浏览器内核为52，同时更新ip，解决YouTube无法打开的问题
+
+压缩包名称Firefox52_GA_2017.6.28.7z ，文件大小82.22M。
 
 > 火狐浏览器GoAgent版和[谷歌浏览器GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=7196421663634798) 提取密码：32534
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=919210292367169) 提取密码：38209
 
-[盛天云盘下载](http://pan.stnts.com/s/bbyy5LN)
+[盛天云盘下载](http://pan.stnts.com/s/DIYBC3m)
 
-[百度云网盘下载](http://pan.baidu.com/s/1mi9Mui0) 密码：rn74（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载](http://pan.baidu.com/s/1gfkUGgz) 密码：a3nr（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
@@ -34,9 +38,13 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoProxy版
 
-### 2017年6月15日第一次发布
+**2017年6月28日升级GoProxy至1454版，同时开启Quic协议。更新后可用ip数大幅度增加。**
 
-压缩包名称Firefox52_GP_2017.6.15.7z ，文件大小77.87M。
+近期更新内容：
+
+> 2017年6月15日第一次发布
+
+压缩包名称Firefox52_GP_2017.6.28.7z ，文件大小78.86M。
 
 > 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
@@ -44,11 +52,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1801188255226959) 提取密码：95241
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5093065810755397) 提取密码：63842
 
-[盛天云盘下载](http://pan.stnts.com/s/g22K7CC)
+[盛天云盘下载](http://pan.stnts.com/s/g2K9g2D)
 
-[百度云网盘下载](http://pan.baidu.com/s/1jIIDOZO) 密码：ahar（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载]http://pan.baidu.com/s/1hsd1dgo) 密码：cbmw（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
