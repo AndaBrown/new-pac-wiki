@@ -73,8 +73,6 @@ vps推荐：
 
 服务器11（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-_服务器12(新加坡）：47.74.128.250  端口：2333  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）_
-
 服务器13(新加坡）：47.74.135.36  端口：2334  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
 
 服务器14(美国芝加哥）：185.191.229.119  端口：8388  密码：m  加密方式：aes-128-ctr  SSR协议：auth_aes128_md5  混淆：tls1.2_ticket_auth （无名网友分享）
