@@ -64,22 +64,27 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 ***
 
 
-火狐蓝灯版（暂停更新）
+### 火狐蓝灯版
 
-2017年1月6日更新Lantern版本至v2典藏版
+**2017年6月29日更新蓝灯版。**
 
-压缩包名称Firefox_LT_2017.1.6.7z ，文件大小58.4M。
+**近期更新内容**：
+
+> 2017年1月6日更新Lantern版本至v2典藏版
+
+压缩包名称Firefox52_LT_2017.6.29.7z ，文件大小76.87M。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3646160127611112) 提取密码：27462
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5875809975059329) 提取密码：55249
 
-[百度云网盘下载](http://pan.baidu.com/s/1hrLaXq0) 密码：8a2v（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[盛天云盘下载](http://pan.stnts.com/s/X0HGPji)
 
-[MEGA网盘下载](https://mega.nz/#!J4xRFbRa!hQXtt4Xa_tIYQ9ovtoLwzm2kc3FTRt0stNoGkjbhl_g)（翻墙打开,出现下载界面后选择右边的download进行下载）
+[百度云网盘下载](http://pan.baidu.com/s/1kUXVnAv) 密码：dpxi（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
 
-使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。好好看下说明，看慢点，对你了解软件和长期使用很有帮助。
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
 实例图：
 
