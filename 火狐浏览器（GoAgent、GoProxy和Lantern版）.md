@@ -68,21 +68,23 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐蓝灯版
 
-**2017年6月29日更新蓝灯版。**
+**2017年7月1日更新蓝灯版。**
 
 **近期更新内容**：
 
+> 2017年6月29日更新蓝灯版
+
 > 2017年1月6日更新Lantern版本至v2典藏版
 
-压缩包名称Firefox52_LT_2017.6.29.7z ，文件大小76.87M。
+压缩包名称Firefox52_LT_2017.7.1.7z ，文件大小76.82M。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5875809975059329) 提取密码：55249
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=6997688858572305) 提取密码：83250
 
-[盛天云盘下载](http://pan.stnts.com/s/X0HGPji)
+[盛天云盘下载](http://pan.stnts.com/s/SrG75LN)
 
-[百度云网盘下载](http://pan.baidu.com/s/1kUXVnAv) 密码：dpxi（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1pLJQwhP) 密码：kv2c（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
 
 
@@ -90,7 +92,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT2.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT002.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐2.png)
 
