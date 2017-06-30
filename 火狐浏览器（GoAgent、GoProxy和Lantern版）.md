@@ -56,7 +56,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 [盛天云盘下载](http://pan.stnts.com/s/g2K9g2D)
 
-[百度云网盘下载]http://pan.baidu.com/s/1hsd1dgo) 密码：cbmw（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载](http://pan.baidu.com/s/1hsd1dgo) 密码：cbmw（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
