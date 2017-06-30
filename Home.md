@@ -34,7 +34,7 @@
 
 ***
 
-[高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
+[高内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统；2017年6月30日增加萤火虫版；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
 
 [低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
 
@@ -50,7 +50,7 @@
 
 [低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年6月29日更新版本）
 
-[火狐浏览器（GoAgent、GoProxy和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年6月29日更新火狐Lantern版；2017年6月28日更新火狐GoAgent和GoProxy版）
+[火狐浏览器（GoAgent、GoProxy和Lantern版）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年6月30日增加火狐GoGo版和萤火虫版；2017年6月29日更新火狐Lantern版；2017年6月28日更新火狐GoAgent和GoProxy版）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年6月23日增加赛风3）
 
