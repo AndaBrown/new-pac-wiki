@@ -28,4 +28,4 @@
 
 低内核完整版实例图
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53LT002.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53LT002.PNG)
