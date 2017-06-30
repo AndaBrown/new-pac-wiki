@@ -3,6 +3,8 @@
 注意：电脑上需要安装用于火狐浏览器的flash播放器才可以看网页视频。FlashPlayer最新版离线安装程序官网下载地址：
 http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe （如果哪天浏览器提醒你要更新flash插件，还是用此下载地址下载即可，这是官方的地址，会自动更新）
 
+***
+
 
 ### 火狐GoAgent版
 
