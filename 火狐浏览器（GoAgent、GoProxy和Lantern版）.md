@@ -90,7 +90,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT1.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐2.png)
 
