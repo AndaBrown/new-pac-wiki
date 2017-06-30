@@ -94,4 +94,56 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
+### 火狐GoGo版
+
+**2017年6月30日第一次发布。**
+
+GoGo是一款基于Java开发的完全异步非阻塞的高性能代理工具。GoGo是基于Java开发的，所以必须要先安装Java8！必不可少！
+
+Java官网下载地址：http://java.com ，下载后安装在电脑上，之后才能使用GoGo软件翻墙上网！
+
+压缩包名称Firefox52_GoGO_2017.6.30.7z ，文件大小79.78M。
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=975553020309647) 提取密码：12998
+
+[盛天云盘下载](http://pan.stnts.com/s/NqUzsL8)
+
+[百度云网盘下载](http://pan.baidu.com/s/1qXNBOdA) 密码：hvfh（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+
+
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+
+实例图：
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐GoGo1.png)
+
+***
+
+### 火狐萤火虫版
+
+**2017年6月30日第一次发布。**
+
+压缩包名称Firefox52_FF_2017.6.30.7z ，文件大小76.35M。
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3806614586666996) 提取密码：6502
+
+[盛天云盘下载](http://pan.stnts.com/s/RTnPsLb)
+
+[百度云网盘下载](http://pan.baidu.com/s/1pLCyIiZ) 密码：7wgg（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+
+
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+
+实例图：
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐FF1.png)
+
+***
+
 有问题可以来信交流kebi2014@gmail.com
