@@ -90,7 +90,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT2.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐2.png)
 
@@ -105,6 +105,8 @@ GoGo是一款基于Java开发的完全异步非阻塞的高性能代理工具。
 Java官网下载地址：http://java.com ，下载后安装在电脑上，之后才能使用GoGo软件翻墙上网！
 
 压缩包名称Firefox52_GoGO_2017.6.30.7z ，文件大小79.78M。
+
+**为保证大部分用户的代理速度, 请不要使用GoGo进行长时间的大流量下载任务，例如长时间观看视频，又或是使用GoGo作为下载服务器。**
 
 **下载地址：**
 
