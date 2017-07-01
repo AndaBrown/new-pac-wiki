@@ -37,7 +37,9 @@ vps推荐：
 
 **近期更新动态**：
 
-6月29日更新服务器19
+7月1日更新服务器2、服务器3、服务器6的端口
+
+> 6月29日更新服务器19
 
 > 6月28日更新服务器20端口和密码
 
@@ -55,15 +57,15 @@ vps推荐：
 
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器2(美国洛杉矶）：104.160.185.150 端口：6123 密码：ntdtv.com 加密方式：aes-256-cfb   （自建 ）
+服务器2(美国洛杉矶）：104.160.185.150 端口：6274 密码：ntdtv.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器3(美国洛杉矶）：67.21.78.149 端口：1978 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
+服务器3(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
 服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：ntdtv.com   加密方式：aes-256-cfb   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6(新加坡）：47.74.132.157  端口：2345  密码：dongtaiwang.com  加密方式：aes-256-cfb    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器6(新加坡）：47.74.132.157  端口：9065  密码：dongtaiwang.com  加密方式：aes-256-cfb    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器7(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
