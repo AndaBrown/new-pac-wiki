@@ -43,7 +43,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoProxy版
 
-**2017年6月28日升级GoProxy至1454版，同时开启Quic协议。更新后可用ip数大幅度增加。**
+**2017年6月28日升级GoProxy至1454版，同时开启Quic协议。更新后可用ip数大幅度增加。由于目前Quic协议还不完善，所以如果你用此版发现不好用，可以运行ip更新文件来关闭Quic协议。**
 
 近期更新内容：
 
