@@ -29,9 +29,9 @@
 
 低内核完整版实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac新版1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53PAC1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac12.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/53PAC2.PNG)
 
 
 注意：有时候服务器会进行维护，所以在维护时间内个别地址会用不了。
