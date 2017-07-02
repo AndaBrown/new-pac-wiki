@@ -31,7 +31,7 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53PAC1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/53PAC2.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53PAC1.PNG)
 
 
 注意：有时候服务器会进行维护，所以在维护时间内个别地址会用不了。
