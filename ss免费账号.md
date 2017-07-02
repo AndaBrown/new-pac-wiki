@@ -37,7 +37,7 @@ vps推荐：
 
 **近期更新动态**：
 
-7月2日增加服务器21；更新服务器20协议和混淆参数
+7月2日增加服务器21；更新服务器20协议和混淆参数；更新服务器6
 
 > 7月1日更新服务器2、服务器3、服务器6的端口
 
@@ -67,7 +67,7 @@ vps推荐：
 
 服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6(新加坡）：47.74.132.157  端口：9065  密码：dongtaiwang.com  加密方式：aes-256-cfb    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器6(新加坡）：47.88.223.222  端口：47381  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器7(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
@@ -78,8 +78,6 @@ vps推荐：
 服务器10（香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器11（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
-
-服务器13(新加坡）：47.74.135.36  端口：2334  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
 
 服务器14(美国芝加哥）：185.191.229.119  端口：8388  密码：m  加密方式：aes-128-ctr  SSR协议：auth_aes128_md5  混淆：tls1.2_ticket_auth （无名网友分享）
 
