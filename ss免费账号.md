@@ -57,6 +57,8 @@ vps推荐：
 
 **The following free SS accounts from my own servers and enthusiastic users to share, if separate choice nodes can reduce the single node server pressure.Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.Please cherish the free accounts so that the project can be more longer and can help more people in need.**
 
+**为保证大部分用户的速度, 请不要长时间观看YouTube视频或者长时间进行大流量下载任务。**
+
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
 服务器2(美国洛杉矶）：104.160.185.150 端口：6274 密码：ntdtv.com 加密方式：aes-256-cfb   （自建 ）
