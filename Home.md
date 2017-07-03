@@ -28,7 +28,7 @@
 
 ***
 
-### 2017年6月15日发布新软——[谷歌浏览器59内核便携版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统)）
+### 2017年6月15日发布新软——[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88) （适合win7及以上系统)）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
 
