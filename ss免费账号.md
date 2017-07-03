@@ -37,7 +37,9 @@ vps推荐：
 
 **近期更新动态**：
 
-7月2日增加服务器21；更新服务器20协议和混淆参数；更新服务器6
+7月3日更新服务器9、10、11、15、16、17ip
+
+> 7月2日增加服务器21；更新服务器20协议和混淆参数；更新服务器6
 
 > 7月1日更新服务器2、服务器3、服务器6的端口
 
@@ -47,9 +49,7 @@ vps推荐：
 
 > 6月26日增加服务器20
 
-> 6月23日增加服务器19
-
-> 6月21日优化部分服务器
+> ......
 
 ***
 
@@ -75,19 +75,19 @@ vps推荐：
 
 服务器8(美国纽约）：107.175.94.126 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
 
-服务器9（美国西雅图）：us.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器9（美国西雅图）：us.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器10（香港）：hk.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器10（香港）：hk.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器11（日本东京）：jp.bilibilitv.pw  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器11（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器14(美国芝加哥）：185.191.229.119  端口：8388  密码：m  加密方式：aes-128-ctr  SSR协议：auth_aes128_md5  混淆：tls1.2_ticket_auth （无名网友分享）
 
-服务器15（美国西雅图）：us.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
+服务器15（美国西雅图）：us.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
-服务器16（香港）：hk.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
+服务器16（香港）：hk.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
-服务器17（日本）：jp.bilibilitv.pw 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
+服务器17（日本）：jp.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
 服务器18 (新加坡）：47.88.169.103  端口：666  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （聂风网友分享）
 
