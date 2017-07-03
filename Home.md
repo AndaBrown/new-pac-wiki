@@ -34,21 +34,21 @@
 
 ***
 
-[谷歌浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （适合win7及以上系统；2017年7月1日增加Lantern版；2017年6月30日增加萤火虫版；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
+[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （适合win7及以上系统；2017年7月1日增加Lantern版；2017年6月30日增加萤火虫版；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
+[谷歌浏览器53低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
 
-[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年6月28日更新版本）
+[谷歌浏览器53低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年6月28日更新版本）
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) （2017年5月17日更新搜ip教程）
 
-[谷歌浏览器低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年6月28日更新版本）
+[谷歌浏览器53低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年6月28日更新版本）
 
-[谷歌浏览器低内核GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月28日更新版本）
+[谷歌浏览器53低内核GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月28日更新版本）
 
-[谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
+[谷歌浏览器53低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月1日更新版本）
+[谷歌浏览器53低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月1日更新版本）
 
 [火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年7月1日更新火狐Lantern版；2017年6月30日增加火狐GoGo版和萤火虫版；2017年6月28日更新火狐GoAgent和GoProxy版）
 
