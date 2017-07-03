@@ -34,7 +34,7 @@
 
 ***
 
-[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （适合win7及以上系统；2017年7月1日增加Lantern版；2017年6月30日增加萤火虫版；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
+[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年7月1日增加Lantern版；2017年6月30日增加萤火虫版；2017年6月28日更新GoProxy版、PAC版和GoGo版；2017年6月27日更新GoAgent版）
 
 [谷歌浏览器53低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
 
