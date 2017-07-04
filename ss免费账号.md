@@ -95,11 +95,6 @@ vps推荐：
 
 服务器21 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
 
-
-**===其它免费节点网站===**
-
-[doub.bid](https://doub.bid/sszhfx/)  [小双加速](https://xsjs.yhyhd.org/free-ss) [Leifeng ss](http://yuweining.cn/leifeng/)   [Namaho](https://www.namaho.org)  [shadowsocksr.ru](https://shadowsocksr.ru/)  
-
 ***
 
 如果你有闲置的SS想分享出来可以联系我，同时我会告诉你防止ss账号被滥用的脚本。联系邮箱:kebi2014@gmail.com 
