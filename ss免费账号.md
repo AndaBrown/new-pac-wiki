@@ -37,7 +37,7 @@ vps推荐：
 
 **近期更新动态**：
 
-7月3日更新服务器9、10、11、15、16、17ip
+7月3日更新服务器9、10、11、15、16、17域名
 
 > 7月2日增加服务器21；更新服务器20协议和混淆参数；更新服务器6
 
@@ -80,8 +80,6 @@ vps推荐：
 服务器10（香港）：hk.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器11（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
-
-服务器14(美国芝加哥）：185.191.229.119  端口：8388  密码：m  加密方式：aes-128-ctr  SSR协议：auth_aes128_md5  混淆：tls1.2_ticket_auth （无名网友分享）
 
 服务器15（美国西雅图）：us.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
