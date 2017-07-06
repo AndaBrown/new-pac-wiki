@@ -87,8 +87,6 @@ vps推荐：
 
 服务器17（日本）：jp.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
-服务器18 (新加坡）：47.88.169.103  端口：666  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （聂风网友分享）
-
 服务器19 (日本）：45.76.107.70  端口：999  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
 服务器20 (维也纳）：159.100.24.61  端口：6666  密码：gfw.gtm  加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （瘤子网友分享）
