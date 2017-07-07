@@ -61,13 +61,13 @@ vps推荐：
 
 服务器2(美国洛杉矶）：104.160.185.150 端口：6274 密码：ntdtv.com 加密方式：aes-256-cfb   （自建 ）
 
-服务器3(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（选填）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
+服务器3(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
-服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：ntdtv.com   加密方式：aes-256-cfb   SSR协议（选填）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：ntdtv.com   加密方式：aes-256-cfb   SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（选填）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6(新加坡）：47.88.223.222  端口：47381  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（选填）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器6(新加坡）：47.88.223.222  端口：47381  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器7(美国纽约）：107.175.95.241 [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
@@ -87,11 +87,11 @@ vps推荐：
 
 服务器17（日本）：jp.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
-服务器19 (日本）：45.76.107.70  端口：999  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（选填）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
+服务器19 (日本）：45.76.107.70  端口：999  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
 服务器20 (维也纳）：159.100.24.61  端口：6666  密码：gfw.gtm  加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （瘤子网友分享）
 
-服务器21 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（选填）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
+服务器21 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
 
 [科学上网之-Shadowsocks](http://ioi.zone/free/) （密码每天改一次）
 
