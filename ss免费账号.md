@@ -37,7 +37,7 @@ vps推荐：
 
 **近期更新动态**：
 
-7月7日更新服务器18
+7月7日更新服务器18（服务器到期，已删）
 
 > 7月3日更新服务器9、10、11、15、16、17域名
 
@@ -82,8 +82,6 @@ vps推荐：
 服务器16（香港）：hk.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
 服务器17（日本）：jp.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
-
-服务器18 (新加坡）：47.88.169.103  端口：2333  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （聂风网友分享）
 
 服务器19 (日本）：45.76.107.70  端口：999  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
