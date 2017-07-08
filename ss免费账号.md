@@ -101,8 +101,6 @@ vps推荐：
 
 服务器21 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
 
-服务器22：[点此查看连接信息](http://ioi.zone/free/) （jack网友分享）
-
 ***
 
 如果你有闲置的SS想分享出来可以联系我，同时我会告诉你防止ss账号被滥用的脚本。联系邮箱:kebi2014@gmail.com 
