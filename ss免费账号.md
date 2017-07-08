@@ -37,7 +37,9 @@ vps推荐：
 
 **近期更新动态**：
 
-2017年7月7日增加服务器12
+2017年7月8日增加服务器13和14
+
+> 2017年7月7日增加服务器12和22
 
 > 7月7日更新服务器18（服务器到期，已删）
 
@@ -81,6 +83,10 @@ vps推荐：
 
 服务器12 (德国）：94.177.229.237   端口： 6548  密码：qwerfw8f8wh   加密方式：chacha20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （Sundule网友分享，7月15日到期）
 
+服务器13 (日本）：45.32.249.8  端口：2334 密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+
+服务器14 (日本）：45.32.250.174  端口：2333  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+
 服务器15（美国西雅图）：us.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
 
 服务器16（香港）：hk.ohmyss.win 端口：19048 密码：namaho.org 加密方式：chacha20-ietf-poly1305 （namaho.org站长分享）
@@ -93,7 +99,7 @@ vps推荐：
 
 服务器21 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
 
-[科学上网之-Shadowsocks](http://ioi.zone/free/) （密码每天改一次）
+服务器22：[点此查看连接信息](http://ioi.zone/free/) 
 
 ***
 
