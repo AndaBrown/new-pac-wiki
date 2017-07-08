@@ -37,7 +37,7 @@ vps推荐：
 
 **近期更新动态**：
 
-7月9日更换服务器19
+7月9日更新服务器4端口，更换服务器19
 
 > 7月8日增加服务器13和14
 
@@ -67,7 +67,7 @@ vps推荐：
 
 服务器3(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
 
-服务器4(美国洛杉矶）：104.160.185.80  端口：4810  密码：ntdtv.com   加密方式：aes-256-cfb   SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
+服务器4(美国洛杉矶）：104.160.185.80  端口：12345  密码：ntdtv.com   加密方式：aes-256-cfb   SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
 服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
