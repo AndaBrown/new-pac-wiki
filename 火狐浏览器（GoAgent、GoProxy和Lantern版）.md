@@ -5,7 +5,15 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-### 更新动态：2017年6月28日更新GoAgent版和GoProxy版；2017年7月1日更新lantern版；2017年6月30日发布GoGo和萤火虫版。
+**2017年7月8日更新火狐GoProxy版。**
+
+近期更新内容：
+
+> 2017年7月1日更新lantern版
+
+> 2017年6月30日发布GoGo和萤火虫版
+
+> 2017年6月28日更新GoAgent版和GoProxy版
 
 ***
 
@@ -43,25 +51,21 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoProxy版
 
-**2017年6月28日升级GoProxy至1454版，同时开启Quic协议。更新后可用ip数大幅度增加。由于目前Quic协议还不完善，所以如果你用此版发现不好用，可以运行ip更新文件来关闭Quic协议。**
+**2017年7月8日升级GoProxy至1474版，同时开启Quic协议，解决启动和运行过程中卡住的问题。**
 
-近期更新内容：
-
-> 2017年6月15日第一次发布
-
-压缩包名称Firefox52_GP_2017.6.28.7z ，文件大小78.86M。
+压缩包名称Firefox52_GP_2017.7.8.7z ，文件大小78.86M。
 
 > 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
-**注意：启动后如果发现good_addrs=0且几分钟后都加载不出来，或者网站刚开始能打开之后不能打开，遇到这些情况重新启动GoProxy，一般1～3次。这是由于GoProxy还不完善的原因所导致的，需要时间。**
+**注意：使用软件过程中遇到一些小问题，都可以通过重启GoProxy来尝试解决。**
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5093065810755397) 提取密码：63842
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=7203814986887624) 提取密码：91019
 
-[盛天云盘下载](http://pan.stnts.com/s/g2K9g2D)
+[盛天云盘下载](http://pan.stnts.com/s/0P0PrAU)
 
-[百度云网盘下载](http://pan.baidu.com/s/1hsd1dgo) 密码：cbmw（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载](http://pan.baidu.com/s/1kVgJrGN) 密码：c3yb（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
