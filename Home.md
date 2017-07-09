@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoAgent版、GoProxy版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙插件被删了，重新解压即可。翻墙时，最好别用国产杀毒软件。
+**介绍**：GoAgent版、GoProxy版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）可能会误报（干扰翻墙），请添加为信任或白名单使用或退出杀软，以保证翻墙上网的顺利，如果翻墙插件被删了，重新解压即可。**翻墙时，最好别用国产杀毒软件。**
 
 **选择指南**：首选GoAgent版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，且ip源充足，这两款版本值得首选。如果关了杀毒软件和防火墙都无法使用GoAgent版和GoProxy版且尝试过多次，你可以换其它类型的软件，比如PAC版、GoGo翻墙软件、萤火虫版、Lantern版。内存低于2G的电脑建议用[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
