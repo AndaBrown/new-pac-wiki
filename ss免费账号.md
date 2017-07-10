@@ -37,7 +37,9 @@ vps推荐：
 
 **近期更新动态**：
 
-7月9日更新服务器4端口，更换服务器19
+**7月10日更换服务器13和14的ip**
+
+> 7月9日更新服务器4端口，更换服务器19
 
 > 7月8日增加服务器13和14
 
@@ -85,15 +87,13 @@ vps推荐：
 
 服务器12 (德国）：94.177.229.237   端口： 6548  密码：qwerfw8f8wh   加密方式：chacha20   SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （Sundule网友分享，7月15日到期）
 
-服务器13 (日本）：45.32.249.8  端口：2334 密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+服务器13 (日本）：45.76.197.251  端口：2334 密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
 
-服务器14 (日本）：45.32.250.174  端口：2333  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
+服务器14 (日本）：45.76.50.152  端口：876  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
-服务器19 (日本）：45.76.50.152  端口：876  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
+服务器15 (维也纳）：159.100.24.61  端口：6666  密码：gfw.gtm  加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （瘤子网友分享）
 
-服务器20 (维也纳）：159.100.24.61  端口：6666  密码：gfw.gtm  加密方式：CHACHA20  SSR协议：auth_sha1_v4  混淆：tls1.2_ticket_auth （瘤子网友分享）
-
-服务器21 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
+服务器16 (新加坡）：47.88.172.54  端口：777  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
 
 ***
 
