@@ -20,7 +20,7 @@
 
 **2017年6月14日公告：谷歌浏览器53低内核GoAgent版和GoProxy版无法上YouTube的解决方法如下：**
 
-如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。其次，你还可以用刚发布的[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E4%BE%BF%E6%90%BA%E7%89%88)。 
+如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。其次，你还可以用刚发布的[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
 
 如果你的电脑是xp系统，因为XP系统最高只能用谷歌浏览器49内核，根据反馈和测试，目前用GoAgent版和GoProxy版升级到49内核后不能成功打开YouTube。鉴于此，有两个建议：一、换电脑系统为win7或以上系统，这样软件的使用范围会很大；二、如果不换系统的话，可以换其它版本的软件，比如低内核的[谷歌浏览器PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)或[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)或[GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)等，又或者[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
@@ -28,9 +28,14 @@
 
 ### 2017年6月15日发布新软——[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （适合win7及以上系统）
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
+
 **近期高内核版里面的内核升级器失效了，但不影响浏览器的正常使用，然而每次启动时都会遇到更新提示，可以通过这个方法来关闭每次的更新提示。打开GreenChrome.ini文件，在文件内容的最后面将检查更新后面的数字1改为0，然后保存即可。浏览器默认59内核够用了，以后会及时手动升级浏览器内核，请放心。**
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/内核3.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/内核4.png)
+
 
 ***
 
