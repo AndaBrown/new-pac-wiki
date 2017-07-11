@@ -32,7 +32,7 @@
 
 ***
 
-[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （内核更新器失效但不影响浏览器的使用，浏览器默认59内核够用了，以后会逐渐更新。2017年7月8日更新GoProxy版）
+[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （内核更新器失效但不影响浏览器的使用，浏览器默认59内核够用了，以后会逐渐更新。2017年7月11日更新Lantern版，取消lantern开机启动和系统代理等优化操作。）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
 
