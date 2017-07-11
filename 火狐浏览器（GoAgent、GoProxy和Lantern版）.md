@@ -5,9 +5,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年7月8日更新火狐GoProxy版。**
+**2017年7月11日更新火狐Lantern版。**
 
 近期更新内容：
+
+> 2017年7月8日更新火狐GoProxy版
 
 > 2017年7月1日更新lantern版
 
@@ -75,9 +77,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐蓝灯版
 
-**2017年7月1日更新蓝灯版。**
+**2017年7月11日更新，取消lantern开机启动和系统代理等优化操作。**
 
 **近期更新内容**：
+
+> 2017年7月1日更新蓝灯版
 
 > 2017年6月29日更新蓝灯版
 
@@ -87,11 +91,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=6997688858572305) 提取密码：83250
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3841797794992601) 提取密码：81357
 
-[盛天云盘下载](http://pan.stnts.com/s/SrG75LN)
+[盛天云盘下载](http://pan.stnts.com/s/jXhU7CH)
 
-[百度云网盘下载](http://pan.baidu.com/s/1pLJQwhP) 密码：kv2c（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1nuTOl6L) 密码：jrh8（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
 
 
@@ -99,7 +103,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT002.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT003.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐2.png)
 
