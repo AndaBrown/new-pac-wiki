@@ -87,7 +87,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 > 2017年1月6日更新Lantern版本至v2典藏版
 
-压缩包名称Firefox52_LT_2017.7.1.7z ，文件大小76.82M。
+压缩包名称Firefox52_LT_2017.7.11.7z ，文件大小76.6M。
 
 **下载地址：**
 
@@ -98,12 +98,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 [百度云网盘下载](http://pan.baidu.com/s/1nuTOl6L) 密码：jrh8（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
 
-
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT003.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT003.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐2.png)
 
@@ -158,8 +157,6 @@ Java官网下载地址：http://java.com ，下载后安装在电脑上，之后
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
 实例图：
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT003.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐FF1.png)
 
