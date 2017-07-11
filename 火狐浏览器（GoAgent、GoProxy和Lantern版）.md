@@ -159,6 +159,8 @@ Java官网下载地址：http://java.com ，下载后安装在电脑上，之后
 
 实例图：
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐52LT003.PNG)
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐FF1.png)
 
 ***
