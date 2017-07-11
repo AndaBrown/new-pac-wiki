@@ -28,11 +28,13 @@
 
 ### 2017年6月15日发布新软——[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （适合win7及以上系统）
 
+**近期高内核版里面的内核升级器失效了，但不影响浏览器的正常使用，然而每次启动时都会遇到更新提示，可以通过这个方法来关闭每次的更新提示。打开GreenChrome.ini文件，在文件内容的最后面将检查更新后面的数字1改为0，然后保存即可。浏览器默认59内核够用了，以后会及时手动升级浏览器内核，请放心。**
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
 
 ***
 
-[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （内核更新器失效但不影响浏览器的使用，浏览器默认59内核够用了，以后会逐渐更新。2017年7月11日更新Lantern版，取消lantern开机自动启动和系统代理等优化操作。）
+[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年7月11日更新Lantern版，取消lantern开机自动启动和系统代理等优化操作。）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
 
