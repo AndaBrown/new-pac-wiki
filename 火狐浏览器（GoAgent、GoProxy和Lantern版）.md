@@ -77,7 +77,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐蓝灯版
 
-**2017年7月11日更新，取消lantern开机启动和系统代理等优化操作。**
+**2017年7月11日更新，取消lantern开机自动启动和系统代理等优化操作。**
 
 **近期更新内容**：
 
