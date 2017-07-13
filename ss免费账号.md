@@ -33,7 +33,7 @@ vps推荐：
 
 **近期更新动态**：
 
-**7月13日修改服务器2、6、16的端口**
+**7月13日修改服务器2的端口**
 
 > 7月11日增加服务器17和18
 
@@ -65,8 +65,6 @@ vps推荐：
 
 服务器5(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
 
-服务器6(新加坡）：47.88.223.222  端口：623  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
-
 服务器7(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
 服务器8(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
@@ -77,11 +75,7 @@ vps推荐：
 
 服务器11（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
-服务器13 (日本）：45.76.197.251  端口：2334 密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （步惊云网友分享）
-
 服务器14 (日本）：45.77.27.15  端口：876  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
-
-服务器16 (新加坡）：47.88.172.54  端口：555  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （清新网友分享）
 
 服务器17 (韩国）：103.214.68.121  端口：2323  密码： lylgfw  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （chrislee网友分享）
 
