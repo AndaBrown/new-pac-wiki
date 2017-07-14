@@ -68,10 +68,6 @@ vps推荐：
 
 **以下免费ss账号来自于我自建的服务器和热心网友的分享，如果分开选择各节点，可以减轻单个节点的服务器压力。禁止使用账号进行滥用，包括：发送垃圾邮件、DDOS、BT下载等。有的vps服务商一旦有盗版BT投诉，会封掉用户的vps服务器。请珍惜免费SS账号，让项目更长久，帮助更多需要帮助的人。**
 
-**The following free SS accounts from my own servers and enthusiastic users to share, if separate choice nodes can reduce the single node server pressure.Prohibit the use of account abuse, including: sending spam, DDOS, BT download, etc.. Some VPS service providers, once there is piracy BT complaints, will seal off the user's VPS server.Please cherish the free accounts so that the project can be more longer and can help more people in need.**
-
-**为保证大部分用户的速度, 请不要长时间观看YouTube视频或者长时间进行大流量下载任务。**
-
 服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb   （自建 ）
 
 服务器3(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建 ）
