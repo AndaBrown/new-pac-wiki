@@ -6,7 +6,6 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
     zh-cn.shenyun.com（神韵；文化艺术类）
 
 
-> 免费的ss账号有一定的时效性，且单个节点用的人多了的话速度肯定会受到影响。如果想稳定、流畅、高速的翻墙上网，推荐使用[一键翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki)，首选GoAgent版或GoProxy版，采用谷歌GAE云服务器，配合高质量谷歌ip，抗压强且速度不错，也是免费的。
 
 ### ===自己搭建ss服务器教程===
 
@@ -30,6 +29,22 @@ vps推荐：
 
 
 ### ===免费节点列表===（不定期更新账号ip或端口或密码）
+
+### 2017年7月14日第一次发布一键火狐浏览器SS版，集成自动更新SS配置文件方法，方便用户使用，浏览器适合windows操作系统。以后更多的精力会偏向维护此版本。但由于有些用户的电脑不是windows系统且还有手机用户，所以本页面也会尽量维护和更新。
+
+压缩包名称：Firefox52_ss_2017.7.14.7z.7z，文件大小80.31M。使用方法：下载后解压，然后按使用说明操作。
+
+[盛天云盘下载](http://pan.stnts.com/s/FFBJUzf)
+
+[百度云网盘下载](http://pan.baidu.com/s/1bpGlM4B) 密码：5h8s（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss002.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss001.PNG)
+
+
+***
+
 
 **近期更新动态**：
 
