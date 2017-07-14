@@ -87,23 +87,22 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 链接成功后，会出现如上图所示，之后就可以输入代码部署成ss了。
 
-一键部署ss代码（适用于：CentOS 6&7）如下：
 
 ———————————————————代码分割线————————————————
+
+一键部署ss代码（适用于：CentOS 6&7）如下：
 
 yum -y install wget
 
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh
+wget --no-check-certificate -O shadowsocks-go.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go.sh
 
-chmod +x shadowsocks-libev.sh
+chmod +x shadowsocks-go.sh
 
-./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
-
-卸载命令：./shadowsocks-libev.sh uninstall
+./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log
 
 ———————————————————代码分割线————————————————
 
-一键部署ssr代码(支持SS）如下：
+**首选：**一键部署ssr代码(兼容SS）如下：
 
 yum -y install wget
 
