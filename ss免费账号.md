@@ -36,9 +36,11 @@ vps推荐：
 
 **下载地址：**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1785053810418722) 提取密码：83572
+
 [盛天云盘下载](http://pan.stnts.com/s/FFBJUzf)
 
-[百度云网盘下载](http://pan.baidu.com/s/1bpGlM4B) 密码：5h8s（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+[百度云网盘下载](http://pan.baidu.com/s/1bpGlM4B) 提取密码：5h8s（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss002.png)
 
