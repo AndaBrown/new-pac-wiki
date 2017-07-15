@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoAgent版、GoProxy版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）会干扰翻墙，使用前请退出杀软，以保证翻墙上网的顺利，如果翻墙插件被删了，重新解压即可。
+**介绍**：GoAgent版、GoProxy版、SS版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。某些杀毒软件（360、腾讯管家等）会干扰翻墙，使用前请退出杀软，以保证翻墙上网的顺利，如果翻墙插件被删了，重新解压即可。
 
 **注意：我分享的软件都是采用加密方式的，但为了更加安全，建议翻墙时不要使用国产杀毒软件，因为有的国产杀毒软件，比如360，腾讯管家与防火墙有千丝万缕的关系。当然，卸载国产杀毒软件就是最好的选择了，现在国外好用的免费杀毒软件也挺多的，网上一搜就有好多。**
 
@@ -24,7 +24,7 @@
 
 如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。其次，你还可以用刚发布的[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
 
-如果你的电脑是xp系统，因为XP系统最高只能用谷歌浏览器49内核，根据反馈和测试，目前用GoAgent版和GoProxy版升级到49内核后不能成功打开YouTube。鉴于此，有两个建议：一、换电脑系统为win7或以上系统，这样软件的使用范围会很大；二、如果不换系统的话，可以换其它版本的软件，比如低内核的[谷歌浏览器PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)或[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)或[GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)等，又或者[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
+如果你的电脑是xp系统，因为XP系统最高只能用谷歌浏览器49内核，根据反馈和测试，目前用GoAgent版和GoProxy版升级到49内核后不能成功打开YouTube。鉴于此，有两个建议：一、换电脑系统为win7或以上系统，这样软件的使用范围会很大；二、如果不换系统的话，可以换其它版本的软件，比如低内核的[谷歌浏览器SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88)或[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)或[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)或[GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)等，又或者[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
 ***
 
@@ -41,13 +41,15 @@
 
 ***
 
-[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年7月11日更新Lantern版，取消lantern开机自动启动和系统代理等优化操作。）
+[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年7月15日发布SS版）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年6月28日更新版本）
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年7月8日更新版本）
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) （2017年5月17日更新搜ip教程）
+
+[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) (2017年7月15日发布）
 
 [谷歌浏览器低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年6月28日更新版本）
 
@@ -57,7 +59,7 @@
 
 [谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月11日更新Lantern版，取消lantern开机自动启动和系统代理等优化操作。）
 
-[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年7月11日更新火狐Lantern版，取消lantern开机自动启动和系统代理等优化操作）
+[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年7月14日发布火狐SS版）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年6月23日增加赛风3）
 
