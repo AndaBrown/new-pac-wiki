@@ -5,9 +5,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年7月11日更新火狐Lantern版。**
+**2017年7月14日发布火狐SS版。**
 
 近期更新内容：
+
+> 2017年7月11日更新火狐Lantern版
 
 > 2017年7月8日更新火狐GoProxy版
 
@@ -74,8 +76,30 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
+### 火狐SS版
 
-### 火狐蓝灯版
+### 2017年7月14日发布。
+
+压缩包名称：Firefox52_ss_2017.7.14.7z，文件大小80.31M。
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1785053810418722) 提取密码：83572
+
+[盛天云盘下载](http://pan.stnts.com/s/FFBJUzf)
+
+[百度云网盘下载](http://pan.baidu.com/s/1bpGlM4B) 提取密码：5h8s（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+
+使用方法：下载后解压，按使用说明操作。
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss002.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss001.PNG)
+
+
+***
+
+### 火狐Lantern版
 
 **2017年7月11日更新，取消lantern开机自动启动和系统代理等优化操作。**
 
