@@ -69,12 +69,6 @@ vps推荐：
 
 **推荐使用ssr协议。**
 
-服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth（自建）
-
-服务器2(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建）
-
-服务器3(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建）
-
 服务器4(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
 
 服务器5(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
@@ -84,8 +78,6 @@ vps推荐：
 服务器7（香港）：hk.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
 
 服务器8（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
-
-服务器9 (日本）：45.77.27.15  端口：876  密码：ntdtv.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自由飞翔网友分享）
 
 服务器10 (韩国）：103.214.68.121  端口：2323  密码： lylgfw  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （chrislee网友分享）
 
