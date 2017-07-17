@@ -69,9 +69,9 @@ vps推荐：
 
 **推荐使用ssr协议。**
 
-服务器1(美国芝加哥）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth（自建，BBR加速）
+服务器1(美国洛杉矶）：67.21.78.208 端口：7493 密码：dongtaiwang.com 加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth（自建，BBR加速）
 
-服务器2(美国芝加哥）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建，BBR加速）
+服务器2(美国洛杉矶）：67.21.78.149 端口：3345 密码：dongtaiwang.com  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth  （自建，BBR加速）
 
 服务器3(美国洛杉矶）：104.160.185.160  端口：6832  密码：ntdtv.com  加密方式：aes-256-cfb    SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （自建，BBR加速）
 
