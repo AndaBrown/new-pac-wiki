@@ -73,11 +73,11 @@ vps推荐：
 
 服务器5(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
 
-服务器6（美国西雅图）：us.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器6（美国西雅图）：us.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org分享）
 
-服务器7（香港）：hk.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器7（香港）：hk.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org分享）
 
-服务器8（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org站长分享）
+服务器8（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org分享）
 
 服务器10 (韩国）：103.214.68.121  端口：2323  密码： lylgfw  加密方式：aes-256-cfb  SSR协议（可选）：auth_sha1_v4  混淆：tls1.2_ticket_auth （chrislee网友分享）
 
