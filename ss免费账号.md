@@ -62,16 +62,6 @@ vps推荐：
 
 ### 有电脑的朋友，建议你学习一下[自己搭建ss教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)，可能是公开把服务器ip分享出来的原因，我的部分服务器被墙了，如果这种事情发生多次，那么本项目很难继续维护下去，今天会进行一次更新尝试。所以，为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会非常好。
 
-服务器4(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss1.md) （gtemp网友分享）
-
-服务器5(美国纽约）： [点此查看连接信息](https://github.com/candy2107/new-pac/blob/ss/data/ss2.md) （gtemp网友分享）
-
-服务器6（美国西雅图）：us.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org分享）
-
-服务器7（香港）：hk.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org分享）
-
-服务器8（日本东京）：jp.ohmyss.win  端口：16862  密码：namaho.org  加密方式：aes-256-cfb（namaho.org分享）
-
 
 ***
 
