@@ -51,6 +51,7 @@ vps推荐：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss001.PNG)
 
+如果想用谷歌浏览器，可以用[谷歌浏览器59内核SS版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)（适合win7及以上系统）或者[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) （适合windows系统，包括xp）
 
 ***
 
