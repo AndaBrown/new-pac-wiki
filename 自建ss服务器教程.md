@@ -269,4 +269,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ***
 
-上面的教程很详细了，如果在搭建过程中，还遇到一些搞不懂的地方，可以用google搜索，只要是网上有的，基本上都能搜到。如果你没有搜到，不妨试着优化一下关键词。或者有问题你也可以发邮件到kebi2014@gmail.com 
+有问题请发邮件到kebi2014@gmail.com 
