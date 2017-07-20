@@ -32,6 +32,9 @@ vps推荐：
 
 2017年7月14日发布一键翻墙火狐浏览器SS版，集成自动更新SS配置文件方法，方便用户使用，浏览器适合windows操作系统。以后更多的精力会偏向维护此版本。
 
+如果想用谷歌浏览器，可以用[谷歌浏览器59内核SS版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)（适合win7及以上系统）或者[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) （适合windows系统，包括xp）
+
+
 压缩包名称：Firefox52_ss_2017.7.14.7z，文件大小80.31M。使用方法：下载后解压，然后按使用说明操作。
 
 **更新动态**：
@@ -47,11 +50,11 @@ vps推荐：
 
 [百度云网盘下载](http://pan.baidu.com/s/1bpGlM4B) 提取密码：5h8s（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
+火狐SS版图例：
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss002.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss001.PNG)
-
-如果想用谷歌浏览器，可以用[谷歌浏览器59内核SS版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)（适合win7及以上系统）或者[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) （适合windows系统，包括xp）
 
 
 ***
