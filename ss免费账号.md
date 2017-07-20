@@ -75,7 +75,7 @@ vps推荐：
 
 [网门直翻](https://github.com/ogate/ogate/blob/master/README.md) 
 
-[精彩视频](https://rawgit.com/onorm/up/master/oGate.htm?from=oGate)
+[精彩视频](https://s3.amazonaws.com/ogate/oGate.htm?from=oGate)
  
 ***
 
