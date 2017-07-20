@@ -90,21 +90,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 链接成功后，会出现如上图所示，之后就可以输入代码部署成ss了。
 
 
-———————————————————代码分割线————————————————
-
-一键部署ss代码（适用于：CentOS，Debian，Ubuntu系统）如下：
-
-yum -y install wget
-
-wget --no-check-certificate -O shadowsocks-go.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go.sh
-
-chmod +x shadowsocks-go.sh
-
-./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log
-
-———————————————————代码分割线————————————————
-
-**首选**：一键部署ssr代码(**兼容SS**）如下：
+**首选**：一键部署ssr代码(**虽然代码兼容SS客户端，但最好用SSR客户端，因为SSR客户端可以用SSR混淆协议**）如下：
 
 yum -y install wget
 
