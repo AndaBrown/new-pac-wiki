@@ -68,7 +68,7 @@ vps推荐：
 
 [网门直翻](https://github.com/ogate/ogate/blob/master/README.md) 
 
-[动态网、新唐人电视等直翻](https://rawgit.com/onorm/up/master/oGate.htm?from=oGate)
+[精彩视频](https://rawgit.com/onorm/up/master/oGate.htm?from=oGate)
  
 ***
 
