@@ -69,9 +69,10 @@
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2017年7月19日增加Lantern3.7.4）
 
-[苹果手机翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年7月21日更新）
+[苹果手机翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年7月21日更新可以使用SSR账号的教程）
 
-[苹果电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月17日更新客户端下载地址）
+[苹果电脑翻墙软件](https://github.com/Alvin9999/new-
+ pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月17日更新客户端下载地址）
 
 
 [平板电脑翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年3月10日更新）
