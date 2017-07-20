@@ -110,7 +110,7 @@ chmod +x shadowsocksR.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/SSR2.PNG)
 
-上图最后一句话是提醒你按任意键来继续部署。
+上图最后一句话是提醒你按任意键来继续部署。成功后，会看到自己部署的所有信息以及混淆协议内容。
 
 最后重启服务器确保部署生效。重启需要在命令栏里输入reboot。如果部署失败，卡在某个位置，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署。
 
