@@ -64,6 +64,8 @@ vps推荐：
 
 服务器2：104.160.181.22 端口：456  密码：dongtaiwang.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
+服务器3：104.160.181.19 端口：678  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
+
 ### 如果你是ios设备，原先的wingy无法使用上面的ssr协议账号，请使用最新[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
 ### 这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。  
