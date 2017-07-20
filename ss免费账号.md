@@ -64,7 +64,7 @@ vps推荐：
 
 服务器2：104.160.181.22 端口：456  密码：dongtaiwang.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
-### 如果你的设备没法用上面的SSR账号翻出去，这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。  [网门直翻](https://github.com/ogate/ogate/blob/master/README.md) [动态网直翻](https://github.com/zhen99425/free/blob/master/README.md)
+### 如果你的设备没法用上面的SSR账号翻出去，这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。  [网门直翻](https://github.com/ogate/ogate/blob/master/README.md) [动态网、新唐人电视等直翻](https://rawgit.com/onorm/up/master/oGate.htm?from=oGate)
  
 ***
 
