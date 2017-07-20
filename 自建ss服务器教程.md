@@ -102,27 +102,16 @@ chmod +x shadowsocksR.sh
 
 ———————————————————代码分割线————————————————
 
-将代码复制下来，鼠标右键即可。然后粘贴到到shell软件的命令栏里，之后就自动开始部署了，如果没有反应，敲键盘的“回车键”。
+很简单，将代码复制下来，鼠标右键复制，然后粘贴到到shell软件的命令栏里，之后就自动开始部署了，不动时敲键盘的“回车键”。
 
-以SS代码运行为例，首先会提示你设置密码，以12345678为例，输入密码后，敲回车键，如图：
+提示输入密码和端口，输入自己想部署的密码和端口，分别按回车键确定。之后，耐心等待，不动的时候按一下回车键。
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/ss1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/SSR1.PNG)
 
-其次，会提示你输入ss的端口号，以8888为例，如图：
-
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/ss2.png)
-
-然后，按任意键继续部署
-
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/ss3.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/SSR2.PNG)
 
 
-耐心等待，最后部署成功标志如下：
-
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/ss4.png)
-
-
-之后可以重启服务器确保部署生效，有时候不用重启也行。重启需要在命令栏里输入reboot。如果部署失败，卡在某个位置，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署
+最后重启服务器确保部署生效。重启需要在命令栏里输入reboot。如果部署失败，卡在某个位置，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署。
 
 ***
 
