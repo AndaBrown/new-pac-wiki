@@ -347,6 +347,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 
 ***
 
+**制作PAC自动代理地址教程（可选）**：
+
 上面的教程翻墙够用了，但有的人希望制作PAC自动代理地址，即国内网站不走代理，国外需要翻墙的网站才走代理，故出此教程。本教程需要在
  https://github.com 网站注册一个账号，且创建一个项目，如果未来这个github网站被墙了，相应的该方法也会随之失效，提醒下。
 
