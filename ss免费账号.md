@@ -73,7 +73,7 @@ vps推荐：
 
 **有电脑的朋友，建议你学习一下[自己搭建ss教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)，因为服务器ip为公开分享，有可能被别人DDOS了，所以造成有不少服务器没法使用。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会很有用，教程很简单。**
 
-### SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。
+**SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。**
 
 服务器1：104.160.181.19 端口：678  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
@@ -85,7 +85,7 @@ vps推荐：
 
 **如果你是ios设备，原先的wingy无法使用上面的ssr协议账号，请使用最新**[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  **安卓手机可以使用**[安卓手机版（多款软件）](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
-**这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。 ** 
+这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。
 
 [网门直翻](https://github.com/ogate/ogate/blob/master/README.md) 
 
