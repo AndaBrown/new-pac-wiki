@@ -25,7 +25,7 @@ vps推荐：
 
 [搬瓦工](https://bwh1.net/cart.php?a=confproduct&i=1) (6个机房可选，KVM框架，最低2.99美元/月，年付19.99美元，优惠码（可优惠6%）：BWH1ZBPVK ）
 
-**软件下载地址：**
+### SSR软件下载及更新地址：
 
 [SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   
 
@@ -34,6 +34,8 @@ vps推荐：
 [安卓 SSR客户端下载及更新地址](https://github.com/shadowsocksr/shadowsocksr-android/releases) 
 
 [ios SSR客户端下载及更新地址](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
+
+[MAC SSR客户端下载及更新地址](https://github.com/shadowsocksr/ShadowsocksX-NG/releases) 
 
 [Linux客户端一键安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr)
 
