@@ -35,21 +35,6 @@
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
-***
-
-**自动更新GoProxy版本号方法：** 
-
-打开Agent文件夹，找到get-latest-goproxy.cmd文件，右键它选择“以管理员身份运行”
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/自动版本1.png)
-
-服务器会自动从github上下载最新的goproxy版本，当新版本比当前版本高时，会自动下载和替换，一般2～5分钟
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/自动版本2.png)
-
-通常1～2周运行一次get-latest-goproxy.cmd文件，只要是开发者更新了就能同步更新。
-
-如果你等了很久没有更新成功，也运行了很多次，那说明该更新地址在你那里被屏蔽了，你也不用太担心，因为我每隔一段时间会手动更新版本。
 
 ***
 
