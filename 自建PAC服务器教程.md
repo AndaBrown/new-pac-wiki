@@ -347,6 +347,35 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 
 ***
 
+上面的教程翻墙够用了，但有的人希望制作PAC自动代理地址，即国内网站不走代理，国外需要翻墙的网站才走代理，故出此教程。本教程需要在
+ https://github.com 网站注册一个账号，且创建一个项目，如果未来这个github网站被墙了，相应的该方法也会随之失效，提醒下。
+
+例如，我创建了一个名字叫“PAC”的项目，且在这个项目下创建一个文件，这里取名为“pac001”
+
+那么对应的PAC代理地址为：https://raw.githubusercontent.com/Alvin9999/PAC/master/pac001
+
+你创建了文件后，用浏览器打开上面的代理地址，把整个内容复制到文件中，然后把你的vps服务器ip替换原先的“你的vps服务器ip”，之后提交保存。
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac地址001.png)
+
+
+这样PAC地址就制作成了，具体的PAC地址格式可以参考https://raw.githubusercontent.com/Alvin9999/PAC/master/pac001 ，**Alvin9999**改成你的github的用户名，**PAC**改成你创建的项目名称，**pac001**改成你的项目下创建的文件名称。
+
+例如：https://raw.githubusercontent.com/张三/项目名/master/文件名  （可以用浏览器打开自己制作的地址，如果能正常打开且能看到内容说明地址没错，看不到内容证明写错了，好好检查下）
+
+制作完地址后，使用谷歌浏览器的SwitchyOmega扩展，创建情景模式就能使用PAC代理地址
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac地址002.png)
+
+创建后复制自己的地址进去，然后点击**立即更新情景模式**
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pac地址003.png)
+
+
+最后，选中自己的PAC地址就能自动代理上网。
+
+***
+
 ### 鸣谢：[小樱](http://bbs.itzmx.com/thread-8815-1-1.html) [91yun](https://www.91yun.org/archives/683)  [秋水逸冰](https://teddysun.com/489.html)
 
 
