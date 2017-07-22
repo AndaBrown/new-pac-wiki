@@ -1,6 +1,8 @@
-**2017年6月17日更新苹果电脑SS客户端下载地址，同时增加SSR客户端下载地址**
+**2017年7月22日更新，增加一种方法**
 
-利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用，[点我获取最新免费ss或ssr账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+### 第一种方法：利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用
+
+[点我获取最新免费ss或ssr账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
 具体步骤：
 
@@ -32,3 +34,7 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC4.png)
 
 打开SAFARI或者CHROME开始上网吧！
+
+### 第二种方法：
+
+使用Lantern MAC版 [Github官方下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)
