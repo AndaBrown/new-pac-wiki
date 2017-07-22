@@ -37,7 +37,7 @@ vps推荐：
 
 [MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
-[**Linux系统翻墙方法（两种）**](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
+[Linux系统翻墙方法（两种）](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
 
 ### ===免费节点列表===（不定期更新账号ip或端口或密码）
 
@@ -80,7 +80,9 @@ vps推荐：
 
 服务器3：104.160.181.23 端口：789  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
-[**Linux系统翻墙方法（两种）**](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
+[Linux系统翻墙方法（两种）](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
+
+[MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
 如果你是ios设备，原先的wingy无法使用上面的ssr协议账号，请使用最新[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  安卓手机可以使用[安卓手机版（多款软件）](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
