@@ -15,7 +15,7 @@ vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快） 
 
-[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码LET20)  
+[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码8X52VE1DXC或LET20)  
 
 [changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，KVM框架，最低2.5美元/月）
 
@@ -23,7 +23,7 @@ vps推荐：
 
 [virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
 
-[搬瓦工](https://bwh1.net/cart.php?a=confproduct&i=1) (6个机房可选，KVM框架，最低2.99美元/月，年付19.99美元，优惠码（可优惠6%）：BWH1ZBPVK ）
+[搬瓦工](https://bwh1.net/cart.php?a=confproduct&i=1) (6个机房可选，KVM框架，最低2.99美元/月，9.4折优惠码：BWH1ZBPVK ）
 
 ### SSR软件下载及更新地址：
 
