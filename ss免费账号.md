@@ -15,7 +15,7 @@ vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快） 
 
-[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码8X52VE1DXC或LET20)  
+[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码：8X52VE1DXC 或 LET20 )  
 
 [changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，KVM框架，最低2.5美元/月）
 
