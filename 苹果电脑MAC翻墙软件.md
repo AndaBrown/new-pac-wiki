@@ -1,4 +1,4 @@
-**2017年7月22日更新，增加一种方法**
+**2017年7月25日更新，增加一种方法**
 
 ### 第一种方法：利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用
 
@@ -38,3 +38,7 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 ### 第二种方法：
 
 使用Lantern MAC版 [Github官方下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)
+
+### 第三种方法：
+
+使用萤火虫 MAC版 [Github官方下载地址](https://github.com/yinghuocho/download/blob/master/firefly_darwin_amd64_install.dmg?raw=true)
