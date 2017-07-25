@@ -5,9 +5,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年7月14日发布火狐SS版。**
+**2017年7月25日更新火狐Lantern版。**
 
 近期更新内容：
+
+> 2017年7月14日发布火狐SS版
 
 > 2017年7月11日更新火狐Lantern版
 
@@ -101,9 +103,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐Lantern版
 
-**2017年7月11日更新，取消lantern开机自动启动和系统代理等优化操作。**
+**2017年7月25日更新Lantern版本。**
 
 **近期更新内容**：
+
+> 2017年7月11日更新，取消lantern开机自动启动和系统代理等优化操作
 
 > 2017年7月1日更新蓝灯版
 
@@ -111,15 +115,13 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 > 2017年1月6日更新Lantern版本至v2典藏版
 
-压缩包名称Firefox52_LT_2017.7.11.7z ，文件大小76.6M。
+压缩包名称Firefox52_LT_2017.7.25.7z ，文件大小79.06M。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3841797794992601) 提取密码：81357
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=7556773488128372) 提取密码：43671
 
-[盛天云盘下载](http://pan.stnts.com/s/jXhU7CH)
-
-[百度云网盘下载](http://pan.baidu.com/s/1nuTOl6L) 密码：jrh8（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1bp90KWZ) 密码：53pd（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
