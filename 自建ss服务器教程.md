@@ -90,7 +90,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 链接成功后，会出现如上图所示，之后就可以输入代码部署成ss了。
 
 
-**首选**：一键部署ssr代码(**虽然代码兼容SS客户端，但最好用SSR客户端，因为SSR客户端可以用SSR混淆协议**）如下：
+一键部署ssr代码(**虽然代码兼容SS客户端，但最好用SSR客户端，因为SSR客户端可以用SSR混淆协议**）如下：
 
 yum -y install wget
 
@@ -102,7 +102,85 @@ chmod +x shadowsocksR.sh
 
 ———————————————————代码分割线————————————————
 
-很简单，将代码复制下来，鼠标右键复制，然后粘贴到到shell软件的命令栏里，之后就自动开始部署了，不动时敲键盘的“回车键”。
+**上面这个代码是默认的加密方式和混淆协议，没法自行修改加密方式和混淆协议，如果有这方面的需求，可以用下面这个脚本**
+
+**CentOS/Debian/Ubuntu ShadowsocksR单/多端口一键管理脚本**：
+
+yum -y install wget
+
+wget -N --no-check-certificate https://softs.pw/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
+备用下载地址：
+
+yum -y install wget
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+
+**脚本内容：**
+
+> 支持 限制 端口限速
+
+> 支持 限制 端口设备数
+
+> 支持 显示 当前连接IP
+
+> 支持 显示 SS/SSR连接+二维码
+
+> 支持 切换管理 单/多端口
+
+> 支持 一键安装 BBR
+
+> 支持 一键安装 锐速
+
+> 支持 一键安装 LotServer
+
+> 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
+
+下载运行后会提示你输入数字来选择要做什么。
+
+安装脚本后，以后只需要运行这个命令就可以进行设置：bash ssr.sh
+
+之后输入对应的数字来执行相应的命令。
+
+
+**界面如下：**
+ 
+ 1. 安装 ShadowsocksR
+ 2. 更新 ShadowsocksR
+ 3. 卸载 ShadowsocksR
+ 4. 安装 libsodium(chacha20)
+
+————————————
+
+ 5. 查看 账号信息
+ 6. 显示 连接信息
+ 7. 设置 用户配置
+ 8. 手动 修改配置
+ 9. 切换 端口模式
+
+————————————
+
+ 10. 启动 ShadowsocksR
+ 11. 停止 ShadowsocksR
+ 12. 重启 ShadowsocksR
+ 13. 查看 ShadowsocksR 日志
+
+————————————
+
+ 14. 其他功能
+ 15. 升级脚本
+ 
+ 当前状态: 已安装 并 已启动
+ 当前模式: 单端口
+ 
+请输入数字(1-15)：
+
+***
+
+
+**以第一个部署代码为例**：
+
+将代码复制下来，鼠标右键复制，然后粘贴到到shell软件的命令栏里，之后就自动开始部署了，不动时敲键盘的“回车键”。
 
 提示输入密码和端口，输入自己想部署的密码和端口，分别按回车键确定。之后，耐心等待，不动的时候按一下回车键。
 
@@ -161,84 +239,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速3.png)
 
 出现running字样即可!
-
-***
-
-### 其它好用的SSR（支持SS)一键搭建脚本
-
-CentOS/Debian/Ubuntu ShadowsocksR 单/多端口 一键管理脚本：
-
-yum -y install wget
-
-wget -N --no-check-certificate https://softs.pw/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-
-备用下载地址：
-
-yum -y install wget
-
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-
-**脚本内容：**
-
-> 支持 限制 端口限速
-
-> 支持 限制 端口设备数
-
-> 支持 显示 当前连接IP
-
-> 支持 显示 SS/SSR连接+二维码
-
-> 支持 切换管理 单/多端口
-
-> 支持 一键安装 BBR
-
-> 支持 一键安装 锐速
-
-> 支持 一键安装 LotServer
-
-> 支持 一键封禁 垃圾邮件(SMAP)/BT/PT
-
-
-下载运行后会提示你输入数字来选择要做什么。
-
-运行脚本：bash ssr.sh
-
-输入对应的数字来执行相应的命令。
-
-请输入一个数字来选择菜单选项
-
-**界面如下：**
- 
- 1. 安装 ShadowsocksR
- 2. 更新 ShadowsocksR
- 3. 卸载 ShadowsocksR
- 4. 安装 libsodium(chacha20)
-
-————————————
-
- 5. 查看 账号信息
- 6. 显示 连接信息
- 7. 设置 用户配置
- 8. 手动 修改配置
- 9. 切换 端口模式
-
-————————————
-
- 10. 启动 ShadowsocksR
- 11. 停止 ShadowsocksR
- 12. 重启 ShadowsocksR
- 13. 查看 ShadowsocksR 日志
-
-————————————
-
- 14. 其他功能
- 15. 升级脚本
- 
- 当前状态: 已安装 并 已启动
- 当前模式: 单端口
- 
-请输入数字(1-15)：
-
 
 ***
 
