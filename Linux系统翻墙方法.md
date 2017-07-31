@@ -10,9 +10,9 @@ linux也有图形化界面，使用方法与ssr的win客户端类似，支持ssr
 
 ### 第二种方法：使用Lantern linux版
 
-Ubuntu 14.04 32位 [Github官方下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32-bit.deb)
+Ubuntu 14.04 32位 [下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32-bit.deb)
 
-Ubuntu 14.04 64位 [Github官方下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb)
+Ubuntu 14.04 64位 [下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb)
 
 使用方法：解压并运行 lantern_linux ，设置http代理为 127.0.0.1:8787
 
