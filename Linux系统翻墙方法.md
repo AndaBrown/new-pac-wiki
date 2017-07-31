@@ -20,8 +20,8 @@ Ubuntu 14.04 64位 [Github官方下载地址](https://raw.githubusercontent.com/
 
 ### 第三种方法：使用萤火虫 linux版
 
-Ubuntu 64位: [Github官方下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_amd64_install.deb?raw=true)
+Ubuntu 64位: [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_amd64_install.deb?raw=true)
 
-Ubuntu 32位: [Github官方下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_386_install.deb?raw=true)
+Ubuntu 32位: [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_386_install.deb?raw=true)
 
 > 转载：https://github.com/yinghuocho/firefly-proxy
