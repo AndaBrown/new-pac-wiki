@@ -31,7 +31,7 @@ vps推荐：
 
 [Windows SSR客户端下载及更新地址](https://github.com/shadowsocksr/shadowsocksr-csharp/releases) 
 
-[安卓 SSR客户端下载及更新地址](https://github.com/shadowsocksr/shadowsocksr-android/releases) 
+[安卓 SSR客户端下载及更新地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) 
 
 [ios SSR客户端下载及更新地址](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
