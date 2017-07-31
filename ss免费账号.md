@@ -29,7 +29,7 @@ vps推荐：
 
 [SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   
 
-[Windows SSR客户端下载及更新地址](https://github.com/shadowsocksr/shadowsocksr-csharp/releases) 
+[Windows SSR客户端下载及更新地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
 
 [安卓 SSR客户端下载及更新地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) 
 
