@@ -10,7 +10,7 @@ STEP1，下载用于MAC OS X的SHADOWSOCKSX软件
 
 **SS客户端下载地址：**[ShadowsocksX国内高速下载](http://yuweining.cn/t/SS-Mac-X.dmg) [ShadowsocksX Github下载](https://github.com/shadowsocks/shadowsocks-iOS/releases)
 
-**SSR客户端下载地址：**[ShadowsocksX-NG-SSR国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [ShadowsocksX-NG-SSR国内备份下载](https://www.babel.cc/share.do?s=1540367796358713)  
+**SSR客户端下载地址：**[ShadowsocksX-NG-SSR国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [ShadowsocksX-NG-SSR国内备份下载](https://www.babel.cc/share.do?s=1540367796358713)  [Github下载](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 
 ***
 
