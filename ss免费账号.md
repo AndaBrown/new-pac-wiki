@@ -82,6 +82,8 @@ vps推荐：
 
 服务器4：104.160.181.19 端口：2333  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
+服务器5：47.88.153.90 端口：666  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
+
 如果只是想简单的查阅资料，可以使用[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F)
 
 [Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
