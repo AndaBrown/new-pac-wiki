@@ -70,7 +70,7 @@ vps推荐：
 
 ***
 
-**有电脑的朋友，建议你学习一下[自己搭建SS或SSR教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会很有用，教程很简单。**
+有电脑的朋友，建议你学习一下[自己搭建SS或SSR教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会很有用，教程很简单。
 
 SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。
 
@@ -79,6 +79,8 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 服务器2：104.160.181.22 端口：456  密码：dongtaiwang.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
 服务器3：104.160.181.19 端口：2333  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
+
+***
 
 
 如果只是想简单的查阅资料，可以使用[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F)
