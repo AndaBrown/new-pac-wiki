@@ -80,6 +80,7 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 服务器3：104.160.181.19 端口：2333  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
+服务器4：107.175.94.126 端口：6725  密码：wujieliulan.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （gemp网友分享）
 
 **2017年8月10日更新**
 
