@@ -41,7 +41,7 @@
 
 ***
 
-[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月10日更新GoAgent版ip）
+[谷歌浏览器59高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月10日更新GoAgent版ip；2017年8月10日更新SS版配置文件）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月10日更新GoAgent版ip）
 
