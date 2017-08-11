@@ -5,7 +5,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年8月11日更新GoAgent版、GoProxy版和SS版。**
+**2017年8月12日更新GoAgent版、GoProxy版**
+
+**2017年8月11日更新GoAgent版、GoProxy版和SS版**
 
 近期更新内容：
 
@@ -23,17 +25,17 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoAgent版
 
-**2017年8月11日更新，更新ip；去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，请按照《使用说明（必看）》导入证书。不好用的时候，记得运行ip更新文件。**
+**2017年8月12日更新：更新ip，同时去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，提示“您的连接不安全”，请按照《使用说明（必看）》导入证书。不好用的时候，记得运行ip更新文件。**
 
-压缩包名称Firefox52_GA_2017.8.11.7z ，文件大小80.99M。
+压缩包名称Firefox52_GA_2017.8.12.7z ，文件大小82.15M。
 
 > 火狐浏览器GoAgent版和[谷歌浏览器GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1eSMSWDG) 密码：sx76（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载](http://pan.baidu.com/s/1c2ALVws) 密码：ht2k（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=4565297201215963) 提取密码：31514
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=8507903245355772) 提取密码：32563
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
@@ -48,9 +50,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoProxy版
 
-**2017年8月11日更新，升级GoProxy至1533版，更新ip；去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，请按照《使用说明（必看）》导入证书。不好用的时候，记得运行ip更新文件。**
+**2017年8月12日更新：更新ip，同时去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，提示“您的连接不安全”，请按照《使用说明（必看）》导入证书。不好用的时候，记得运行ip更新文件。**
 
-压缩包名称Firefox52_GP_2017.8.11.7z ，文件大小78.86M。
+压缩包名称Firefox52_GP_2017.8.12.7z ，文件大小77.71M。
 
 > 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
@@ -58,9 +60,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1kVJuZt1) 密码：zesb（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[百度云网盘下载](http://pan.baidu.com/s/1skY1Htb) 密码：wa78（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=7404178507549675) 提取密码：15908
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=8417908213290389) 提取密码：58013
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
