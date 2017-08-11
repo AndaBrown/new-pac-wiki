@@ -5,9 +5,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年7月25日更新火狐Lantern版。**
+**2017年8月11日更新GoAgent版、GoProxy版和SS版。**
 
 近期更新内容：
+
+> 2017年7月25日更新火狐Lantern版
 
 > 2017年7月14日发布火狐SS版
 
@@ -17,32 +19,21 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 > 2017年7月1日更新lantern版
 
-> 2017年6月30日发布GoGo和萤火虫版
-
-> 2017年6月28日更新GoAgent版和GoProxy版
-
 ***
 
 ### 火狐GoAgent版
 
-**2017年6月28日更新**
+**2017年8月11日更新，更新ip；去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，请按照《使用说明（必看）》导入证书。**
 
-**近期更新内容：**
-
-> 2017年6月15日升级浏览器内核为52，同时更新ip，解决YouTube无法打开的问题
-
-压缩包名称Firefox52_GA_2017.6.28.7z ，文件大小82.22M。
+压缩包名称Firefox52_GA_2017.8.11.7z ，文件大小80.99M。
 
 > 火狐浏览器GoAgent版和[谷歌浏览器GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=919210292367169) 提取密码：38209
+[百度云网盘下载](http://pan.baidu.com/s/1eSMSWDG) 密码：sx76（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
-[盛天云盘下载](http://pan.stnts.com/s/DIYBC3m)
-
-[百度云网盘下载](http://pan.baidu.com/s/1gfkUGgz) 密码：a3nr（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
-
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=4565297201215963) 提取密码：31514
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
@@ -57,9 +48,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐GoProxy版
 
-**2017年7月8日升级GoProxy至1474版，同时开启Quic协议，解决启动和运行过程中卡住的问题。**
+**2017年8月11日更新，升级GoProxy至1533版，更新ip；去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，请按照《使用说明（必看）》导入证书。**
 
-压缩包名称Firefox52_GP_2017.7.8.7z ，文件大小78.86M。
+压缩包名称Firefox52_GP_2017.8.11.7z ，文件大小78.86M。
 
 > 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
@@ -67,11 +58,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=7203814986887624) 提取密码：91019
+[百度云网盘下载](http://pan.baidu.com/s/1kVJuZt1) 密码：zesb（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
-[盛天云盘下载](http://pan.stnts.com/s/0P0PrAU)
-
-[百度云网盘下载](http://pan.baidu.com/s/1kVgJrGN) 密码：c3yb（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=7404178507549675) 提取密码：15908
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
@@ -80,17 +69,16 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐SS版
 
-### 2017年7月14日发布。
+### 2017年8月11日更新SS配置文件。
 
-压缩包名称：Firefox52_ss_2017.7.14.7z，文件大小80.31M。
+压缩包名称：Firefox52_SS_2017.8.11.7z，文件大小76.83M。
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1785053810418722) 提取密码：83572
+[百度云网盘下载](http://pan.baidu.com/s/1o8lyVvc) 提取密码：ta7m（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
-[盛天云盘下载](http://pan.stnts.com/s/FFBJUzf)
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=6214384475933684) 提取密码：70076
 
-[百度云网盘下载](http://pan.baidu.com/s/1bpGlM4B) 提取密码：5h8s（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 使用方法：下载后解压，按使用说明操作。
 
@@ -119,9 +107,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=7556773488128372) 提取密码：43671
-
 [百度云网盘下载](http://pan.baidu.com/s/1bp90KWZ) 密码：53pd（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=7556773488128372) 提取密码：43671
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
@@ -149,12 +137,9 @@ Java官网下载地址：http://java.com ，下载后安装在电脑上，之后
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=975553020309647) 提取密码：12998
-
-[盛天云盘下载](http://pan.stnts.com/s/NqUzsL8)
-
 [百度云网盘下载](http://pan.baidu.com/s/1qXNBOdA) 密码：hvfh（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=975553020309647) 提取密码：12998
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
@@ -173,12 +158,9 @@ Java官网下载地址：http://java.com ，下载后安装在电脑上，之后
 
 **下载地址：**
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3806614586666996) 提取密码：6502
-
-[盛天云盘下载](http://pan.stnts.com/s/RTnPsLb)
-
 [百度云网盘下载](http://pan.baidu.com/s/1pLCyIiZ) 密码：7wgg（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=3806614586666996) 提取密码：6502
 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
