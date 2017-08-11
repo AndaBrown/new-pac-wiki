@@ -24,8 +24,6 @@ Java官网下载地址：http://java.com  ，下载后安装在电脑上，之�
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=1501514814800401) 提取密码：27036
 
-[盛天云盘云盘](http://pan.stnts.com/s/1tC38aA)
-
 [百度云盘](http://pan.baidu.com/s/1kVduXUn) 密码:37v5 （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 下载后解压，按使用说明操作即可。
