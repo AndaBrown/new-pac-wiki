@@ -32,16 +32,10 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
 
-**2017年7月11日公告：近期高内核版里面的内核升级器失效了，但不影响浏览器的正常使用，然而每次启动时都会遇到更新提示，可以通过这个方法来关闭每次的更新提示。打开GreenChrome.ini文件，在文件内容的最后面将检查更新后面的数字1改为0，然后保存即可。浏览器默认59内核够用了，以后会及时手动升级浏览器内核，请放心。**
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/内核3.png)
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/内核4.png)
-
 
 ***
 
-[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月11日更新GoAgent版、GoProxy版和SS版）
+[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月11日更新SS版本）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月11日晚更新GoAgent版ip）
 
@@ -59,7 +53,7 @@
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月11日更新火狐GoAgent版、GoProxy版和SS版）
+[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月12日更新SS版本）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年6月23日增加赛风3）
 
