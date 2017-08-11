@@ -37,13 +37,13 @@
 
 [谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月11日更新SS版本）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月11日晚更新GoAgent版ip）
+[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月12日更新版本）
 
-[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年8月11日晚更新GoProxy版ip）
+[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年8月12日更新版本）
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) （2017年5月17日更新搜ip教程）
 
-[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) (2017年8月10日更新SS版配置文件）
+[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) (2017年8月12日更新版本）
 
 [谷歌浏览器低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年8月4日更新版本）
 
