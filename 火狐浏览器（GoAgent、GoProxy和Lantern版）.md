@@ -62,6 +62,8 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
+[百度云网盘下载](http://pan.baidu.com/s/1jIzKoVO) 密码：udxg（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8012657216780421) 提取密码：71028
 
 
