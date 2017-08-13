@@ -32,8 +32,10 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GA4.png)
 
-
 ***
+
+### 2017年8月13日公告：最近有一些用户反馈GoAgent版和GoProxy版不好用，good ip为0造成无法正常翻墙上网，但这个问题很难重现，不排除是个别地区对Google ip封锁加重的影响。面对这种情况，2017年8月13日17：10已经完成了最新的一批ip的更新，之前不好用的用户可以再次运行ip更新文件来使用看看。
+
 
 [谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月11日更新SS版本）
 
