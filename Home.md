@@ -46,7 +46,7 @@
 
 [谷歌浏览器低内核GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月28日更新版本）
 
-[谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月25日更新Lantern版本）
+[谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月25日更新版本）
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
