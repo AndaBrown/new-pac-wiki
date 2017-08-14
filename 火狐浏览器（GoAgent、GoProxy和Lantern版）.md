@@ -73,7 +73,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ### 火狐SS版
 
-### 2017年8月11日更新SS配置文件。
+**2017年8月11日更新SS配置文件。不好用的时候记得运行ip更新文件。**
 
 压缩包名称：Firefox52_SS_2017.8.11.7z，文件大小76.83M。
 
