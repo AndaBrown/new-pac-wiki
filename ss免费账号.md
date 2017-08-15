@@ -45,7 +45,7 @@ vps推荐：
 
 SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。
 
-服务器1：104.160.181.23 端口：5432  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
+服务器1：104.160.181.23 端口：666  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：：auth_es128_sha1  混淆：tls1.2_ticket_auth （自建）
 
 服务器2：104.160.181.22 端口：2345  密码：dongtaiwang.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
@@ -54,7 +54,7 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 服务器4：107.175.94.126 端口：2424  密码：wujieliulan.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_es128_sha1   混淆：tls1.2_ticket_auth （gemp网友分享）
 
 
-**2017年8月14日更新服务器1**
+**2017年8月15日更新服务器1端口和SSR协议**
 
 ***
 
