@@ -65,7 +65,9 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 [MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
-[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  安卓手机可以使用[安卓手机版（多款软件）](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
+[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  
+
+[安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
 这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。
 
