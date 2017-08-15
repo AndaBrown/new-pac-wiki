@@ -51,10 +51,10 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 服务器3：104.160.181.19 端口：5678  密码：ntdtv.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_sha1_v4   混淆：tls1.2_ticket_auth （自建）
 
-服务器4：107.175.94.126 端口：2424  密码：wujieliulan.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_es128_sha1   混淆：tls1.2_ticket_auth （gemp网友分享）
+服务器4：107.175.94.126 端口：3775  密码：wujieliulan.com  加密方式: AES-256-CFB  SSR协议(**必填**）： 协议：auth_aes128_sha1   混淆：tls1.2_ticket_auth （gemp网友分享）
 
 
-**2017年8月15日更新服务器1端口和SSR协议**
+**2017年8月15日更新服务器1和服务器4**
 
 ***
 
@@ -65,7 +65,7 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 [MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
-如果你是ios设备，原先的wingy无法使用上面的ssr协议账号，请使用最新[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  安卓手机可以使用[安卓手机版（多款软件）](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
+[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  安卓手机可以使用[安卓手机版（多款软件）](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
 这里提供两个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。
 
