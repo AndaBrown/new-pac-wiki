@@ -62,9 +62,9 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=5793540665720793) 提取密码：38693
 
-[MEGA云盘下载](https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5uDy0) （翻墙打开）
-
 [百度软件中心](http://rj.baidu.com/soft/detail/15201.html?ald)
+
+如果是苹果电脑操作系统，请自行搜索并下载Xshell MAC版或者在MAC电脑上安装一个windows虚拟机或者其它能远程连接vps服务器的软件。
 
 ***
 
