@@ -22,7 +22,7 @@
 
 **2017年6月14日公告**：谷歌浏览器低内核GoAgent版和GoProxy版打开YouTube出现乱码的解决方法如下：
 
-如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。其次，你还可以用[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
+如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件，两者缺一不可。另外，你还可以用[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
 
 如果你的电脑是xp系统，因为XP系统最高只能用谷歌浏览器49内核，根据反馈和测试，目前用GoAgent版和GoProxy版升级到49内核后不能成功打开YouTube。鉴于此，有两个建议：一、换电脑系统为win7或以上系统，这样软件的使用范围会很大；二、如果不换系统的话，可以换其它版本的软件，比如低内核的[谷歌浏览器SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88)或[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)或[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)或[GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)等，又或者[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
