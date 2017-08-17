@@ -26,7 +26,7 @@
 
 如果你的电脑是xp系统，因为XP系统最高只能用谷歌浏览器49内核，根据反馈和测试，目前用GoAgent版和GoProxy版升级到49内核后不能成功打开YouTube。鉴于此，有两个建议：一、换电脑系统为win7或以上系统，这样软件的使用范围会很大；二、如果不换系统的话，可以换其它版本的软件，比如低内核的[谷歌浏览器SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88)或[PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)或[Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88)或[GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)等，又或者[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
-**2017年8月13日公告**：最近有极少用户反馈GoAgent版和GoProxy版不好用，good ip为0造成无法正常翻墙上网，但这个问题很难重现，不排除是个别地区对Google ip封锁加重的影响。面对这种情况，2017年8月13日17：10已经完成了最新的一批ip的更新，之前不好用的用户可以再次运行ip更新文件来使用看看。如果还不行的话，可以按照[搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89)自己搜索谷歌ip，或者换其它版本，比如SS版或PAC版等。
+**2017年8月13日公告**：最近有极少用户反馈GoAgent版和GoProxy版不好用，good ip为0造成无法正常翻墙上网，但这个问题很难重现且不具有普遍性，不排除是个别地区对Google ip封锁加重的影响。面对这种情况，2017年8月13日17：10已经完成了最新的一批ip的更新，之前不好用的用户可以再次运行ip更新文件来使用看看。如果还不行的话，可以按照[搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89)自己搜索谷歌ip，或者换其它版本，比如SS版或PAC版等。
 
 
 ***
