@@ -32,7 +32,7 @@
 
 [谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月14日升级Lantern版、GoGo版、萤火虫版浏览器内核至60；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月11日更新SS版本）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月12日更新版本）
+[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月18日更新版本，修复上一版扩展失效的问题）
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年8月12日更新版本）
 
