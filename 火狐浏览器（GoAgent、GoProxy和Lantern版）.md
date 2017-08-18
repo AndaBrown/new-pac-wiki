@@ -80,7 +80,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1o8lyVvc) 提取密码：ta7m（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+[百度云网盘下载](http://pan.baidu.com/s/1jIzeNyQ) 提取密码：guw2（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=6214384475933684) 提取密码：70076
 
