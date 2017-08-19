@@ -8,11 +8,11 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoAgent版、GoProxy版、SS版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。**某些杀毒软件（360、腾讯管家等）会干扰翻墙，使用前请退出杀软，以保证翻墙上网的顺利，如果翻墙插件被删了，重新解压即可。**
+**介绍**：GoAgent soso版、GoAgent版、GoProxy版、SS版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。**某些杀毒软件（360、腾讯管家等）会干扰翻墙，使用前请退出杀软，以保证翻墙上网的顺利，如果翻墙插件被删了，重新解压即可。**
 
 ### 注意：我分享的软件都是采用加密方式的，但为了更加安全，建议翻墙时不要使用国产杀毒软件，因为有的国产杀毒软件，比如360，腾讯管家与防火墙有千丝万缕的关系。当然，卸载国产杀毒软件就是最好的选择了，现在国外好用的免费杀毒软件也挺多的，网上一搜就有好多。
 
-**选择指南**：首选GoAgent版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，如果关了杀毒软件和防火墙都无法使用GoAgent版和GoProxy版且尝试过多次，你可以换其它类型的软件，比如SS版、PAC版、GoGo翻墙软件、Lantern版和萤火虫版，也不错。内存低于2G的电脑建议用[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
+**选择指南**：首选GoAgent soso版、GoAgent版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，如果关了杀毒软件和防火墙都无法使用GoAgent soso版、GoAgent版和GoProxy版且尝试过多次，你可以换其它类型的软件，比如SS版、PAC版、GoGo翻墙软件、Lantern版和萤火虫版，也不错。内存低于2G的电脑建议用[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
 **提醒**：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了即国内ip打不开，这个时候你需要用翻墙软件来打开。多备用几款翻墙软件有好处，以备不时之需。
 
@@ -22,7 +22,7 @@
 
 **2017年8月18日公告**：发布集成两种方式的自动搜ip的GoAgent soso版新软，分别为[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)和[低内核版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-soso%E7%89%88)的谷歌浏览器以及[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
-**2017年8月19日公告：谷歌浏览器低内核GoAgent版和GoProxy版打开YouTube出现乱码的解决方法如下：**
+**2017年8月19日公告：谷歌浏览器低内核GoAgent soso版、GoAgent版和GoProxy版打开YouTube出现乱码的解决方法如下：**
 
 **如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件即可。另外，你还可以直接用**[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
 
