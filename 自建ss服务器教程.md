@@ -1,10 +1,4 @@
-**2017年6月22日更新加速教程**
-
-> 2017年6月6日增加一键BBR加速脚本
-
-> 2017年5月26日更新单/多端口一键管理脚本 (脚本在此页面的末尾）
-
-
+**2017年8月24日更新一键搭建脚本**
 
 ***
 
@@ -108,7 +102,7 @@ chmod +x shadowsocksR.sh
 
 yum -y install wget
 
-wget -N --no-check-certificate https://softs.pw/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 备用下载地址：
 
