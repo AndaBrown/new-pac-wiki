@@ -31,7 +31,7 @@
 ***
 
 
-[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月18日第一次发布集成两种方式的自动搜ip的GoAgent soso版；2017年8月14日升级Lantern版、GoGo版、萤火虫版浏览器内核至60；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月11日更新SS版本）
+[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月25日更新萤火虫版；2017年8月18日第一次发布集成两种方式的自动搜ip的GoAgent soso版；2017年8月14日升级Lantern版、GoGo版、萤火虫版浏览器内核至60）
 
 [谷歌浏览器低内核GoAgent soso版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-soso%E7%89%88)（2017年8月19日更新版本，提供XP系统打开YouTube出现乱码的解决方法）
 
