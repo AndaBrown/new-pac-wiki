@@ -22,11 +22,11 @@
 
 **2017年8月18日公告**：发布集成两种方式的自动搜ip的GoAgent soso版新软，分别为[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)和[低内核版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-soso%E7%89%88)的谷歌浏览器以及[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
-**2017年8月19日公告：谷歌浏览器低内核GoAgent soso版、GoAgent版和GoProxy版打开YouTube出现乱码的解决方法如下：**
+**2017年8月19日公告**：谷歌浏览器低内核GoAgent soso版、GoAgent版和GoProxy版**打开YouTube出现乱码的解决方法**如下：
 
-**如果你的电脑是win7及以上系统，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件即可。另外，你还可以直接用**[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
+如果你的电脑是**win7及以上系统**，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件即可。另外，你还可以直接用**[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
 
-**如果你的电脑是xp系统，请下载最新版，然后按照《使用说明（必看）》操作，最新版已提供解决方法。**
+如果你的电脑是**xp系统**，请下载最新版，然后按照《使用说明（必看）》操作，最新版已提供解决方法。
 
 **2017年8月26日公告：更新谷歌浏览器高、低内核版以及火狐浏览器的GoAgent版和GoProxy版高质量谷歌ip个数2000+。**
 
