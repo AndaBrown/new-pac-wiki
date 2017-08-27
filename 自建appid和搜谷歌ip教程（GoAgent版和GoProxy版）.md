@@ -1,6 +1,8 @@
-### 本教程用于GoAgent版和GoProxy版，这两款版本用的是相同的4000个appid，每个appid每天有1G流量，随着使用人数的增加，未来可能会满足不了，故出此教程。（每天北京时间下午4点谷歌流量会重置，也就是4点之后流量又是全新的）
+### 2017年8月27日更新及确定部署appid上传服务端版本及下载地址。
 
-### 此教程必须用GoProxy版来部署appid，所以从教程一开始，最好先启动GoProxy版，确保能正常翻墙上网。如果第一次启动GoProxy无法翻墙，请多启动几次。
+**本教程用于GoAgent版和GoProxy版，这两款版本用的是相同的4000个appid，每个appid每天有1G流量，随着使用人数的增加，未来可能会满足不了，故出此教程。（每天北京时间下午4点谷歌流量会重置，也就是4点之后流量又是全新的）**
+
+**此教程必须用GoProxy版来部署appid，所以从教程一开始，最好先启动GoProxy版，确保能正常翻墙上网。如果第一次启动GoProxy无法翻墙，请多启动几次。**
 
 **首先打开** https://console.cloud.google.com/appengine 
 
@@ -34,9 +36,11 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ### 创建完毕后，开始进行部署流程
 
-**打开**https://github.com/phuslu/goproxy-ci/releases/latest **下载** goproxy-gae-rXX.zip 服务端部署文件。
+**打开**https://github.com/phuslu/goproxy-ci/releases/tag/r1527 **下载** goproxy-gae-r73.zip 服务端部署文件。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid7.png)
+[备用下载地址](https://www.babel.cc/share.do?s=5628706171695177)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/r73.PNG)
 
 **下载后解压出来，然后打开gae文件夹里面的gae.go,必须用Notepad++打开，Notepad++下载地址**：http://rj.baidu.com/soft/detail/13478.html?ald  **下载后安装**
 
