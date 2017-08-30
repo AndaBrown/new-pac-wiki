@@ -13,7 +13,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 vps推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快） 
+[vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快。**2017年8月30日更新：Vutrl支持支付宝付款了，最低充值10美元，即70元左右。**） 
 
 [rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码：8X52VE1DXC 或 LET20 )  
 
