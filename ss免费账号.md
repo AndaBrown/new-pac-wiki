@@ -15,15 +15,7 @@ vps推荐：
 
 [vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快。**2017年8月30日更新：Vutrl支持支付宝付款了，最低充值10美元，即70元左右。**） 
 
-[rectified](https://secure.rectified.net/cart.php) （鲨鱼机房，KVM框架，8折优惠码：8X52VE1DXC 或 LET20 )  
-
-[changeip](https://www.changeip.com/accounts/cart.php?gid=9) （鲨鱼机房，KVM框架，最低2.5美元/月）
-
 [digitalocean](https://www.digitalocean.com/) （最低5美元/月）
-
-[virmach](https://billing.virmach.com/cart.php?gid=18) （最低2美元/月）
-
-[搬瓦工](https://bwh1.net/cart.php?a=confproduct&i=1) (6个机房可选，KVM框架，最低2.99美元/月，9.4折优惠码：BWH1ZBPVK ）
 
 ### SSR软件下载及更新地址：
 
