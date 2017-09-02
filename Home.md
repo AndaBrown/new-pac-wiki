@@ -20,8 +20,6 @@
 
 ***
 
-**2017年8月18日公告**：发布集成两种方式的自动搜ip的GoAgent soso版新软，分别为[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)和[低内核版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-soso%E7%89%88)的谷歌浏览器以及[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
-
 **2017年8月19日公告**：谷歌浏览器低内核GoAgent soso版、GoAgent版和GoProxy版**打开YouTube出现乱码的解决方法**如下：
 
 1.如果你的电脑是**win7及以上系统**，下载完整版，先按照内核升级方法升级浏览器内核至53版本，然后运行ip更新文件即可。另外，你还可以直接用[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。 
@@ -33,7 +31,7 @@
 ***
 
 
-[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月25日更新萤火虫版；2017年8月18日第一次发布集成两种方式的自动搜ip的GoAgent soso版；2017年8月14日升级Lantern版、GoGo版、萤火虫版浏览器内核至60）
+[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年8月25日更新萤火虫版；2017年8月18日发布GoAgent soso版；2017年8月14日升级Lantern版、GoGo版、萤火虫版浏览器内核至60）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月19日更新版本，提供XP系统打开YouTube出现乱码的解决方法）
 
@@ -55,7 +53,7 @@
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月19日第一次发布集成两种方式的自动搜ip的GoAgent soso版；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月12日更新SS版本）
+[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月19日发布GoAgent soso版；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月12日更新SS版本）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年6月23日增加赛风3）
 
