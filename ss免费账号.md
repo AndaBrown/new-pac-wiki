@@ -13,9 +13,9 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 vps推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874) （全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快。**2017年8月30日更新：Vutrl支持支付宝付款了，最低充值10美元，即70元左右。**） 
+[vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快。**2017年8月30日更新：Vutrl支持支付宝付款了，最低充值10美元，即70元左右。**） 
 
-[digitalocean](https://www.digitalocean.com/) （最低5美元/月）
+[digitalocean](https://www.digitalocean.com/) （知名服务器供应商；最低5美元/月）
 
 ### SSR软件下载及更新地址：
 
