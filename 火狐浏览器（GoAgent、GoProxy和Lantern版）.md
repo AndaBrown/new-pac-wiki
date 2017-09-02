@@ -7,48 +7,14 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **2017年8月18日发布GoAgent soso版**
 
-**2017年8月12日更新GoAgent版、GoProxy版**
-
-**2017年8月11日更新GoAgent版、GoProxy版和SS版**
-
 近期更新内容：
 
-> 2017年7月25日更新火狐Lantern版
+> 2017年8月12日更新GoAgent版、GoProxy版
 
-> 2017年7月14日发布火狐SS版
-
-> 2017年7月11日更新火狐Lantern版
-
-> 2017年7月8日更新火狐GoProxy版
-
-> 2017年7月1日更新lantern版
+> 2017年8月11日更新GoAgent版、GoProxy版和SS版
 
 ***
 
-
-### 火狐GoAgent soso版
-
-**2017年8月18日第一次发布。**
-
-压缩包名称Firefox52_GASOSO_2017.8.19.7z ，文件大小90.36M。使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
-
-
-**下载地址：**
-
-[百度云网盘下载](http://pan.baidu.com/s/1bpIVQcJ) 密码：cm3u（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
-
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=4676025317420051) 提取密码：16412
-
-
-实例图：
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐xxmini1.PNG)
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/xxmini0.PNG)
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/xxmini1.PNG)
-
-***
 
 ### 火狐GoAgent版
 
@@ -72,6 +38,30 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐3.png)
 
+
+***
+
+### 火狐GoAgent soso版
+
+**2017年8月18日第一次发布。**
+
+压缩包名称Firefox52_GASOSO_2017.8.19.7z ，文件大小90.36M。使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+
+
+**下载地址：**
+
+[百度云网盘下载](http://pan.baidu.com/s/1bpIVQcJ) 密码：cm3u（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
+
+[巴别鸟云盘下载](https://www.babel.cc/share.do?s=4676025317420051) 提取密码：16412
+
+
+实例图：
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐xxmini1.PNG)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/xxmini0.PNG)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/xxmini1.PNG)
 
 ***
 
