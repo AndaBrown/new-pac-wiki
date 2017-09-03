@@ -34,7 +34,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐4.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxga001.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐3.png)
 
@@ -57,7 +57,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐xxmini1.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxsoso001.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/xxmini0.PNG)
 
@@ -86,6 +86,9 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxgp001.png)
+
+
 ***
 
 ### 火狐SS版
@@ -104,7 +107,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 使用方法：下载后解压，按使用说明操作。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss002.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxss001.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ss001.PNG)
 
