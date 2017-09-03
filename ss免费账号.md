@@ -13,7 +13,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 vps推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快。**2017年8月30日更新：Vutrl支持支付宝付款了，最低充值10美元，即70元左右。**） 
+[vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。推荐买日本服务器，延迟低速度快。**2017年8月30日更新：Vutrl支持支付宝（Alipay）付款了。**） 
 
 [digitalocean](https://www.digitalocean.com/) （知名服务器供应商；最低5美元/月）
 
@@ -37,9 +37,9 @@ vps推荐：
 
 SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。**为保证每位用户都能够分配到一定的带宽资源，以下账号进行了单线程限速处理，单线程限速100kb/s左右。如果自己搭建服务器就没有这个限制。**
 
-**2017年8月22日更新。**
+**2017年9月3日更新。**
 
-![](http://i.imgur.com/D6vnSdm.png)
+![](http://i.imgur.com/uMzzLAj.png)
 
 
 ***
@@ -61,7 +61,7 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 [网门直翻](https://github.com/ogate/ogate/blob/master/README.md) 
 
-[精彩视频](https://s3.amazonaws.com/ogate/oGate.htm?from=oGate)
+[新唐人电视台](http://xtr.vklds2.ga/xtr)
  
 ***
 
