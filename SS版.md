@@ -25,7 +25,7 @@
 
 低内核完整版实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53ss001.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromess001.png)
 
 
 ***
