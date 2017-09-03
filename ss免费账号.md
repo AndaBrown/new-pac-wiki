@@ -59,7 +59,7 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 这里提供两个**直翻网址**可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。测试发现：360、QQ等国产浏览器不能打开下面的地址，不管是电脑还是手机，都推荐用**谷歌浏览器或火狐浏览器**。
 
-[网门直翻](https://github.com/ogate/ogate/blob/master/README.md) 
+[网门直翻](https://github.com/oGate2/oGate/blob/master/README.md) 
 
 [新唐人电视台](http://xtr.vklds2.ga/xtr)
  
