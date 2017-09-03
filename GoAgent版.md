@@ -29,7 +29,7 @@
 
 低内核完整版实例图
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent综合版使用1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromega001.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOA1.png)
 
