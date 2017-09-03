@@ -19,8 +19,7 @@
 
 低内核完整版实例图
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/
-53chromesoso001.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromesoso001.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/xxmini0.PNG)
 
