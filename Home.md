@@ -31,7 +31,7 @@
 ***
 
 
-[谷歌浏览器60高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年9月6日升级所有版本浏览器内核为61）
+[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年9月6日升级所有版本浏览器内核为61）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月19日更新版本，提供XP系统打开YouTube出现乱码的解决方法）
 
