@@ -14,10 +14,11 @@
 
 **下载地址:**
 
-[百度云网盘下载](https://pan.baidu.com/s/1dE5fHdf) 密码：uxuf（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+[百度云网盘下载](https://pan.baidu.com/s/1dE5fHdf) 密码：uxuf（打不开的话，刷新一下网页）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=2134550656259265) 提取密码：11539
 
+[国外云盘下载](https://nofile.io/f/gSsUafSp9CQ/Chrome53_SS_v2017.8.11.7z) 
 
 使用方法：下载后解压，按使用说明（必看）操作即可。
 
