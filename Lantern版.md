@@ -18,7 +18,10 @@
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8687288930723213) 提取密码：35828
 
-[百度网盘下载](https://pan.baidu.com/s/1hrJSDpy) 提取密码：86ra （第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下）
+[百度网盘下载](https://pan.baidu.com/s/1hrJSDpy) 提取密码：86ra （打不开的话，刷新一下网页）
+
+[国外云盘下载](https://nofile.io/f/TgvONf3EKvq/Chrome53LT_v2017.7.25.7z) 
+
 
 ***
 
