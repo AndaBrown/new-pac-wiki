@@ -24,7 +24,7 @@
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=2586502524786063) 提取密码：52359
 
-[国外云盘1下载](https://nofile.io/f/yxG4EdRjrVs/Chrome53_goa_v2017.8.19.7z) [国外云盘2下载](https://cloudup.com/cUR0VXOC08j)
+[国外云盘下载](https://nofile.io/f/yxG4EdRjrVs/Chrome53_goa_v2017.8.19.7z) 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
