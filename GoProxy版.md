@@ -22,6 +22,7 @@
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=2813969706003802) 密码：49878
 
+[国外云盘下载](https://nofile.io/f/HoGyRtWY4z1/Chrome53_gop_v2017.9.2.7z) 
 
 **注意：使用软件过程中遇到一些小问题，都可以通过重启GoProxy来尝试解决。**
 
