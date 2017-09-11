@@ -45,9 +45,9 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 ***
 
 
-**其它出墙方法：**
+**其它出墙方法**
 
-如果只是想简单的查阅资料，可以使用[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F)
+[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （仅适合google搜索和google学术等谷歌服务）
 
 [windows系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki)
 
