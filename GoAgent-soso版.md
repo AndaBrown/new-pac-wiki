@@ -11,9 +11,11 @@
 
 **下载地址：**
 
-[百度云网盘下载](https://pan.baidu.com/s/1qYkGBwC) 密码：6bk5（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
+[百度云网盘下载](https://pan.baidu.com/s/1qYkGBwC) 密码：6bk5（打不开的话，刷新一下网页）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8888218876100532) 提取密码：98735
+
+[国外云盘下载](https://nofile.io/f/rp2GneEBEAS/Chrome53_GASOSO_v2017.8.19.7z) 
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
