@@ -59,7 +59,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=5793540665720793) 提取密码：38693
 
-[MEGA云盘下载](https://mega.nz/#!JxpiWLbA!yOoK5vmxaVnpl-rbyJQKxU3hSXnAHcMDp_sEJA5uDy0) （翻墙打开）
+[国外云盘下载](https://nofile.io/f/FQaBa7fT3dy#32cbadc45982d2f3)
 
 [百度软件中心](http://rj.baidu.com/soft/detail/15201.html?ald)
 
