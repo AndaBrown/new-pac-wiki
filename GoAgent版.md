@@ -20,7 +20,7 @@
 
 **下载地址：**
 
-[百度云网盘下载](https://pan.baidu.com/s/1sl2V6Q5) 密码：7w3y（打不开的话，刷新一下网页）
+[百度云网盘下载](https://pan.baidu.com/s/1sl2V6Q5) 密码：7w3y （如果提示页面不存在，刷新一下网页）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=2586502524786063) 提取密码：52359
 
