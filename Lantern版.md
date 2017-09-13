@@ -18,19 +18,15 @@
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8687288930723213) 提取密码：35828
 
-[百度网盘下载](https://pan.baidu.com/s/1hrJSDpy) 提取密码：86ra （打不开的话，刷新一下网页）
+[百度网盘下载](https://pan.baidu.com/s/1hrJSDpy) 提取密码：86ra （如果提示页面不存在，刷新一下网页）
 
 [国外云盘下载](https://nofile.io/f/TgvONf3EKvq/Chrome53LT_v2017.7.25.7z) 
 
-
-***
 
 
 使用方法：下载后解压，解压路径中最好不要包含中文，然后按使用说明（必看）操作即可。
 
 
-***
-
-低内核完整版实例图
+实例图
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53LT002.PNG)
