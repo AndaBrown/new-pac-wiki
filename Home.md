@@ -47,13 +47,13 @@
 
 [谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) (2017年8月12日更新版本）
 
-[谷歌浏览器低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年8月4日更新版本）
-
 [谷歌浏览器低内核GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月28日更新版本）
 
 [谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月25日更新版本）
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
+
+[谷歌浏览器低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年8月4日更新版本）
 
 [火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月19日发布GoAgent soso版；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月12日更新SS版本）
 
