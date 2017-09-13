@@ -24,13 +24,12 @@ Java官网下载地址：http://java.com  ，下载后安装在电脑上，之�
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=1501514814800401) 提取密码：27036
 
-[百度云盘下载](https://pan.baidu.com/s/1slr0rzn) 密码:6ksc （打不开的话，刷新一下网页）
+[百度云盘下载](https://pan.baidu.com/s/1slr0rzn) 密码:6ksc （如果提示页面不存在，刷新一下网页）
 
 [国外云盘下载](https://nofile.io/f/tZ8DDrknSe3/Chrome53_GoGo_v2017.6.28.7z) 
 
 下载后解压，按使用说明操作即可。
 
-***
 
 实例图：
 
