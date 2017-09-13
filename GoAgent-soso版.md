@@ -11,7 +11,7 @@
 
 **下载地址：**
 
-[百度云网盘下载](https://pan.baidu.com/s/1qYkGBwC) 密码：6bk5（打不开的话，刷新一下网页）
+[百度云网盘下载](https://pan.baidu.com/s/1qYkGBwC) 密码：6bk5 （如果提示页面不存在，刷新一下网页）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8888218876100532) 提取密码：98735
 
