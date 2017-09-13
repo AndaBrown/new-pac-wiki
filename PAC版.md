@@ -21,7 +21,7 @@
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=1234123385978751) 提取密码：45844
 
-[百度云网盘下载](https://pan.baidu.com/s/1kVFZcUV) 密码：jkrg（打不开的话，刷新一下网页）
+[百度云网盘下载](https://pan.baidu.com/s/1kVFZcUV) 密码：jkrg （如果提示页面不存在，刷新一下网页）
 
 [国外云盘下载](https://nofile.io/f/sEb1vdx8Nog/Chrome53_Pac_v2017.8.4.7z) 
 
