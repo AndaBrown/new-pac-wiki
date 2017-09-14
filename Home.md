@@ -8,11 +8,11 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoAgent版、GoAgent soso版、GoProxy版、SS版、PAC版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：GoAgent版、GoAgent soso版、GoProxy版、SS版、GoGo翻墙软件、萤火虫版、Lantern版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
-**注意：我分享的软件都是采用加密方式的，但为了更加安全，建议翻墙时不要使用国产杀毒软件！因为很多国产杀毒软件，比如360（重点）、腾讯管家、金山卫士等不仅仅会干扰翻墙，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系。所以为了更好、更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们（有些干扰眼睛是看不到的）。现在国外好用的免费杀毒软件也挺多的，网上一搜就有很多。如果翻墙插件被杀毒软件误删了或者默默地删掉了，退出杀毒软件，重新解压下载的压缩包。**
+**注意：我分享的软件都是采用加密方式的，但为了更加安全，建议翻墙时不要使用国产杀毒软件！因为很多国产杀毒软件，比如360（重点）、腾讯管家、金山卫士等不仅仅会干扰翻墙，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系。所以为了更好、更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们（有些干扰眼睛是看不到的）。现在国外好用的免费杀毒软件也挺多的，网上一搜就有很多。如果翻墙插件被杀毒软件“误删”了或者默默地删掉了，退出杀毒软件，重新解压下载的压缩包。**
 
-**选择指南**：首选GoAgent版、GoAgent soso版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，如果关了杀毒软件和防火墙都无法使用GoAgent soso版、GoAgent版和GoProxy版且尝试过多次，你可以换其它类型的软件，比如SS版、PAC版、GoGo翻墙软件、Lantern版和萤火虫版，也不错。内存低于2G的电脑建议用[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
+**选择指南**：首选GoAgent版、GoAgent soso版和GoProxy版，采用谷歌GAE云服务器，抗压强，高质量谷歌ip，速度不错，如果关了杀毒软件和防火墙都无法使用GoAgent soso版、GoAgent版和GoProxy版且尝试过多次，你可以换其它类型的软件，比如SS版、GoGo翻墙软件、Lantern版和萤火虫版，也不错。内存低于2G的电脑建议用[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)。
 
 **提醒**：本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了即国内ip打不开，这个时候你需要用翻墙软件来打开。多备用几款翻墙软件有好处，以备不时之需。
 
@@ -21,6 +21,8 @@
 
 **2017年9月13日公告**：GoAgent版、GoProxy版、SS版已更新ip，使用这几种版本的朋友可以按照《使用说明》运行ip更新文件来同步到云端的最新配置。
 
+
+***
 
 [谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年9月6日升级所有版本浏览器内核为61）
 
@@ -41,8 +43,6 @@
 [谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年7月25日更新版本）
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
-
-[谷歌浏览器低内核PAC版](https://github.com/Alvin9999/new-pac/wiki/PAC%E7%89%88)（2017年8月4日更新版本）
 
 [火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月19日发布GoAgent soso版；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月12日更新SS版本）
 
