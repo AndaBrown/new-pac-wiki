@@ -30,7 +30,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8507903245355772) 提取密码：32563
 
-使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+**使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
 
 实例图：
 
@@ -69,13 +69,13 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **2017年8月12日再次更新：修正使用说明（必看）里面的导入GoProxy.crt证书步骤。**
 
-**2017年8月12日更新：更新ip，同时去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，提示“您的连接不安全”，请按照《使用说明（必看）》导入证书。不好用的时候，记得运行ip更新文件。**
-
 压缩包名称Firefox52_GP_2017.8.12.7z ，文件大小77.57M。
 
 > 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **注意：使用软件过程中遇到一些小问题，都可以通过重启GoProxy来尝试解决。**
+
+**使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
 
 **下载地址：**
 
