@@ -5,7 +5,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年9月15日发布GoProxy版，更新SSR版**
+**2017年9月15日发布GoProxy Quic版，更新SSR版**
 
 近期更新内容：
 
