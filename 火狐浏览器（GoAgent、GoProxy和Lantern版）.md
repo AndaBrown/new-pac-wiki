@@ -5,9 +5,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年8月18日发布GoAgent soso版**
+**2017年9月15日发布GoProxy版，更新SSR版**
 
 近期更新内容：
+
+> 2017年8月18日发布GoAgent soso版
 
 > 2017年8月12日更新GoAgent版、GoProxy版
 
@@ -15,14 +17,33 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
+### 火狐GoProxy Quic版
+
+**2017年9月15日发布。**
+
+压缩包名称Firefox52_GP_Quic_2017.9.14 ，文件大小78.24M。
+
+**GoProxy Quic版适合封锁比较严重的地区，目前还不完善，在使用过程中，如果遇到网页卡死或者其它问题，可以通过刷新网页或者重启软件来尝试着解决。**
+
+**使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=4037529818847718) 提取密码：67766
+
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxgp001.png)
+
+
+***
 
 ### 火狐GoAgent版
 
-**2017年8月12日更新：更新ip，同时去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，提示“您的连接不安全”，请按照《使用说明（必看）》导入证书。不好用的时候，记得运行ip更新文件。**
+**2017年8月12日更新：更新ip，同时去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，提示“您的连接不安全”，请按照《使用说明（必看）》导入证书。**
 
 压缩包名称Firefox52_GA_2017.8.12.7z ，文件大小82.15M。
-
-> 火狐浏览器GoAgent版和[谷歌浏览器GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **下载地址：**
 
@@ -71,7 +92,6 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 压缩包名称Firefox52_GP_2017.8.12.7z ，文件大小77.57M。
 
-> 火狐浏览器GoProxy版和[谷歌浏览器GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)的所用云端配置一样，所以更新ip方法和内容也是一样的。
 
 **注意：使用软件过程中遇到一些小问题，都可以通过重启GoProxy来尝试解决。**
 
@@ -91,18 +111,15 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-### 火狐SS版
+### 火狐SSR版
 
-**2017年8月11日更新SS配置文件。不好用的时候记得运行ip更新文件。**
+**2017年9月15日更新版本，更新SSR配置文件。**
 
-压缩包名称：Firefox52_SS_2017.8.11.7z，文件大小76.83M。使用过程中，如果提示你需要安装net framework 4.0，网上搜一下这个东西，安装一下即可。
-
+压缩包名称：Firefox52_SSR_2017.9.14.7z，文件大小76.72M。第一次使用时，如果提示你需要安装**net framework 4.0**，网上搜一下这个东西，安装一下即可。
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1jIzeNyQ) 提取密码：guw2（第一次打开时如果出现提示百度云升级，页面不存在等，刷新一下网页）
-
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=6214384475933684) 提取密码：70076
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=6406858396691881) 提取密码：46375
 
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
@@ -117,16 +134,6 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 ### 火狐Lantern版
 
 **2017年7月25日更新Lantern版本。**
-
-**近期更新内容**：
-
-> 2017年7月11日更新，取消lantern开机自动启动和系统代理等优化操作
-
-> 2017年7月1日更新蓝灯版
-
-> 2017年6月29日更新蓝灯版
-
-> 2017年1月6日更新Lantern版本至v2典藏版
 
 压缩包名称Firefox52_LT_2017.7.25.7z ，文件大小79.06M。
 
