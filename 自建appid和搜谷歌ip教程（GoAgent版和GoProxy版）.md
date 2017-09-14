@@ -1,4 +1,10 @@
-### 2017年8月27日更新及确定部署appid上传服务端版本及下载地址。
+### 2017年9月14日更新google ip段。
+
+在线ip段地址：https://raw.githubusercontent.com/Alvin9999/PAC/master/google%20ip%20duan
+
+打开上面的地址，把里面的ip段复制到文件夹中的的“内置ip段.txt"文件即可，本次ip段总ip数400万。
+
+***
 
 **本教程用于GoAgent版和GoProxy版，这两款版本用的是相同的4000个appid，每个appid每天有1G流量，随着使用人数的增加，未来可能会满足不了，故出此教程。（每天北京时间下午4点谷歌流量会重置，也就是4点之后流量又是全新的）**
 
