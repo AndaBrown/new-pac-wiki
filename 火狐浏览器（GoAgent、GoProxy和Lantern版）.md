@@ -105,7 +105,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=6214384475933684) 提取密码：70076
 
 
-使用方法：下载后解压，按使用说明操作。
+**使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxss001.png)
 
