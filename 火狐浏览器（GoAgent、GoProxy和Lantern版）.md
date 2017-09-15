@@ -31,6 +31,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=4037529818847718) 提取密码：67766
 
+[百度云盘下载](https://pan.baidu.com/s/1dEJYZdB) 密码：2hva （第一次打开出现页面不存在，刷新一下网页）
 
 使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
 
