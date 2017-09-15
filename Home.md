@@ -19,12 +19,14 @@
 **PS**：如果你觉得软件好用，可以分享给你的朋友使用。分享翻墙的快乐。
 
 
-**2017年9月13日公告**：GoAgent版、GoProxy版、SS版已更新ip，使用这几种版本的朋友可以按照《使用说明》运行ip更新文件来同步到云端的最新配置。
+**2017年9月15日公告：发布新软GoProxy Quic版以及更新SSR版，适合封锁比较严重的地区。有需要的朋友可以在高内核版、低内核版以及火狐浏览器版界面下载相应的版本。如果你最近已经更新过GoAgent版、GoProxy版的ip，但发现软件中good ip个数为0，上不了外网，这个时候建议你首先尝试用GoProxy Quic版。**
 
 
 ***
 
-[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年9月6日升级所有版本浏览器内核为61）
+[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年9月15日发布新软GoProxy Quic版，更新SSR版；2017年9月6日升级所有版本浏览器内核为61）
+
+[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年9月15日发布新软）
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年8月19日更新版本，提供XP系统打开YouTube出现乱码的解决方法）
 
@@ -36,7 +38,7 @@
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) （2017年9月14日新增google ip段在线地址）
 
-[谷歌浏览器低内核SS版](https://github.com/Alvin9999/new-pac/wiki/SS%E7%89%88) (2017年8月12日更新版本）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) (2017年9月15日更新版本）
 
 [谷歌浏览器低内核GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年6月28日更新版本）
 
@@ -44,7 +46,7 @@
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年8月19日发布GoAgent soso版；2017年8月12日更新GoAgent版本、GoProxy版本；2017年8月12日更新SS版本）
+[火狐浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年9月15日发布新软GoProxy Quic版，更新SSR版）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年6月23日增加赛风3）
 
