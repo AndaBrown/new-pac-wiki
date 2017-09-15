@@ -29,6 +29,8 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
+[国外云盘下载](https://nofile.io/f/3R9yK5hhZJt/Firefox52_GP_Quic_2017.9.14.7z) 
+
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=4037529818847718) 提取密码：67766
 
 [百度云盘下载](https://pan.baidu.com/s/1dEJYZdB) 密码：2hva （第一次打开出现页面不存在，刷新一下网页）
@@ -120,8 +122,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
+[国外云盘下载](https://nofile.io/f/oDCfmCekUQT/Firefox52_SSR_2017.9.14.7z.7z) 
+
 [巴别鸟云盘下载](http://www.babel.cc/share.do?s=6406858396691881) 提取密码：46375
 
+[百度云盘下载](https://pan.baidu.com/s/1jHEzey6) 提取密码：2ekd （第一次打开时可能会提示页面不存在等，刷新一下）
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
 
@@ -140,7 +145,7 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 **下载地址：**
 
-[百度云网盘下载](http://pan.baidu.com/s/1bp90KWZ) 密码：53pd（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下）
+[百度云网盘下载](http://pan.baidu.com/s/1bp90KWZ) 密码：53pd（第一次打开时可能会提示页面不存在等，刷新一下）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=7556773488128372) 提取密码：43671
 
