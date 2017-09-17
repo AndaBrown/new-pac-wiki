@@ -193,7 +193,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 **第三步：一键加速VPS服务器**
 
-此加速教程为谷歌BBR加速和破解版锐速加速教程，**两者只能成功装一个**，都仅支持KVM框架的vps服务器，vultr的服务器都是KVM框架。如果你购买的不是vultr的服务器，那么你需要搞清楚你买的vps服务器是否是KVM框架的，很重要。
+此加速教程为谷歌BBR加速和破解版锐速加速教程，**两者只能成功装一个**，都仅支持KVM框架的vps服务器，vultr的服务器都是KVM框架。如果你购买的不是vultr的服务器，那么你需要搞清楚你买的vps服务器是否是KVM框架的，很重要。（vultr的服务器装谷歌bbr）
+
 
 按照第二步的步骤，重新连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
 
