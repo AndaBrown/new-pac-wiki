@@ -1,8 +1,8 @@
-**2017年9月14日新增google ip段在线地址。**
+**2017年9月19日更新第二部分的搜ip教程。主要更新内容：更新google ip段在线地址库，新增搜ip软件MFF xp版。**
 
 在线ip段地址：https://raw.githubusercontent.com/Alvin9999/PAC/master/google%20ip%20duan
 
-打开上面的地址，把里面的ip段复制到文件夹中的的“内置ip段.txt"文件即可，本次ip段总ip数400万。
+打开上面的地址，把里面的ip段复制到文件夹中的的“内置ip段.txt"文件即可，本次ip段总ip数417万。
 
 ***
 
@@ -111,13 +111,11 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ### 第二部分——自己搜谷歌ip教程
 
-**首先电脑先安装NET4.6，自己可以在网上搜NET4.6。如果不安装NET，没法正常运行搜ip工具。然后下载搜ip工具——MFF2017.5.17**
+**首先电脑先安装NET4.6或NET4.0，XP系统装4.0的。如果不安装NET，没法正常运行搜ip工具。然后下载搜ip工具——MFF**
 
-MFF2017.5.17下载地址：
+win7、win8、win10版 MFF_net4.6_v2017.9.19.rar[国外云盘下载](https://nofile.io/f/JQBueWUAqrT#82d16bc9ac6bad2d)
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=2895736640853237) 提取密码：5548
-
-[百度云盘下载](http://pan.baidu.com/s/1nuXjfrN) 提取密码：1nfb
+win xp版 MFF_net4.0_v2017.9.19.rar[国外云盘下载](https://nofile.io/f/ZYDa2Zm8883#82d16bc9ac6bad2d)
 
 **下载后解压出来；使用前要先退出杀毒软件，以免被误报，如果不幸被误删了，请重新解压**
 
