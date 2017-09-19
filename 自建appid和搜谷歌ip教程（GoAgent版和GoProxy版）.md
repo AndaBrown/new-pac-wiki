@@ -123,7 +123,7 @@ win xp版 MFF_net4.0_v2017.9.19.rar[国外云盘下载](https://nofile.io/f/ZYDa
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip2.png)
 
-**运行搜ip工具（ps：该工具由网友开发分享，工具名字有点不雅，请见谅）**
+运行搜ip工具（ps：该工具由网友开发分享，工具名字有点不雅，请见谅）
 
 **把名字为“内置ip段.txt"文件拖到搜ip工具中，就可以自动导入“内置ip段.txt"里面的ip，或者点击软件界面上的“测试ip池”上面的下拉菜单，选择“内置ip段”也可以导入ip。目前内置了417万的ip个数。**
 
