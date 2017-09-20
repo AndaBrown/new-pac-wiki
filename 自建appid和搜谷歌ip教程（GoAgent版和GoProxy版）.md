@@ -113,9 +113,9 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 **首先电脑先安装NET4.6或NET4.0，XP系统装4.0的。如果不安装NET，没法正常运行搜ip工具。然后下载搜ip工具——MFF**
 
-win7、win8、win10版 MFF_net4.6_v2017.9.19.rar[国外云盘下载](https://nofile.io/f/JQBueWUAqrT#82d16bc9ac6bad2d)
+win7、win8、win10版 MFF_net4.6_v2017.9.19.rar [百度云盘下载](https://pan.baidu.com/s/1mi3Ml4W) 密码：73mg  （第一次打开如果出现页面不存在，刷新一下网页）
 
-win xp版 MFF_net4.0_v2017.9.19.rar[国外云盘下载](https://nofile.io/f/ZYDa2Zm8883#82d16bc9ac6bad2d)
+win xp版 MFF_net4.0_v2017.9.19.rar [百度云盘下载](https://pan.baidu.com/s/1gfIj8jT) 密码：is77 （第一次打开如果出现页面不存在，刷新一下网页）
 
 **下载后解压出来；使用前要先退出杀毒软件，以免被误报，如果不幸被误删了，请重新解压**
 
