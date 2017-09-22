@@ -39,7 +39,7 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 **2017年9月22日更新。**
 
-https://i.imgur.com/Xxcwouu.png
+[]!https://i.imgur.com/Xxcwouu.png
 
 ***
 
