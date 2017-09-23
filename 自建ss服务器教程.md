@@ -29,6 +29,11 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
  
 10美元/月的服务器配置信息：单核  2G内存   40G SSD硬盘   100M带宽    2000G流量/月  
 
+20美元/月的服务器配置信息：2cpu  4G内存   60G SSD硬盘   100M带宽    3000G流量/月  
+
+40美元/月的服务器配置信息：4cpu  8G内存   100G SSD硬盘   100M带宽   4000G流量/月  
+
+
 如图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
