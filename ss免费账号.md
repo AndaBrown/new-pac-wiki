@@ -9,13 +9,15 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 ### ===自己搭建ss服务器教程===
 
-[vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
+[Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
 
-vps推荐：
+VPS推荐：
 
-[vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。**2017年8月30日更新：Vutrl支持支付宝（Alipay）付款了。**） 
+[Vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。服务器地址优先选择：洛杉矶（Los Angeles）、日本东京（Tokyo）、硅谷（Silicon Valley）、新加坡（Singapore））
 
-[digitalocean](https://www.digitalocean.com/) （知名服务器供应商；最低5美元/月）
+[Vultr](http://www.vultr.com/?ref=7048874) 实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，不影响扣费，很方便。
+
+**2017年8月30日更新：[Vultr](http://www.vultr.com/?ref=7048874) 支持支付宝（Alipay）付款了。**
 
 ### SSR软件下载及更新地址：
 
