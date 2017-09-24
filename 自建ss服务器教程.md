@@ -33,6 +33,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 40美元/月的服务器配置信息：4cpu  8G内存   100G SSD硬盘   100M带宽   4000G流量/月  
 
+vultr实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，很方便。
 
 如图：
 
@@ -51,8 +52,6 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程06.png)
-
-vultr实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，不影响扣费，很方便。
 
 
 ***
