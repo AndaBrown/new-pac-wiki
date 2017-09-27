@@ -45,7 +45,7 @@
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[火狐浏览器翻墙便携版](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年9月15日发布新软GoProxy Quic版，更新SSR版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%88GoAgent%E3%80%81GoProxy%E5%92%8CLantern%E7%89%88%EF%BC%89)（2017年9月15日发布新软GoProxy Quic版，更新SSR版）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年6月23日增加赛风3）
 
