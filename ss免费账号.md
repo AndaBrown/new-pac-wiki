@@ -64,9 +64,9 @@ SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户�
 
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
-[新唐人电视台](http://d99.noy.li/xtr/)
+[新唐人电视台](http://88v.qjfh1.ml/xtr/)
 
-[动态网](http://d99.noy.li/dtw/)
+[动态网](http://88v.qjfh1.ml/dtw/)
 
 [聚缘阁](https://github.com/ju99/e/wiki)
 
