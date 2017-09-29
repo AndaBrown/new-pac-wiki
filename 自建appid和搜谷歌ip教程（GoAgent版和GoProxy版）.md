@@ -137,7 +137,7 @@ win xp版 MFF_net4.0_v2017.9.19.rar [百度云盘下载](https://pan.baidu.com/s
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip5.png)
 
-**单击延迟按钮可以将搜到的ip进行排序。特别提醒：每个ip都能看到归属地，如果发现有归属地为中国的，搜完ip后将它去除，因为归属地为中国的ip没法使用**
+### 单击延迟按钮可以将搜到的ip进行排序。特别提醒：每个ip都能看到归属地，如果发现有归属地为中国的，搜完ip后将它去除，因为归属地为中国的ip没法使用。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip6.png)
 
