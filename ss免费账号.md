@@ -7,7 +7,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 
 
-### ===自己搭建ss服务器教程===
+### ===自己搭建SS OR SSR服务器教程===
 
 [Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
 
@@ -33,7 +33,7 @@ VPS推荐：
 
 [Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
 
-### ===免费节点列表===（不定期更新账号ip或端口或密码）
+### ===免费SSR节点列表===（不定期更新账号ip或端口或密码）
 
 有电脑的朋友，建议你学习一下[自己搭建SS或SSR教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会很有用，教程很简单。
 
