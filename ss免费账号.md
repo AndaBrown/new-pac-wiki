@@ -13,7 +13,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。服务器地址优先选择：洛杉矶（Los Angeles）、日本东京（Tokyo）、硅谷（Silicon Valley）、新加坡（Singapore））
+[Vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。服务器地址优先选择：洛杉矶（Los Angeles）、日本东京（Tokyo）、硅谷（Silicon Valley）、新加坡（Singapore）） 温馨提醒：同样的服务器位置，不同的宽带类型或使用地区所搭建的账号的翻墙速度不会完全相同，所以最好自己亲测。
 
 [Vultr](http://www.vultr.com/?ref=7048874) 实际上是折算成小时来计费的，比如服务器是5美元1个月，那么每小时收费为5/30/24=0.0069美元 会自动从账号中扣费，只要保证账号有钱即可。如果你部署的服务器实测后不理想，你可以把它删掉（destroy），重新换个地区的服务器来部署，很方便。
 
