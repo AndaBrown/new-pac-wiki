@@ -41,9 +41,9 @@ VPS推荐：
 
 SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。**为保证每位用户都能够分配到一定的带宽资源，以下账号进行了单线程限速处理，单线程限速100kb/s左右。如果自己搭建服务器就没有这个限制。**
 
-**2017年9月22日更新。**
+**2017年10月2日更新。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ssr1001.PNG)
+![](https://i.imgur.com/lCKQ6Jp.png)
 
 ***
 
