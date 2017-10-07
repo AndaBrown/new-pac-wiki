@@ -25,11 +25,11 @@ VPS推荐：
 
 [SS和SSR全平台客户端及手机APP下载](https://lai.yuweining.cn/archives/173)   
 
-[Windows SSR客户端下载及更新地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
+[Windows SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
 
-[安卓 SSR客户端下载及更新地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) 
+[安卓 SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) 
 
-[ios SSR客户端下载及更新地址](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
+[ios SSR客户端下载地址](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
 [MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
 
