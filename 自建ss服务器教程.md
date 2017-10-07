@@ -234,7 +234,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 
 ***
 
-鸣谢参考教程：[秋水逸冰](https://teddysun.com/392.html)  [91yun](https://www.91yun.org/archives/683)  [doub.bid](https://doub.bid/ss-jc42/)
+鸣谢参考教程：[秋水逸冰](https://teddysun.com/392.html)  [91yun](https://www.91yun.co/archives/5174)  [doub.bid](https://doub.bid/ss-jc42/)
 
 
 ***
