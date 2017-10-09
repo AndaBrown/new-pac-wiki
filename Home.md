@@ -32,6 +32,8 @@
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月9日云端更新ip，请按照使用说明运行一键更新ip文件来同步到最新的云端配置）
 
+[谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月9日发布）
+
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月9日云端更新ip，请按照使用说明运行一键更新ip文件来同步到最新的云端配置）
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月9日云端更新ip，请按照使用说明运行一键更新ip文件来同步到最新的云端配置）
