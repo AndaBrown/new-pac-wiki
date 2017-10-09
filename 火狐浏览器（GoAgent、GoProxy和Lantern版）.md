@@ -5,9 +5,11 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-**2017年9月15日发布GoProxy Quic版，更新SSR版**
+**2017年10月9日发布FreeGate版和WuJie版**
 
 近期更新内容：
+
+> 2017年9月15日发布GoProxy Quic版，更新SSR版
 
 > 2017年8月18日发布GoAgent soso版
 
@@ -42,29 +44,73 @@ http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_playe
 
 ***
 
-### 火狐GoAgent版
 
-**2017年8月12日更新：更新ip，同时去除浏览器内置的证书文件，第一次运行时会自动生成全新的证书文件且每个人都是独一无二的，如果某些网站打不开，提示“您的连接不安全”，请按照《使用说明（必看）》导入证书。**
+### 火狐GoProxy Quic版
 
-压缩包名称Firefox52_GA_2017.8.12.7z ，文件大小82.15M。
+**2017年9月15日发布。**
 
-**下载地址：**
+压缩包名称Firefox52_GP_Quic_2017.9.14 ，文件大小78.24M。
 
-[百度云网盘下载](http://pan.baidu.com/s/1c2ALVws) 密码：ht2k（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
-
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=8507903245355772) 提取密码：32563
+**GoProxy Quic版适合封锁比较严重的地区，目前还不完善，不适合用于下载超过32M的文件。在使用过程中，如果遇到网页卡死或者其它问题，可以通过刷新网页或者重启软件来尝试着解决。**
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
 
-实例图：
+**下载地址：**
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxga001.png)
+[国外云盘下载](https://nofile.io/f/3R9yK5hhZJt/Firefox52_GP_Quic_2017.9.14.7z) 
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/火狐3.png)
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=4037529818847718) 提取密码：67766
+
+[百度云盘下载](https://pan.baidu.com/s/1dEJYZdB) 密码：2hva （第一次打开出现页面不存在，刷新一下网页）
+
+使用方法：下载后解压，按文件夹里面的使用说明（必看）操作。
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/52firefoxgp001.png)
 
 
 ***
 
+
+### 火狐FreeGate版
+
+**2017年10月9日发布。**
+
+压缩包名称Firefox52_FG_2017.10.9.7z  ，文件大小79.77M。
+
+**下载地址：**
+
+[国外网盘下载](https://nofile.io/f/z7EFydYQtZV#070561b436fa01cb) 
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1885416349677891) 提取密码：11939
+
+**使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。**
+
+实例图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/52freegate.PNG)
+
+
+***
+
+### 火狐WuJie版
+
+**2017年10月9日发布。**
+
+压缩包名称Firefox52_WJ_2017.10.9.7z  ，文件大小79.96M。
+
+**下载地址：**
+
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=604665650110588) 提取密码：38997
+
+
+**使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。**
+
+实例图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/52wujie1.PNG)
+
+
+***
 
 ### 火狐GoProxy版
 
