@@ -29,7 +29,7 @@
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。不好用的时候记得运行ip更新文件。**
 
-低内核完整版实例图
+低内核版实例图
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromegp001.png)
 
