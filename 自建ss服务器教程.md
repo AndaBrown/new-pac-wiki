@@ -118,11 +118,11 @@ chmod +x shadowsocksR.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/3.png)
 
-按照如下提示，选择项设置的**协议插件**，默然的是origin（SS客户端），我们选择SSR客户端的协议插件：3
+按照如下提示，选择项设置的**协议插件**，默然的是origin（SS协议，不推荐），我们选择SSR客户端的协议插件：3
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4.png)
 
-按照如下提示，选择项设置的**混淆插件**，默然的是plain（SS客户端），我们选择SSR客户端的混淆插件：6
+按照如下提示，选择项设置的**混淆插件**，默然的是plain（SS协议，不推荐），我们选择SSR客户端的混淆插件：6
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/5.png)
 
