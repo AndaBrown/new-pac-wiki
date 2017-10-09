@@ -164,7 +164,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/9.png)
 
-根据上图提示，依次输入自己想设置的**密码和端口**，回车键用于确认
+根据上图提示，依次输入自己想设置的**端口和密码**，回车键用于确认
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/10.png)
 
