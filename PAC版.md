@@ -14,7 +14,7 @@
 
 ***
 
-### 低内核完整版 （适合windows系统，包括xp）
+### 低内核版 （适合windows系统，包括xp）
 
 压缩包名称Chrome53_Pac_v2017.8.4.7z 文件大小171.63M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49内核和win7及以上系统53内核），共计86M，方便想升级内核的用户。
 
@@ -33,7 +33,7 @@
 
 ***
 
-低内核完整版实例图：
+低内核版实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53PAC1.PNG)
 
