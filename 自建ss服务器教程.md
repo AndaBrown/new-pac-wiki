@@ -170,13 +170,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 如上图，选择想设置的**加密方式**，比如10，按回车键确认
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/11.png)
-
 接下来是选择**协议插件**，如下图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/11.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/12.png)
 
-选择并确认后，会出现下面的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端，SS版客户端是没有协议插件和混淆插件的选项，演示选择n
+选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端（SS版客户端是没有协议插件和混淆插件的选项），演示选择n
 
 之后进行混淆插件的设置，如下面
 
