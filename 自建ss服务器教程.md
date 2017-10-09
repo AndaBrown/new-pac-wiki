@@ -118,11 +118,11 @@ chmod +x shadowsocksR.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/3.png)
 
-按照如下提示，选择项设置的**协议插件**，默然的是origin（SS协议，不推荐），我们选择SSR客户端的协议插件：3
+按照如下提示，选择项设置的**协议插件**，默然的是origin（支持SS客户端，不推荐），我们选择SSR客户端的协议插件：3
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4.png)
 
-按照如下提示，选择项设置的**混淆插件**，默然的是plain（SS协议，不推荐），我们选择SSR客户端的混淆插件：6
+按照如下提示，选择项设置的**混淆插件**，默然的是plain（支持SS客户端，不推荐），我们选择SSR客户端的混淆插件：6
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/5.png)
 
@@ -176,7 +176,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/12.png)
 
-选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端（SS版客户端是没有协议插件和混淆插件的选项），演示选择n
+选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端，可以根据需求进行选择，原则上不推荐使用SS客户端，演示选择n
 
 之后进行混淆插件的设置，如下面
 
@@ -264,7 +264,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspe
 
 ***
 
-【客户端下载】
+【SSR客户端下载】
 
 [Windows SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
 
