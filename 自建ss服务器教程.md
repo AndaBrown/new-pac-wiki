@@ -9,7 +9,7 @@
 
 第二步：一键部署VPS服务器
 
-第三步：一键加速VPS服务器 （谷歌BBR加速或锐速加速；对速度要求不高的话，此步骤可省略）
+第三步：一键加速VPS服务器 （谷歌BBR加速，推荐）
 
 
 ***
@@ -213,9 +213,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 **第三步：一键加速VPS服务器**
 
-此加速教程为谷歌BBR加速和破解版锐速加速教程，**两者只能成功装一个**，都仅支持KVM框架的vps服务器，vultr的服务器都是KVM框架。如果你购买的不是vultr的服务器，那么你需要搞清楚你买的vps服务器是否是KVM框架的，很重要。（vultr的服务器默认的系统只能装谷歌bbr）
-
-该加速方法是开机自动启动，部署一次就可以了。
+此加速教程为谷歌BBR加速,Vultr的服务器框架可以装BBR加速，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
 
 按照第二步的步骤，连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
 
@@ -248,24 +246,6 @@ chmod +x bbr.sh
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
 
 最后输入y重启服务器或者手动输入代码reboot来确保加速生效。
-
-【锐速加速教程】
-
-yum -y install wget
-
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
-
-把上面整个代码复制后粘贴进去。该方法是开机自动启动，部署一次就可以了。但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速2.PNG)
-
-提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
-
-锐速安装成功标志如下：
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/锐速3.png)
-
-出现running字样即可!
 
 ***
 
