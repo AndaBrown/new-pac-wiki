@@ -84,11 +84,14 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名linux系统默认都是root，密码是购买服务器后的cent系统的密码。
+
+**如果开好了服务器，发现xshell死活连不上，多半是开的服务器ip被墙了，遇到这种情况，把服务器删掉，重新开个新的服务器即可，可以是同地区的也可以选择其它地区。**
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell15.png)
 
-连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。**如果开好了服务器，发现xshell死活连不上，多半是开的服务器ip被墙了，遇到这种情况，把服务器删掉，重新开个新的服务器即可，可以是同地区的也可以选择其它地区。**
+连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 分享两个好用的代码，选择其中一个即可。
 
