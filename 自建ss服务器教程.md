@@ -251,13 +251,14 @@ chmod +x bbr.sh
 
 【SSR客户端下载】
 
-[Windows SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
+[Windows SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [备用下载地址](https://nofile.io/f/6Jm7WJCyOVv/ShadowsocksR-4.7.0-win.7z)
 
-[MAC SSR客户端下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
+[MAC SSR客户端下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) [备用下载地址](https://nofile.io/f/jgMWFwCBonU#ab0d3c3b6ac54482)
 
 [Linux客户端一键安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr)
 
-[安卓 SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) 
+[安卓 SSR客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases) [备用下载地址](https://nofile.io/f/GRWw7PbADrc#1c6c32f969e7f5d9) 
+
 
 苹果手机SSR客户端：Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，请用美区的appid账号来下载，网络上有申请国外appid的教程或者淘宝购买。
 
