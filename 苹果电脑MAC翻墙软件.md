@@ -1,6 +1,6 @@
 **2017年7月25日更新。**
 
-### 第一种方法：利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用
+### 第一种方法：利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用。如果是SSR账号，必须使用SSR客户端。
 
 [点我获取最新免费ss或ssr账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
@@ -8,9 +8,9 @@
 
 STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 
 
-**SS客户端下载地址：**[ShadowsocksX国内高速下载](http://yuweining.cn/t/SS-Mac-X.dmg) [ShadowsocksX Github下载](https://github.com/shadowsocks/shadowsocks-iOS/releases)
+**SS客户端下载地址：**[下载地址1](http://yuweining.cn/t/SS-Mac-X.dmg) [下载地址2](https://github.com/shadowsocks/shadowsocks-iOS/releases)
 
-**SSR客户端下载地址：**[ShadowsocksX-NG-SSR国内CDN高速下载](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [ShadowsocksX-NG-SSR国内备份下载](https://www.babel.cc/share.do?s=1540367796358713)  [Github下载](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
+**SSR客户端下载地址：**[下载地址1](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [下载地址2](https://www.babel.cc/share.do?s=1540367796358713)  [下载地址3](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 
 ***
 
