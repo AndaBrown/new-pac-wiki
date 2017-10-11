@@ -8,7 +8,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoProxy Quic版、FreeGate版、WuJie版、GoAgent版、GoProxy版、SS版、GoGo翻墙软件、萤火虫版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：GoProxy Quic版、FreeGate版、WuJie版、GoAgent版、GoProxy版、SSR版、GoGo翻墙软件、萤火虫版适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意：我分享的软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系。现在国外好用的免费杀毒软件也挺多的，网上一搜就有很多。如果翻墙插件被杀毒软件“误删”了或者默默地删掉了，是不能翻墙的，退出杀毒软件，重新解压下载的压缩包。**
 
