@@ -24,7 +24,7 @@
 
 ***
 
-[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
+[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月12日更新SSR版本；2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月11日更新1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
@@ -32,7 +32,7 @@
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月9日云端更新ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月9日云端更新ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月12日更新版本）
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月9日发布）
 
@@ -40,7 +40,7 @@
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月12日更新SSR版本；2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月9日更新下载地址）
 
