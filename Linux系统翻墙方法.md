@@ -4,9 +4,10 @@
 
 [Linux客户端一键安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr)
 
+linux也有图形化界面，使用方法与ssr的win客户端类似，支持ssr协议和混淆。[linux ssr客户端下载地址](https://github.com/erguotou520/electron-ssr/releases)
+
 [获取最新SS或SSR账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
  
-linux也有图形化界面，使用方法与ssr的win客户端类似，支持ssr协议和混淆。[下载地址](https://github.com/erguotou520/electron-ssr/releases)
 
 ### 第二种方法：使用Lantern linux版
 
