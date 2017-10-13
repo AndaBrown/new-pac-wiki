@@ -24,11 +24,11 @@
 
 ***
 
-[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月12日更新SSR版本；2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
+[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （201710月13日更新GoAgent版ip；2017年10月12日更新SSR版本；2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月11日更新1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月11日云端更新ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置）
+[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月13日云端更新ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置）
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月9日云端更新ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置）
 
