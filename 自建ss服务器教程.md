@@ -111,7 +111,7 @@ chmod +x shadowsocksR.sh
 
 **演示开始：复制代码粘贴到vps服务器里，按回车键，进入部署。**
 
-按照如下提示，输入想设置的**密码**，按回车键进入下一步 (**密码建议用字母，图中的1234只是作为演示用**)
+按照如下提示，输入想设置的**密码**，按回车键进入下一步 (**密码建议用字母，图中的密码只是作为演示用**)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/1.png)
 
@@ -169,7 +169,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/9.png)
 
-根据上图提示，依次输入自己想设置的**端口和密码** (**密码建议用字母，图中的1234只是作为演示用**)，回车键用于确认
+根据上图提示，依次输入自己想设置的**端口和密码** (**密码建议用字母，图中的密码只是作为演示用**)，回车键用于确认
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/10.png)
 
