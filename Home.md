@@ -46,11 +46,11 @@
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月14日云端更新GoAgent版和GoProxy版90+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置；2017年10月12日更新SSR版本；2017年10月11日更新GoProxy Quic版1900+高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
-[抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月9日更新下载地址）
+[抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月15日更新赛风版本3.129）
 
 [自建SSR服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2017年10月9日更新图文教程）
 
-[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2017年9月23日更新网门安卓版）
+[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2017年10月15日更新赛风版本166）
 
 [ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年9月18日更新）
 
