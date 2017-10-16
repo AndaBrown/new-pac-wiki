@@ -7,9 +7,12 @@
 
 **下载地址：**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=4327419573120499) 提取密码：92337
+
+[百度云盘下载](https://pan.baidu.com/s/1nuLgqLz) 提取密码：esdx （如果提示页面不存在，刷新一下网页）
+
 [国外云盘下载](https://nofile.io/f/Brv48y4BJUE#cb702bf58f3b98f6) 
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=4327419573120499) 提取密码：92337
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。**
 
@@ -28,9 +31,12 @@
 
 **下载地址：**
 
+[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1988295980708053) 提取密码：2522
+
+[百度云盘下载](https://pan.baidu.com/s/1kVkSN59) 提取密码：828s（如果提示页面不存在，刷新一下网页）
+
 [国外云盘下载](https://nofile.io/f/Fp1cYBJMXfa#f24c0b4fa2b7d105) 
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=1988295980708053) 提取密码：2522
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。**
 
