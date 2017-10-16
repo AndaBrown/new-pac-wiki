@@ -165,7 +165,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/8.png)
 
-如上图出现管理界面后，**输入数字1来安装SSR服务端**
+如上图出现管理界面后，**输入数字1来安装SSR服务端**。如果输入1后不能进入下一步，那么请退出xshell，重新连接vps服务器，然后输入快捷管理命令bash ssr.sh 再尝试。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/9.png)
 
