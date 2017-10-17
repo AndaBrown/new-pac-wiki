@@ -41,13 +41,15 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
 
-购买vps服务器时，服务器地址优先选择：美国硅谷（Silicon Valley）、美国达拉斯(Dallas)等，近期不推荐用洛杉矶和日本的服务器，因为这两个地区近期能够开到的好ip的可能性很低。**推荐选择CentOS 6.X64位的系统（系统版本不要选的太高，不然会影响后面的加速脚本的安装）**。完成购买后，找到系统的密码记下来，部署服务器时需要用到。如图：
+购买vps服务器时，服务器地址优先选择：美国硅谷（Silicon Valley）、美国达拉斯(Dallas)等，近期不推荐用洛杉矶和日本的服务器，因为这两个地区近期能够开到的好ip的可能性很低。**推荐选择CentOS 6.X64位的系统（系统版本不要选的太高，不要选centos7！centos7默认的防火墙可能会干扰ssr的正常连接！）**。完成购买后，找到系统的密码记下来，部署服务器时需要用到。如图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
+
+**默认是centos7系统，点击图中的CentOS几个字，会弹出centos6，然后选中它！vps操作系统不要选cento7，因为选它很可能会影响ssr的正常连接。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
 
