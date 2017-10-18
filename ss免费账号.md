@@ -66,9 +66,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
-[新唐人电视台](http://88v.qjfh1.ml/xtr/)
+[新唐人电视台](http://9cc.zs99.gq/xtr/)
 
-[动态网](http://88v.qjfh1.ml/dtw/)
+[动态网](http://9cc.zs99.gq/dtw/)
 
 [聚缘阁](https://github.com/ju99/e/wiki)
 
