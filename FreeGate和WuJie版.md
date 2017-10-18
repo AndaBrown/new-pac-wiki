@@ -1,4 +1,4 @@
-### 低内核WuJie版  （适合windows系统，包括xp）
+### 低内核WuJie版  （适合XP、win7、win8、win10）
 
 **2017年10月9日发布。**
 
