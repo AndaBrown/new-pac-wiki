@@ -1,4 +1,4 @@
-**2017年7月25日更新**
+**2017年10月19日增加第四种方法无界浏览Linux版**
 
 ### 第一种方法：使用SSR账号翻墙
 
@@ -25,4 +25,6 @@ Ubuntu 64位: [下载地址](https://github.com/yinghuocho/download/blob/master/
 
 Ubuntu 32位: [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_386_install.deb?raw=true)
 
-> 转载：https://github.com/yinghuocho/firefly-proxy
+### 第三种方法：无界浏览 linux版
+
+无界浏览 [下载地址](https://git.io/vKGnV)
