@@ -61,9 +61,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫Xshell的软件来远程部署。Xshell windows版下载地址：
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=5793540665720793) 提取密码：38693
-
-[国外云盘下载](https://nofile.io/f/FQaBa7fT3dy#32cbadc45982d2f3)
+[国外云盘下载](https://nofile.io/f/eb5dUzYMQK4/Xshell_setup_wm.exe) 提取密码：666
 
 [百度软件中心](http://rj.baidu.com/soft/detail/15201.html?ald)
 
