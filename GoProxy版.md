@@ -20,8 +20,6 @@
 
 **下载地址：**
 
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=2813969706003802) 密码：49878
-
 [国外云盘下载](https://nofile.io/f/HoGyRtWY4z1/Chrome53_gop_v2017.9.2.7z) 
 
 [百度云网盘下载](https://pan.baidu.com/s/1jHK4dl8) 提取密码：5tfc  （如果提示页面不存在，刷新一下网页）
