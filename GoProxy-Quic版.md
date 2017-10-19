@@ -10,8 +10,6 @@
 
 [国外云盘下载](https://nofile.io/f/Hg5zzQCARm6/Chrome53_gop_quic_v2017.9.14.7z) 
 
-[巴别鸟云盘下载](http://www.babel.cc/share.do?s=6893111933550072) 密码：65548
-
 [百度云盘下载](https://pan.baidu.com/s/1nuXpMGD) 密码：3r6r （第一次打开出现页面不存在，刷新一下网页）
 
 **GoProxy Quic版适合封锁比较严重的地区，目前还不完善，不适合用于下载超过32M的文件。在使用过程中，如果遇到网页卡死或者其它问题，可以通过刷新网页或者重启软件来尝试着解决。**
