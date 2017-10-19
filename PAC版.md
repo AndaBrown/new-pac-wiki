@@ -9,7 +9,6 @@
 
 **下载地址:**
 
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=1234123385978751) 提取密码：45844
 
 [百度云网盘下载](https://pan.baidu.com/s/1kVFZcUV) 密码：jkrg （如果提示页面不存在，刷新一下网页）
 
