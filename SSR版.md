@@ -10,12 +10,9 @@
 
 **下载地址:**
 
-[巴别鸟云盘下载](https://www.babel.cc/share.do?s=8936934241688075) 提取密码：24397
+[国外云盘下载](https://nofile.io/f/ur3XATxpPcd/Chrome53_SSR_v2017.10.12.7z) 提取密码：666
 
 [百度云网盘下载](https://pan.baidu.com/s/1o883mt0) 密码：am83（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
-
-[国外云盘下载](https://nofile.io/f/eK0X0WaUc7R#4b0ab04ed4514369) 
-
 
 使用方法：下载后解压，按使用说明（必看）操作即可。不好用的时候记得运行ip更新文件。
 
