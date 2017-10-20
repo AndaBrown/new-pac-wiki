@@ -22,7 +22,7 @@ Java官网下载地址：http://java.com  ，下载后安装在电脑上，之�
 
 下载地址：
 
-[国外云盘下载](https://nofile.io/f/tZ8DDrknSe3/Chrome53_GoGo_v2017.6.28.7z) 
+[国外云盘下载](https://nofile.io/f/tZ8DDrknSe3/Chrome53_GoGo_v2017.6.28.7z)  （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [百度云盘下载](https://pan.baidu.com/s/1slr0rzn) 密码:6ksc （如果提示页面不存在，刷新一下网页）
 
