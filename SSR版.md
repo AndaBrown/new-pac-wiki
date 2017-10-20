@@ -10,7 +10,7 @@
 
 **下载地址:**
 
-[国外云盘下载](https://nofile.io/f/ur3XATxpPcd/Chrome53_SSR_v2017.10.12.7z) 提取密码：666
+[国外云盘下载](https://nofile.io/f/ur3XATxpPcd/Chrome53_SSR_v2017.10.12.7z) 提取密码：666 （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [百度云网盘下载](https://pan.baidu.com/s/1o883mt0) 密码：am83（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
