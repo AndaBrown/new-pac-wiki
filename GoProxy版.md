@@ -22,7 +22,7 @@
 
 **下载地址：**
 
-[国外云盘下载](https://nofile.io/f/HoGyRtWY4z1/Chrome53_gop_v2017.9.2.7z) 
+[国外云盘下载](https://nofile.io/f/HoGyRtWY4z1/Chrome53_gop_v2017.9.2.7z) （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [百度云网盘下载](https://pan.baidu.com/s/1jHK4dl8) 提取密码：5tfc  （如果提示页面不存在，刷新一下网页）
 
