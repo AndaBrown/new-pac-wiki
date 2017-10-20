@@ -8,7 +8,7 @@
 
 **下载地址：**
 
-[国外云盘下载](https://nofile.io/f/TgvONf3EKvq/Chrome53LT_v2017.7.25.7z) 
+[国外云盘下载](https://nofile.io/f/TgvONf3EKvq/Chrome53LT_v2017.7.25.7z)  （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [百度网盘下载](https://pan.baidu.com/s/1hrJSDpy) 提取密码：86ra （如果提示页面不存在，刷新一下网页）
 
