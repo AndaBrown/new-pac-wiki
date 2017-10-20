@@ -10,7 +10,7 @@
 
 **下载地址：**
 
-[国外云盘下载](https://nofile.io/f/rp2GneEBEAS/Chrome53_GASOSO_v2017.8.19.7z) 
+[国外云盘下载](https://nofile.io/f/rp2GneEBEAS/Chrome53_GASOSO_v2017.8.19.7z)  （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [巴别鸟云盘下载](https://www.babel.cc/share.do?s=8888218876100532) 提取密码：98735
 
