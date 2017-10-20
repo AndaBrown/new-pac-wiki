@@ -8,7 +8,7 @@
 
 **下载地址：**
 
-[国外云盘下载](https://nofile.io/f/Hg5zzQCARm6/Chrome53_gop_quic_v2017.9.14.7z) 
+[国外云盘下载](https://nofile.io/f/Hg5zzQCARm6/Chrome53_gop_quic_v2017.9.14.7z) （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [百度云盘下载](https://pan.baidu.com/s/1nuXpMGD) 密码：3r6r （第一次打开出现页面不存在，刷新一下网页）
 
