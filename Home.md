@@ -24,7 +24,7 @@
 
 ***
 
-[谷歌浏览器61高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月20日云端更新GoAgent版和GoProxy版的高质量谷歌ip；2017年10月19日云端更新SSR版的SSR配置信息；2017年10月18日云端更新GoProxy Quic版高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置；2017年10月18日增加所有版本的64位软件。）
+[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，提高用户体验。）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月18日更新高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置。）
 
