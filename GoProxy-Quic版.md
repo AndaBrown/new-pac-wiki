@@ -18,7 +18,8 @@
 
 低内核版实例图
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromegp001.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromega001.png)
+
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/GOP1.png)
 
