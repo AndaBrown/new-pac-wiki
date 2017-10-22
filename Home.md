@@ -40,7 +40,7 @@
 
 [谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年6月29日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月20日云端更新GoAgent版和GoProxy版的高质量谷歌ip；2017年10月19日云端更新SSR版的SSR配置信息；2017年10月18日云端更新GoProxy Quic版高质量谷歌ip，可以按照使用说明运行一键更新ip文件来同步到最新的云端配置）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月22日更新所有版本。增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息。）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月19日更新下载地址）
 
