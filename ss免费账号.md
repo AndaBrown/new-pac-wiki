@@ -41,9 +41,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **为保证每位用户都能够分配到一定的带宽资源，以下账号会进行单线程限速处理。为预防SSR账号不会因为使用人数猛增而导致账号没法使用，每个SSR账号会设置同时在线最大设备数。如果自己搭建服务器就没有这个限制，且可以把有限的免费资源让给没有条件搭建服务器的人。**
 
-**2017年10月19日：更新服务器2、3、4。服务器1、2、3单线程限速80kb/s，最大同时在线设备数150台。服务器4单线程限速40kb/s，最大同时在线设备数300台。服务器4尽量少更新，关键时可以通过它来打开被墙网站获取免费SSR账号。SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。**
+**2017年10月23日：更新服务器1。服务器1、2、3单线程限速80kb/s，最大同时在线设备数150台。服务器4单线程限速40kb/s，最大同时在线设备数300台。服务器4尽量少更新，关键时可以通过它来打开被墙网站获取免费SSR账号。SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr2002.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3002.png)
 
 ***
 
@@ -68,7 +68,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [新唐人电视台](http://9cc.zs99.gq/xtr/)
 
-[动态网](http://9cc.zs99.gq/dtw/)
+[动态网1](http://9cc.zs99.gq/dtw/) [动态网2](http://t44.ngg4.info/?477)
 
 [聚缘阁](https://github.com/ju99/e/wiki)
 
