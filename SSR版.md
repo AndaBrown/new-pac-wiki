@@ -18,6 +18,8 @@
 
 实例图：
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53ssr100.PNG)
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromess001.png)
 
 
