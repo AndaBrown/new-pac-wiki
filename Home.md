@@ -23,7 +23,7 @@
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（适合XP、win7、win8、win10。2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（适合XP、win7、win8、win10。2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（适合XP、win7、win8、win10。2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
