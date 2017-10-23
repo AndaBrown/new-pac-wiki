@@ -19,25 +19,25 @@
 ***
 
 
-[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
+[谷歌浏览器62高内核版（适合win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
 
-[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoProxy Quic版（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoAgent版（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
-[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoProxy版（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) 
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月22日更新版本。更新内容：手动更新SSR配置信息为最新，完善使用说明文档）
+[谷歌浏览器低内核SSR版（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月22日更新版本。更新内容：手动更新SSR配置信息为最新，完善使用说明文档）
 
-[谷歌浏览器低内核GoGo翻墙软件](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年10月22日更新版本。更新内容：完善使用说明文档，软件设置优化）
+[谷歌浏览器低内核GoGo翻墙软件（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/GoGo%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年10月22日更新版本。更新内容：完善使用说明文档，软件设置优化）
 
-[谷歌浏览器低内核萤火虫版](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年10月22日更新版本。更新内容：完善使用说明文档，软件设置优化）
+[谷歌浏览器低内核萤火虫版（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E7%89%88) （2017年10月22日更新版本。更新内容：完善使用说明文档，软件设置优化）
 
-[谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月22日更新版本。更新内容：完善使用说明文档）
+[谷歌浏览器低内核FreeGate和WuJie版（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月22日更新版本。更新内容：完善使用说明文档）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
+[火狐翻墙浏览器（适合XP、win7、win8、win10）](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月19日更新下载地址）
 
