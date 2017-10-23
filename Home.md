@@ -31,6 +31,8 @@
 
 [谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
 
+[谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2017年10月23日第一次发布）
+
 [自建appid和搜谷歌ip教程（GoAgent版和GoProxy版）](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAappid%E5%92%8C%E6%90%9C%E8%B0%B7%E6%AD%8Cip%E6%95%99%E7%A8%8B%EF%BC%88GoAgent%E7%89%88%E5%92%8CGoProxy%E7%89%88%EF%BC%89) 
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月23日云端更新SSR配置信息）
