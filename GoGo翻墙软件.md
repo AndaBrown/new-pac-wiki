@@ -10,6 +10,8 @@ GoGo是基于Java开发的，所以必须要先安装Java8！必不可少！Java
 
 **下载地址**：
 
+[本地高速下载](http://45.32.141.248:8000/f/99dd1e1b98/?raw=1)
+
 [国外云盘下载](https://nofile.io/f/7hPgasBEP5E/Chrome53_GoGo_v2017.10.22.7z) 提取密码：666 （打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
 [百度云盘下载](https://pan.baidu.com/s/1hs2AlPa) 密码:pr19 （如果提示页面不存在，刷新一下网页）
