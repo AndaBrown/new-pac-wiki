@@ -9,11 +9,11 @@
 
 2、以管理员身份运行一键开启ipv6脚本
 
-[一键开启ipv6脚本下载](https://nofile.io/f/aEFmQepaQhe/%E5%BC%80%E5%90%AFipv6.cmd)
+[一键开启ipv6脚本下载](https://nofile.io/f/z6kjYEP42St/%E5%BC%80%E5%90%AFipv6.bat)
 
-[一键关闭ipv6脚本下载](https://nofile.io/f/fPaevSWGBGH/%E5%85%B3%E9%97%ADipv6.cmd)
+[一键关闭ipv6脚本下载](https://nofile.io/f/v1GCKWvgS9z/%E5%85%B3%E9%97%ADipv6.bat)
 
-右键选择“以管理员身份运行ipv6.cmd文件后，需要等待3～5分钟才能设置好，如图如下：
+右键选择“以管理员身份运行ipv6.bat文件后，需要等待3～5分钟才能设置好，如图如下：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-3.png)
 
