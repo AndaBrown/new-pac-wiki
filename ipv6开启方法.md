@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-2.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-2.png)
 
 
 2、以管理员身份运行一键开启ipv6脚本
@@ -21,7 +21,7 @@
 
 3、验证ipv6是否开启
 
-打开http://test-ipv6.com/网站，它会自动检测网络是否开启ipv6，如果开启了ipv6，会出现
+打开 http://test-ipv6.com/ 网站，它会自动检测网络是否开启ipv6，如果开启了ipv6，会出现
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-5.PNG)
 
