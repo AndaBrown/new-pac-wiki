@@ -43,7 +43,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **2017年10月23日：更新服务器1。服务器1、2、3单线程限速80kb/s，最大同时在线设备数150台。服务器4单线程限速40kb/s，最大同时在线设备数300台。服务器4尽量少更新，关键时可以通过它来打开被墙网站获取免费SSR账号。SSR协议为必填内容才能正常使用以下账号，即请使用SSR客户端。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3002.PNG)
+待更新
 
 ***
 
