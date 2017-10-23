@@ -15,7 +15,7 @@
 
 右键选择“以管理员身份运行ipv6.bat文件后，需要等待3～5分钟才能设置好，如图如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-3.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6-13.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-4.PNG)
 
