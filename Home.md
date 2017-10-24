@@ -22,16 +22,18 @@
 
 **2017年10月23日晚公告：已发布一款新软GoAgent ipv6版，特点：谷歌ipv6 ip数充足，软件初次内置3000+ip。**
 
+**2017年10月24日公告：云端更新GoAgent版、GoProxy版、GoProxy Quic版ip，如果更新后还是没法成功上外网，那么建议换其它类型的软件，按照默认软件的排版顺序，从上往下依次尝试。不同的地区封锁强度不同、网络环境不同，所以还得自己来测试。**
+
 ***
 
 
 [谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月23日发布新软GoAgent ipv6版；2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
 
-[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月24日云端更新ip）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年10月24日云端更新ip）
 
-[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月22日更新版本。更新内容：手动更新ip为最新配置，完善使用说明文档）
+[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年10月24日云端更新ip）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2017年10月23日第一次发布）
 
