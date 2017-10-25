@@ -16,8 +16,6 @@
 
 [百度云盘下载](https://pan.baidu.com/s/1slhtlqH) 提取密码：u4fa （如果提示页面不存在，刷新一下网页）
 
-[本地下载](http://45.32.141.248:8000/f/8b231d593f/?raw=1)
-
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-20.png)
