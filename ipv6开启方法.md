@@ -8,6 +8,11 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-2.png)
 
+上面这一组是google的ipv6 dns，如果不好用（不好用可以通过是否能成功开启ipv6的结果来判定），可以换下面这组ipv6 DNS ：
+
+2620:0:ccc::2
+
+2620:0:ccd::2
 
 2、以管理员身份运行一键开启ipv6脚本
 
