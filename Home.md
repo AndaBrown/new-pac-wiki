@@ -24,17 +24,22 @@
 
 **2017年10月25日公告：发布新软Kelphon版，适合封锁严重的地区。**
 
+**2017年10月26日公告：发布新软v2ray版，适合封锁严重的地区。**
+
+**本地下载是我用一个小型的服务器搭建的云盘，下载的人数一多服务器就会崩溃，需要手动重启服务器才能恢复正常，但我不一定能及时发现此问题。如果你能用其它网盘下载资源，就最好别用本地下载，把本地下载的资源留给国内那些百度云盘都被屏蔽了地区，比如新疆地区。**
 
 ***
 
 
-[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月25日发布新软Kelphon版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
+[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月26日发布新软v2ray版；2017年10月25日发布新软Kelphon版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月24日云端更新ip）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年10月25日更新）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2017年10月23日第一次发布，增加百度云盘下载地址）
+
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2017年10月26日第一次发布，适合封锁严重的地区）
 
 [谷歌浏览器低内核Kelphon版](https://github.com/Alvin9999/new-pac/wiki/Kelphon%E7%89%88) （2017年10月25日第一次发布，适合封锁严重的地区）
 
@@ -49,7 +54,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月22日更新版本。更新内容：完善使用说明文档）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月25日发布新软Kelphon版；2017年10月23日更新SSR版本，方便XP系统直接使用；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月26日发布新软v2ray版；2017年10月25日发布新软Kelphon版；2017年10月23日更新SSR版本，方便XP系统直接使用；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月19日更新下载地址）
 
