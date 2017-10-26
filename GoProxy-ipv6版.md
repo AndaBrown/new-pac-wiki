@@ -4,7 +4,7 @@
 
 使用前必须将电脑的系统开启ipv6才能使用此版本。开启ipv6！开启ipv6！开启ipv6！
 
-[ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) 使用说明文档里面也有此方法以及开启ipv6的脚本程序。
+[ipv6开启方法（持续更新）](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) 使用说明文档里面也有方法以及开启ipv6的脚本程序，但想了解最新的ipv6开启方法建议关注网站上的。
 
 压缩包名称Chrome53_gop_ipv6_v2017.10.26.7z ，文件大小154.81M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
 
