@@ -33,7 +33,7 @@
 
 [谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月25日发布新软Kelphon版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
 
-[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月26日云端更新ip）
+[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年10月27日云端更新ip）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年10月25日更新）
 
