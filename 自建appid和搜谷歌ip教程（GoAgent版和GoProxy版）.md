@@ -10,7 +10,7 @@
 
 ### 第一部分——自建APPID教程
 
-**此教程必须用GoProxy版来部署appid，所以从教程一开始，最好先启动GoProxy版，确保能正常翻墙上网。如果第一次启动GoProxy无法翻墙，请多启动几次。**
+**此教程必须用GoProxy来部署appid，所以从教程一开始，最好先启动GoProxy，确保能正常翻墙上网。如果第一次启动GoProxy无法翻墙，请多启动几次。**
 
 **首先打开** https://console.cloud.google.com/appengine 
 
