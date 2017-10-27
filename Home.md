@@ -41,6 +41,8 @@
 
 [谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2017年10月23日第一次发布，提高看视频速度）
 
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月27日更新版本）
+
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2017年10月26日第一次发布，适合封锁严重的地区）
 
 [谷歌浏览器低内核Kelphon版](https://github.com/Alvin9999/new-pac/wiki/Kelphon%E7%89%88) （2017年10月25日第一次发布，适合封锁严重的地区）
