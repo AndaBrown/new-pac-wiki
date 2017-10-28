@@ -1,4 +1,4 @@
-**2017年7月25日更新。**
+**2017年10月29日增加v2ray。**
 
 ### 第一种方法：利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用。如果是SSR账号，必须使用SSR客户端。
 
@@ -46,3 +46,11 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 使用萤火虫 MAC版 [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_darwin_amd64_install.dmg?raw=true)
 
 > 转载：https://github.com/yinghuocho/firefly-proxy
+
+### 第四种方法：
+
+使用v2ray MAC版 [下载地址](https://github.com/v2ray/v2ray-core/releases)
+
+下载对应的MAC版，启动软件后，将浏览器代理设置成socks5 127.0.0.1 1080
+
+
