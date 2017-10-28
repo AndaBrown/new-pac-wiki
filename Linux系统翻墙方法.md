@@ -29,6 +29,8 @@ Ubuntu 32位: [下载地址](https://github.com/yinghuocho/download/blob/master/
 
 无界浏览 [下载地址](https://git.io/vKGnV)
 
+使用方法请自行研究。
+
 ### 第五种方法：v2ray linux版
 
 无界浏览 [下载地址](https://github.com/v2ray/v2ray-core/releases) 
