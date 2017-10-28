@@ -1,4 +1,4 @@
-**2017年10月19日增加第四种方法无界浏览Linux版**
+**2017年10月29日增加v2ray**
 
 ### 第一种方法：使用SSR账号翻墙
 
@@ -25,6 +25,12 @@ Ubuntu 64位: [下载地址](https://github.com/yinghuocho/download/blob/master/
 
 Ubuntu 32位: [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_386_install.deb?raw=true)
 
-### 第三种方法：无界浏览 linux版
+### 第四种方法：无界浏览 linux版
 
 无界浏览 [下载地址](https://git.io/vKGnV)
+
+### 第五种方法：v2ray linux版
+
+无界浏览 [下载地址](https://github.com/v2ray/v2ray-core/releases) 
+
+下载对应的linux版，启动软件后，将浏览器代理设置成socks5 127.0.0.1 1080 
