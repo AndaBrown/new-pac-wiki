@@ -33,6 +33,6 @@ Ubuntu 32位: [下载地址](https://github.com/yinghuocho/download/blob/master/
 
 ### 第五种方法：v2ray linux版
 
-无界浏览 [下载地址](https://github.com/v2ray/v2ray-core/releases) 
+v2ray [下载地址](https://github.com/v2ray/v2ray-core/releases) 
 
 下载对应的linux版，启动软件后，将浏览器代理设置成socks5 127.0.0.1 1080 
