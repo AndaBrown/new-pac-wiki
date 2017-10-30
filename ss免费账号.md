@@ -41,7 +41,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 为保证每位用户都能够分配到一定的带宽资源，以下账号会进行单线程限速处理。为预防SSR账号不会因为使用人数猛增而导致账号没法使用，每个SSR账号会设置同时在线最大设备数。如果自己搭建服务器就没有这个限制，且可以把有限的免费资源让给没有条件搭建服务器的人。
 
-**2017年10月29日更新。BBR加速，单线程限速80kb/s，最大设备数同时在线200台。SSR协议和混淆为必填内容才能使用以下账号，即请使用SSR客户端。**
+**2017年10月31日更新设置。BBR加速，单线程限速60kb/s，最大设备数同时在线200台。SSR协议和混淆为必填内容才能使用以下账号，即请使用SSR客户端。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3006.PNG)
 
@@ -69,7 +69,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [新唐人电视台](http://9cc.zs99.gq/xtr/)
 
-[动态网1](http://9cc.zs99.gq/dtw/) [动态网2](http://t44.ngg4.info/?477) [动态入口](http://887.5525.ga/)
+[动态网1](http://9cc.zs99.gq/dtw/) [动态网2](http://t44.ngg4.info/?477) [动态入口](http://9s.ce33.cf/)
 
 [聚缘阁](https://github.com/ju99/e/wiki)
 
