@@ -26,4 +26,4 @@
 
 ***
 
-有问题可以来信交流kebi2014@gmail.com
+有问题可以发邮件至海外邮箱kebi2014@gmail.com
