@@ -294,4 +294,4 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 ***
 
-有问题请发邮件到kebi2014@gmail.com 
+有问题可以发邮件至海外邮箱kebi2014@gmail.com
