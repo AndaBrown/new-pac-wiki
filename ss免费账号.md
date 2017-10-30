@@ -75,4 +75,4 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ***
 
-有问题可以联系海外邮箱:kebi2014@gmail.com 
+有问题可以发邮件至海外邮箱kebi2014@gmail.com
