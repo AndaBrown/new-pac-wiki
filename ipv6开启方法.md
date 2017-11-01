@@ -41,9 +41,12 @@
 以上方法在win7旗舰版测试成功，如果你尝试了两次还是不行，可以用**微软提供的一些启用IPv6的工具** [微软下载地址页面](https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows)
 
 
+***
 
-其它方法可参考：https://yq.aliyun.com/ziliao/27071
+
+> 其它方法可参考：https://yq.aliyun.com/ziliao/27071
 
 https://github.com/XX-net/XX-Net/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFIPv6
 
 
+如果你有更好的方法，可以联系海外邮箱：kebi2014@gmail.com
