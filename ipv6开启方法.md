@@ -38,7 +38,7 @@
 
 **重启后的电脑翻墙前最好再次运行ipv6脚本，以确保IPv6被成功开启。**
 
-以上方法在win7旗舰版测试成功，如果你尝试了两次还是不行，可以用**微软提供的一些启用IPv6的工具**，下载地址：https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows。
+以上方法在win7旗舰版测试成功，如果你尝试了两次还是不行，可以用**微软提供的一些启用IPv6的工具** [微软下载地址页面](https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows)
 
 
 
