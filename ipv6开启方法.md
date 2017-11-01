@@ -46,10 +46,7 @@
 ***
 
 
-> 其它方法可参考：[云栖社区](https://yq.aliyun.com/ziliao/27071)
+> 其它方法可参考：[云栖社区](https://yq.aliyun.com/ziliao/27071)  [xx-net](https://github.com/XX-net/XX-Net/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFIPv6)
 
-> [xx-net](https://github.com/XX-net/XX-Net/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFIPv6)
-
-***
 
 如果你有更好、更方便的方法，可以联系海外邮箱：kebi2014@gmail.com
