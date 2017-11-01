@@ -1,4 +1,4 @@
-**2017年10月27日更新。**
+**2017年11月1日更新，增加微软开启ipv6工具。**
 
 电脑系统开启ipv6的步骤如下：
 
@@ -38,8 +38,12 @@
 
 **重启后的电脑翻墙前最好再次运行ipv6脚本，以确保IPv6被成功开启。**
 
-以上方法在win7旗舰版测试成功，如果你尝试了两次还是不行，可以再尝试下这个方法：https://yq.aliyun.com/ziliao/27071
+以上方法在win7旗舰版测试成功，如果你尝试了两次还是不行，可以用**微软提供的一些启用IPv6的工具**，下载地址：https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows。
 
-更多的系统及开启ipv6方法，可以参考：https://github.com/XX-net/XX-Net/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFIPv6
+
+
+其它方法可参考：https://yq.aliyun.com/ziliao/27071
+
+https://github.com/XX-net/XX-Net/wiki/%E5%A6%82%E4%BD%95%E5%BC%80%E5%90%AFIPv6
 
 
