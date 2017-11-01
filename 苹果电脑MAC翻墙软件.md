@@ -10,9 +10,6 @@ STEP1，下载用于MAC OS X的SHADOWSOCKSX软件
 
 **SSR客户端下载地址：**[下载地址1](https://shimo.im/api/file/b0Um2Js1mBoqeMV4/attachments/law3fwzlSi8JliNq)  [下载地址2](https://www.babel.cc/share.do?s=1540367796358713)  [下载地址3](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases)
 
-**SS客户端下载地址：**[下载地址1](http://yuweining.cn/t/SS-Mac-X.dmg) [下载地址2](https://github.com/shadowsocks/shadowsocks-iOS/releases)
-
-
 ***
 
 以SS客户端为例：
@@ -32,6 +29,8 @@ STEP4，根据帐号信息，填写服务器地址（IP或者域名），端口�
 STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC4.png)
+
+这是使用SS客户端使用SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
 
 打开SAFARI或者CHROME开始上网吧！
 
