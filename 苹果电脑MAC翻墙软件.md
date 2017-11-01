@@ -8,7 +8,7 @@
 
 STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 
 
-**SSR客户端下载地址：** [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
+**SSR客户端下载地址：** [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) [备用下载地址](https://nofile.io/f/62K91pC7cBa/ShadowsocksX-NG-R8+.dmg)
 
 ***
 
@@ -30,9 +30,9 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC4.png)
 
-这是使用SS客户端使用SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
+上面是使用SS客户端填写SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
 
-打开SAFARI或者CHROME开始上网吧！
+SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和1080就可以用浏览器翻墙了。
 
 ### 第二种方法：
 
