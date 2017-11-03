@@ -40,6 +40,17 @@
 
 **如果上面的教程电脑系统不能开启ipv6，那么可以用微软的开启ipv6工具。** [微软开启ipv6工具下载页面](https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows)  
 
+**补充**：
+
+1、关于测试ipv6是否开启，还需要点击“测试项目”，“不使用域名的 IPv6 测试”这一项成功就肯定可以了。如下图:
+![](https://raw.githubusercontent.com/abchb99/file/abchb99-patch-1/v6.jpg)
+
+2、如果“开启ipv6.bat”能测试成功，不用运行微软提供的启用 IPv6的工具。反之可以选择页面上的微软工具“在所有隧道接口上重新启用 IPv6 ”尝试开启IPv6，下载后运行或者直接运行都可以。
+
+![](https://raw.githubusercontent.com/abchb99/file/abchb99-patch-1/v61.jpg)
+
+3、如果ipv6能正常开启，将系统服务“IP Helper”设为“自动”，则重启电脑之后，ipv6应该是正常的，不用再运行“开启ipv6.bat”。
+
 
 ***
 
