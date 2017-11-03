@@ -31,7 +31,7 @@
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年11月1日云端更新Quic ip）
 
-[ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年11月1日更新，增加微软开启ipv6工具）
+[ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年11月3日更新补充说明）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2017年10月30日云端更新ipv6 ip）
 
