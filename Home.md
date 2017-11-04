@@ -49,9 +49,6 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
 
-
-[谷歌浏览器低内核Kelphon版](https://github.com/Alvin9999/new-pac/wiki/Kelphon%E7%89%88) （2017年10月25日第一次发布，适合封锁严重的地区）
-
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月25日发布新软Kelphon版；2017年10月23日更新SSR版本，方便XP系统直接使用；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月29日更新无界浏览17.02）
