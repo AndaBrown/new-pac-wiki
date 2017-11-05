@@ -12,6 +12,8 @@
 
 [百度云网盘下载](https://pan.baidu.com/s/1nuM28mX) 密码：bdns（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
 
+[本地下载](http://45.32.141.248:8000/f/3df0308b65/?raw=1)
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromega001.png)
