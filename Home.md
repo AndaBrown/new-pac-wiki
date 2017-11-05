@@ -39,9 +39,9 @@
 
 [谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （部分地区已恢复）
 
-[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年11月3日云端更新ipv4 ip）
+[谷歌浏览器低内核GoProxy版](https://github.com/Alvin9999/new-pac/wiki/GoProxy%E7%89%88)（2017年11月6日云端更新ipv4 ip）
 
-[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年11月3日云端更新ipv4 ip）
+[谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年11月6日云端更新ipv4 ip）
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2017年10月26日第一次发布，适合封锁严重的地区）
 
