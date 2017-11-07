@@ -8,11 +8,11 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版、SSR版、GoAgent版、GoProxy版、Lantern版、v2ray版、萤火虫版、FreeGate版、WuJie版，适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版、SSR版、GoAgent版、GoProxy版、赛风、Lantern版、v2ray版、萤火虫版、FreeGate版、WuJie版，适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系。现在国外好用的免费杀毒软件也挺多的，网上一搜就有很多。如果翻墙插件被杀毒软件“误删”了或者默默地删掉了，是不能翻墙的，退出杀毒软件，重新解压下载的压缩包。**
 
-**选择指南**：有GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版、SSR版、GoAgent版、GoProxy版、Lantern版、v2ray版、萤火虫版、FreeGate版、WuJie版，可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。如果想自己搭建翻墙服务器，可以学习这个教程[自建ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。
+**选择指南**：有GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版、SSR版、GoAgent版、GoProxy版、赛风、Lantern版、v2ray版、萤火虫版、FreeGate版、WuJie版，可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。如果想自己搭建翻墙服务器，可以学习这个教程[自建ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。
 
 本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了即国内ip打不开，这个时候你需要用翻墙软件来打开。多备用几款翻墙软件有好处，以备不时之需。如果你觉得软件好用，可以分享给你的朋友使用。分享翻墙的快乐。
 
@@ -25,7 +25,7 @@
 ***
 
 
-[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年11月5日更新Lantern版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
+[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年11月8日发布赛风版；2017年11月5日更新Lantern版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日升级所有版本的浏览器内核为62，并对软件进行了优化设置，有的版本手动更新到最新配置信息，提升用户体验）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年11月3日更新补充说明）
 
@@ -41,6 +41,8 @@
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年11月6日云端更新ipv4 ip）
 
+[谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2017年11月8日发布）
+
 [谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年11月5日：部分地区已恢复）
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2017年10月26日第一次发布，适合封锁严重的地区）
@@ -49,7 +51,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年11月5日更新Lantern版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年11月8日发布赛风版；2017年11月5日更新Lantern版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版；2017年10月22日更新所有版本。更新内容：增加YouTube视频下方的下载插件，方便下载YouTube视频。完善使用说明文档。有的版本手动更新到最新配置信息）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月29日更新无界浏览17.02）
 
