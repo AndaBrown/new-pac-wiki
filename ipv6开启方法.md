@@ -26,6 +26,30 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-4.PNG)
 
+**补充：**
+
+开启ipv6.bat脚本内置的是teredo的一个服务器，如果未来这个服务器被墙了，可以换备用的服务器，每一行代表一个服务器，如下：
+
+teredo2.remlab.net
+
+teredo-debian.remlab.net
+
+teredo.ginzado.ne.jp
+
+teredo.iks-jena.de
+
+teredo.ngix.ne.kr
+
+teredo.autotrans.consulintel.com
+
+teredo.managemydedi.com
+
+替换方法：右键点击开启ipv6.bat，选择“编辑”，找到server=teredo.remlab.net ，将teredo.remlab.net替换成上面的其中1个服务器地址，保存即可。
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-100.PNG)
+
+
+
 3、验证ipv6是否开启
 
 打开 http://test-ipv6.com/ 网站，它会自动检测网络是否开启ipv6，如果开启了ipv6，会出现
