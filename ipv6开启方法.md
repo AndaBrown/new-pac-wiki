@@ -1,4 +1,4 @@
-**2017年11月10日增加teredo备用服务器及替换方法。GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用。**
+**2017年11月9日增加teredo备用服务器及替换方法。GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用。**
 
 电脑系统开启ipv6的步骤如下：
 
