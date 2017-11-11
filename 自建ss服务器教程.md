@@ -44,7 +44,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
 
-购买vps服务器时，服务器地址优先选择：美国西海岸等靠近大陆的服务器。**推荐选择CentOS 6.X64位的系统（系统版本不要选的太高，不要选centos7！centos7默认的防火墙可能会干扰ssr的正常连接！）**。完成购买后，找到系统的密码记下来，部署服务器时需要用到。如图：
+购买vps服务器时，**推荐选择CentOS 6.X64位的系统（系统版本不要选的太高，不要选centos7！centos7默认的防火墙可能会干扰ssr的正常连接！）**。完成购买后，找到系统的密码记下来，部署服务器时需要用到。如图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
 
