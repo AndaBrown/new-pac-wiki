@@ -33,7 +33,7 @@
 
 [谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2017年10月30日云端更新ipv6 ip）
 
-[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年11月1日云端更新Quic ip）
+[谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年11月11日云端更新Quic ip）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年10月27日更新版本）
 
