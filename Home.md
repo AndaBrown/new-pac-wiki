@@ -80,8 +80,6 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun001.jpg)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun002.jpg)
-
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.JPG)
