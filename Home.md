@@ -88,10 +88,6 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
 
-> 图片引用自网络，版权归[shenyun.com](http://zh-cn.shenyun.com/)所有
-
-
-
 ***
 
 
