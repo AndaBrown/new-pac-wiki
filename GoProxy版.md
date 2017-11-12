@@ -12,8 +12,6 @@
 
 [国外云盘下载](https://nofile.io/f/rbYp9bK1pfA/Chrome53_gop_v2017.10.22.7z) 提取密码：666（打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
-[百度云网盘下载](https://pan.baidu.com/s/1o8UOkyQ) 提取密码：sexj  （如果提示页面不存在，刷新一下网页）
-
 [本地下载](http://45.32.141.248:8000/f/b44be748b5/?raw=1)
 
 低实例图
