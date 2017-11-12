@@ -10,8 +10,6 @@
 
 [国外云盘下载](https://nofile.io/f/QntajGvA5Wg/Chrome53_goa_v2017.10.22.7z) 提取密码：666（打开页面后，点击右侧的DOWNLOAD按钮进行下载）
 
-[百度云网盘下载](https://pan.baidu.com/s/1nuM28mX) 密码：bdns（第一次打开时可能会提示百度云升级，页面不存在等，刷新一下就出来了）
-
 [本地下载](http://45.32.141.248:8000/f/3df0308b65/?raw=1)
 
 实例图：
