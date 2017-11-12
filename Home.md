@@ -37,7 +37,7 @@
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年11月11日云端更新Quic ip）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年11月12日云端更新SSR配置信息，提高了看视频的速度。XP系统不要运行SSR配置更新文件，会报错）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年11月12日云端更新SSR配置信息，提高了看视频的速度。XP系统不要运行SSR配置更新文件，运行后会报错且丢失SSR配置信息。）
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2017年11月8日发布）
 
