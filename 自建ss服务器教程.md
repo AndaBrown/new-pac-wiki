@@ -54,10 +54,18 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 **默认是centos7系统，点击图中的CentOS几个字，会弹出centos6，然后选中它！vps操作系统不要选cento7，因为选它很可能会影响ssr的正常连接。**
 
+> 接下来这一步是开启vps的ipv6 ip，选填项。如果你的电脑系统可以用ipv6，那么可以勾选此项。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssripv6-01.png)
+
+
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程06.png)
 
+> 如果你开启了vps的ipv6，那么在后台的settings选项可以找到服务器的ipv6 ip。在部署SSR账号时，你用ipv6 ip就行。整个部署及使用过程中，记得把电脑系统开启ipv6喔。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssripv6-02.png)
 
 ***
 **第二步：部署VPS服务器**
