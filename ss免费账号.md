@@ -29,16 +29,16 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
 
-### ===免费SSR节点列表===（不定期更新账号ip或端口或密码）
+### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
 有电脑的朋友，建议你学习一下[自己搭建SS或SSR教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。为了自己以后能够更加方便和快速的自由上网，花一点时间和精力学习一种技能对你来说会很有用，按照教程一步一步做，并不难。
 
 
 2017年11月11日：近期有个别人滥用服务器，BT下载有版权的电影，造成几个服务器被投诉。本来想取消分享一段时间，但考虑到有些人无法翻墙，心情可能会很焦急。于是换了罗马尼亚的服务器，服务器延迟偏高。
 
-**2017年11月12日：增加罗马尼亚2服务器。单线程限速40～60kb/s，设备数限制200台。SSR协议和混淆为必填内容，即请使用SSR客户端，SS客户端没法使用以下账号。**
+**2017年11月14日：兼容SS客户端,SSR协议和混淆为选填内容，即以下SSR账号兼容SS客户端，方便无法使用协议和混淆的设备。单线程限速40～60kb/s，设备数限制200台。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3024.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3030.PNG)
 
 
 ***
