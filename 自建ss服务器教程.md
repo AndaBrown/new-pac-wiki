@@ -1,4 +1,4 @@
-**2017年11月13日对教程细节方面进行补充，方便新手。**
+**2017年11月14日对教程细节方面进行补充，方便新手。**
 
 ***
 
@@ -138,7 +138,7 @@ chmod +x shadowsocksR.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4.png)
 
-按照如下提示，选择项设置的**混淆插件**，默然的是plain（支持SS客户端），我们选择SSR客户端的混淆插件：6 **（注意：有的地区需要把混淆设置成plain才好用）**
+按照如下提示，选择项设置的**混淆插件**，默然的是plain（支持SS客户端），我们选择SSR客户端的混淆插件：6 **（注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。）**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/5.png)
 
@@ -198,7 +198,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/13.png)
 
-**（注意：有的地区需要把混淆设置成plain才好用）**进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
+**（注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。）**进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/14.png)
 
@@ -309,7 +309,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 8、如果自己想购买其它商家的vps，可以用百度或者google搜索。网上搜到了部分结果：搬瓦工、Linode、DigitalOcean 。	
 
-9、有的地区需要把混淆参数设置成plain才好用。
+9、有的地区需要把混淆参数设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。
 
 > 鸣谢参考教程：[秋水逸冰](https://teddysun.com/392.html)  [91yun](https://www.91yun.co/archives/5174)  [doub.bid](https://doub.bid/ss-jc42/)
 
