@@ -11,7 +11,7 @@
 
 **下载地址:**
 
-[国外云盘1下载](https://www.adrive.com/public/RjPhyh/Chrome53_SSR_v2017.11.14.7z)
+[国外云盘1下载](https://www.adrive.com/public/RjPhyh/Chrome53_SSR_v2017.11.14.7z) 密码：123
 
 [国外云盘2下载](http://45.32.141.248:8000/f/0bf295929f/)
 
