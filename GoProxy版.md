@@ -10,7 +10,7 @@
 
 **下载地址：**
 
-[国外云盘1下载](https://nofile.io/f/rbYp9bK1pfA/Chrome53_gop_v2017.10.22.7z) 提取密码：666（打开页面后，点击右侧的DOWNLOAD按钮进行下载）
+[国外云盘1下载](https://www.adrive.com/public/dMeDBZ/Chrome53_gop_v2017.10.22.7z) 密码：123
 
 [国外云盘2下载](http://45.32.141.248:8000/f/b44be748b5/)
 
