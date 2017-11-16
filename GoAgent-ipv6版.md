@@ -12,7 +12,7 @@
 
 **下载地址：**
 
-[国外云盘1下载](https://nofile.io/f/5td4rpPW5Ww/Chrome53_goa_ipv6_v2017.10.23.7z) 提取密码：666（打开页面后，点击右侧的DOWNLOAD按钮进行下载）
+[国外云盘1下载](https://www.adrive.com/public/EdhXap/Chrome53_goa_ipv6_v2017.10.23.7z) 密码：123
 
 [国外云盘2下载](http://45.32.141.248:8000/f/8b231d593f/)
 
