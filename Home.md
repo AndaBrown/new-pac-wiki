@@ -27,7 +27,7 @@
 
 [谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年11月14日更新SSR版；2017年11月8日发布赛风版；2017年11月5日更新Lantern版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
 
-[ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年11月9日增加teredo备用服务器及替换方法）
+[ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年11月17日更新方法）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2017年10月30日云端更新ipv6 ip）
 
