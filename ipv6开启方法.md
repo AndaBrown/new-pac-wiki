@@ -66,7 +66,7 @@ teredo.managemydedi.com
 
 **如果上面的教程电脑系统不能开启ipv6，那么可以用微软的开启ipv6工具。** [微软开启ipv6工具下载页面](https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows)  
 
-1、如果“开启ipv6.bat”能测试成功，不用运行微软提供的启用 IPv6的工具。反之可以选择页面上的微软工具“在所有隧道接口上重新启用 IPv6 ”尝试开启IPv6，下载如下图第1个和第5个，运行或者直接运行都可以。
+1、如果“开启ipv6.bat”能测试成功，不用运行微软提供的启用 IPv6的工具。反之可以选择页面上的微软工具尝试开启IPv6，下载如下图第1个和第5个，运行或者直接运行都可以。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-2003.PNG)
 
