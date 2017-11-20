@@ -16,6 +16,8 @@ GoProxy Quic版适合封锁比较严重的地区，目前还不完善，不适�
 
 [国外云盘3下载](http://108.61.224.82:8000/f/bfddb28b8b/)
 
+[国外云盘4下载](https://yadi.sk/d/7ofxJl4B3PrrZE)
+
 实例图
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromega001.png)
