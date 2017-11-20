@@ -16,6 +16,8 @@
 
 [国外云盘3下载](http://108.61.224.82:8000/f/df78ae0277/)
 
+[国外云盘4下载](https://yadi.sk/d/OSzDX5iu3PrrzZ)
+
 低实例图
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromega001.png)
