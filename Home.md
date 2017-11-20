@@ -49,8 +49,6 @@
 
 [谷歌浏览器低内核GoAgent版](https://github.com/Alvin9999/new-pac/wiki/GoAgent%E7%89%88)（2017年11月17日云端更新ipv4 ip，部分地区可用）
 
-[谷歌浏览器低内核Lantern版](https://github.com/Alvin9999/new-pac/wiki/Lantern%E7%89%88) （2017年11月5日：部分地区已恢复）
-
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年11月14日更新SSR版；2017年11月8日发布赛风版；2017年11月5日更新Lantern版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
 
 [抗封锁强小软件](https://github.com/Alvin9999/new-pac/wiki/%E6%8A%97%E5%B0%81%E9%94%81%E5%BC%BA%E5%B0%8F%E8%BD%AF%E4%BB%B6)（2017年10月29日更新无界浏览17.02）
