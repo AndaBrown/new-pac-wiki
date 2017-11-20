@@ -14,6 +14,8 @@
 
 [国外云盘3下载](http://108.61.224.82:8000/f/a4055a64f1/)
 
+[国外云盘4下载](https://yadi.sk/d/Y4mftjr43Prrco)
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/53LT002.PNG)
