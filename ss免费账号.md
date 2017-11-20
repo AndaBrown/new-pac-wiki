@@ -43,7 +43,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-授人以鱼不如授人以渔。如果想搭建自己的SS或SSR账号，可以用[自己搭建SS或SSR教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
+授人以鱼不如授人以渔。如果想搭建自己的SS或SSR账号，可以用[Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 **2017年11月20日：增加罗马尼亚3，SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号（首选SSR客户端），方便无法使用协议和混淆的用户。单线程限速40～80kb/s，单账号设备数限制200台。**
 
