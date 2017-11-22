@@ -55,7 +55,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **其它翻墙方法**
 
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （适合google搜索和google学术等谷歌服务）
+[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) 
 
 [windows系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki)
 
@@ -67,7 +67,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
-下面提供几个直翻网址可以看外面的世界，直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。如果360、QQ等国产浏览器不能打开下面的地址，不管是电脑还是手机，可选用谷歌浏览器或火狐浏览器。
+**直翻网址**
+
+直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。如果360、QQ等国产浏览器不能打开下面的地址，可选用谷歌浏览器或火狐浏览器。
 
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
