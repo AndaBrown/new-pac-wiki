@@ -1,4 +1,6 @@
-**2017年9月19日更新第二部分的搜ip教程。主要更新内容：更新google ip段在线地址库，新增搜ip软件MFF xp版。**
+**2017年11月24日：ip池几乎失效，自建appid流量有效。**
+
+2017年9月19日：更新第二部分的搜ip教程。主要更新内容：更新google ip段在线地址库，新增搜ip软件MFF xp版。
 
 在线ip段地址：https://raw.githubusercontent.com/Alvin9999/PAC/master/google%20ip%20duan
 
