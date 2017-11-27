@@ -11,7 +11,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 [Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
 
-### 2017年11月27日: #网络星期一#Vultr充值送20美元活动开启，仅限新用户注册，活动时间24小时，注册时使用代码CYBERMONDAY2017 抓紧啊！[活动地址](https://www.vultr.com/promo/cybermonday/?ref=7048874) 算了下，美国星期一结束时间为北京时间星期二的早上8点结束。
+### 2017年11月27日: #网络星期一#Vultr充值送20美元活动开启，仅限新用户注册，活动时间24小时，注册时使用代码CYBERMONDAY2017 抓紧啊！[活动地址](https://www.vultr.com/promo/cybermonday/?ref=7048874) 算了下，美国星期一结束时间为北京时间11月28日（星期二）的早上8点结束。
 
 > 2017年11月17日对自建ss/ssr服务器教程细节方面进行补充，方便新手。
 
