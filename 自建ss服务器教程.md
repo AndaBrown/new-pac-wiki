@@ -1,4 +1,4 @@
-**2017年11月17日对教程细节方面进行补充，方便新手。**
+**2017年12月1日对教程细节方面进行补充，方便新手。**
 
 ***
 
@@ -140,7 +140,7 @@ chmod +x shadowsocksR.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4.png)
 
-按照如下提示，选择想设置的**混淆插件**，默然的是plain（支持SS客户端），我们选择SSR客户端的混淆插件：6 **（注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。）**
+按照如下提示，选择想设置的**混淆插件**，默然的是plain（支持SS客户端），我们选择SSR客户端的混淆插件：6 ** 注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。** （最新补充：图中演示的tls 1.2_ticket_auth已失效，可以用其它的混淆方式，或者不混淆，设置成plain）
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/5.png)
 
@@ -200,7 +200,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/13.png)
 
-（**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。**）进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
+**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。**（最新补充：图中演示的tls 1.2_ticket_auth已失效，可以用其它的混淆方式，或者不混淆，设置成plain）
+
+进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/14.png)
 
