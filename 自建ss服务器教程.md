@@ -140,7 +140,7 @@ chmod +x shadowsocksR.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4.png)
 
-按照如下提示，选择想设置的**混淆插件**，默然的是plain（支持SS客户端），我们选择SSR客户端的混淆插件：6 
+按照如下提示，选择想设置的**混淆插件**，默然的是plain（支持SS客户端）
 
 **注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。（2017.12.1最新补充：图中演示的tls 1.2_ticket_auth已失效，会出现断流的情况，可以换用其它的混淆方式，或者不混淆，设置成plain）** 
 
