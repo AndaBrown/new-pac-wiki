@@ -19,6 +19,8 @@ VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、
 
 vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器位置可选，KVM框架） 
 
+<a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+
 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
 
 注册并邮件激活账号，充值后即可购买服务器。充值方式是paypal或支付宝(2017年8月30日Vutrl支持支付宝付款，最低充值10美元即70元左右），使用paypal有信用卡即可。paypal注册地址：https://www.paypal.com （paypal是国际知名的第三方支付服务商，相当于国内的支付宝。注册一下账号，绑定信用卡即可购买国外商品）
