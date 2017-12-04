@@ -11,8 +11,6 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 [Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
 
-> 2017年12月2日对自建ss/ssr服务器教程细节方面进行补充，方便新手。
-
 VPS推荐：
 
 [Vultr](http://www.vultr.com/?ref=7048874) （**知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。温馨提醒：同样的服务器位置，不同的宽带类型和地区所搭建的账号的翻墙速度会不同，以实测为准。**）
