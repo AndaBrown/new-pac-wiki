@@ -15,7 +15,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](http://www.vultr.com/?ref=7048874) （知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。温馨提醒：同样的服务器位置，不同的宽带类型和地区所搭建的账号的翻墙速度会不同，以实测为准。）
+[Vultr](http://www.vultr.com/?ref=7048874) （**知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。温馨提醒：同样的服务器位置，不同的宽带类型和地区所搭建的账号的翻墙速度会不同，以实测为准。**）
 
 
 ### SSR软件下载及更新地址：
@@ -32,9 +32,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-授人以鱼不如授人以渔。如果想学习翻墙技能，搭建自己的SS或SSR账号，可以用[Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+**授人以鱼不如授人以渔。如果想学习翻墙技能，搭建自己的SS或SSR账号，可以用**[Vultr搭建SS（SSR）详细教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
-2017年12月4日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。单线程限速60kb/s，单账号设备数限制200台。
+**2017年12月4日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。单线程限速60kb/s，单账号设备数限制200台。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3035.PNG)
 
