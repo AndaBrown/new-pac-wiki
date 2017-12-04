@@ -320,6 +320,8 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 9、有的地区需要把混淆参数设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。
 
+### 本教程允许转载，但转载请注明出处。
+
 > 鸣谢参考教程：[秋水逸冰](https://teddysun.com/392.html)  [91yun](https://www.91yun.co/archives/5174)  [doub.bid](https://doub.bid/ss-jc42/)
 
 
