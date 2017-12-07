@@ -35,7 +35,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **2017年12月4日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。**
 
-**单线程限速150kb/s，单账号设备数限制200台。**
+**每个用户限速150kb/s，每个账号设备数限制200台。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3035.PNG)
 
