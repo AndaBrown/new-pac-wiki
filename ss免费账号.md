@@ -31,11 +31,11 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-**建议按照教程搭建自己的SSR/SS账号。尤其是那些只能依靠打开本页面获取账号来翻墙上网的朋友，更应该搭建账号。如果有天github.com被墙了，请问你怎么打开本页面获取账号！？**[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+**建议按照教程搭建自己的SSR/SS账号。尤其是那些只能依靠打开本页面获取账号来翻墙上网的朋友，更应该搭建账号。如果有天github.com被墙了，请问你怎么打开本页面获取账号呢！？** [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 2017年12月11日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。
 
-为保证每个用户都能分配到一定的带宽资源，故进行了限制。每个用户限速120kb/s，每个账号设备数限制200台。禁止使用账号进行BT下载、发送垃圾邮件以及长时间下载大文件，请控制住自己，让项目更加长久，能够帮助到更多的大陆同胞。
+每个用户限速120kb/s，每个账号设备数限制200台。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3036.PNG)
 
