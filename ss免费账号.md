@@ -31,7 +31,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-**建议按照教程搭建自己的SSR/SS账号。尤其是那些只能依靠打开本页面获取账号来翻墙上网的朋友，更应该搭建账号。如果有天github.com被墙了，请问你怎么打开本页面获取账号呢！？** [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
+**可以按照教程搭建自己的SSR/SS账号。如果你只能依靠获取本页面的SSR/SS账号来翻墙上网，最好学习一下搭建SSR/SS服务器。如果有天github.com被墙了（目前国内少部分地区已被墙），对你影响不大。** [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 2017年12月11日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。
 
