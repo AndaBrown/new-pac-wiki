@@ -40,7 +40,7 @@
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2017年11月8日发布）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2017年10月26日第一次发布，适合封锁严重的地区）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2017年10月26日第一次发布）
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
 
