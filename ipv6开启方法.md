@@ -1,4 +1,4 @@
-**2017年12月14日更新。GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出此教程。**
+**2017年12月23日更新：增加teredo服务器一键检测连通性方法。GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出此教程。**
 
 电脑系统开启ipv6的步骤如下：
 
@@ -26,6 +26,8 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-4.PNG)
 
+***
+
 **补充：**
 
 开启ipv6.bat脚本内置的是teredo的一个服务器，如果未来这个服务器被墙了，可以换备用的服务器，每一行代表一个服务器，如下：
@@ -48,7 +50,10 @@ teredo.managemydedi.com
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-100.PNG)
 
+**2017.12.23新增teredo服务器一键检测连通性方法**：[teredo-test下载](https://nofile.io/f/hQp2Fu0GRFu/teredo-test.rar)
+下载后解压出来，运行tertdo.bat脚本，本脚本会批量检测teredo服务器的连通性，选择is accessible的服务器。
 
+***
 
 3、验证ipv6是否开启
 
