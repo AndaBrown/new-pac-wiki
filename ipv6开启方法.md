@@ -46,7 +46,7 @@ teredo.autotrans.consulintel.com
 
 teredo.managemydedi.com
 
-替换方法：右键点击开启ipv6.bat，选择“编辑”，找到server=teredo.remlab.net （总共有两次相同的，都要替换） ，将teredo.remlab.net替换成上面的其中1个服务器地址，保存即可。
+替换方法：右键点击开启ipv6.bat，选择“编辑”，找到server=teredo.remlab.net （总共有两处相同的，都要替换！） ，将teredo.remlab.net替换成上面的其中1个服务器地址，保存即可。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-102.PNG)
 
