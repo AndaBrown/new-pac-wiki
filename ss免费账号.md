@@ -33,9 +33,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **可以按照教程搭建自己的SSR/SS账号。如果你只能依靠获取本页面的SSR/SS账号来翻墙上网，最好学习一下搭建SSR/SS服务器。如果有天github.com被墙了（目前国内少部分地区已被墙），对你没什么影响。** [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
-2017年12月16日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。每个用户限速120kb/s，每个账号限制200台设备。
+**2017年12月24日：更新服务器端口。SSR协议和混淆为选填内容，即使用SSR和SS客户端都能使用以下账号，方便无法使用协议和混淆的用户，首选SSR客户端。每个用户限速120kb/s，每个账号限制200台设备。禁止使用账号进行BT下载、发送垃圾邮件。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3307.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3308.PNG)
 
 
 ***
