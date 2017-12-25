@@ -39,17 +39,3 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 使用Lantern MAC版 [下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)
 
 > 转载：https://github.com/getlantern/forum/issues/833
-
-### 第三种方法：
-
-使用萤火虫 MAC版 [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_darwin_amd64_install.dmg?raw=true)
-
-> 转载：https://github.com/yinghuocho/firefly-proxy
-
-### 第四种方法：
-
-使用v2ray MAC版 [下载地址](https://github.com/v2ray/v2ray-core/releases)
-
-下载对应的MAC版，启动软件后，将浏览器代理设置成socks5 127.0.0.1 1080
-
-
