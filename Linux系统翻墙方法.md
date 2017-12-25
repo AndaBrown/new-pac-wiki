@@ -1,4 +1,4 @@
-**2017年10月29日增加v2ray**
+**2017年12月25日删除无效方法。**
 
 ### 第一种方法：使用SSR账号翻墙
 
@@ -18,21 +18,3 @@ Ubuntu 14.04 64位 [下载地址](https://raw.githubusercontent.com/getlantern/l
 使用方法：解压并运行 lantern_linux ，设置http代理为 127.0.0.1:8787
 
 > 转载：https://github.com/getlantern/forum/issues/833
-
-### 第三种方法：使用萤火虫 linux版
-
-Ubuntu 64位: [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_amd64_install.deb?raw=true)
-
-Ubuntu 32位: [下载地址](https://github.com/yinghuocho/download/blob/master/firefly_linux_386_install.deb?raw=true)
-
-### 第四种方法：无界浏览 linux版
-
-无界浏览 [下载地址](https://git.io/vKGnV)
-
-使用方法请自行研究。
-
-### 第五种方法：v2ray linux版
-
-v2ray [下载地址](https://github.com/v2ray/v2ray-core/releases) 
-
-下载对应的linux版，启动软件后，将浏览器代理设置成socks5 127.0.0.1 1080 
