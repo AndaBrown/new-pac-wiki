@@ -24,7 +24,7 @@
 
 ***
 
-[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年12月15日云端更新GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版ip；2017年11月14日更新SSR版；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
+[谷歌浏览器62高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2017年12月15日云端更新GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版ip；2017年11月14日更新SSR版；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2017年12月14日更新方法）
 
@@ -40,7 +40,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年12月15日云端更新GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版ip；2017年12月6日更新SSR版，解决了一键更新SSR配置文件对XP系统的支持；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软v2ray版和GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年12月15日云端更新GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版ip；2017年12月6日更新SSR版，解决了一键更新SSR配置文件对XP系统的支持；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
 
 [自建SS/SSR服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2017年12月23日对教程细节方面进行补充，方便新手）
 
