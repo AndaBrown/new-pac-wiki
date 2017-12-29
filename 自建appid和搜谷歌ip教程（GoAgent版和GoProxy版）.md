@@ -1,18 +1,11 @@
 **2017年12月11日：搜ip教程已失效。**
-
-2017年9月19日：更新第二部分的搜ip教程。主要更新内容：更新google ip段在线地址库，新增搜ip软件MFF xp版。
-
-在线ip段地址：https://raw.githubusercontent.com/Alvin9999/PAC/master/google%20ip%20duan
-
-打开上面的地址，把里面的ip段复制到文件夹中的的“内置ip段.txt"文件即可，本次ip段总ip数417万。
-
 ***
 
 **本教程用于GoAgent版和GoProxy版，这两款版本用的是相同的4000个appid，每个appid每天有1G流量，随着使用人数的增加，未来可能会满足不了，故出此教程。（每天北京时间下午4点谷歌流量会重置，也就是4点之后流量又是全新的）虽然我会不定期对GoAgent版和GoProxy版进行更新ip，但出个教程还是可以给想学习的人一个机会。**
 
 ### 第一部分——自建APPID教程
 
-**此教程必须用GoProxy来上传（部署）appid。创建appid用其它翻墙方式也行，创建好的appid需要上传到GAE服务器，此时需要用GoProxy来上传。**
+**此教程推荐用GoProxy来上传（部署）appid。创建appid用其它翻墙方式也行，创建好的appid需要上传到GAE服务器，此时需要用GoProxy相关版本来上传。**
 
 **首先打开** https://console.cloud.google.com/appengine 
 
@@ -46,7 +39,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ### 创建完毕后，开始进行部署流程
 
-**部署前，需要打开与GoProxy相关版本并保证其能够正常翻墙。下载 goproxy-gae-r73.zip 服务端部署文件** [国外云盘下载](https://nofile.io/f/kNk7Wzu65SA/goproxy-gae-r73.tar.xz)  [百度云盘下载](https://pan.baidu.com/s/1hsnaVWg) （密码：uihs）
+**部署前，需要打开与GoProxy相关版本并保证其能够正常翻墙。下载 goproxy-gae-r73.zip 服务端部署文件** [国外云盘下载](https://nofile.io/f/51x8A9YU4MK/goproxy-gae-r73.tar) 
 
 **下载后解压出来，然后打开gae文件夹里面的gae.go,必须用Notepad++打开，Notepad++下载地址**：http://rj.baidu.com/soft/detail/13478.html?ald  **下载后安装**
 
