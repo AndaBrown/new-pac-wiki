@@ -12,7 +12,7 @@
 
 ### 第一部分——自建APPID教程
 
-**此教程必须用GoProxy来部署appid，所以从教程一开始，最好先启动GoProxy，确保能正常翻墙上网。如果第一次启动GoProxy无法翻墙，请多启动几次。**
+**此教程必须用GoProxy来上传（部署）appid。创建appid用其它翻墙方式也行，创建好的appid需要上传到GAE服务器，此时需要用GoProxy来上传。**
 
 **首先打开** https://console.cloud.google.com/appengine 
 
@@ -46,7 +46,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ### 创建完毕后，开始进行部署流程
 
-**下载 goproxy-gae-r73.zip 服务端部署文件** [国外云盘下载](https://nofile.io/f/kNk7Wzu65SA/goproxy-gae-r73.tar.xz)  [百度云盘下载](https://pan.baidu.com/s/1hsnaVWg) （密码：uihs）
+**部署前，需要打开与GoProxy相关版本并保证其能够正常翻墙。下载 goproxy-gae-r73.zip 服务端部署文件** [国外云盘下载](https://nofile.io/f/kNk7Wzu65SA/goproxy-gae-r73.tar.xz)  [百度云盘下载](https://pan.baidu.com/s/1hsnaVWg) （密码：uihs）
 
 **下载后解压出来，然后打开gae文件夹里面的gae.go,必须用Notepad++打开，Notepad++下载地址**：http://rj.baidu.com/soft/detail/13478.html?ald  **下载后安装**
 
@@ -107,7 +107,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ***
 
-### 第二部分——自己搜谷歌ip教程
+### 第二部分——自己搜谷歌ip教程 （已失效）
 
 **首先电脑先安装NET4.6或NET4.0，XP系统装4.0的。如果不安装NET，没法正常运行搜ip工具。然后下载搜ip工具——MFF**
 
