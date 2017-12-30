@@ -35,7 +35,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid6.png)
 
-**可以按照上述步骤，多创建几个appid，一个谷歌账号可以创建12个appid**
+**可以按照上述步骤，多创建几个appid，一个谷歌账号可以创建10个appid**
 
 ### 创建完毕后，开始进行部署流程
 
