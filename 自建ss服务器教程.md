@@ -1,4 +1,4 @@
-**2017年12月24日对教程细节方面进行补充，方便新手。**
+**2018年1月5日对教程细节方面进行补充，方便新手。**
 
 ***
 
@@ -83,13 +83,13 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 [百度软件中心](http://rj.baidu.com/soft/detail/15201.html?ald)
 
-如果你是苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。打开**终端**（Terminal），输入ssh root@ip  其中“ip”替换成你VPS的ip, 按回车键，然后复制粘贴密码，按回车键即可登录。粘贴密码时有可能不显示密码，但不影响。 [参考设置方法](http://www.cnblogs.com/ghj1976/archive/2013/04/19/3030159.html)
+如果你是苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。打开**终端**（Terminal），输入ssh root@ip  其中“ip”替换成你VPS的ip, 按回车键，然后复制粘贴密码，按回车键即可登录。粘贴密码时有可能不显示密码，但不影响， [参考设置方法](http://www.cnblogs.com/ghj1976/archive/2013/04/19/3030159.html)  如果不能用MAC自带的终端连接的话，直接网上搜“MAC连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。
 
 ***
 
 部署教程：
 
-下载xshell软件并安装后，打开软件
+下载windows xshell软件并安装后，打开软件
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
 
@@ -319,7 +319,7 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 7、vultr怎样才能申请退款呢？
 
-vultr和其他的国外商家一样，都是使用工单的形式与客服联系，如果需要退款，直接在后台点击support，选择open ticket新开一个工单，选择billing question财务问题，简单的在文本框输入你的退款理由即可，甚至可以不需要理由。简单的说 Please refund all the balance in my account. 即可。工单提交以后一般很快就可以给你确认退款，若干个工作日后就会退回你的支付方式。
+vultr和其他的国外商家一样，都是使用工单的形式与客服联系，如果需要退款，直接在后台点击support，选择open ticket新开一个工单，选择billing question财务问题，简单的在文本框输入你的退款理由即可，甚至可以不需要理由。简单的说 Please refund all the balance in my account. 即可。工单提交以后一般很快就可以给你确认退款，若干个工作日后就会退回你的支付方式。（全额退款结束后，账号可能会被删除）
 
 8、如果自己想购买其它商家的vps，可以用百度或者google搜索。网上搜到了部分结果：搬瓦工、Linode、DigitalOcean 。	
 
