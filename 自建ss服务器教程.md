@@ -327,7 +327,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 9、如果自己想购买其它商家的vps，可以用百度或者google搜索。比如：搬瓦工、Linode、DigitalOcean 。	
 
-10、路由器也可以配置ssr [软件下载地址](http://108.61.224.82:8000/f/2d1ff6f742/?raw=1)，具体配置方法请自行搜索。
+10、路由器也可以配置ssr [ssr/ss路由器离线版下载地址](http://108.61.224.82:8000/f/2d1ff6f742/?raw=1)，具体配置方法请自行搜索。
 
 > 鸣谢参考教程：[秋水逸冰](https://teddysun.com/392.html)  [91yun](https://www.91yun.co/archives/5174)  [doub.bid](https://doub.bid/ss-jc42/)
 
