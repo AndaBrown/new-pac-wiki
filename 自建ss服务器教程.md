@@ -321,9 +321,9 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 8、vultr怎样才能申请退款呢？
 
-vultr和其他的国外商家一样，都是使用工单的形式与客服联系，如果需要退款，直接在后台点击support，选择open ticket新开一个工单，选择billing question财务问题，简单的在文本框输入你的退款理由即可，甚至可以不需要理由。简单的说 Please refund all the balance in my account. 即可。工单提交以后一般很快就可以给你确认退款，若干个工作日后就会退回你的支付方式。（全额退款结束后，账号可能会被删除）
+vultr和其他的国外商家一样，都是使用工单的形式与客服联系，如果需要退款，直接在后台点击support，选择open ticket新开一个工单，选择billing question财务问题，简单的在文本框输入你的退款理由。比如：Please refund all the balance in my account。工单提交以后一般很快就可以给你确认退款，若干个工作日后就会退回你的支付方式。（全额退款结束后，账号可能会被删除）
 
-如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文，或英文转中文。
+如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文和英文转中文。
 
 9、如果自己想购买其它商家的vps，可以用百度或者google搜索。比如：搬瓦工、Linode、DigitalOcean 。	
 
