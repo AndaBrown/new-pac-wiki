@@ -60,13 +60,15 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。如果被360、QQ等国产浏览器屏蔽，可选用谷歌浏览器或火狐浏览器。
 
+动态网：[节点1](http://rnqvx.bockhctr.cf/01dtw)  [节点2](http://jyg.fm98.cf/)  
+
+新唐人电视台：[节点1](http://173.199.118.111:8000/)  [节点2](http://jyg.fm98.cf/5)
+
+大纪元新闻网：[节点1](http://173.199.118.111/)
+
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
 [Gfw-Breaker](https://github.com/gfw-breaker/ssr-accounts)
-
-[动态网1](http://rnqvx.bockhctr.cf/01dtw)  [动态网2](http://jyg.fm98.cf/)  
-
-[新唐人电视台](http://jyg.fm98.cf/5)
 
 [聚缘阁](https://github.com/ju99/e/wiki)
 
