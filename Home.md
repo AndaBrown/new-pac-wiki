@@ -49,6 +49,8 @@
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月6日更新）
 
+[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年1月6日更新）
+
 [自建SS/SSR服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年1月5日对教程细节方面进行补充，方便新手）
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2017年12月30日更新Xndroid1.1.6）
@@ -60,8 +62,6 @@
 [平板电脑翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2017年10月3日更新）
 
 [Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2017年12月25日删除无效方法）
-
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年1月6日更新）
 
 [数字安全手册](https://github.com/Alvin9999/new-pac/wiki/%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C) （推荐两本关于网络安全的书籍）
 
