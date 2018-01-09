@@ -65,7 +65,7 @@ teredo.managemydedi.com
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-0.PNG)
 
-### 由于开启ipv6.bat脚本不是永久设置，所以重启后的电脑翻墙前需要再次运行ipv6脚本！
+**由于开启ipv6.bat脚本不是永久设置，所以重启后的电脑翻墙前需要再次运行ipv6脚本！**
 
 ***
 
