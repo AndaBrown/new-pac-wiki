@@ -33,9 +33,11 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）
 
-**2018年1月10日：增加2个SSR账号。前三个罗马尼亚账号，协议和混淆为选填项，所以使用SS客户端和SSR客户端都能使用。旧金山和洛杉矶账号协议和混淆为必填项，只能使用SSR客户端。每个用户限速120kb/s。禁止使用账号进行BT下载、发送垃圾邮件。**
+**2018年1月10日：增加3个SSR账号。前三个罗马尼亚账号，协议和混淆为选填项，所以使用SS客户端和SSR客户端都能使用。旧金山和洛杉矶账号协议和混淆为必填项，只能使用SSR客户端。最后一个为ipv6账号。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3314.PNG)
+为保证每个用户都能获得一定的带宽资源，故单个用户限速120kb/s。禁止使用账号进行BT下载、发送垃圾邮件。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3320.PNG)
 
 [其它网友分享的ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
