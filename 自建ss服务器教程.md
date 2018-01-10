@@ -317,6 +317,8 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 6、如果你想把搭建的账号给多人使用，不用额外设置端口，因为一个账号就可以多人使用。一般10美元的服务器可以同时支持100人在线使用。
 
+如果想实现支持每个用户(端口)不同的加密方式/协议/混淆等，并且管理流量使用，可以参考多用户配置脚本：wget -N --no-check-certificate https://softs.fun/Bash/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh  备用下载：wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh  安装后管理命令：bash ssrmu.sh  注意：这个多用户配置脚本和教程内容的脚本无法共存！
+
 7、vultr服务器每月有流量限制，超过限制后服务器不会被停止运行，但是超出的流量会被额外收费。北美和西欧地区的服务器超出流量后，多出的部分收费为0.01美元/G。新加坡和日本东京（日本）为0.025美元/G，悉尼（澳大利亚）为0.05美元/G。把vultr服务器删掉，开通新的服务器，流量会从0开始重新计算。
 
 8、vultr怎样才能申请退款呢？
@@ -329,6 +331,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 10、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
 其他的路由器也可以刷梅林。有问题或者对路由器配置ssr感兴趣的，可以在这些网站上自学：[koolshare](http://koolshare.cn/forum.php) [华硕路由爱好者社区](http://www.52asus.com/forum.php)  [NAP6](https://nap6.com/portal.php)
+
 
 ***
 
