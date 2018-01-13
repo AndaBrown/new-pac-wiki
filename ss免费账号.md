@@ -66,7 +66,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 新唐人电视台：[节点1](http://173.199.118.111:8000/)  [节点2](http://jyg.fm98.cf/5)
 
-大纪元新闻网：[节点1](http://173.199.118.111/)
+大纪元新闻网：[节点1](http://173.199.118.111/)  [节点2](http://jyg.fm98.cf/7)
 
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
