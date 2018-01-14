@@ -37,9 +37,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **服务器1～4，协议和混淆为选填项，所以使用SS客户端和SSR客户端都能使用。服务器5～7协议和混淆为必填项，只能使用SSR客户端。最后一个为ipv6账号,电脑系统必须成功开启ipv6才能使用ipv6账号。为保证每个用户都能获得一定的带宽资源，单个用户限速150kb/s。禁止使用账号进行BT下载、发送垃圾邮件。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3331.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ssr3331.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3331.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ssr3332.PNG)
 
 [其它网友分享的ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
