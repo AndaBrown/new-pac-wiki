@@ -62,9 +62,13 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 动态网：[节点1](http://rnqvx.bockhctr.cf/01dtw)  [节点2](http://jyg.fm98.cf/)  
 
-新唐人电视台：[节点1](http://173.199.118.111:8000/)  [节点2](http://jyg.fm98.cf/5)
+新唐人电视台：[节点1](http://159.89.135.7:8000) [节点2](http://173.199.118.111:8000/)  [节点3](http://jyg.fm98.cf/5)
 
-大纪元新闻网：[节点1](http://173.199.118.111/)  [节点2](http://jyg.fm98.cf/7)
+大纪元新闻网：[节点1](http://159.89.135.7:80) [节点2](http://173.199.118.111/)  [节点3](http://jyg.fm98.cf/7)
+
+更多外网地址访问[直翻通道](https://github.com/Alvin9999/new-pac/wiki/直翻通道)
+
+**其它项目**：
 
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
