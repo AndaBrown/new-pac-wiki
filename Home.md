@@ -36,7 +36,7 @@
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2017年12月15日云端更新Quic ip）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2017年12月6日更新版本，解决了一键更新SSR配置文件对XP系统的支持）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年1月17日云端更新SSR版配置信息）
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2017年12月26日发布）
 
