@@ -66,7 +66,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 大纪元新闻网：[节点1](http://159.89.135.7:80) [节点2](http://173.199.118.111/)  [节点3](http://jyg.fm98.cf/7)
 
-[希望之声国际广播电台](http://159.89.135.7:8200)
+希望之声国际广播电台：[节点1](http://159.89.135.7:8200) [节点2](http://207.148.26.51:8200/)
 
 更多外网地址访问[直翻通道](https://github.com/Alvin9999/new-pac/wiki/直翻通道)
 
