@@ -44,7 +44,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2017年12月15日云端更新GoAgent ipv6版、GoProxy ipv6版、GoProxy Quic版ip；2017年12月6日更新SSR版，解决了一键更新SSR配置文件对XP系统的支持；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年1月19日云端更新GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、SSR版ip；2017年12月6日更新SSR版；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月18日更新）
 
