@@ -62,17 +62,17 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。如果被360、QQ等国产浏览器屏蔽，可选用谷歌浏览器或火狐浏览器。
 
-动态网：[节点1](http://rnqvx.bockhctr.cf/01dtw)  [节点2](http://jyg.fm98.cf/)  
+动态网：[节点1](http://rnqvx.bockhctr.cf/01dtw)  [节点2](http://sj.fs32.tk/dtw/)  [节点3](http://yz2.fe34.cf/)  
 
-新唐人电视台：[节点1](http://159.89.135.7:8000) [节点2](http://173.199.118.111:8000/)  [节点3](http://jyg.fm98.cf/5)
+新唐人电视台：[节点1](http://159.89.135.7:8000) [节点2](http://207.148.26.51:8000)  [节点3](http://jyg.fm98.cf/5)
 
-大纪元新闻网：[节点1](http://159.89.135.7:80) [节点2](http://173.199.118.111/)  [节点3](http://jyg.fm98.cf/7)
+大纪元新闻网：[节点1](http://159.89.135.7:80) [节点2](http://207.148.26.51)  [节点3](http://jyg.fm98.cf/7)
 
 希望之声国际广播电台：[节点1](http://159.89.135.7:8200) [节点2](http://207.148.26.51:8200/)
 
 更多外网地址访问[直翻通道](https://github.com/Alvin9999/new-pac/wiki/直翻通道)
 
-**其它项目**：
+**其它直翻项目**：
 
 [网门](https://github.com/oGate2/oGate/blob/master/README.md) 
 
