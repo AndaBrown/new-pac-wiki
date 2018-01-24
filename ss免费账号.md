@@ -33,13 +33,15 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）
 
-**2018年1月24日：删除无效服务器。**
+**2018年1月24日：更新服务器。**
 
 **为保证每个用户都能获得一定的带宽资源，单个用户限速100kb/s。以下账号SSR客户端和SS客户端都能使用。禁止使用账号进行BT下载、发送垃圾邮件。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3336.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3340.PNG)
 
-[其它网友分享的ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3341.PNG)
+
+[其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
 ***
 
