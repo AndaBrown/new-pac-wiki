@@ -60,25 +60,31 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **直翻网址**
 
-直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。如果被360、QQ等国产浏览器屏蔽，可选用谷歌浏览器或火狐浏览器。
+直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。注意：不管是电脑还是手机，推荐使用谷歌浏览器或火狐浏览器。国产浏览器可能会屏蔽直翻网址。
+
+YouTube：[节点](http://45.32.91.141:8700/results?search_query=%E5%99%A8%E5%AE%98)  
 
 动态网：[节点1](http://rnqvx.bockhctr.cf/01dtw)  [节点2](http://sj.fs32.tk/dtw/)  [节点3](http://yz2.fe34.cf/)  
 
-新唐人电视台：[节点1](http://159.89.135.7:8000) [节点2](http://207.148.26.51:8000)  [节点3](http://jyg.fm98.cf/5)
+新唐人电视台： [节点1](http://45.32.91.141:8000/xtr/gb/prog204.html)  [节点2](http://jyg.fm98.cf/5)
 
-大纪元新闻网：[节点1](http://159.89.135.7:80) [节点2](http://207.148.26.51)  [节点3](http://jyg.fm98.cf/7)
+大纪元新闻网： [节点1](http://45.32.91.141/gb/nsc413.htm)  [节点2](http://jyg.fm98.cf/7)
 
-希望之声国际广播电台：[节点1](http://159.89.135.7:8200) [节点2](http://207.148.26.51:8200/)
+希望之声国际广播电台：[节点1](http://45.32.91.141:8200/) 
 
-更多外网地址访问[直翻通道](https://github.com/Alvin9999/new-pac/wiki/直翻通道)
+**直翻项目**：
 
-**其它直翻项目**：
+一、Gfw-Breaker：https://github.com/gfw-breaker/open-proxy
 
-[网门](https://github.com/oGate2/oGate/blob/master/README.md) 
+简介：含YouTube等网站，nginx反向代理，速度快。
 
-[Gfw-Breaker](https://github.com/gfw-breaker/ssr-accounts)
+二、网门 ：https://git.io/ogate2
 
-[聚缘阁](https://github.com/ju99/e/wiki)
+简介：内容丰富，实时更新。包括：禁闻，禁片，小品，电影，纪录片，网粹，网摘，网博等。
+
+三、聚缘阁：https://git.io/gfree
+
+简介：动态节点，长期更新。
 
 ***
 
