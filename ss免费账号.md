@@ -58,21 +58,10 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
 
-**直翻网址**
-
-直翻网址适合所有的能连网的设备，包括：电脑，手机，平板。注意：不管是电脑还是手机，推荐使用谷歌浏览器或火狐浏览器。国产浏览器可能会屏蔽直翻网址。
-
-YouTube：[节点](http://45.32.91.141:8700/results?search_query=%E5%99%A8%E5%AE%98)  
-
-动态网：[节点1](http://rnqvx.bockhctr.cf/01dtw)  [节点2](http://sj.fs32.tk/dtw/)  [节点3](http://yz2.fe34.cf/)  
-
-新唐人电视台： [节点1](http://45.32.91.141:8000/xtr/gb/prog204.html)  [节点2](http://jyg.fm98.cf/5)
-
-大纪元新闻网： [节点1](http://45.32.91.141/gb/nsc413.htm)  [节点2](http://jyg.fm98.cf/7)
-
-希望之声国际广播电台：[节点1](http://45.32.91.141:8200/) 
 
 **直翻项目**：
+
+注意：不管是电脑还是手机，推荐使用谷歌浏览器或火狐浏览器。国产浏览器可能会屏蔽直翻网址。
 
 一、Gfw-Breaker：https://github.com/gfw-breaker/open-proxy
 
