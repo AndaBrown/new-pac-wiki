@@ -45,22 +45,6 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ***
 
-
-**其它翻墙方法**
-
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) 
-
-[windows系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki)
-
-[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
-
-[MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
-
-[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  
-
-[安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
-
-
 **直翻项目**：
 
 注意：不管是电脑还是手机，推荐使用谷歌浏览器或火狐浏览器。国产浏览器可能会屏蔽直翻网址。
@@ -76,6 +60,22 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 三、聚缘阁：https://git.io/gfree
 
 简介：动态节点，长期更新。
+
+
+**其它翻墙方法**
+
+[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) 
+
+[windows系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki)
+
+[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
+
+[MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
+
+[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  
+
+[安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
+
 
 ***
 
