@@ -37,9 +37,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **为保证每个用户都能获得一定的带宽资源，单个用户限速130kb/s。以下账号SSR客户端和SS客户端都能使用。禁止使用账号进行BT下载、发送垃圾邮件。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3344.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3347.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3345.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3346.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
