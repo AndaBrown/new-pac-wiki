@@ -47,7 +47,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
 
-**购买vps服务器时，不推荐首选洛杉矶和日本位置的服务器，因为这两个位置的服务器前期被很多大陆同胞疯狂追捧，导致现在一开洛杉矶或日本服务器就会遇到被墙的ip，开到能联通的ip概率很小。vps服务器系统推荐选择CentOS 6.X64位的系统（系统版本不要选的太高，不要选centos7！centos7默认的防火墙可能会干扰ssr的正常连接！）。完成购买后，找到系统的密码记下来，部署服务器时需要用到。**
+**购买vps服务器时，不推荐首选洛杉矶和日本位置的服务器，因为这两个位置的服务器前期被很多大陆同胞疯狂追捧，导致现在一开洛杉矶或日本服务器就会遇到被墙的ip，开到能联通的ip概率很小。vps服务器系统推荐选择CentOS 6.X64位的系统（系统版本不要选centos7！centos7默认的防火墙会阻止ssr的正常连接！）。完成购买后，找到系统的密码记下来，部署服务器时需要用到。**
 
 如图：
 
@@ -57,7 +57,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
 
-**默认是centos7系统，点击图中的CentOS几个字，会弹出centos6，然后选中它！vps操作系统不要选cento7，因为选它很可能会影响ssr的正常连接。**
+**不要选centos7系统！点击图中的CentOS几个字，会弹出centos6，然后选中centos6！**
 
 > 接下来这一步是开启vps的ipv6 ip，选填项。如果你的电脑系统可以用ipv6，那么可以勾选此项。大多数用户没有这个需求，但有一些用户可能会用到，所以补充了这部分内容。
 
@@ -327,7 +327,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文和英文转中文。
 
-9、如果自己想购买其它商家的vps，可以用百度或者google搜索，推荐选大的vps服务商，小商家一旦经营不善会跑路。比如：DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置没有vultr多。
+9、如果自己想购买其它商家的vps，可以用百度或者google搜索，小商家一旦经营不善会跑路，所以推荐选大的vps服务商。比如：DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置没有vultr多。
 
 10、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
 其他的路由器也可以刷梅林。有问题或者对路由器配置ssr感兴趣的，可以在这些网站上自学：[koolshare](http://koolshare.cn/forum.php) [华硕路由爱好者社区](http://www.52asus.com/forum.php)  [NAP6](https://nap6.com/portal.php)
