@@ -147,8 +147,7 @@ chmod +x shadowsocksR.sh
 
 按照如下提示，选择想设置的**混淆插件**，默然的是plain（支持SS客户端）
 
-**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。（2017.12.1最新补充：图中演示的tls 1.2_ticket_auth已失效，会出现断流的情况，可以换用其它的混淆方式，或者不混淆，设置成plain）** 
-
+**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。（2018.1.29最新补充：图中演示的tls 1.2_ticket_auth已失效，所以请选择除tls开头以外的其它混淆。）** 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/5.png)
 
 按照如下提示，按任意键进行自动部署
@@ -204,7 +203,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端，可以根据需求进行选择，演示选择n
 
 之后进行混淆插件的设置。
-**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略的，有时候不混淆（plain）让其看起来像随机数据更好。（2017.12.1最新补充：图中演示的tls 1.2_ticket_auth已失效，会出现断流的情况，可以换用其它的混淆方式，或者不混淆，设置成plain）** 
+**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。（2018.1.29最新补充：图中演示的tls 1.2_ticket_auth已失效，所以请选择除tls开头以外的其它混淆。）** 
 
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/13.png)
