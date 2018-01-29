@@ -22,7 +22,7 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2018年1月19日公告：云端更新GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、SSR版ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。**
+**2018年1月29日公告：云端更新SSR版ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。**
 
 ***
 
@@ -36,7 +36,7 @@
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2018年1月19日云端更新Quic ip）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年1月19日云端更新ip）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年1月29日云端更新ip）
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2017年12月26日发布）
 
@@ -44,7 +44,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年1月19日云端更新GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、SSR版ip；2017年12月6日更新SSR版；2017年11月8日发布赛风版；2017年10月29日更新WuJie版本；2017年10月26日发布新软GoProxy ipv6版；2017年10月23日发布新软GoAgent ipv6版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年1月29日云端更新SSR版ip；2018年1月19日云端更新GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、SSR版ip）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月22日更新）
 
