@@ -1,4 +1,4 @@
-**2018年1月10日对教程细节方面进行补充，方便新手。**
+**2018年1月24日对教程细节方面进行补充，方便新手。**
 
 ***
 
@@ -327,7 +327,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文和英文转中文。
 
-9、如果自己想购买其它商家的vps，可以用百度或者google搜索。比如：搬瓦工、Linode、DigitalOcean 。	
+9、如果自己想购买其它商家的vps，可以用百度或者google搜索，推荐选大的vps服务商，小商家一旦经营不善会跑路。比如：DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置没有vultr多。
 
 10、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
 其他的路由器也可以刷梅林。有问题或者对路由器配置ssr感兴趣的，可以在这些网站上自学：[koolshare](http://koolshare.cn/forum.php) [华硕路由爱好者社区](http://www.52asus.com/forum.php)  [NAP6](https://nap6.com/portal.php)
