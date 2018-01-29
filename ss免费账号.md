@@ -39,7 +39,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3351.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3352.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3354.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3353.PNG)
 
