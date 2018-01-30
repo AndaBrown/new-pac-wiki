@@ -111,62 +111,10 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
-**分享两个好用的代码，选择其中一个即可。建议两个脚本先大致都看一下功能,然后再选择。**
 
-【第1个一键部署ssr代码】
+CentOS6/Debian/Ubuntu ShadowsocksR一键部署管理脚本：
 
-yum -y install wget
-
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
-
-chmod +x shadowsocksR.sh
-
-./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
-
-———————————————————代码分割线————————————————
-
-上面的代码总共有4行（显示5行），复制时要一起复制下来，以下脚本类似。如果要卸载直接输入命令：./shadowsocks-go.sh uninstall
-
-**演示开始：复制代码粘贴到vps服务器里，按回车键，进入部署。**
-
-按照如下提示，输入想设置的**密码**，按回车键进入下一步 (**密码建议用复杂点的字母组合，图中的密码只是作为演示用**)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/1.png)
-
-按照如下提示，输入想设置的**端口**（3～4位即可），按回车键进入下一步
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/2.png)
-
-按照如下提示，选择想设置的**加密方式**，括号里面是默认的加密方式，想设置默认的话直接按回车键。这里选择数字2（和默认一样）的aes-256-cfb的加密方式
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/3.png)
-
-按照如下提示，选择想设置的**协议插件**，默然的是origin（支持SS客户端），我们选择SSR客户端的协议插件：3
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4.png)
-
-按照如下提示，选择想设置的**混淆插件**，默然的是plain（支持SS客户端）
-
-**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。（2018.1.29最新补充：图中演示的tls 1.2_ticket_auth已失效，所以请选择除tls开头以外的其它混淆。）** 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/5.png)
-
-按照如下提示，按任意键进行自动部署
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/6.png)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/7.png)
-
-上图表示部署成功。从上往下依次为SSR帐号的IP、端口、密码、协议插件、混淆插件和加密方式。
-
-最后可以重启服务器确保部署生效。重启需要在命令栏里输入reboot ，输入命令后稍微等待一会服务器就会自动重启，一般重启过程需要2～5分钟，重启过程中Xshell会自动断开连接，等VPS重启好后才可以用Xshell软件进行连接。如果部署过程中卡在某个位置超过10分钟，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署。
-
-这个脚本的图文演示就结束了，图中的IP仅作演示用，教程发布后会失效。有人想了，我以后有想修改密码或者端口的需求怎么办？这个脚本修改密码和端口不是很方便，需要把最初的部署代码重新输入一遍，即从头到尾部署一遍即可。
-
-**下面再分享第二个脚本，这个脚本装一遍即可，方便以后想修改密码、端口什么的，而且功能更多。**
-
-【第2个一键部署ssr代码】
-
-CentOS/Debian/Ubuntu ShadowsocksR单/多端口一键管理脚本：
+***
 
 yum -y install wget
 
@@ -186,15 +134,15 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 如上图出现管理界面后，**输入数字1来安装SSR服务端**。如果输入1后不能进入下一步，那么请退出xshell，重新连接vps服务器，然后输入快捷管理命令bash ssr.sh 再尝试。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/9.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/31.png)
 
-根据上图提示，依次输入自己想设置的**端口和密码** (**密码建议用复杂点的字母组合，图中的密码只是作为演示用**)，回车键用于确认
+根据上图提示，依次输入自己想设置的**端口和密码** (**密码建议用复杂点的字母组合**)，回车键用于确认
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/10.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/32.png)
 
 如上图，选择想设置的**加密方式**，比如10，按回车键确认
 
-接下来是选择**协议插件**，如下图：
+接下来是选择**协议**，如下图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/11.png)
 
@@ -203,10 +151,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端，可以根据需求进行选择，演示选择n
 
 之后进行混淆插件的设置。
-**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。（2018.1.29最新补充：图中演示的tls 1.2_ticket_auth已失效，所以请选择除tls开头以外的其它混淆。）** 
+**注意：有的地区需要把混淆设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。（注意：tls 1.2_ticket_auth已失效，所以请选择除tls开头以外的其它混淆。）** 
 
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/13.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/33.png)
 
 
 进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
@@ -221,7 +169,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/16.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/17.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/34.png)
 
 根据上图就可以看到自己设置的SSR账号信息，包括IP、端口、密码、加密方式、协议插件、混淆插件。如果之后想修改账号信息，直接输入快捷管理命令：bash ssr.sh 进入管理界面，选择相应的数字来进行一键修改。例如：
 
@@ -229,7 +177,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/23.png)
 
-**第2个脚本的演示结束。**
+**脚本演示结束。**
+
+
+上图表示部署成功，此脚本是开机自动启动，部署一次即可。从上往下依次为SSR帐号的IP、端口、密码、加密、协议和混淆插件。
+
+最后可以重启服务器确保部署生效。重启需要在命令栏里输入reboot ，输入命令后稍微等待一会服务器就会自动重启，一般重启过程需要2～5分钟，重启过程中Xshell会自动断开连接，等VPS重启好后才可以用Xshell软件进行连接。如果部署过程中卡在某个位置超过10分钟，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署。
 
 ***
 
@@ -267,7 +220,7 @@ chmod +x bbr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
 
-最后输入y重启服务器或者手动输入代码reboot来确保加速生效。
+最后输入y重启服务器或者手动输入代码reboot来确保加速生效，bbr加速脚本是开机自动启动。
 
 ***
 
