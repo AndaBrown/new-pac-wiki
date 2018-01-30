@@ -146,7 +146,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/11.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/41.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/41.PNG)
 
 选择并确认后，会出现上图的界面，提示你是否选择兼容原版，这里的原版指的是SS客户端（SS客户端没有协议和混淆的选项），可以根据需求进行选择，演示选择y
 
