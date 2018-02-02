@@ -106,7 +106,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell15.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/xshell2.png)
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
