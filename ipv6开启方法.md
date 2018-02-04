@@ -16,9 +16,9 @@
 
 2、以管理员身份运行一键开启ipv6脚本
 
-开启ipv6.bat [国外云盘下载](https://nofile.io/f/z6kjYEP42St/%E5%BC%80%E5%90%AFipv6.bat) [本地下载](http://45.32.141.248:8000/f/1679fb1b2d/?raw=1)
+开启ipv6.bat [国外云盘1下载](http://45.32.141.248:8000/f/1679fb1b2d/?raw=1)  [国外云盘2下载](https://nofile.io/f/z6kjYEP42St/%E5%BC%80%E5%90%AFipv6.bat) 
 
-关闭ipv6.bat [国外云盘下载](https://nofile.io/f/v1GCKWvgS9z/%E5%85%B3%E9%97%ADipv6.bat) [本地下载](http://45.32.141.248:8000/f/6a0270b4eb/?raw=1)
+关闭ipv6.bat  [国外云盘1下载](http://45.32.141.248:8000/f/6a0270b4eb/?raw=1) [国外云盘2下载](https://nofile.io/f/v1GCKWvgS9z/%E5%85%B3%E9%97%ADipv6.bat) 
 
 右键选择“以管理员身份运行ipv6.bat文件后，需要等待3～5分钟才能设置好，如图如下：
 
@@ -99,4 +99,4 @@ teredo.managemydedi.com
 ***
 
 
-如果你有更好、更方便的方法，可以联系海外邮箱：kebi2014@gmail.com
+如果有问题可以联系海外邮箱：kebi2014@gmail.com
