@@ -8,9 +8,9 @@
 
 **下载地址：**
 
-[国外云盘1下载](https://www.adrive.com/public/sqmeEK/Chrome53WJ_v2017.10.29.7z) 密码：123
+[国外云盘1下载](http://45.32.141.248:8000/f/fab5ecc0b7/)
 
-[国外云盘2下载](http://45.32.141.248:8000/f/fab5ecc0b7/)
+[国外云盘2下载](https://www.adrive.com/public/sqmeEK/Chrome53WJ_v2017.10.29.7z) 密码：123
 
 [国外云盘3下载](http://108.61.224.82:8000/f/a3f2e746d3/)
 
@@ -38,9 +38,9 @@
 
 **下载地址：**
 
-[国外云盘1下载](https://www.adrive.com/public/geuW9x/Chrome53FG_v2017.10.22.7z) 密码：123
+[国外云盘1下载](http://45.32.141.248:8000/f/fb66563489/)
 
-[国外云盘2下载](http://45.32.141.248:8000/f/fb66563489/)
+[国外云盘2下载](https://www.adrive.com/public/geuW9x/Chrome53FG_v2017.10.22.7z) 密码：123
 
 [国外云盘3下载](http://108.61.224.82:8000/f/e3627b2975/)
 
