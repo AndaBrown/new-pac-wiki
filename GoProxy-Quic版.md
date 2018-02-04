@@ -10,9 +10,9 @@ GoProxy Quic版适合封锁比较严重的地区，目前还不完善，不适�
 
 **下载地址：**
 
-[国外云盘1下载](https://www.adrive.com/public/v5xyGW/Chrome53_gop_quic_v2017.10.22.7z)  密码：123
+[国外云盘1下载](http://45.32.141.248:8000/f/0f79fb250a/)
 
-[国外云盘2下载](http://45.32.141.248:8000/f/0f79fb250a/)
+[国外云盘2下载](https://www.adrive.com/public/v5xyGW/Chrome53_gop_quic_v2017.10.22.7z)  密码：123
 
 [国外云盘3下载](http://108.61.224.82:8000/f/bfddb28b8b/)
 
