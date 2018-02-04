@@ -39,7 +39,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ### 创建完毕后，开始进行部署流程
 
-**部署前，需要打开与GoProxy相关版本并保证其能够正常翻墙。下载 goproxy-gae-r73.zip 服务端部署文件** [国外云盘1下载](https://nofile.io/f/51x8A9YU4MK/goproxy-gae-r73.tar) [国外云盘2下载](http://45.32.141.248:8000/f/c519b58b2a/) 
+**部署前，需要打开与GoProxy相关版本并保证其能够正常翻墙。下载 goproxy-gae-r73.zip 服务端部署文件**  [国外云盘1下载](http://45.32.141.248:8000/f/c519b58b2a/)  [国外云盘2下载](https://nofile.io/f/51x8A9YU4MK/goproxy-gae-r73.tar) 
 [国外云盘3下载](https://www.adrive.com/public/p2B5pa/goproxy-gae-r73.tar) 
 
 **下载后解压出来，然后打开gae文件夹里面的gae.go,必须用Notepad++打开，Notepad++下载地址**：http://rj.baidu.com/soft/detail/13478.html?ald  **下载后安装**
