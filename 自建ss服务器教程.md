@@ -1,4 +1,4 @@
-**2018年2月2日对教程细节方面进行补充，方便新手。提供[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 有需求的人可以使用。**
+**2018年2月6日对教程细节方面进行补充，方便新手。提供[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 有需求的人可以使用。**
 
 ***
 
@@ -76,11 +76,11 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫Xshell的软件来远程部署。Xshell windows版下载地址：
 
-[国外云盘1下载](https://nofile.io/f/eb5dUzYMQK4/Xshell_setup_wm.exe) 提取密码：666
+[国外云盘1下载](http://45.32.141.248:8000/f/d91974d046/) 
 
-[国外云盘2下载](https://www.adrive.com/public/NdK3Ez/Xshell_setup_wm.exe) 密码：123
+[国外云盘2下载](https://nofile.io/f/eb5dUzYMQK4/Xshell_setup_wm.exe) 提取密码：666
 
-[百度软件中心](http://rj.baidu.com/soft/detail/15201.html?ald)
+[国外云盘3下载](https://www.adrive.com/public/NdK3Ez/Xshell_setup_wm.exe) 密码：123
 
 如果你是苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。打开**终端**（Terminal），输入ssh root@ip  其中“ip”替换成你VPS的ip, 按回车键，然后复制粘贴密码，按回车键即可登录。粘贴密码时有可能不显示密码，但不影响， [参考设置方法](http://www.cnblogs.com/ghj1976/archive/2013/04/19/3030159.html)  如果不能用MAC自带的终端连接的话，直接网上搜“MAC连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。
 
@@ -280,7 +280,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文和英文转中文。
 
-10、如果自己想购买其它商家的vps，可以用百度或者google搜索，小商家一旦经营不善会跑路，所以推荐选大的vps服务商。比如：DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置没有vultr多。
+10、其它vps服务商推荐：DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置没有vultr多。
 
 11、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
 其他的路由器也可以刷梅林。有问题或者对路由器配置ssr感兴趣的，可以在这些网站上自学：[koolshare](http://koolshare.cn/forum.php) [华硕路由爱好者社区](http://www.52asus.com/forum.php)  [NAP6](https://nap6.com/portal.php)
