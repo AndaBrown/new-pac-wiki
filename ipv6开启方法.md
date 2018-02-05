@@ -52,7 +52,7 @@ teredo.managemydedi.com
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-102.PNG)
 
-**2017.12.23新增teredo服务器一键检测连通性方法**：teredo-test [国外云盘1下载](http://45.32.141.248:8000/f/9e9e631a4f/)[国外云盘2下载 (https://nofile.io/f/hQp2Fu0GRFu/teredo-test.rar) 
+**2017.12.23新增teredo服务器一键检测连通性方法**：teredo-test [国外云盘1下载](http://45.32.141.248:8000/f/9e9e631a4f/)   [国外云盘2下载](https://nofile.io/f/hQp2Fu0GRFu/teredo-test.rar) 
 下载后解压出来，运行teredo.bat脚本，本脚本会批量检测teredo服务器的连通性，选择is accessible的服务器。因为teredo服务器比较多，当遇到ipv6被干扰严重的时候，使用一键检测脚本可以快速帮助用户知道目前哪个服务器连通性比较好，然后替换开启ipv6.bat脚本的默认服务器，提高方便性。（如果这个一键检测脚本不好用，那就手动一个一个的去替换服务器来尝试）
 
 ***
