@@ -1,4 +1,4 @@
-**2017年12月23日更新：增加teredo服务器一键检测连通性方法。**
+**2018年2月6日更新：更新一键检测teredo服务器文件。**
 
 **GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出此教程。如果你试了各种方法还是开启不了IPV6，说明你那里的网络环境开启不了IPV6。翻墙软件除了两款IPV6版，还分享了很多其它不同类型的翻墙软件，比如GoProxy Quic版、SSR版、SkyZip版等，那么可以换其它类型的软件。**
 
@@ -52,7 +52,7 @@ teredo.managemydedi.com
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-102.PNG)
 
-**2017.12.23新增teredo服务器一键检测连通性方法**：teredo-test [国外云盘1下载](http://45.32.141.248:8000/f/9e9e631a4f/)   [国外云盘2下载](https://nofile.io/f/hQp2Fu0GRFu/teredo-test.rar) 
+**2018年2月6日更新：更新一键检测teredo服务器文件**：teredo-test-2018.2.6 [国外云盘1下载](http://45.32.141.248:8000/f/d13e465752/)   [国外云盘2下载](https://nofile.io/f/d1VmHY2XafZ/teredo-test-2018.2.6.rar) 
 下载后解压出来，运行teredo.bat脚本，本脚本会批量检测teredo服务器的连通性，选择is accessible的服务器。因为teredo服务器比较多，当遇到ipv6被干扰严重的时候，使用一键检测脚本可以快速帮助用户知道目前哪个服务器连通性比较好，然后替换开启ipv6.bat脚本的默认服务器，提高方便性。（如果这个一键检测脚本不好用，那就手动一个一个的去替换服务器来尝试）
 
 ***
