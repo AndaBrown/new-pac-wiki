@@ -20,6 +20,26 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
+***
+
+其它vps服务商推荐：
+
+**DigitalOcean vps服务商**：https://m.do.co/c/01092ba28bfa  (和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置有8个)
+
+**搬瓦工vps服务商**：https://bwh1.net/cart.php?aff=27360 （洛杉矶CN2和香港服务器，**注意：如果ip被墙，需要向客服联系购买新ip，新ip为8美元1个，选服务器时不要选OpenVZ框架的服务器，OpenVZ框架的服务器没法部署加速。**）
+
+搬瓦工比较火的套餐：香港服务器9.99美元/月，每月100G流量，经常缺货: https://bwh1.net/aff.php?aff=27360&pid=61 
+
+香港服务器19.99美元/月，每月200G流量/月，经常缺货：https://bwh1.net/aff.php?aff=27360&pid=62 
+
+香港服务器39.99美元/月，每月300G流量/月：https://bwh1.net/aff.php?aff=27360&pid=63 
+
+香港服务器79.99美元/月，每月500G流量/月：https://bwh1.net/aff.php?aff=27360&pid=64 
+
+***
+
+### 本教程是用vultr服务器来演示的。
+
 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
 
 注册并邮件激活账号，充值后即可购买服务器。充值方式是paypal（首选）或支付宝，使用paypal有银行卡（包括信用卡）即可。paypal注册地址：https://www.paypal.com （paypal是国际知名的第三方支付服务商，注册一下账号，绑定银行卡即可购买国外商品）
@@ -280,9 +300,8 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文和英文转中文。
 
-10、其它vps服务商推荐：DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置没有vultr多。
 
-11、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
+10、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
 其他的路由器也可以刷梅林。有问题或者对路由器配置ssr感兴趣的，可以在这些网站上自学：[koolshare](http://koolshare.cn/forum.php) [华硕路由爱好者社区](http://www.52asus.com/forum.php)  [NAP6](https://nap6.com/portal.php)
 
 
