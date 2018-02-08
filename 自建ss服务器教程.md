@@ -24,9 +24,9 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 其它vps服务商推荐：
 
-**DigitalOcean vps服务商**：https://m.do.co/c/01092ba28bfa  (和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置有8个)
+DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  (和vultr类似，按小时计费，能够随时开通和删除服务器，服务器位置有8个)
 
-**搬瓦工vps服务商**：https://bwh1.net/cart.php?aff=27360 （洛杉矶CN2和香港服务器，**注意：如果ip被墙，需要向客服联系购买新ip，新ip为8美元1个，选服务器时不要选OpenVZ框架的服务器，OpenVZ框架的服务器没法部署加速。**）
+搬瓦工vps服务商：https://bwh1.net/cart.php?aff=27360 （洛杉矶CN2和香港服务器，注意：如果ip被墙，需要向客服联系购买新ip，新ip为8美元1个，选服务器时不要选OpenVZ框架的服务器，OpenVZ框架的服务器没法部署加速。）
 
 搬瓦工比较火的套餐：香港服务器9.99美元/月，每月100G流量，经常缺货: https://bwh1.net/aff.php?aff=27360&pid=61 
 
