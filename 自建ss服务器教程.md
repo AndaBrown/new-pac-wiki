@@ -1,4 +1,4 @@
-**2018年2月6日对教程细节方面进行补充，方便新手。提供[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 有需求的人可以使用。**
+**2018年2月9日对教程细节方面进行补充，方便新手。提供[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 有需求的人可以使用。**
 
 ***
 
