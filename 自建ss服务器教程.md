@@ -30,11 +30,11 @@ DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  (和vultr类似，KV
 
 搬瓦工比较火的套餐：香港服务器9.99美元/月，每月100G流量，经常缺货: https://bwh1.net/aff.php?aff=27360&pid=61 
 
-香港服务器19.99美元/月，每月200G流量/月，经常缺货：https://bwh1.net/aff.php?aff=27360&pid=62 
+香港服务器19.99美元/月，每月200G流量，经常缺货：https://bwh1.net/aff.php?aff=27360&pid=62 
 
-香港服务器39.99美元/月，每月300G流量/月：https://bwh1.net/aff.php?aff=27360&pid=63 
+香港服务器39.99美元/月，每月300G流量：https://bwh1.net/aff.php?aff=27360&pid=63 
 
-香港服务器79.99美元/月，每月500G流量/月：https://bwh1.net/aff.php?aff=27360&pid=64 
+香港服务器79.99美元/月，每月500G流量：https://bwh1.net/aff.php?aff=27360&pid=64 
 
 ***
 
