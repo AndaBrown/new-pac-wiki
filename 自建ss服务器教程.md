@@ -28,14 +28,6 @@ DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  (和vultr类似，KV
 
 搬瓦工vps服务商：https://bwh1.net/cart.php?aff=27360 （洛杉矶CN2和香港服务器，KVM框架和OpenVZ框架，支付方式为月付或年付。特别注意：如果ip被墙，需要向客服联系购买新ip，新ip为8美元1个；选服务器时不要选OpenVZ框架的服务器，OpenVZ框架的服务器没法用下面的bbr加速方法。）
 
-搬瓦工比较火的套餐：香港服务器9.99美元/月，每月100G流量，经常缺货: https://bwh1.net/aff.php?aff=27360&pid=61 
-
-香港服务器19.99美元/月，每月200G流量，经常缺货：https://bwh1.net/aff.php?aff=27360&pid=62 
-
-香港服务器39.99美元/月，每月300G流量：https://bwh1.net/aff.php?aff=27360&pid=63 
-
-香港服务器79.99美元/月，每月500G流量：https://bwh1.net/aff.php?aff=27360&pid=64 
-
 ***
 
 ### 本教程是用vultr服务器来演示的。
