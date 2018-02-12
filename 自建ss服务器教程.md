@@ -131,7 +131,7 @@ yum -y install wget
 
 wget -N --no-check-certificate https://softs.fun/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
-备用下载地址：
+备用脚本：
 
 yum -y install wget
 
@@ -139,7 +139,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ———————————————————代码分割线————————————————
 
-复制上面的代码到VPS服务器里，安装脚本后，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
+复制上面的代码到VPS服务器里，按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/8.png)
 
