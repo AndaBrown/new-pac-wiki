@@ -28,8 +28,6 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  (和vultr类似，KVM框架，按小时计费，能够随时开通和删除服务器，新服务器即是新ip，服务器位置有8个，最低5美元/月)
 
-搬瓦工vps服务商：https://bwh1.net/cart.php?aff=27360 （洛杉矶CN2和香港服务器，KVM框架和OpenVZ框架，支付方式为月付或年付。特别注意：如果ip被墙，需要向客服联系购买新ip，新ip为8美元1个；选服务器时不要选OpenVZ框架的服务器，OpenVZ框架的服务器没法用下面的bbr加速方法。）
-
 ***
 
 ### 本教程是用vultr服务器来演示的。
