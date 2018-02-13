@@ -39,9 +39,9 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **2018年2月13日更新。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3371.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3373.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3372.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3374.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
