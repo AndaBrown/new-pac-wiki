@@ -22,17 +22,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
-***
-
-其它vps服务商推荐：
-
-DigitalOcean vps服务商：https://m.do.co/c/01092ba28bfa  (和vultr类似，KVM框架，按小时计费，能够随时开通和删除服务器，新服务器即是新ip，服务器位置有8个，最低5美元/月)
-
-***
-
-### 本教程是用vultr服务器来演示的。
-
-vultr注册地址： http://www.vultr.com/?ref=7048874 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
+虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
 
 注册并邮件激活账号，充值后即可购买服务器。充值方式是paypal（首选）或支付宝，使用paypal有银行卡（包括信用卡）即可。paypal注册地址：https://www.paypal.com （paypal是国际知名的第三方支付服务商，注册一下账号，绑定银行卡即可购买国外商品）
 
