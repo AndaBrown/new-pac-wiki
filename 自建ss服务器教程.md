@@ -1,4 +1,4 @@
-**2018年2月9日对教程细节方面进行补充，方便新手。提供[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 有需求的人可以使用。**
+**2018年2月13日对教程细节方面进行补充，方便新手。提供[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 有需求的人可以使用。**
 
 ***
 
@@ -229,7 +229,7 @@ chmod +x bbr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
 
-最后输入y重启服务器或者手动输入代码reboot来确保加速生效，bbr加速脚本是开机自动启动。
+最后输入y重启服务器，如果输入y提示command not found ，接着输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 ***
 
