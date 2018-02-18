@@ -31,7 +31,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）
+[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （不怕被封ip，因为vultr可以随时删除和开通服务器，新服务器就是新的ip）
 
 ### 祝所有的有缘人春节快乐！幸福平安！
 
