@@ -37,14 +37,11 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 **为保证每个用户都能获得一定的带宽资源，单个用户限速130kb/s。以下账号SSR客户端和SS客户端都能使用。禁止使用账号进行BT下载、发送垃圾邮件。如果使用ipv6账号，需要将自己的电脑开启ipv6网络，ipv6账号是为那些有ipv6这方面需求的用户提供的，一般的人用普通的ip即可。**
 
-**2018年2月18日更新。**
+**2018年2月19日更新。**
 
-旧金山：159.89.146.154
-端口：4521
-密码：dongtaiwang.com
-加密方式：aes-256-cfb
-协议：auth_sha1_v4
-混淆：plain（协议和混淆支持原SS版）
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3373.PNG)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3374.PNG)
 
 纽约：165.227.181.203
 端口：6666
