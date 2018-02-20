@@ -43,20 +43,6 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3374.PNG)
 
-纽约：165.227.181.203
-端口：6666
-密码：ntdtv.com
-加密方式：aes-256-cfb
-协议：auth_sha1_v4
-混淆：plain（协议和混淆支持原SS版）
-
-纽约：165.227.181.28
-端口：5555
-密码：ntdtv.com
-加密方式：aes-256-cfb
-协议：auth_sha1_v4
-混淆：plain（协议和混淆支持原SS版）
-
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
 ***
