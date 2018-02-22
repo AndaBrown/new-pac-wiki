@@ -9,11 +9,11 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 ### ===自己搭建SS/SSR服务器教程===
 
-[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）学会了一劳永逸，在其它vps服务器上搭建大同小异。
+[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）
 
 VPS推荐：
 
-[Vultr](http://www.vultr.com/?ref=7048874) （**知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。**）
+[Vultr](http://www.vultr.com/?ref=7048874) （**知名服务器供应商；全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。不怕被封ip，因为可以随时创建和删除服务器，新服务器就是新ip。**）
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
@@ -33,7 +33,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （适合新手）
 
-**为保证每个用户都能获得一定的带宽资源，单个用户限速130kb/s。以下账号SSR客户端和SS客户端都能使用。禁止使用账号进行BT下载、发送垃圾邮件。如果使用ipv6账号，需要将自己的电脑开启ipv6网络，ipv6账号是为那些有ipv6这方面需求的用户提供的，一般的人用普通的ip即可。**
+**为保证每个用户都能获得一定的带宽资源，单个用户限速100kb/s。以下账号SSR客户端和SS客户端都能使用。禁止使用账号进行BT下载、发送垃圾邮件。如果使用ipv6账号，需要将自己的电脑开启ipv6网络，ipv6账号是为那些有ipv6这方面需求的用户提供的，一般的人用普通的ip即可。**
 
 **2018年2月19日更新。**
 
