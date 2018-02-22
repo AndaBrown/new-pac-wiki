@@ -35,7 +35,7 @@ VPS推荐：
 ***
 
 
-### SSR软件下载及更新地址：
+**SSR软件下载及更新地址：**
 
 Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) [备用下载地址](https://nofile.io/f/6Jm7WJCyOVv/ShadowsocksR-4.7.0-win.7z)
 
