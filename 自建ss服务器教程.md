@@ -75,13 +75,13 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssripv6-02.png)
 
-删掉服务器方法如下：
+**删掉服务器方法如下**：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de4.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de3.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de5.png)
 
 ***
 **第二步：部署VPS服务器**
