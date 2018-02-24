@@ -51,7 +51,8 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
 
 
-开通服务器步骤如图：
+**开通服务器步骤如图**：
+
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
@@ -59,7 +60,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
 
 
-**不要选centos7系统！点击图中的CentOS几个字，会弹出centos6，然后选中centos6！entos7默认的防火墙可能会干扰ssr的正常连接！**
+### 选择vps操作系统时，不要选centos7系统！点击图中的CentOS几个字，会弹出centos6，然后选中centos6！entos7默认的防火墙可能会干扰ssr的正常连接！
 
 > 接下来这一步是开启vps的ipv6 ip，选填项。如果你的电脑系统可以用ipv6，那么可以勾选此项。大多数用户没有这个需求，但有一些用户可能会用到，所以补充了这部分内容。
 
