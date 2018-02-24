@@ -285,10 +285,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 如果英语水平不好，但是想和客服进行交流，可以用百度在线翻译，自动中文转英文和英文转中文。
 
-
-10、路由器也可以配置ssr，关键的是路由器刷固件，华硕路由器刷梅林改版固件最简单，下载固件直接刷，梅林改版固件自带软件中心，然后再软件中心点离线安装就可以了（原版梅林不带软件中心 [下载](http://asuswrt.lostrealm.ca/download)）。路由器刷merlin_8wan_firmware（八万）的固件就行[KoolShare固件下载](http://firmware.koolshare.cn/)
-其他的路由器也可以刷梅林。有问题或者对路由器配置ssr感兴趣的，可以在这些网站上自学：[koolshare](http://koolshare.cn/forum.php) [华硕路由爱好者社区](http://www.52asus.com/forum.php)  [NAP6](https://nap6.com/portal.php)
-
+10、路由器也可以配置ss/ssr账号，详见openwrt-ssr项目地址：https://github.com/ywb94/openwrt-ssr  
 
 
 ***
