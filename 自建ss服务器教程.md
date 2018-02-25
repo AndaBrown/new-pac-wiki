@@ -298,6 +298,7 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 10、路由器也可以配置ss/ssr账号，详见openwrt-ssr项目地址：https://github.com/ywb94/openwrt-ssr  
 
+11、如果电脑想用搭建的ss/ssr账号玩游戏，即实现类似VPN全局代理，可以用SSTAP，教程：https://www.jianshu.com/p/519e68b74646
 
 ***
 
