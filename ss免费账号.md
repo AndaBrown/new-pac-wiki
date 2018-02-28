@@ -26,7 +26,7 @@ VPS推荐：
 
 **2018年2月28日删除无效服务器、更新服务器。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3377.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3379.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
