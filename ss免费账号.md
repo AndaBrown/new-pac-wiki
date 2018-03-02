@@ -26,7 +26,7 @@ VPS推荐：
 
 **2018年3月2日更新第3台服务器端口。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3379.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3380.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
