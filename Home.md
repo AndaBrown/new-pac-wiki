@@ -36,11 +36,11 @@
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年3月3日更新版本）
 
-[谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2017年12月26日发布）
+[谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2018年3月3日更新版本）
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年3月3日更新版本）
 
-[谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2017年10月29日更新WuJie版，更新无界浏览版本至17.02，增强抗封锁性）
+[谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2018年3月3日更新版本）
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年3月2日云端更新SSR版ip；2018年1月19日云端更新GoProxy ipv6版、GoAgent ipv6版、GoProxy Quic版、SSR版ip）
 
