@@ -18,7 +18,6 @@
 
 [国外云盘3下载](http://45.32.141.248:8000/f/56aa8dca16/?raw=1) 密码：12345678
 
-[国外云盘4下载](https://www.adrive.com/public/bSpUNS/Chrome53_gop_ipv6_v2018.3.3.7z) 密码：123
 
 
 
