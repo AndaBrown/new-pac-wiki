@@ -18,7 +18,6 @@
 
 [国外云盘3下载](http://108.61.224.82:8000/f/c3356d5da6/?raw=1) 密码：12345678
 
-[国外云盘4下载](https://www.adrive.com/public/R4evUG/Chrome53_goa_ipv6_v2018.3.3.7z) 密码：123
 
 
 
