@@ -1,4 +1,4 @@
-**2018年3月3日对教程细节方面进行补充和更新。**
+**2018年3月6日对教程细节方面进行补充和更新。**
 
 ***
 
@@ -237,6 +237,10 @@ chmod +x bbr.sh
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
 
 最后输入y重启服务器，如果输入y提示command not found ，接着输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
+
+服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
 
 ***
 
