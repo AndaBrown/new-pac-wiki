@@ -60,10 +60,6 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 简介：内容丰富，实时更新。包括：禁闻，禁片，小品，电影，纪录片，网粹，网摘，网博等。
 
-三、聚缘阁：https://git.io/gfree
-
-简介：动态节点，长期更新。
-
 
 **其它翻墙方法**
 
