@@ -34,7 +34,7 @@
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年3月3日更新版本）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年3月3日更新版本）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年3月13日云端更新ip）
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2018年3月3日更新版本）
 
