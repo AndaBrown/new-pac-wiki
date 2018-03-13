@@ -26,6 +26,8 @@
 
 **如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，说明这种翻墙方式已失效，请更换其它类型的软件。**
 
+**软件新增计划：3月23日之前发布v2ray版。**
+
 ***
 
 [谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年3月3日升级所有版本的浏览器内核为64，同时对不同的版本进行了对应的更新）
