@@ -22,13 +22,13 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2018年3月13日～14日：云端分别更新SSR版、GoProxy、Quic版、GoProxy ipv6版和GoAgent ipv6版ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。**
+**2018年3月13日～14日**：云端分别更新SSR版、GoProxy、Quic版、GoProxy ipv6版和GoAgent ipv6版ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。
 
-**关于ipv6版：如果你确认你的电脑系统成功开启了ipv6，但还是无法用ipv6版，或者ipv6版在你那里不稳定，你都可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址，文档里面列举了一些teredo服务器地址，具体哪个地址适合你，需要你自己来尝试。**
+**关于ipv6版**：如果你确认你的电脑系统成功开启了ipv6，但还是无法用ipv6版，或者ipv6版在你那里不稳定，你都可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址，文档里面列举了一些teredo服务器地址，具体哪个地址适合你，需要你自己来尝试。
 
-**关于Quic版：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"。根据反馈，Quic版在部分地区已恢复。**
+**关于Quic版**：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"。根据反馈，Quic版在部分地区已恢复。
 
-**软件新增计划：3月23日之前发布v2ray版。**
+**软件新增计划**：3月23日之前发布v2ray版。
 
 ***
 
