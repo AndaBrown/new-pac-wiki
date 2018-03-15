@@ -1,6 +1,6 @@
-**2018年2月6日更新：更新一键检测teredo服务器文件。**
+**2018年3月15日增加teredo服务器地址。**
 
-**GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出此教程。如果你试了各种方法还是开启不了IPV6，说明你那里的网络环境开启不了IPV6。翻墙软件除了两款IPV6版，还分享了很多其它不同类型的翻墙软件，比如GoProxy Quic版、SSR版、SkyZip版等，那么可以换其它类型的软件。**
+GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出此教程。如果你试了各种方法还是开启不了IPV6，说明你那里的网络环境开启不了IPV6。翻墙软件除了两款IPV6版，还分享了很多其它不同类型的翻墙软件，比如GoProxy Quic版、SSR版、SkyZip版等，那么可以换其它类型的软件。
 
 电脑系统开启ipv6的步骤如下：
 
@@ -30,11 +30,15 @@
 
 ***
 
-**补充：**
+**注意：**
 
-开启ipv6.bat脚本内置的是teredo的一个服务器，如果未来这个服务器被墙了，可以换备用的服务器，每一行代表一个服务器，如下：
+开启ipv6.bat脚本内置的是teredo的一个服务器，如果未来这个服务器被墙了或者不稳定，你都可以换备用的服务器来尝试，每一行代表一个服务器，如下：
+
+win10.ipv6.microsoft.com
 
 teredo2.remlab.net
+
+win1710.ipv6.microsoft.com
 
 teredo-debian.remlab.net
 
@@ -47,6 +51,10 @@ teredo.ngix.ne.kr
 teredo.autotrans.consulintel.com
 
 teredo.managemydedi.com
+
+teredo.trex.fi
+
+debian-miredo.progsoc.org
 
 替换方法：右键点击开启ipv6.bat，选择“编辑”，找到server=teredo.remlab.net （总共有两处相同的，都要替换！） ，将teredo.remlab.net替换成上面的其中1个服务器地址，保存即可。
 
