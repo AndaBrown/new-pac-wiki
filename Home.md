@@ -24,7 +24,7 @@
 
 **2018年3月14日公告：云端更新GoProxy ipv6版和GoAgent ipv6版google ipv6 ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。如果你确认你的电脑系统成功开启了ipv6，但还是无法用ipv6版，或者ipv6版在你那里不稳定，你都可以按照使用说明文档手动替换一键启动.bat文件里面的teredo服务器地址，文档里面列举了一些teredo服务器地址，具体哪个地址适合你，需要你自己来尝试。**
 
-**GoProxy Quic已失效，请更换其它类型的软件。**
+**如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，说明Quic版这种翻墙方式已失效，请更换其它类型的软件。**
 
 **软件新增计划：3月23日之前发布v2ray版。**
 
