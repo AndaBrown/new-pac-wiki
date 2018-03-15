@@ -8,8 +8,6 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid1.png)
 
-PS：如果想注册google账号但没有手机号，一是可以用这个网站 https://www.textnow.com/ ，可以注册一个账号，然后该网站会分配给你一个美国号码，通常输入一下美国某个州的区号，然后就会给你一个那个州的号码；或者去淘宝上买个账号，或者代注册服务。淘宝有很多代收验证码的。
-
 **按图操作后，创建自己的appid名字**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid2.png)
