@@ -24,7 +24,7 @@
 
 **2018年3月13日～14日**：云端分别更新SSR版、GoProxy、Quic版、GoProxy ipv6版和GoAgent ipv6版ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。
 
-**关于ipv6版**：如果你确认你的电脑系统成功开启了ipv6，但还是无法用ipv6版，或者ipv6版在你那里不稳定，你都可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址，文档里面列举了一些teredo服务器地址，具体哪个地址适合你，需要你自己来尝试。
+**关于ipv6版**：如果你确认你的电脑系统成功开启了ipv6，但还是无法用ipv6版，或者ipv6版在你那里不稳定，你都可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址。
 
 **关于Quic版**：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，说明Quic版在你所在地区被封锁，你可以更换其它类型的软件。根据反馈，Quic版在部分地区已恢复。
 
