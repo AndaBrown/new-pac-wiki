@@ -65,7 +65,7 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/appid15.png)
 
-**如果卡在某个步骤或者没有出现部署成功标志，关闭部署窗口，重新运行uploader.bat  **
+**如果卡在某个步骤或者没有出现部署成功标志，关闭部署窗口，重新运行uploader.bat。**
 
 **部署成功后，就可以用自己的appid替换软件自带的appid了。**
 
