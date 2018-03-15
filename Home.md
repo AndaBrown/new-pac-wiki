@@ -26,7 +26,7 @@
 
 **关于ipv6版**：如果你的电脑系统运行开启ipv6.bat文件无法成功开启ipv6，或者开启ipv6后不稳定，多半是开启ipv6.bat文件默认的teredo服务器在你所在地区被封的原因造成的，可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址，再重新运行它。
 
-**关于Quic版**：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，说明Quic版在你所在地区被封锁，你可以更换其它类型的软件。根据反馈，Quic版在部分地区已恢复。
+**关于Quic版**：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，很可能是Quic协议在你所在地区被封锁，你可以更换其它类型的软件。根据反馈，Quic版在部分地区已恢复。
 
 **软件新增计划**：3月23日之前发布v2ray版。
 
