@@ -1,9 +1,6 @@
-**2017年12月11日：搜ip教程已失效。**
-***
+**本教程用于GoAgent和GoProxy相关版本，用的是相同的4000个appid，每个appid每天有1G流量，随着使用人数的增加，未来可能会满足不了，故出此教程。每天北京时间下午4点谷歌流量会重置，也就是4点之后流量又是全新的。**
 
-**本教程用于GoAgent版和GoProxy版，这两款版本用的是相同的4000个appid，每个appid每天有1G流量，随着使用人数的增加，未来可能会满足不了，故出此教程。每天北京时间下午4点谷歌流量会重置，也就是4点之后流量又是全新的。**
-
-### 第一部分——自建APPID教程
+### 自建Google APPID教程
 
 **此教程推荐用GoProxy来上传（部署）appid。创建appid可以用它翻墙方式，创建好的appid需要上传到GAE服务器，此时需要用GoProxy相关版本来上传。**
 
@@ -100,52 +97,5 @@ PS：如果想注册google账号但没有手机号，一是可以用这个网站
 
 
 ***
-
-### 第二部分——自己搜谷歌ip教程 （已失效）
-
-**首先电脑先安装NET4.6或NET4.0，XP系统装4.0的。如果不安装NET，没法正常运行搜ip工具。然后下载搜ip工具——MFF**
-
-win7、win8、win10版 MFF_net4.6_v2017.9.19.rar  [国外云盘下载地址](https://nofile.io/f/ZpOzHJygpE1/MFF_net4.6_v2017.9.19.7z) 
- [百度云盘下载](https://pan.baidu.com/s/1mi3Ml4W) 密码：73mg  （第一次打开如果出现页面不存在，刷新一下网页）
-
-win xp版 MFF_net4.0_v2017.9.19.rar [国外云盘下载地址](https://nofile.io/f/RaVwz4VndBR/MFF_net4.0_v2017.9.19.7z)  [百度云盘下载](https://pan.baidu.com/s/1gfIj8jT) 密码：is77 （第一次打开如果出现页面不存在，刷新一下网页）
-
-**下载后解压出来；使用前要先退出杀毒软件，以免被误报，如果不幸被误删了，请重新解压**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip1.png)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip2.png)
-
-运行搜ip工具（ps：该工具由网友开发分享，工具名字有点不雅，请见谅）
-
-**把名字为“内置ip段.txt"文件拖到搜ip工具中，就可以自动导入“内置ip段.txt"里面的ip，或者点击软件界面上的“测试ip池”上面的下拉菜单，选择“内置ip段”也可以导入ip。**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip3.png)
-
-**关于线程数和超时说明如图：**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip4.png)
-
-**我把线程数调到了400，超时300，搜了几分钟后，搜到了44个ip**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip5.png)
-
-### 单击延迟按钮可以将搜到的ip进行排序。特别提醒：每个ip都能看到归属地，如果发现有归属地为中国的，搜完ip后将它去除，因为归属地为中国的ip不仅仅没法使用，如果和国外的ip混在一起还会起干扰作用，会影响正常翻墙。
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip6.png)
-
-**选中要导入的ip，右键，如果是要导入到GoProxy版，请选择第一个；如果是要导入到GoAgent版，请选择第三个**
-
-**以GoAgent版为例，选择第三个ip格式后，打开GoAgent版的proxy.user.ini，替换前面两行，第三行为gws ip，把你之前搜到的ip按ip类型排序，然后选中gws ip复制到第三行即可**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip7.png)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip8.png)
-
-**以GoProxy版为例，选择第一个ip格式后，打开GoProxy版的gae.user.json，替换如图所示的那行即可，GoProxy版不分gws和gvs ip**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/搜ip9.png)
-
-**替换ip之后点击保存，然后亲测翻墙。**
 
 以上就是全部教程了，有问题可以发邮件到kebi2014@gmail.com
