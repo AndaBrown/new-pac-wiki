@@ -26,7 +26,7 @@ VPS推荐：
 
 **2018年3月18日删除无效账号、更新ipv6账号。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3385.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3386.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
