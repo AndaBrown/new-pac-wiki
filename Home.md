@@ -24,15 +24,14 @@
 
 **2018年3月13日～14日**：云端分别更新SSR版、GoProxy、Quic版、GoProxy ipv6版和GoAgent ipv6版ip，按照使用说明运行ip更新文件即可同步到最新的云端配置。
 
-**关于ipv6版**：如果你的电脑系统运行开启ipv6.bat文件无法成功开启ipv6，或者开启ipv6后不稳定，多半是开启ipv6.bat文件默认的teredo服务器在你所在地区被封的原因造成的，可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址，再重新运行它。
+**关于ipv6版**：如果你的电脑系统运行开启ipv6.bat文件无法成功开启ipv6，或者开启ipv6后不稳定，浏览器提示“dial tcp6 [2a00:1450:400e:808::200a]:443: connectex: A socket operation was attempted to an unreachable host"，多半是开启ipv6.bat文件默认的teredo服务器在你所在地区被封的原因造成的，可以按照使用说明文档或[最新的ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95)手动替换开启ipv6.bat文件里面的teredo服务器地址，再重新运行它。
 
 **关于Quic版**：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，很可能是Quic协议在你所在地区被封锁，你可以更换其它类型的软件。根据反馈，Quic版在部分地区已恢复。
 
-**软件新增计划**：3月23日之前发布v2ray版。
 
 ***
 
-[谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年3月3日升级所有版本的浏览器内核为64，同时对不同的版本进行了对应的更新）
+[谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年3月20日发布v2ray版；2018年3月3日升级所有版本的浏览器内核为64，同时对不同的版本进行了对应的更新）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年3月15日增加teredo服务器地址）
 
@@ -44,14 +43,15 @@
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年3月13日云端更新ip）
 
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年3月20日发布）
+
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2018年3月3日更新版本）
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年3月3日更新版本）
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2018年3月3日更新版本）
 
-
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年3月4日对所有的版本进行了对应的更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年3月20日发布v2ray版；2018年3月4日对所有的版本进行了对应的更新）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月22日更新）
 
