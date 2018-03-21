@@ -24,9 +24,11 @@ VPS推荐：
 
 为保证每个用户都能获得一定的带宽资源，单个用户限速100kb/s。以下账号SSR客户端和SS客户端都能使用。禁止使用账号进行BT下载、发送垃圾邮件。如果使用ipv6账号，需要将自己的电脑开启ipv6网络，ipv6账号是为那些有ipv6这方面需求的用户提供的，一般的人用普通的ip即可。
 
-**2018年3月19日升级服务器内存等配置，提高服务器容量。**
+**2018年3月21日更新密码、增加账号。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3386.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3801.PNG)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3802.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
