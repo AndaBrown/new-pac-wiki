@@ -28,7 +28,7 @@ VPS推荐：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3801.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3802.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3803.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
