@@ -59,7 +59,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian1.png)
 
 
 ### 为了配合第三步的v2ray一键搭建脚本，vps操作系统推荐选择Debian 8，其它支持系统有Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持centos 6系统！centos 6是ss/ssr搭建教程的推荐系统，但centos 6不支持v2ray一键搭建脚本！）
@@ -68,7 +68,7 @@ vultr注册地址： http://www.vultr.com/?ref=7048874 （全球15个服务器�
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程06.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian2.png)
 
 
 **删掉服务器步骤如下图**：
@@ -132,7 +132,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ———————————————————代码分割线————————————————
 
-
+复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：v2ray
 
 
 
