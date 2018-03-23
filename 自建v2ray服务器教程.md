@@ -193,7 +193,7 @@ chmod +x bbr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
 
-运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks5 127.0.0.1 和1080 即可通过v2ray代理上网。
+运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
 
 ***
 
