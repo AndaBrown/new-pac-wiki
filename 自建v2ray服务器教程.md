@@ -160,3 +160,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
