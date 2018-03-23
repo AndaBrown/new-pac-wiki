@@ -145,6 +145,18 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian9.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian10.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian11.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian13.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian14.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
