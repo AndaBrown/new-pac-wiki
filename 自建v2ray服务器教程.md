@@ -1,4 +1,4 @@
-**2018年3月23日发布,待完善。**
+**2018年3月23日发布，待完善。**
 
 ### 不怕被封ip，因为vultr是折算成小时计费，且可以随时删除和开通服务器，新服务器就是新的ip。新开服务器只需要0.01美元，即使你运气非常不好，开了10台服务器才获得没有被墙的ip，总创建服务器成本也只有0.1美元，不到1块钱。
 
@@ -166,6 +166,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
+
+运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks 127.0.0.1 和1080 即可通过v2ray代理上网。
 
 ***
 
