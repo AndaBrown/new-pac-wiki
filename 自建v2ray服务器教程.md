@@ -135,4 +135,13 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：v2ray
 
 
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian3.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian4.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian5.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian7.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian3.png)
 
