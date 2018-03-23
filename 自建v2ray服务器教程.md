@@ -161,6 +161,12 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
 
+[v2ray客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
+
+***
+
+有问题可以发邮件至海外邮箱kebi2014@gmail.com
