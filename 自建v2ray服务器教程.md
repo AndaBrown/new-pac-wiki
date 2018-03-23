@@ -165,6 +165,28 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
 
+**第三步：一键加速VPS服务器**
+
+此加速教程为谷歌BBR加速,Vultr的服务器框架可以装BBR加速，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
+
+按照第二步的步骤，连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
+
+【谷歌BBR加速教程】
+
+yum -y install wget
+
+wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+
+chmod +x bbr.sh
+
+./bbr.sh
+
+把上面整个代码复制后粘贴进去，不动的时候按回车，然后耐心等待。最后输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
+
+### 需要注意的是：不管是重启服务器，还是以后想修改之前vps上网的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。
+
+【v2ray客户端下载】
+
 [v2ray客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
