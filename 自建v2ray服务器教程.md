@@ -145,23 +145,43 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian5.png)
 
+如上图，输入快捷管理命令v2ray后，开始进行v2ray服务端配置。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian7.png)
+
+如上图，输入数字2进行更改配置，共有6个子选项，包括：更改UUID、更改主端口、更改加密方式、更改传输方式、更改TLS设置、更改广告拦截功能。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
 
+如上图，输入数字1来更改新的UUID号，弹出提示后，输入字母y来确认。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian9.png)
+
+修改UUID号，界面会回到v2ray主界面，重新输入2进入更改配置选项，在输入数字2来更改主端口，主端口范围40～65535
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian10.png)
 
+重新进入更改配置选项，输入数字3来更改加密方式，加密方式有4种，最后1种为不加密。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian11.png)
+
+**接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
 
+进行了更改配置的设置后，输入数字3可以查看自己设置的v2ray信息。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian13.png)
+
+**最后一步很关键，那就是启动服务，进入主界面后，输入数字1，然后输入1启动v2ray服务。以后，每次你更改配置或重启vps服务器后都要进行启动服务，请牢记！**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian14.png)
 
+window电脑采用xshell软件，可以很方便的将配置文件导出，方便配置v2ray客户端。选择数字4，出现提示后，输入字母y，选择电脑路径即可。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
+
+**下面这个config.jason文件就是我们刚刚配置的v2ray文件，如果以后更改了v2ray服务端信息，那么你需要重新导出config.jason文件。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
 
