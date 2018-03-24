@@ -183,6 +183,12 @@ chmod +x bbr.sh
 
 把上面整个代码复制后粘贴进去，不动的时候按回车，然后耐心等待。最后输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
+演示开始，如图：
+
+复制并粘贴代码后，按回车键确认
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/18.png)
+
 如下图提示，按任意键继续部署
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
