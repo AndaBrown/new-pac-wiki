@@ -179,6 +179,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 window电脑采用xshell软件，可以很方便的将配置文件导出，方便配置v2ray客户端。选择数字4，出现提示后，输入字母y，选择电脑路径即可。
 
+> vps服务器里面的config.json配置文件存放路径为 /etc/v2ray/config.json 
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
 
 **下面这个config.jason文件就是我们刚刚配置的v2ray文件，如果以后更改了v2ray服务端信息，那么你需要重新导出config.jason文件。**
