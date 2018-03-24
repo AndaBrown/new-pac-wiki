@@ -206,6 +206,8 @@ chmod +x bbr.sh
 
 [v2ray客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
+以v2ray windows版为例：
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
 
 下载windows版客户端后解压出来，然后替换config.json配置文件。
