@@ -1,4 +1,4 @@
-**2018年3月24日发布。**
+**2018年3月25日对教程细节方面进行补充和更新。**
 
 
 ***
@@ -158,7 +158,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian9.png)
 
-修改UUID号，界面会回到v2ray主界面，重新输入2进入更改配置选项，在输入数字2来更改主端口，主端口范围40～65535
+修改UUID号，界面会回到v2ray主界面，重新输入2进入更改配置选项，在输入数字2来更改主端口，主端口范围40～65535，但不要以0开头！
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian10.png)
 
