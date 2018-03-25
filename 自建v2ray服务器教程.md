@@ -223,6 +223,8 @@ chmod +x bbr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
 
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian19.png)
+
 整个部署过程需要2～5分钟，最后输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
