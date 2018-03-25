@@ -150,8 +150,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian7.png)
 
-如上图，输入数字2进行更改配置，共有6个子选项，包括：更改UUID、更改主端口、更改加密方式、更改传输方式、更改TLS设置、更改广告拦截功能。
-
+如上图，输入数字2进行更改配置，共有6个子选项，包括：更改UUID、更改主端口、更改加密方式、更改传输方式、更改TLS设置（有域名才行）、更改广告拦截功能。（更改TLS设置和更改广告拦截功能不用设置）
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
 
 如上图，输入数字1来更改新的UUID号，弹出提示后，输入字母y来确认。
