@@ -134,6 +134,8 @@ Debian8（推荐）/Debian7/Ubuntu16/Ubuntu14/centos7 v2ray一键部署管理脚
 
 安装脚本命令：
 
+apt-get install curl -y
+
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/master/install.sh)"
 
 卸载脚本命令：
