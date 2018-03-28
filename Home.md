@@ -29,7 +29,7 @@
 
 ***
 
-[谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年3月21日云端更新v2ray版配置；2018年3月3日升级所有版本的浏览器内核为64，同时对不同的版本进行了对应的更新）
+[谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年3月28日云端更新v2ray版配置；2018年3月3日升级所有版本的浏览器内核为64，同时对不同的版本进行了对应的更新）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年3月15日增加teredo服务器地址）
 
@@ -41,7 +41,7 @@
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年3月23日云端更新ip）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年3月21日云端更新v2ray版配置）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年3月28日云端更新v2ray版配置）
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2018年3月3日更新版本）
 
@@ -49,7 +49,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2018年3月3日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年3月21日云端更新v2ray版配置；2018年3月4日对所有的版本进行了对应的更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年3月28日云端更新v2ray版配置；2018年3月4日对所有的版本进行了对应的更新）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月22日更新）
 
@@ -57,7 +57,7 @@
 
 [自建SS/SSR服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年3月27日对教程细节方面进行补充和更新）
 
-[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年3月27日对教程细节方面进行补充和更新）
+[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年3月28日对教程细节方面进行补充和更新）
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2017年12月30日更新Xndroid1.1.6）
 
