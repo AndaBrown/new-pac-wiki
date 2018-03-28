@@ -134,8 +134,6 @@ Debian8（推荐）/Debian7/Ubuntu16/Ubuntu14/centos7 v2ray一键部署管理脚
 
 安装脚本命令：
 
-apt-get install curl -y
-
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/master/install.sh)"
 
 卸载脚本命令：
@@ -208,8 +206,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 按照第二步的步骤，连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
 
 【谷歌BBR加速教程】
-
-apt-get install wget -y 
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
