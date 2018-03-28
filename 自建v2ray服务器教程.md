@@ -209,7 +209,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 【谷歌BBR加速教程】
 
-yum -y install wget
+apt-get install wget -y 
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
