@@ -34,11 +34,7 @@ GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出�
 
 开启ipv6.bat脚本内置的是teredo的一个服务器，如果未来这个服务器被墙了或者不稳定，你都可以换备用的服务器来尝试，每一行代表一个服务器，如下：
 
-win10.ipv6.microsoft.com
-
 teredo2.remlab.net
-
-win1710.ipv6.microsoft.com
 
 teredo-debian.remlab.net
 
@@ -55,6 +51,11 @@ teredo.managemydedi.com
 teredo.trex.fi
 
 debian-miredo.progsoc.org
+
+win1710.ipv6.microsoft.com
+
+win10.ipv6.microsoft.com
+
 
 替换方法：右键点击开启ipv6.bat，选择“编辑”，找到server=teredo.remlab.net （总共有两处相同的，都要替换！） ，将teredo.remlab.net替换成上面的其中1个服务器地址，保存后重新运行开启ipv6.bat文件。
 
