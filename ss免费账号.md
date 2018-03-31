@@ -28,7 +28,7 @@ VPS推荐：
 
 **2018年3月30日更新端口和密码。如果没有特殊情况，下次更新时间为4月13日。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3805.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3388.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
