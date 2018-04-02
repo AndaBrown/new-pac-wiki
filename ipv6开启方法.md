@@ -44,7 +44,7 @@
 
 **输入数字2，查看Teredo隧道状态，当服务器名称是你手动设置的Teredo服务器名称表明设置成功**
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6-5.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6-6.PNG)
 
 **之后，关掉脚本，30秒之后打开一键启动.bat启动翻墙插件和浏览器，如果用浏览器能成功翻墙，表明你选择的Teredo服务器在你所在地区处于可用状态，如果不能翻墙，表明你选择的Teredo服务器被封锁，那么请重复上面的步骤更换Teredo服务器。如果所有的Teredo服务器都尝试了，但还是不能翻墙，说明你所在地区Teredo隧道被完全封锁，至少目前是这样，至于以后会不会解封处于未知状态，此时最好的办法就是更换其它类型的软件。**
 
