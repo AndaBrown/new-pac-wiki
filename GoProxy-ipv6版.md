@@ -14,6 +14,8 @@
 
 [国外云盘1下载](http://108.61.224.82:8000/f/d2ed9b84ee/) 密码：12345678
 
+[国外云盘1下载](http://45.32.141.248:8000/f/44aed2f7f4/) 密码：12345678
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53new-ipv6.PNG)
