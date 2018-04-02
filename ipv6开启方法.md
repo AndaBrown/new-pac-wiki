@@ -1,8 +1,6 @@
-**2018年3月15日增加teredo服务器地址。**
+**2018年4月2日更新。**
 
-GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出此教程。如果你试了各种方法还是开启不了IPV6，说明你那里的网络环境开启不了IPV6。翻墙软件除了两款IPV6版，还分享了很多其它不同类型的翻墙软件，比如GoProxy Quic版、SSR版、SkyZip版等，那么可以换其它类型的软件。
-
-电脑系统开启ipv6的步骤如下：
+**电脑系统开启ipv6的步骤如下：**
 
 1、打开控制面板---网络和共享中心--点本地连接---点属性---点tcp/IPv6----点属性---点使用下面的DNS服务器---在上面一行复制黏贴 2001:4860:4860::8888 下面一行复制黏贴 2001:4860:4860::8844 确定。如图：
 
@@ -16,77 +14,50 @@ GoAgent ipv6版和GoProxy ipv6版需要电脑开启ipv6后才能使用，故出�
 
 2620:0:ccd::2
 
-2、以管理员身份运行一键开启ipv6脚本
+2、以管理员身份运行一键**配置ipv6.bat**脚本
 
-开启ipv6.bat [国外云盘1下载](http://45.32.141.248:8000/f/1679fb1b2d/?raw=1)  [国外云盘2下载](https://nofile.io/f/z6kjYEP42St/%E5%BC%80%E5%90%AFipv6.bat) 
+配置ipv6.bat [国外云盘1下载](https://nofile.io/f/SbesKuddq25/%E9%85%8D%E7%BD%AEIPv6.bat) 
 
 关闭ipv6.bat  [国外云盘1下载](http://45.32.141.248:8000/f/6a0270b4eb/?raw=1) [国外云盘2下载](https://nofile.io/f/v1GCKWvgS9z/%E5%85%B3%E9%97%ADipv6.bat) 
 
-右键选择“以管理员身份运行ipv6.bat文件后，需要等待3～5分钟才能设置好，如图如下：
+右键选择“以管理员身份运行**配置ipv6.bat**文件后，需要等待30～5分钟才能设置好，如图如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6-13.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6
+-0.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-4.PNG)
+**之后会出现以下界面：**
 
-***
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6
+-1.PNG)
 
-**注意：**
+**输入数字1来手动设置Teredo服务器，敲回车键会出现以下界面：**
 
-开启ipv6.bat脚本内置的是teredo的一个服务器，如果未来这个服务器被墙了或者不稳定，你都可以换备用的服务器来尝试，每一行代表一个服务器，如下：
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6
+-2.PNG)
 
-win1710.ipv6.microsoft.com
+**脚本内置11个Teredo服务器，一次选1个服务器即可，可以从上往下依次测试。输入Teredo服务器对应前面的数字，之后敲回车键，耐心等待30秒～2分钟，会出现以下界面：**
 
-win10.ipv6.microsoft.com
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6
+-3.PNG)
 
-teredo2.remlab.net
+**当界面出现“操作完成”，脚本会自动返回主界面**
 
-teredo-debian.remlab.net
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6
+-4.PNG)
 
-teredo.ginzado.ne.jp
+**输入数字2，查看Teredo隧道状态，当服务器名称是你手动设置的Teredo服务器名称表明设置成功**
 
-teredo.iks-jena.de
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6
+-5.PNG)
 
-teredo.ngix.ne.kr
+**之后，关掉脚本，30秒之后打开一键启动.bat启动翻墙插件和浏览器，如果用浏览器能成功翻墙，表明你选择的Teredo服务器在你所在地区处于可用状态，如果不能翻墙，表明你选择的Teredo服务器被封锁，那么请重复上面的步骤更换Teredo服务器。如果所有的Teredo服务器都尝试了，但还是不能翻墙，说明你所在地区Teredo隧道被完全封锁，至少目前是这样，至于以后会不会解封处于未知状态，此时最好的办法就是更换其它类型的软件。**
 
-teredo.autotrans.consulintel.com
-
-teredo.managemydedi.com
-
-teredo.trex.fi
-
-debian-miredo.progsoc.org
-
-
-替换方法：右键点击开启ipv6.bat，选择“编辑”，找到server=teredo.remlab.net （总共有两处相同的，都要替换！） ，将teredo.remlab.net替换成上面的其中1个服务器地址，保存后重新运行开启ipv6.bat文件。
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ipv6/ipv6-102.PNG)
-
-**2018年2月6日更新一键检测teredo服务器文件**：teredo-test-2018.2.6 [国外云盘1下载](http://45.32.141.248:8000/f/d13e465752/)   [国外云盘2下载](https://nofile.io/f/d1VmHY2XafZ/teredo-test-2018.2.6.rar) 
-下载后解压出来，运行teredo.bat脚本，本脚本会批量检测teredo服务器的连通性，选择is accessible的服务器。因为teredo服务器比较多，当遇到ipv6被干扰严重的时候，使用一键检测脚本可以快速帮助用户知道目前哪个服务器连通性比较好，然后替换开启ipv6.bat脚本的默认服务器，提高方便性。（如果这个一键检测脚本不好用，那就手动一个一个的去替换服务器来尝试）
+**注意：当电脑重启后，需要重新设置Teredo服务器，因为本脚本不是永久设置！**
 
 ***
 
-3、验证ipv6是否开启
 
-打开 http://test-ipv6.com/ 网站，它会自动检测网络是否开启ipv6，如果开启了ipv6，会出现
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-5.PNG)
-
-如果未开启，会出现
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goagent_ipv6/ipv6-0.PNG)
-
-**由于开启ipv6.bat脚本不是永久设置，所以重启后的电脑翻墙前需要再次运行ipv6脚本！**
-
-***
-
-如果上面的教程电脑系统不能开启ipv6，那么可以用微软的开启ipv6工具或者用下面的**其它方法**来尝试开启ipv6。 [微软开启ipv6工具下载页面](https://support.microsoft.com/zh-cn/help/929852/how-to-disable-ipv6-or-its-components-in-windows)  
-
-1、如果“开启ipv6.bat”能测试成功，不用运行微软提供的启用 IPv6的工具。反之可以选择页面上的微软工具尝试开启IPv6，下载第二排最后1个，运行或者直接运行都可以。
-
-2、如果ipv6能正常开启，将系统服务“IP Helper”设为“自动”，则重启电脑之后，ipv6应该是正常的，不用再运行“开启ipv6.bat”。
-
-**其它方法**：
+**其它开启ipv6方法**：
 
 各操作系统情况不同，方法也不一样。
 
