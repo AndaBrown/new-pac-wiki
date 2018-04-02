@@ -26,6 +26,7 @@
 
 **关于Quic版**：如果你将GoProxy Quic版更新到最新的ip，但仍然用不了，浏览器提示"error": "read udp: closing session in order to recreate it with a new version"，很可能是Quic协议在你所在地区被封锁，你可以更换其它类型的软件。根据反馈，Quic版在部分地区已恢复。
 
+**2018年4月2日公告：很快将发布ipv6新版，解决近期ipv6版不好用的问题。**
 
 ***
 
