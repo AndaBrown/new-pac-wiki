@@ -22,7 +22,7 @@
 
 关闭ipv6.bat  [国外云盘1下载](http://45.32.141.248:8000/f/6a0270b4eb/?raw=1) [国外云盘2下载](https://nofile.io/f/v1GCKWvgS9z/%E5%85%B3%E9%97%ADipv6.bat) 
 
-右键选择“以管理员身份运行**配置ipv6.bat**文件后，如图如下：
+右键选择“以管理员身份运行**配置ipv6.bat**文件
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6-0.PNG)
 
