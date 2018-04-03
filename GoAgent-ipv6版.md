@@ -16,6 +16,7 @@
 
 [国外云盘2下载](http://108.61.224.82:8000/f/4401452e8d/) 密码：12345678
 
+[国内云盘下载](https://pan.baidu.com/s/1CBHjsEwXj0T_tbXZjLJn3w) 密码：maxs
 
 实例图：
 
