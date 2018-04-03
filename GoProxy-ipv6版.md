@@ -14,6 +14,8 @@
 
 [国内云盘下载](https://pan.baidu.com/s/1fa3O9B3oHc5iaeicpnMXQA) 密码：hk62
 
+其它网盘下载地址待补充
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53new-ipv6.PNG)
