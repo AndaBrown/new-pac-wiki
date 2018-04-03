@@ -30,7 +30,7 @@
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年4月2日更新一键配置ipv6脚本）
 
-[谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2018年4月2日更新版本）
+[谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2018年4月4日更新版本，补充配置ipv6文件）
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年4月2日更新版本）
 
