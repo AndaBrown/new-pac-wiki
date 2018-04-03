@@ -18,7 +18,7 @@
 
 2、以管理员身份运行一键**配置ipv6.bat**脚本
 
-配置ipv6.bat  [国外云盘1下载](http://45.32.141.248:8000/f/06b0039dab/?raw=1) [国外云盘2下载](http://108.61.224.82:8000/f/b246dea5b8/?raw=1) [国外云盘3下载](https://nofile.io/f/SbesKuddq25/%E9%85%8D%E7%BD%AEIPv6.bat) 
+配置ipv6.bat  [国外云盘1下载](http://45.32.141.248:8000/f/06b0039dab/?raw=1) [国外云盘2下载](http://108.61.224.82:8000/f/b246dea5b8/?raw=1) [国外云盘3下载](https://nofile.io/f/SbesKuddq25/%E9%85%8D%E7%BD%AEIPv6.bat) [国内云盘下载](https://pan.baidu.com/s/1dJFdMZiSkfAK7XsTzUdtSQ)
 
 关闭ipv6.bat  [国外云盘1下载](http://45.32.141.248:8000/f/6a0270b4eb/?raw=1) [国外云盘2下载](https://nofile.io/f/v1GCKWvgS9z/%E5%85%B3%E9%97%ADipv6.bat) 
 
