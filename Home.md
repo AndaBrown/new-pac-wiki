@@ -24,6 +24,14 @@
 
 **2018年4月2日公告：更新GoProxy ipv6和GoAgent ipv6版本。如果所有的teredo的服务器都尝试过，还是不行的话，推测是google ipv6已被全部封锁。建议换其它类型的软件，比如QUIC版、v2ray版、SSR版等**
 
+**一点感想和建议**：
+
+随着时间的推移，google ip被封锁的越来越厉害，从几年前很火的GoAgent，用的是google ipv4，那个时候google ipv4基数很大，几十万以上的有效数目很容易就能搜到，当时很多人都认为这么多的google ipv4 不可能被封完，但就在去年几乎国内99%的地区无法使用google ipv4。之后有了GoProxy Quic，但这种Quic协议并不适应所有的地区，有的地区还是无法使用。今天根据反馈，google ipv6可能国内大多数地区已被全部封锁，至于以后会不会解封，这是未知的。与GoAgent和GoProxy相关的所有版本其本质是利用的谷歌服务器中转，当所有的google各种ip类型被封尽时，表明不能再用这些版本了，确实很可惜！
+
+然而，我们不能把希望寄托在不可控的未来，就像前段时间本页面无法打开一样，很多人包括我都很着急。所以最好自己要有稳定的备选方案才能保证自己想翻墙时就能翻出去。我建议有电脑的朋友，从现在开始都可以尝试学习一下自己搭建翻墙服务器，目前有两种有效的方式，分别是[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)或[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 因为教程很详细，适合新手，不用担心自己学不会，有问题可以问我的。
+
+最后，免费的翻墙软件仍然会继续维护。
+
 ***
 
 [谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年4月2日更新GoProxy ipv6和GoAgent ipv6版本）
