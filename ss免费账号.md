@@ -19,6 +19,10 @@ VPS推荐：
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
+vultr最近出了一个充值5美元送25美元的活动，[活动地址](https://www.vultr.com/promo25b?ref=7048874) 活动仅限新注册用户，老用户不行，充值方式paypal和信用卡，支付宝支付不能参与本次活动，而且paypal和信用卡在vultr上支付过。vultr客服说活动没有具体截至时间，随时都可能截至，这是一个很好的机会。如果你打开活动地址，出现以下图片，表明活动仍在继续中
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/vultr25.PNG)
+
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
