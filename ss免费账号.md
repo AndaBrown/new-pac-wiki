@@ -19,7 +19,7 @@ VPS推荐：
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
-vultr最近出了一个充值5美元送25美元的活动，[活动地址](https://www.vultr.com/promo25b?ref=7048874) 本次活动仅限新注册用户，老用户不行，充值方式是paypal或信用卡，支付宝支付不能参与本次活动，而且paypal和信用卡在vultr上从未支付过。vultr客服说活动没有具体截至时间，随时都可能截至，送的25美元有效期为1年，因为vultr很少有1年有效期的送金活动，所以说这是一个很好的机会。如果你打开活动地址，出现以下图片，表明活动仍在继续中。如果你满足条件，但充值后账号未收到额外的25美元，你可以发工单（ticket）和客服进行沟通。
+vultr最近出了一个充值5美元送25美元的活动，[活动地址](https://www.vultr.com/promo25b?ref=7048874) 本次活动仅限新注册用户，老用户不行，充值方式是paypal或信用卡，支付宝支付不能参与本次活动，而且paypal和信用卡在vultr上从未支付过。活动没有具体截至时间，随时都可能截至，送的25美元有效期为1年，因为vultr很少有1年有效期的送金活动，所以说这是一个很好的机会。如果你打开活动地址，出现以下图片，表明活动仍在继续中。如果你满足条件，但充值后账号未收到额外的25美元，你可以发工单（ticket）和客服进行沟通。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/vultr25.PNG)
 
