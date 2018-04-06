@@ -22,7 +22,7 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
-**2018年4月2日公告**：更新GoProxy ipv6和GoAgent ipv6版本。如果你那里所有的teredo的服务器都尝试过，还是不能翻墙，浏览器提示“dial tcp6 [2a00:1450:400e:808::200a]:443: connectex: A socket operation was attempted to an unreachable host"，推测是google ipv6 ip在你所在地区已被全部封锁，所以ipv6版用不了。建议换其它类型的软件，比如GoProxy Quic版、v2ray版、SSR版等
+**2018年4月2日公告**：更新GoProxy ipv6和GoAgent ipv6版本。如果你那里所有的teredo的服务器都尝试过，还是不能翻墙，浏览器提示"error": "dial tcp6 [2404:6800:400b:2d::b]:443: i/o timeout"，推测是google ipv6 ip在你所在地区已被全部封锁，所以ipv6版用不了。建议换其它类型的软件，比如GoProxy Quic版、v2ray版、SSR版等
 
 **一点感想和建议**：随着时间的推移，google ip被封锁的越来越厉害，从几年前很火的GoAgent，用的是google ipv4，那个时候google ipv4基数很大，几十万以上的有效数目很容易就能搜到，当时很多人都认为这么多的google ipv4 不可能被封完，但就在去年几乎国内99%的地区无法使用google ipv4。之后有了GoProxy Quic，但这种Quic协议并不适应所有的地区，有的地区还是无法使用。2018年4月4日根据反馈，google ipv6可能国内大多数地区已被全部封锁，至于以后会不会解封，这是未知的。与GoAgent和GoProxy相关的所有版本其本质是利用的谷歌服务器中转，当所有的google各种ip类型被封尽时，表明不能再用这些版本了，确实很可惜！
 
