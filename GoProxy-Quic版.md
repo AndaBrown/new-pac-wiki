@@ -4,7 +4,7 @@
 
 压缩包名称Chrome53_gop_quic_v2018.3.3 ，文件大小154.9M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49内核和win7及以上系统53内核），共计86M。
 
-win7、win8、win10系统可选择[谷歌浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
+win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
 
 GoProxy Quic版适合封锁比较严重的地区，目前还不完善，不适合用于下载超过32M的文件。在使用过程中，如果遇到网页卡死或者其它问题，可以通过刷新网页或者重启软件来尝试着解决。
 
