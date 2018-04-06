@@ -14,6 +14,8 @@
 
 [国内云盘下载](https://pan.baidu.com/s/1Ij10SIYQ4jDfy9VqXrYZCg) 密码：kwhw
 
+其它网盘待补充
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53new-ipv6.PNG)
