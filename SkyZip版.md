@@ -4,7 +4,8 @@
 
 压缩包名称Chrome53_SZ_v2018.3.3.7z ，文件大小176.6M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49内核和win7及以上系统53内核），共计86M。
 
-win7、win8、win10系统可选择[谷歌浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
+win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
+
 
 **使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。**
 
