@@ -26,6 +26,7 @@
 
 **2018年4月7日公告**：云端更新GoProxy ipv6和GoAgent ipv6版google ipv6 ip，按照使用说明运行ip更新文件即可同步到最新的云端。如果你更新了最新的ip且所有的teredo的服务器都尝试过，还是不能翻墙，浏览器提示"error": "dial tcp6 [2404:6800:400b:2d::b]:443: i/o timeout"，推测是google ipv6 ip在你所在地区已被全部封锁，所以ipv6版用不了。建议换其它类型的软件，比如GoProxy Quic版、v2ray版、SSR版等
 
+**预告**：下周将会发布PAC-ipv6版。
 
 ***
 
