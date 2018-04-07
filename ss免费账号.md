@@ -15,7 +15,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](http://www.vultr.com/?ref=7048874) （AFF推广链接，推广奖励将会用于购买服务器维护免费ss/ssr账号以及部分翻墙浏览器。vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
+[Vultr](http://www.vultr.com/?ref=7048874) （**AFF推广链接，推广奖励将会用于购买服务器维护免费ss/ssr账号以及部分翻墙浏览器。**vultr全球15个服务器位置可选，KVM框架，最低2.5美元/月。支持支付宝和paypal付款。）
 
 <a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
