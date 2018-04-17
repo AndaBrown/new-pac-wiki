@@ -34,7 +34,7 @@ VPS推荐：
 
 **2018年4月17日：有人使用服务器1进行BT下载，服务器已被删除！调整单个用户速度至150kb/s。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3388.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3389.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
