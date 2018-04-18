@@ -1,4 +1,4 @@
-**2018年4月7日对教程细节方面进行补充和更新。**
+**2018年4月19日对教程细节方面进行补充和更新。**
 
 
 ***
@@ -134,6 +134,8 @@ Debian8（推荐）/Debian7/Ubuntu16/Ubuntu14/centos7 v2ray一键部署管理脚
 
 安装脚本命令：
 
+apt-get install curl -y
+
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/master/install.sh)"
 
 卸载脚本命令：
@@ -172,6 +174,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian11.png)
 
 **接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
+
+**注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
 
