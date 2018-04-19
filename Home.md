@@ -22,15 +22,17 @@
 
 **温馨提醒**：由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。不要纠结于某一款软件，如果已经按照使用说明文档把该更新的都更新了，该排除的因素都排除了，还是不能翻墙的话，此时最好的选择就是换其它类型的软件。
 
+**2018年4月19日公告**：云端更新v2ray版配置，更换新的独立服务器，请按照使用说明运行ip更新文件来同步，旧服务器近期将会失效。
+
 ***
 
-[谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年4月12日发布PAC-ipv6版）
+[谷歌浏览器64高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年4月19日云端更新v2ray版配置）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年4月2日更新一键配置ipv6脚本）
 
 [谷歌浏览器低内核GoProxy Quic版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-Quic%E7%89%88)（2018年3月31日云端更新Quic ip）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年3月30日云端更新v2ray版配置）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年4月19日云端更新v2ray版配置）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年3月23日云端更新ip）
 
@@ -46,7 +48,7 @@
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年4月7日云端更新google ipv6 ip）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年4月12日发布PAC-ipv6版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年4月19日云端更新v2ray版配置）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月22日更新）
 
