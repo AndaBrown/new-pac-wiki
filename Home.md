@@ -14,7 +14,7 @@
 
 **选择指南**：有GoProxy Quic版、v2ray版、SSR版、PAC-ipv6、SkyZip版、赛风版、WuJie版、FreeGate版、GoProxy ipv6版、GoAgent ipv6版,可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。还有[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)或[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。
 
-**视频下载**：谷歌浏览器不管是低内核还是高内核，使用GoProxy Quic版、GoProxy ipv6版都无法下载超过32M文件以上的视频，目前无法修复这个问题。火狐浏览器的GoProxy Quic版、GoProxy ipv6版自带的YouTube下载扩展可以下载超过32M的文件。所以，想下载视频的，可以用火狐浏览器的对应版本或者谷歌浏览器的其它类型的软件来下载。
+**视频下载**：除了谷歌浏览器GoProxy Quic版、GoProxy ipv6版无法下载超过32M的文件，其它版本都能下载超过32M以上的文件。
 
 本更新页面是依托在github.com网站上，github是全球最大的社交编程及代码托管网站，如果未来这个网站被墙了即国内ip打不开，这个时候你需要用翻墙软件来打开。多备用几款翻墙软件有好处，以备不时之需。如果你觉得软件好用，可以分享给你的朋友使用。分享翻墙的快乐。
 
