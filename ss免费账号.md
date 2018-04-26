@@ -38,7 +38,7 @@ VPS推荐：
 
 下面这个服务器4月28日到期，单用户限速500kb/s
 
-ip：173.208.133.3 端口：6666 密码：ntdtv.com 加密方式：auth_sha1_v4  混淆：plain （ss/ssr客户端都可使用）
+ip：173.208.133.3 端口：6666 密码：ntdtv.com 加密方式：AES-256-CFB 协议：auth_sha1_v4  混淆：plain （ss/ssr客户端都可使用）
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
