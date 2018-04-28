@@ -32,9 +32,9 @@ VPS推荐：
 
 ### 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！
 
-**2018年4月19日：更新所有服务器端口号，同时增加一台服务器。调整单个用户速度至300kb/s。**
+**2018年4月28日：更换服务器1。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3390.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3391.PNG)
 
 [其它ssr账号项目地址](https://github.com/gfw-breaker/ssr-accounts)
 
