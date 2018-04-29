@@ -62,7 +62,7 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 一、Gfw-Breaker：https://github.com/gfw-breaker/open-proxy
 
-简介：含YouTube等网站，nginx反向代理，速度快。
+简介：含YouTube等网站，nginx反向代理。
 
 二、网门 ：https://git.io/ogate2
 
