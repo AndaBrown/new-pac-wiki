@@ -32,9 +32,9 @@ VPS推荐：
 
 ### 禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！
 
-**2018年4月28日：更换服务器1。**
+**2018年5月13日更新所有服务器端口。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3391.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3392.PNG)
 
 ***
 
