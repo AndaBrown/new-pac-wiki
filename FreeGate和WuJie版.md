@@ -14,7 +14,7 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国外云盘2下载](http://108.61.224.82:8000/f/f9a266c0f0/) 密码：12345678
 
-
+[国内云盘下载](https://pan.baidu.com/s/1fY-UFSp4duv42nlR6Hq2hA) 密码：rp6m
 
 实例图：
 
