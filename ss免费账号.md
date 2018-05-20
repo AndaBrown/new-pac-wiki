@@ -58,14 +58,13 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 注意：不管是电脑还是手机，推荐使用谷歌浏览器或火狐浏览器。国产浏览器可能会屏蔽直翻网址。
 
-一、Gfw-Breaker：https://github.com/gfw-breaker/open-proxy
-
-简介：含YouTube等网站，nginx反向代理。
-
-二、网门 ：https://git.io/ogate2
+一、网门 ：https://git.io/ogate2
 
 简介：内容丰富，实时更新。包括：禁闻，禁片，小品，电影，纪录片，网粹，网摘，网博等。
 
+二、Gfw-Breaker：https://github.com/gfw-breaker/open-proxy
+
+简介：含YouTube等网站，nginx反向代理。
 
 **其它翻墙方法**
 
