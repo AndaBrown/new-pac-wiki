@@ -34,7 +34,7 @@ VPS推荐：
 
 **2018年5月23日更新。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3501.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3502.PNG)
 
 ***
 
