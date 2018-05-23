@@ -34,8 +34,7 @@ VPS推荐：
 
 **2018年5月23日更新。**
 
-服务器1：64.32.5.183            端口：777            密码：dongtaiwang.com  
-加密方式: AES-256-CFB          协议：auth_sha1_v4    混淆：plain （协议混淆兼容原SS版）
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3501.PNG)
 
 ***
 
