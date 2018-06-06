@@ -64,7 +64,7 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 简介：内容丰富，实时更新。包括：禁闻，禁片，小品，电影，纪录片，网粹，网摘，网博等。
 
-二、Gfw-Breaker：https://hello.the-youtube.win/
+二、Gfw-Breaker：https://nogfw.the-youtube.win 
 
 简介：nginx反向代理，国产浏览器可能无法正常播放视频。
 
