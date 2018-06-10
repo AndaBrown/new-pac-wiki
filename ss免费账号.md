@@ -32,11 +32,11 @@ VPS推荐：
 
 **禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！**
 
-**2018年6月5日重要通知**：github被微软75亿美元收购，而微软为了利益是有可能被共收买，那么本页面未来是有被删除的可能！一旦页面被删除，首先，你将获取不到免费的SS/SSR账号。作为用户的你，此时你需要多下载几款软件作为备用，且能学会自己搭建翻墙服务器是最好的了。同时，我也会弄备用地址，如果你能找到类似github的网站能够创建wiki项目，请你也告诉我一下。
+**2018年6月6日重要通知**：发布[新项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 。原因：github被微软75亿美元收购，而微软为了利益是有可能被共收买，那么本页面未来是有被删除的可能！一旦页面被删除，你将获取不到免费的SS/SSR账号，请收藏新项目地址。
 
-### 2018年6月6日重要通知：发布[新项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 。
+**2018年6月10日**：更新服务器2和3,提高服务器配置。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3506.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3508.PNG)
 
 ***
 
