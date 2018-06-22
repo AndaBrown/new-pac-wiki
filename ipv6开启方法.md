@@ -1,4 +1,4 @@
-**2018年4月2日更新一键配置ipv6.bat脚本。**
+**2018年6月22日更新方法。**
 
 ***
 
@@ -47,6 +47,42 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/new-ipv6-6.PNG)
 
 **之后，关掉脚本，30秒之后打开对应软件版本的一键启动程序启动翻墙插件和浏览器，如果用浏览器能成功翻墙，表明你选择的Teredo服务器在你所在地区处于可用状态，如果不能翻墙，表明你选择的Teredo服务器被封锁，那么请重复上面的步骤更换Teredo服务器。如果所有的Teredo服务器都尝试了，但还是不能翻墙，说明你所在地区Teredo隧道被完全封锁，至少目前是这样，至于以后会不会解封处于未知状态，此时最好的办法就是更换其它类型的软件。**
+
+### 注意：如果所有的Teredo服务器都尝试了，但还是不能翻墙，有可能是流氓軟件干擾。可以打開任務管理器查找並結束以下進程：
+
+黑名单 = {
+'BaiduSdSvc'   
+'BaiduSdTray'  
+'BaiduSd'  
+'BaiduAn'  
+'bddownloader' 
+'baiduansvx'   
+'360sd'
+'360tray'  
+'360Safe'  
+'safeboxTray'  
+'360safebox'   
+'360se'
+'QQPCRTP'  
+'QQPCTray' 
+'QQProtect'
+'kismain'  
+'ksafe'
+'KSafeSvc' 
+'KSafeTray'
+'KAVStart' 
+'KWatch'   
+'KMailMon' 
+'rstray'   
+'ravmond'  
+'rsmain'   
+'UIHost'   
+'KVMonXP'  
+'kvsrvxp'  
+'kvxp' 
+'2345MPCSafe'  
+'PFW'  
+}
 
 ***
 
