@@ -36,6 +36,8 @@ VPS推荐：
 
 **2018年6月10日**：更新服务器2和3,提高服务器配置。
 
+**2018年6月28日重要通知**：lantern在github上的中文论坛已被关闭，所以请尽快收藏本项目的[新项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3508.PNG)
 
 ***
