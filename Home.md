@@ -18,6 +18,8 @@
 
 **2018年6月21日公告**：GoProxy Quic版已被封锁，请更换其它类型的软件。
 
+**2018年6月28日重要通知**：lantern在github上的中文论坛已被关闭，所以请尽快收藏本项目的[新项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+
 ***
 
 [谷歌浏览器66高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年6月19日云端更新IPV6版ip）
