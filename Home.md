@@ -16,13 +16,13 @@
 
 **2018年6月6日重要通知**：发布[新项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。原因：github被微软75亿美元收购，而微软为了利益是有可能被共收买，那么本页面未来是有被删除的可能。
 
-**2018年6月21日公告**：GoProxy Quic版已被封锁，请更换其它类型的软件。
-
 **2018年6月28日重要通知**：lantern在github上的中文论坛已被关闭，所以请尽快收藏本项目的[新项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
+
+**2018年6月30日公告**：云端更SSR版配置信息。
 
 ***
 
-[谷歌浏览器66高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年6月19日云端更新IPV6版ip）
+[谷歌浏览器66高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年6月30日云端更SSR版配置信息）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年6月22日更新方法）
 
@@ -32,7 +32,7 @@
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年4月19日云端更新v2ray版配置）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年5月27日云端更新ip）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2018年6月30日云端更新ip）
 
 [谷歌浏览器低内核PAC-ipv6版](https://github.com/Alvin9999/new-pac/wiki/PAC-ipv6%E7%89%88) （2018年4月12日发布）
 
@@ -42,7 +42,7 @@
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2018年4月29日更新无界版本至18.02）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年6月19日云端更新IPV6版ip）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年6月30日云端更SSR版配置信息）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年6月7日更新YouTube代理）
 
