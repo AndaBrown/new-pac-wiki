@@ -18,7 +18,7 @@
 
 **2018年6月28日重要通知**：lantern在github上的中文论坛已被关闭，所以请尽快收藏本项目的[新项目地址](https://gitlab.com/Alvin9999/free/wikis)。
 
-**2018年6月30日公告**：云端更SSR版配置信息。
+**2018年7月8日**：推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
 
 ***
 
