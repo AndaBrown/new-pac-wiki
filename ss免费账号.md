@@ -31,6 +31,8 @@ VPS推荐：
 
 **2018年6月30日**：更新服务器1。
 
+**2018年7月8日**：推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3510.PNG)
 
 ***
