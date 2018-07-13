@@ -14,9 +14,7 @@
 
 **选择指南**：有GoProxy ipv6版、GoAgent ipv6版、v2ray版、SSR版、PAC-ipv6、赛风版、WuJie版、FreeGate版,可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。还有[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)或[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。
 
-**2018年6月6日重要通知**：发布[新项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。原因：github被微软75亿美元收购，而微软为了利益是有可能被共收买，那么本页面未来是有被删除的可能。
-
-**2018年6月28日重要通知**：lantern在github上的中文论坛已被关闭，所以请尽快收藏本项目的[新项目地址](https://gitlab.com/Alvin9999/free/wikis)。
+**2018年6月6日公告**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。
 
 **2018年7月8日**：推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
 
