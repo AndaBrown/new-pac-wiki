@@ -1,3 +1,5 @@
+**2018.7.19更新：增加v2ray ios版和安卓版客户端下载地址。**
+
 **2018.6.28更新：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你没有ipv6需求，那么你可以买5美元的套餐。**
 
 
@@ -17,9 +19,9 @@
 
 **【前言】**
 
-**v2ray的优势**：v2ray支持的传输方式有很多，包括：普通TCP、HTTP伪装、WebSocket流量、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量，不同的传输方式其效果会不同，有可能会遇到意想不到的效果哦！当然国内不同的地区、不同的网络环境，效果也会不同，所以具体可以自己进行测试。
+**v2ray的优势**：v2ray支持的传输方式有很多，包括：普通TCP、HTTP伪装、WebSocket流量、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量，不同的传输方式其效果会不同，有可能会遇到意想不到的效果哦！当然国内不同的地区、不同的网络环境，效果也会不同，所以具体可以自己进行测试。现在v2ray客户端也很多了，有windows、MAC、linux和安卓版。
 
-**v2ray的劣势**：目前v2ray支持的客户端种类不多，官网是上只有windows、MAC和linux版，ios和安卓版客户端至少官网上没有。关于客户端种类，ss/ssr是比较成熟的，这是ss/ssr的优势，但ss/ssr也有劣势，就是因为使用人数有点多，有可能以后会被专门针对进行干扰，所以多学一种翻墙技能有好处。如果想搭建ss/ssr，可以参考
+如果想搭建ss/ssr，可以参考
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
 **注意：搭建ss/ssr脚本和搭建v2ray脚本不要在同一台vps上使用，以免互相干扰！如果ss/ssr和v2ray都想搭建，可以用两台vps，一台搭建ss/ssr，另外一台搭建v2ray。**
@@ -244,7 +246,11 @@ chmod +x bbr.sh
 
 【v2ray客户端下载】
 
-[v2ray客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
+[v2ray PC客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
+
+[v2ray ios客户端下载地址](https://v2ray.com/ui_client/ios.html)
+
+[v2ray 安卓客户端下载地址](https://v2ray.com/ui_client/android.html)
 
 以v2ray windows版为例：
 
