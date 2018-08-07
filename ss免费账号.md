@@ -28,9 +28,9 @@ VPS推荐：
 **2018年6月6日重要通知**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 。
 
-**2018年7月14日**：更新服务器1和2的端口。推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
+**2018年8月8日**：更新服务器1和2的端口。推荐YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3512.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr3514.PNG)
 
 ***
 
