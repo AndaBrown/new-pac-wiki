@@ -14,6 +14,8 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国外云盘2下载](http://45.32.141.248:8000/f/badca78f9e/) 密码：12345678
 
+[国内云盘下载](https://pan.baidu.com/s/1-1-WGzuuUZJK7X2gLd99ow) 密码：4i8e
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/53wujie1.PNG)
@@ -40,6 +42,7 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国外云盘2下载](http://45.32.141.248:8000/f/e519d26f1e/) 密码：12345678
 
+[国内云盘下载](https://pan.baidu.com/s/12FoiYZgJQVuROpqlmL51Kw) 密码：mtf7
 
 实例图：
 
