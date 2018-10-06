@@ -17,6 +17,8 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国外云盘2下载](http://45.32.141.248:8000/f/83be14fe36/) 密码：12345678
 
+[国内云盘下载](https://pan.baidu.com/s/1XR9VzkuUzINe1qAo_3Jsng) 密码：uhm5
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53chromess001.png)
