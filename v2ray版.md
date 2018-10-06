@@ -14,6 +14,8 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国外云盘2下载](http://108.61.224.82:8000/f/52b2e33e25/) 密码：12345678
 
+[国内云盘下载](https://pan.baidu.com/s/1CN-iopX3u3So9uPouF1lvQ) 密码：bg2q
+
 ***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
