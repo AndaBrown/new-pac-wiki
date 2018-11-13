@@ -15,9 +15,9 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](http://www.vultr.com/?ref=7048874) （vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
+[Vultr](https://www.vultr.com/?ref=7613018) （vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
 
-<a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=7613018"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
