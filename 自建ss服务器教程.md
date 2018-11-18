@@ -1,4 +1,4 @@
-**2018.9.16更新：更换备用脚本地址。**
+**2018.11.18更新：更换SS/SSR部署脚本。**
 
 **2018.9.1更新：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
 
@@ -138,13 +138,7 @@ CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本：
 
 yum -y install wget
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
-
-备用脚本：
-
-yum -y install wget
-
-wget -N --no-check-certificate https://softs.wtf/Bash/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 ———————————————————代码分割线————————————————
 
