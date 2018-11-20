@@ -142,9 +142,11 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ***
 
-**2018.11.21增加备用脚本二，如果上面的脚本暂时用不了，可以用下面的脚本脚本，备用脚本没有单独做教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
+**2018.11.21增加备用脚本二，如果上面的脚本暂时用不了，可以用下面的备用脚本，备用脚本没有单独做图文教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
 
 ***
+
+yum -y install wget
 
 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
 
@@ -152,6 +154,7 @@ chmod +x shadowsocksR.sh
 
 ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 
+***
 ———————————————————代码分割线————————————————
 
 复制上面的**脚本一代码**到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
