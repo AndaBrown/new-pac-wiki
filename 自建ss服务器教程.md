@@ -1,4 +1,4 @@
-**2018.11.20：更新SS/SSR部署脚本。**
+**2018.11.21：增加SS/SSR部署备用脚本。**
 
 **2018.9.1：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
 
@@ -132,7 +132,7 @@ vultr注册地址： https://www.vultr.com/?ref=7613018 （全球15个服务器�
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 
-CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本：
+**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本一（2018.11.20更新）：**
 
 ***
 
@@ -140,9 +140,21 @@ yum -y install wget
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
+***
+
+**2018.11.21增加备用脚本二，如果上面的脚本暂时用不了，可以用下面的脚本脚本，备用脚本没有单独做教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
+
+***
+
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
+
+chmod +x shadowsocksR.sh
+
+./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+
 ———————————————————代码分割线————————————————
 
-复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
+复制上面的**脚本一代码**到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/8.png)
 
