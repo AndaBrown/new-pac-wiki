@@ -132,7 +132,9 @@ vultr注册地址： https://www.vultr.com/?ref=7613018 （全球15个服务器�
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 
-**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本一（2018.11.20更新）：**
+**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本（2018.11.21更新）：**
+
+**脚本一（2018.11.20更新）**
 
 ***
 
@@ -142,7 +144,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ***
 
-**2018.11.21增加备用脚本二，如果上面的脚本暂时用不了，可以用下面的备用脚本，备用脚本没有单独做图文教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
+**备用脚本二（2018.11.21更新）**
+
+**如果上面的脚本暂时用不了，可以用下面的备用脚本，备用脚本没有单独做图文教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
 
 ***
 
