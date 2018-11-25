@@ -60,6 +60,8 @@
 
 [Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2018年5月30日增加Linux SSR 使用方法二）
 
+[YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2018年11月25日发布）
+
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86) （2018年4月26日更新）
 
 [数字安全手册](https://github.com/Alvin9999/new-pac/wiki/%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C) （推荐两本关于网络安全的书籍）
