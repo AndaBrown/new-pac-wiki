@@ -23,3 +23,7 @@
 图文教程如下：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/youtube下载5.png)
+
+***
+
+有问题或者更好的方法可以发邮件至海外邮箱kebi2014@gmail.com
