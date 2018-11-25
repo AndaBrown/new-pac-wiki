@@ -4,7 +4,9 @@
 
 **第一种方法**
 
-翻墙打开网址：https://www.converto.io/ 图文教程如下：
+翻墙打开网址：https://www.converto.io/ 
+
+图文教程如下：
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/youtube下载1.png)
 
@@ -13,3 +15,11 @@
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/youtube下载3.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/youtube下载4.png)
+
+**第二种方法**
+
+翻墙打开网址：https://y2mate.com/
+
+图文教程如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/youtube下载5.png)
