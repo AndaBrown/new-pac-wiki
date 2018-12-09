@@ -239,7 +239,7 @@ bash ruisu.sh
 
 **完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
 
-**第二步，更换内核完成一键安装锐速：**
+**第二步，一键安装锐速：**
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
 
