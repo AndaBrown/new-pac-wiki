@@ -226,7 +226,7 @@ chmod +x shadowsocksR.sh
 
 **2018年12月9日增加破解版锐速加速教程。**
 
-【破解版锐速加速教程】
+**【破解版锐速加速教程】**
 
 此加速教程为破解版锐速加速,Vultr的服务器centos6系统官方进行了更新，导致目前**不支持BBR的部署**，**但锐速应该是可以部署的**，故增加了此部署脚本，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
 
@@ -252,7 +252,10 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 出现running字样即可!
 
-【谷歌BBR加速教程】
+
+***
+
+**【谷歌BBR加速教程】**
 
 vultr服务器的centos6系统不可用，用上面的锐速就可以了。
 
