@@ -1,3 +1,5 @@
+**2018.12.9：增加破解版锐速加速教程。**
+
 **2018.9.1更新：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
 
 ***
@@ -208,11 +210,47 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/maste
 
 **第三步：一键加速VPS服务器**
 
-此加速教程为谷歌BBR加速,Vultr的服务器框架可以装BBR加速，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
+**2018年12月9日增加破解版锐速加速教程。**
 
-按照第二步的步骤，连接服务器ip，登录成功后，在命令栏里粘贴以下代码：
+**【破解版锐速加速教程】**
 
-【谷歌BBR加速教程】
+此加速教程为破解版锐速加速,Vultr的服务器centos6系统官方进行了更新，导致目前**不支持BBR的部署**，**但锐速应该是可以部署的**，故增加了此部署脚本，加速后对速度的提升很明显，所以推荐部署加速脚本。该加速方法是开机自动启动，部署一次就可以了。
+
+**第一步，先更换服务器内核：**
+
+yum -y install wget
+
+wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh
+bash ruisu.sh
+
+**完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
+
+**第二步，更换内核完成一键安装锐速：**
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+卸载加速代码命令为：
+
+chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+
+提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
+
+锐速安装成功标志如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+
+出现running字样即可!
+
+
+***
+
+**【谷歌BBR加速教程】**
+
+**vultr服务器的centos6系统不可用，用上面的锐速就可以了。**
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
