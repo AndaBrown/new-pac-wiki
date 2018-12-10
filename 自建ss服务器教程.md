@@ -235,8 +235,7 @@ chmod +x shadowsocksR.sh
 
 yum -y install wget
 
-wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh
-bash ruisu.sh
+wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
 
