@@ -13,15 +13,16 @@
 
 第二步：一键部署VPS服务器
 
-第三步：一键加速VPS服务器 （锐速加速，推荐）
+第三步：一键加速VPS服务器 (centos系统选择锐速加速，cenots7选择bbr加速)
 
 
 ***
+
 **第一步：购买VPS服务器**
 
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
-vultr注册地址： https://www.vultr.com/?ref=7613018 （全球15个服务器位置可选，kvm框架，2.5美元/月。如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)） 
+vultr注册地址： https://www.vultr.com/?ref=7613018 （全球15个服务器位置可选，kvm框架。如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)） 
 
 <a href="https://www.vultr.com/?ref=7613018"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
@@ -66,7 +67,7 @@ vultr注册地址： https://www.vultr.com/?ref=7613018 （全球15个服务器�
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
 
 
-### 选择vps操作系统时，不要选centos7系统！点击图中的CentOS几个字，会弹出centos6，然后选中centos6！entos7默认的防火墙可能会干扰ssr的正常连接！
+### 点击图中的CentOS几个字，会弹出centos6，然后选中centos6！
 
 > 接下来这一步是开启vps的ipv6 ip，选填项。如果你的电脑系统可以用ipv6，那么可以勾选此项。大多数用户没有这个需求，但有一些用户可能会用到，所以补充了这部分内容。
 
@@ -237,6 +238,14 @@ yum -y install wget
 wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh
 bash ruisu.sh
 
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+
+不动的时候敲回车键，在上图时需要多等一会儿。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+
+出现上图时表示已成功替换内核并服务器自动重启。
+
 **完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
 
 **第二步，一键安装锐速：**
@@ -264,7 +273,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 **【谷歌BBR加速教程】**
 
-**vultr服务器的centos6系统不可用，用上面的锐速就可以了。**
+**vultr服务器的centos6不支持bbr加速，但centos7系统支持bbr加速，所以如果你想用bbr加速教程，vps操作系统需要选择centos7。**
 
 yum -y install wget
 
@@ -329,21 +338,21 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 **常见问题参考解决方法**：
 
-1、用了一段时间发现ssr账号用不了了
+1、用了一段时间发现ssr账号用不了了？
 
 首先ping一下自己的ip，看看能不能ping的通，ping不通那么就是ip被墙了，ip被墙时，xshell也会连接不上服务器，遇到这种情况重新部署一个新的服务器，新的服务器就是新的ip。关于怎么ping ip的方法，可以自行网上搜索，或者用xshell软件连接服务器来判断，连不上即是被墙了。vultr开通和删除服务器非常方便，新服务器即新ip，大多数vps服务商都没有这样的服务，一般的vps服务商可能会提供免费更换1次ip的服务。
 
-2、刚搭建好的ssr账号，ip能ping通，但是还是用不了
+2、刚搭建好的ssr账号，ip能ping通，但是还是用不了？
 
 首选排除杀毒软件的干扰，尤其是国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫生等。这些东西很容易干扰翻墙上网，如果你的电脑安装了这样的东西，建议至少翻墙时别用，最好卸载。其次，检查下SSR信息是否填写正确。浏览器的代理方式是否是ssr代理，即（HTTP）127.0.0.1 和1080。如果以上条件都排除，还是用不了，那么可以更换端口、加密方式、协议、混淆，或者更换服务器位置。另外，如果你的vps服务器配置的是SSR账号，即有协议和混淆且没有兼容原版(SS版），那么你必须使用SSSR客户端来使用账号，因为SS客户端没有填写协议和混淆的选项。
 
 3、有的地区需要把混淆参数设置成plain才好用。因为混淆不总是有效果，要看各地区的策略，有时候不混淆（plain）让其看起来像随机数据更好。
 
-4、电脑能用但手机用不了
+4、电脑能用但手机用不了？
 
 如果你的手机用的是SS客户端，SS客户端没有填协议和混淆的地方，如果你部署的协议和混淆的时候没有选择兼容原版（SS版），因此手机是用不了的。这个时候你把协议弄成兼容原版、混淆也设置成兼容原版即可。或者直接将协议设置成origin且混淆设置成plain。
 
-5、vps的服务器操作系统不要用的太高，太高可能会因为系统的防火墙问题导致搭建的SSR账号连不上，如果你用的centos系统，建议用centos6，不要用centos7。如果你前面不小心装了centos7系统，那么只能重装系统或者重新部署新的vps服务器。
+5、vps的服务器操作系统不要用的太高，太高可能会因为系统的防火墙问题导致搭建的SSR账号连不上。如果某个系统不好用，可以选择其它的系统来尝试。
 
 6、vultr服务商提供的vps服务器是单向流量计算，有的vps服务商是双向流量计算，单向流量计算对于用户来说更实惠。因为我们是在vps服务器上部署SSR服务端后，再用SSR客户端翻墙，所以SSR服务端就相当于中转，比如我们看一个视频，必然会产生流量，假如消耗流量80M，那么VPS服务器会产生上传80M和下载80M流量，vultr服务商只计算单向的80M流量。如果是双向计算流量，那么会计算为160M流量。
 
