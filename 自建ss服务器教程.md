@@ -13,7 +13,7 @@
 
 第二步：一键部署VPS服务器
 
-第三步：一键加速VPS服务器 (centos系统选择锐速加速，cenots7选择bbr加速)
+第三步：一键加速VPS服务器 (centos6系统选择锐速加速，cenots7选择bbr加速)
 
 
 ***
