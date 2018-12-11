@@ -36,7 +36,7 @@ YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjA
 
 2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4008.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4010.PNG)
 
 ***
 
