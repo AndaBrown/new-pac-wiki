@@ -16,7 +16,8 @@
 
 **2018年6月6日**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。
 
-**2018年11月25日：2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)；更新无界版本18.06；发布YouTube下载1080教程。**
+**2018年12月20日公告：关于GoProxy ipv6版和GoAgent ipv6版出现“502 Bad Gateway
+This Host header is not served from this network address. Due to an infrastructure change, this request cannot be processed.” 无法使用，这个问题暂时无法解决，需要观察并研究，可以暂时换用其它类型的软件。**
 
 ***
 
