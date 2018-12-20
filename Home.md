@@ -19,15 +19,17 @@
 **2018年12月20日公告：关于GoProxy ipv6版和GoAgent ipv6版出现“502 Bad Gateway
 This Host header is not served from this network address. Due to an infrastructure change, this request cannot be processed.” 无法使用，这个问题暂时无法解决，需要观察并研究，可以暂时换用其它类型的软件。**
 
+**2018年12月20日公告：云端更新GoAgent ipv6，按照使用说明运行ip更新文件即可同步。**
+
 ***
 
-[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年11月25日更新无界版本至18.06）
+[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年12月20日云端更新GoAgent ipv6）
 
 [ipv6开启方法](https://github.com/Alvin9999/new-pac/wiki/ipv6%E5%BC%80%E5%90%AF%E6%96%B9%E6%B3%95) （2018年6月22日更新方法）
 
 [谷歌浏览器低内核GoProxy ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoProxy-ipv6%E7%89%88) （2018年9月23日更新版本）
 
-[谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年9月23日更新版本）
+[谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年12月20日云端更新GoAgent ipv6）
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2018年11月21日云端更新v2ray配置信息）
 
@@ -39,7 +41,7 @@ This Host header is not served from this network address. Due to an infrastructu
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88)（2018年9月23日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年11月25日更新无界版本至18.06）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年12月20日云端更新GoAgent ipv6）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年9月24日更新）
 
