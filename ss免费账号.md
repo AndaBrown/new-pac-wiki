@@ -30,8 +30,6 @@ VPS推荐：
 
 **2018年12月25日：更新账号端口。**
 
-### 祝所有有缘人新年快乐！平平安安！顺顺利利！！！
-
 **视频推荐**
 
 YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
