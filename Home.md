@@ -23,8 +23,6 @@ This Host header is not served from this network address. Due to an infrastructu
 
 **2018年12月27日公告**：云端更新v2ray配置信息，按照使用说明运行ip更新文件即可同步。
 
-### 祝所有有缘人新年快乐！平平安安！顺顺利利！！！
-
 ***
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年12月27日云端更新v2ray配置信息）
