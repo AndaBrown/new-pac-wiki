@@ -15,7 +15,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](https://www.vultr.com/?ref=7777564-4F) （vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
+[Vultr](https://www.vultr.com/?ref=7777564-4F) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
 
 <a href="https://www.vultr.com/?ref=7777564-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
@@ -28,7 +28,7 @@ VPS推荐：
 **2018年6月6日重要通知**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 。
 
-**2019年1月16日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。
+**2019年1月16日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。vultr在2019年1月的最新活动，针对新用户，直接送50美元！
 
 **视频推荐**
 
