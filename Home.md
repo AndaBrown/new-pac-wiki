@@ -16,12 +16,9 @@
 
 **2018年6月6日**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。
 
-**2018年12月20日公告**：关于GoProxy ipv6版和GoAgent ipv6版出现“502 Bad Gateway
-This Host header is not served from this network address. Due to an infrastructure change, this request cannot be processed.” 无法使用，这个问题暂时无法解决，需要观察并研究，可以暂时换用其它类型的软件。
-
-**2018年12月20日公告**：云端更新GoAgent ipv6，按照使用说明运行ip更新文件即可同步。
-
 **2018年12月27日公告**：云端更新v2ray配置信息，按照使用说明运行ip更新文件即可同步。
+
+**2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
 
 ***
 
