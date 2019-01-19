@@ -28,7 +28,7 @@ VPS推荐：
 **2018年6月6日重要通知**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 。
 
-**2019年1月16日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。vultr在2019年1月的最新活动，针对新用户，直接送50美元！
+**2019年1月19日**：更新账号端口。建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。vultr在2019年1月的最新活动，针对新用户，直接送50美元！
 
 **视频推荐**
 
@@ -36,7 +36,7 @@ YouTube视频节目[文昭談古論今](https://www.youtube.com/channel/UCtAIPjA
 
 2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4022.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/4024.PNG)
 
 ***
 
