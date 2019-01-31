@@ -18,7 +18,7 @@
 
 **2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
 
-**推荐YouTube视频节目**：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
+**推荐YouTube视频频道**：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
 
 ***
 
