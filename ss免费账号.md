@@ -32,7 +32,7 @@ VPS推荐：
 
 **视频推荐**
 
-[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
+YouTube频道：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
 
 2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)
 
