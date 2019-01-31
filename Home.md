@@ -18,6 +18,8 @@
 
 **2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
 
+**推荐YouTube视频节目**：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
+
 ***
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2018年12月27日云端更新v2ray配置信息）
