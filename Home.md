@@ -16,8 +16,6 @@
 
 **2018年6月6日**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。
 
-**2018年12月27日公告**：云端更新v2ray配置信息，按照使用说明运行ip更新文件即可同步。
-
 **2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
 
 ***
@@ -43,7 +41,7 @@
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2018年12月27日云端更新v2ray配置信息）
 
-[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年9月24日更新）
+[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月31日更新）
 
 [谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年10月28日更新）
 
