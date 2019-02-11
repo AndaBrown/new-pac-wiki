@@ -1,6 +1,10 @@
+**2019.2.11：更新一键部署v2ray脚本。**
+
 **2019.1.18：vultr在2019年1月的最新活动，针对新用户，直接送50美元！**
 
-**2018.9.1更新：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
+**2018.9.1：vultr官方进行了调整，2.5美元套餐只提供ipv6，如果你用不了ipv6，那么你可以买3.5美元的套餐。**
+
+.....
 
 ***
 
@@ -135,17 +139,17 @@ vultr注册地址：https://www.vultr.com/?ref=7777564-4F  （vultr在2019年1�
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
+**2019.2.11更新：**
+
 Debian8（推荐）/Debian7/Ubuntu16/Ubuntu14/centos7 v2ray一键部署管理脚本：
 
 安装脚本命令：
 
-apt-get install curl -y
-
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/master/install.sh)"
+wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/install.sh && bash install.sh
 
 卸载脚本命令：
 
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/tracyone/v2ray.fun/master/uninstall.sh)"
+wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/uninstall.sh && bash uninstall.sh
 
 ———————————————————代码分割线————————————————
 
