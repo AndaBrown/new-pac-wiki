@@ -20,6 +20,18 @@
 
 **推荐YouTube视频频道**：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
 
+### 预告：新唐人元宵节对大陆播出神韵晚会
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/wanhui.jpg)
+
+**大陆网民观看方法**：仅能通过翻墙软件自由门或无界观看，动态网的左上角有直播地址。机不可失喔！
+
+神韵晚会播出时间：北京时间
+
+2月19日(周二)晚上8:00-11:00
+
+2月19日(周二)晚上11:00-凌晨2:00
+
 ***
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年2月16日更新无界版本至19.02,更新自由门版本至7.66）
@@ -71,7 +83,17 @@
 
 真心希望大家都能够突破网络封锁、获得真相，祝愿每位善良的人都能拥有一个美好的未来。
 
-**2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)**
+### 预告：新唐人元宵节对大陆播出神韵晚会
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/wanhui.jpg)
+
+**大陆网民观看方法**：仅能通过翻墙软件自由门或无界观看，动态网的左上角有直播地址。机不可失喔！
+
+神韵晚会播出时间：北京时间
+
+2月19日(周二)晚上8:00-11:00
+
+2月19日(周二)晚上11:00-凌晨2:00
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
 
