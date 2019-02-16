@@ -34,7 +34,21 @@ VPS推荐：
 
 YouTube频道：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
 
+### 预告：新唐人元宵节对大陆播出神韵晚会
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/wanhui.jpg)
+
 2019年神韵晚会超清预告片[点击下载](http://108.61.224.82:8000/f/ddd18239a6/)
+
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌。神韵艺术团自2006年在全球巡演以来，迄今逾百万人观看，受到各国民众的热烈欢迎，爆满加坐成常态。
+
+**大陆网民观看方法**：仅能通过翻墙软件自由门或无界观看，动态网的左上角有直播地址。机不可失喔！
+
+神韵晚会播出时间：北京时间
+
+2月19日(周二)晚上8:00-11:00
+
+2月19日(周二)晚上11:00-凌晨2:00
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4028.PNG)
 
