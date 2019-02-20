@@ -333,7 +333,7 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 安卓SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk) [备用下载地址](https://nofile.io/f/rvTJoj0h5GC/shadowsocksr-release.apk) 
 
 
-苹果手机SSR客户端：Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，可以用美区的appid账号来下载。但是，如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填）。在大陆app商店里面可以尝试搜索：Wingy、shadowsocks。
+苹果手机SSR客户端：Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，可以用美区的appid账号来下载。但是，如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填）。在大陆app商店里面可以尝试搜索：Wingy、shadowsocks，如果软件都被下架了，建议自己注册美区appid来下载，软件多的很！[苹果手机申请美区apple id方法](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E7%BE%8E%E5%8C%BAapple%20id&oq=%25E8%258B%25B9%25E6%259E%259C%25E6%2589%258B%25E6%259C%25BA%25E5%25A6%2582%25E4%25BD%2595%25E6%25B3%25A8%25E5%2586%258C%25E7%25BE%258E%25E5%258C%25BAapple%2520id&rsv_pq=9b0ef06900045aac&rsv_t=a6daySwnrXFrSrC%2BIlgLIeU321j1oRm%2F%2FJgdL3RAdT6GSkIIcOaBGKnfvjE&rqlang=cn&rsv_enter=0&inputT=2113&rsv_sug3=54&rsv_sug2=0&rsv_sug4=2440&rsv_sug=1)。
 
 **有了账号后，打开SSR客户端，填上信息，这里以windows版的SSR客户端为例子**：
 
