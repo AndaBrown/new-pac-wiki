@@ -1,4 +1,4 @@
-**2017年12月25日删除无效方法。**
+**2019年2月27日更新lantern MAC版下载地址。**
 
 
 ### 第一种方法：利用shadowsocks软件翻墙上网，需要配合ss账号或ssr使用。如果是SSR账号，必须使用SSR客户端。
@@ -37,6 +37,4 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 ### 第二种方法：
 
-使用Lantern MAC版 [下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)
-
-> 转载：https://github.com/getlantern/forum/issues/833
+使用Lantern MAC版 [下载地址](https://github.com/getlantern/download/wiki)
