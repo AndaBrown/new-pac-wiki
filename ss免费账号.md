@@ -32,7 +32,7 @@ VPS推荐：
 
 **视频推荐**
 
-YouTube频道：[历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)
+YouTube频道： [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4036.PNG)
 
