@@ -16,15 +16,17 @@
 
 **2018年6月6日**：发布[备用项目地址](https://gitlab.com/Alvin9999/free/wikis/home) 。
 
-**2019年1月18日公告**：ipv6版国内大多数地区已失效，如果你无法使用ipv6版，请更换其它类型的软件。
+**2019年4月7日公告**：发布新软Brook版。
 
 **推荐YouTube视频频道**： [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)
 
 ***
 
-[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
+[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年4月7日发布新软Brook版；2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
+
+[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年4月7日发布）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年4月5日云端更新配置信息，对速度进行了优化处理）
 
@@ -36,7 +38,7 @@
 
 [谷歌浏览器低内核GoAgent ipv6版](https://github.com/Alvin9999/new-pac/wiki/GoAgent-ipv6%E7%89%88) （2018年12月20日云端更新GoAgent ipv6）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年4月7日发布新软Brook版；2019年4月5日云端更新v2ray版和SSR版配置信息，对速度进行了优化处理）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月31日更新）
 
