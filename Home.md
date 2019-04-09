@@ -22,9 +22,9 @@
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年4月7日发布新软Brook版；2019年4月9日云端更新SSR版配置信息）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
-
 [谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年4月7日发布）
+
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年4月9日云端更新配置信息，对速度进行了优化处理）
 
