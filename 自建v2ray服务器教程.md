@@ -151,6 +151,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/uninstall.sh && bash uninstall.sh
 
+> 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。
+
+> # CentOS系统: yum install -y wget
+ 
+> # Debian/Ubuntu系统:apt-get install -y wget
+
 ———————————————————代码分割线————————————————
 
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
