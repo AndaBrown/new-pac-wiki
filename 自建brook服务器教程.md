@@ -131,7 +131,11 @@ vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr在2019年1�
 
 ***
 
-wget -N --no-check-certificate wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+wget -N --no-check-certificate wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh 
+
+chmod +x brook.sh 
+
+./brook.sh
 
 
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget Debian/Ubuntu系统安装wget命令:apt-get install -y wget
