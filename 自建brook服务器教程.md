@@ -14,7 +14,7 @@
 
 **【前言】**
 
-Brook是一款新兴的代理软件，其版本横垮Windows、安卓、iOS、MacOS、Linux等多个系统平台，功能类似于我们经常使用的Shadowsocks/ShadowsocksR。Brook 的目标是简单易用、傻瓜化、不可探测。通过在服务器端安装Brook服务器端，同时在本地设备中安装Brook客户端，两者成功连接之后，可以为我们提供科学上网服务。如果你想在SS/SSR/V2ray之外，尝试一种新的代理软件，那么Brook是一个不错的选择。
+Brook是一款新兴的代理软件，其版本横垮Windows、安卓、iOS、MacOS、Linux等多个系统平台，功能类似于我们经常使用的Shadowsocks/ShadowsocksR。Brook 的目标是简单易用、傻瓜化、速度快（新协议）。通过在服务器端安装Brook服务器端，同时在本地设备中安装Brook客户端，两者成功连接之后，可以为我们提供科学上网服务。如果你想在SS/SSR/V2ray之外，尝试一种新的代理软件，那么Brook是一个不错的选择。
 
 ***
 **第一步：购买VPS服务器**
