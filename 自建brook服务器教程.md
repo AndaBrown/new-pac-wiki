@@ -229,15 +229,49 @@ chmod +x bbr.sh
 
 ***
 
-未完待续........
+【brook windows客户端下载及使用方法】
 
-【brook客户端下载】
+第一步：下载Brook Tools，本软件是一个辅助软件（可视化UI操作），他无法独立使用，需要配合 Brook Windows命令行版客户端使用。
 
+Brook Tools v1.0.8 [下载地址1](http://45.32.141.248:8000/f/0b46222653/) [下载地址2](http://108.61.224.82:8000/f/99a9b6d12a/)
+
+第二步：下载Brook Windows命令行版客户端，地址：https://github.com/txthinking/brook/releases ，如下图，windows32位系统选择第一个，64位系统选择第二个，下载后重命名为brook.exe
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin1.png)
+
+第三步：将下载好的Brook Tools压缩包解压出来，解压路径不要包含中文，将重命名好的Brook Windows命令行版客户端放在同一个文件夹。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin2.png)
+
+打开Brook Tools客户端，点击界面上的“浏览”后，打开同一文件夹的brook.exe ,之后点击“保存配置”、“启动”
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin3.png)
+
+Brook Tools客户端有2种代理方式，默认的是http代理，如果把前面的勾去掉，则变为socks5代理。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin4.png)
+
+浏览器代理相应设置为：如果是http代理，设置为HTTP 127.0.0.1 2080；如果是socks5代理，设置为socks5 127.0.0.1 2080；
 
 ***
 
 **常见问题参考解决方法**：
 
+1、账号无法使用，可能原因一：客户端与服务端的设备系统时间相差过大。
+
+当vps服务器与本地设备系统时间相差过大，会导致客户端无法与服务端建立链接。请修改服务器时区，或者手动修改服务器系统时间（注意也要校准自己本地设备时间）！
+
+修改vps时区为北京时区(上海)，输入命令：\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  修改后重启vps服务器，然后再输入date命令检查下。
+
+手动修改vps系统时间命令为（数字改为和自己电脑时间一致）：date -s "2018-11-02 19:14:00"   
+
+2、账号无法使用，可能原因二：客户端与服务端版本不一致
+
+因为 Brook 每次更新的内容可能变动较大，所以如果客户端与服务端版本不一致，那么很有可能会导致客户端链接服务端被拒绝。包括Brook Tools 里调用的 Windows 命令行版客户端，所以请尝试更新服务端或客户端为最新版本。比如教程演示中服务端的版本是v20190205，那么下载的命令行版客户端也最好是v20190205
+
+3、账号无法使用，可能原因三：Windows 防火墙阻挡代理软件。
+
+目前发现 Windows 防火墙会阻挡代理软件对外建立的链接，所以需要关闭 Windows 自带的防火墙。
 
 ***
 
