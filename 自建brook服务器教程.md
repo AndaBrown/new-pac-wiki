@@ -20,7 +20,7 @@
 
 VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
-vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr在2019年1月的最新活动，针对新用户，直接送50美元！全球15个服务器位置可选，kvm框架。如果以后这个vultr注册地址被墙了，那么就用翻墙软件打开，或者用[ss/ssr免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)） 
+vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr在2019年1月的最新活动，针对新用户，直接送50美元！全球15个服务器位置可选，kvm框架。） 
 
 <a href="https://www.vultr.com/?ref=7777564-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
@@ -147,13 +147,13 @@ chmod +x brook.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook1.PNG)
 
-出现上图表明脚本安装成功，脚本安装成功后就可以输入快捷管理命令bash brook.sh 或 ./brook.sh。如果输入了快捷管理命令后，出现“Permission denied”字样，如下图，接着需要输入命令：chmod +x brook.sh 然后再输入快捷管理命令即可。
+出现上图表明脚本安装成功，脚本安装成功后就可以输入快捷管理命令bash brook.sh 或 ./brook.sh 如果输入了快捷管理命令后，出现“Permission denied”字样，如下图，接着需要输入命令：chmod +x brook.sh 然后再输入快捷管理命令即可。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook2.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook3.PNG)
 
-输入快捷管理命令后，出现上图，接着输入数字1来进行安装。会依次对端口、密码、协议和版本号进行选择。
+输入快捷管理命令后，出现上图，接着输入数字1来进行安装。会依次对**端口、密码、协议和版本号**进行选择。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook4.PNG)
 
@@ -229,17 +229,17 @@ chmod +x bbr.sh
 
 ***
 
-【brook windows客户端下载及使用方法】
+【**Brook windows客户端下载及使用方法**】
 
-第一步：下载Brook Tools，本软件是一个辅助软件（可视化UI操作），他无法独立使用，需要配合 Brook Windows命令行版客户端使用。
+第一步：下载Brook Tools，**本软件是一个辅助软件（可视化UI操作），他无法独立使用，需要配合 Brook Windows命令行版客户端使用**。
 
 Brook Tools v1.0.8 [下载地址1](http://45.32.141.248:8000/f/0b46222653/) [下载地址2](http://108.61.224.82:8000/f/99a9b6d12a/)
 
-第二步：下载Brook Windows命令行版客户端，地址：https://github.com/txthinking/brook/releases ，如下图，windows32位系统选择第一个，64位系统选择第二个，下载后重命名为brook.exe
+第二步：下载Brook Windows命令行版客户端，地址：https://github.com/txthinking/brook/releases ，如下图，windows32位系统选择第一个，64位系统选择第二个，下载后**重命名为**brook.exe
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin1.png)
 
-第三步：将下载好的Brook Tools压缩包解压出来，解压路径不要包含中文，将重命名好的Brook Windows命令行版客户端放在同一个文件夹。
+第三步：将下载好的Brook Tools压缩包解压出来，解压路径不要包含中文，将重命名好的Brook Windows命令行版客户端**放在同一个文件夹**。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin2.png)
 
@@ -247,7 +247,7 @@ Brook Tools v1.0.8 [下载地址1](http://45.32.141.248:8000/f/0b46222653/) [下
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin3.png)
 
-Brook Tools客户端有2种代理方式，默认的是http代理，如果把前面的勾去掉，则变为socks5代理。
+Brook Tools客户端有2种代理方式，默认的是**http代理**，如果把前面的勾去掉，则变为**socks5代理**。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin4.png)
 
@@ -257,7 +257,7 @@ Brook Tools客户端有2种代理方式，默认的是http代理，如果把前�
 
 **常见问题参考解决方法**：
 
-1、账号无法使用，可能原因一：客户端与服务端的设备系统时间相差过大。
+1、账号无法使用，可能原因一：**客户端与服务端的设备系统时间相差过大。**
 
 当vps服务器与本地设备系统时间相差过大，会导致客户端无法与服务端建立链接。请修改服务器时区，或者手动修改服务器系统时间（注意也要校准自己本地设备时间）！
 
@@ -265,11 +265,11 @@ Brook Tools客户端有2种代理方式，默认的是http代理，如果把前�
 
 手动修改vps系统时间命令为（数字改为和自己电脑时间一致）：date -s "2018-11-02 19:14:00"   
 
-2、账号无法使用，可能原因二：客户端与服务端版本不一致
+2、账号无法使用，可能原因二：**客户端与服务端版本不一致**
 
 因为 Brook 每次更新的内容可能变动较大，所以如果客户端与服务端版本不一致，那么很有可能会导致客户端链接服务端被拒绝。包括Brook Tools 里调用的 Windows 命令行版客户端，所以请尝试更新服务端或客户端为最新版本。比如教程演示中服务端的版本是v20190205，那么下载的命令行版客户端也最好是v20190205
 
-3、账号无法使用，可能原因三：Windows 防火墙阻挡代理软件。
+3、账号无法使用，可能原因三：**Windows 防火墙阻挡代理软件。**
 
 目前发现 Windows 防火墙会阻挡代理软件对外建立的链接，所以需要关闭 Windows 自带的防火墙。
 
