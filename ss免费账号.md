@@ -13,6 +13,8 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （很详细，适合新手）
 
+[自建brook服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （新的翻墙方式，速度更快）
+
 VPS推荐：
 
 [Vultr](https://www.vultr.com/?ref=7777564-4F) （vultr在2019年1月的最新活动，针对新用户，直接送50美元！vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
@@ -26,7 +28,7 @@ VPS推荐：
 **禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，单个用户限速300kb/s。以下账号SSR客户端和SS客户端都能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 
-**2019年4月9日：更新端口。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
+**2019年4月9日：更新端口。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。刚发布了[自建brook服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 这是一种新的翻墙方式，根据反馈比v2ray和ssr要快，值得尝试。**
 
 **视频推荐**
 
