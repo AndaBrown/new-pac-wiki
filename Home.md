@@ -62,8 +62,6 @@
 
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86) （2018年4月26日更新）
 
-[数字安全手册](https://github.com/Alvin9999/new-pac/wiki/%E6%95%B0%E5%AD%97%E5%AE%89%E5%85%A8%E6%89%8B%E5%86%8C) （推荐两本关于网络安全的书籍）
-
 ***
 
 真心希望大家都能够突破网络封锁、获得真相，祝愿每位善良的人都能拥有一个美好的未来。
