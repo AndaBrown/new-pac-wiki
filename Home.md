@@ -22,11 +22,11 @@
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年4月18日更新Brook版本；2019年4月16日更新自由门版本至7.66）
 
+[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年4月18日更新版本）
+
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年4月5日云端更新v2ray配置信息，对速度进行了优化处理）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年4月9日云端更新配置信息，对速度进行了优化处理）
-
-[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年4月18日更新版本）
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年9月23日更新版本）
 
@@ -42,11 +42,11 @@
 
 [谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2018年10月28日更新）
 
-[自建Brook服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月10日发布，新的翻墙方式）
-
 [自建SS/SSR服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2018年11月21日增加SS/SSR部署备用脚本）
 
 [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年2月11日更新一键部署v2ray脚本）
+
+[自建Brook服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAbrook%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2019年4月10日发布，新的翻墙方式）
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2018年6月24日更新聚缘阁安卓版）
 
