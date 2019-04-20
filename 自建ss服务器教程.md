@@ -128,7 +128,7 @@ vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr2019年1月�
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 
-**CentOS6/Debian6/Ubuntu14 ShadowsocksR一键部署管理脚本（2018.11.21更新）：**
+**CentOS6+/Debian6+/Ubuntu14+ ShadowsocksR一键部署管理脚本（2018.11.21更新）：**
 
 **脚本一（2018.11.20更新）**
 
@@ -155,6 +155,9 @@ chmod +x shadowsocksR.sh
 ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 
 ***
+
+> 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
+
 ———————————————————代码分割线————————————————
 
 复制上面的**脚本一代码**到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装，以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash ssr.sh
