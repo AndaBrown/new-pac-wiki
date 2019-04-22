@@ -182,7 +182,9 @@ chmod +x brook.sh
 
 **第三步：一键加速VPS服务器**
 
-**【谷歌BBR加速教程】**
+**总共有2种加速方法，锐速加速和bbr加速，选择1种。**
+
+**【加速教程1：谷歌BBR加速教程】**
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
@@ -225,6 +227,46 @@ chmod +x bbr.sh
 停止firewall命令：systemctl stop firewalld.service
 
 禁止firewall开机启动命令：systemctl disable firewalld.service 
+
+***
+
+**【加速教程2：破解版锐速加速教程】**
+
+**第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
+
+yum -y install wget
+
+wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+
+不动的时候敲回车键，在上图时需要多等一会儿。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+
+出现上图时表示已成功替换内核并服务器自动重启。
+
+**完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
+
+**第二步，一键安装锐速**
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+卸载加速代码命令为：
+
+chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+
+提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
+
+锐速安装成功标志如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+
+出现running字样即可!
 
 ***
 
