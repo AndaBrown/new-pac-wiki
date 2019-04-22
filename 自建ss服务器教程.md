@@ -223,7 +223,7 @@ chmod +x shadowsocksR.sh
 
 **第三步：一键加速VPS服务器**
 
-**2018年12月9日增加破解版锐速加速教程。**
+**总共有2种加速方法，锐速加速和bbr加速，选择1种。**
 
 **【破解版锐速加速教程】**
 
@@ -270,7 +270,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 **【谷歌BBR加速教程】**
 
-**vultr服务器的centos6不支持bbr加速，但centos7系统支持bbr加速，所以如果你想用bbr加速教程，vps操作系统需要选择centos7。**
+**vultr服务器的centos6不支持bbr加速，但centos7系统支持bbr加速，所以如果你想用bbr加速教程，vps操作系统需要选择centos7或其它系统。**
 
 yum -y install wget
 
