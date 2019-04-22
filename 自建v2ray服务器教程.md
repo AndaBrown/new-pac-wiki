@@ -1,4 +1,4 @@
-**2019.2.11：更新一键部署v2ray脚本。**
+**2019年4月23日：增加锐速加速教程。**
 
 ***
 
@@ -205,7 +205,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 **第三步：一键加速VPS服务器**
 
-**【谷歌BBR加速教程】**
+**总共有2种加速方法，bbr加速和锐速加速，选择1种。**
+
+**【加速教程1：谷歌BBR加速教程】**
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
@@ -234,6 +236,47 @@ chmod +x bbr.sh
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
 
 **注意**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装v2ray脚本。
+
+**【加速教程2：破解版锐速加速教程】**
+
+**第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
+
+yum -y install wget
+
+wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+
+不动的时候敲回车键，在上图时需要多等一会儿。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+
+出现上图时表示已成功替换内核并服务器自动重启。
+
+**完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
+
+**第二步，一键安装锐速**
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+卸载加速代码命令为：
+
+chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+
+提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
+
+锐速安装成功标志如下：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+
+出现running字样即可!
+
+
+***
 
 ### 需要注意的是：不管是重启服务器，还是以后想修改之前vps里面的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。
 
