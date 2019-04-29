@@ -28,13 +28,13 @@ VPS推荐：
 **禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，单个用户限速300～400kb/s。以下账号SSR客户端和SS客户端都能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 
-**2019年4月28日：更新端口、增加账号。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
+**2019年4月29日更新：西雅图1为独立服务器，可以作为首选，其带宽、配置更高，能够同时支持更多人使用。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
 
 **视频推荐**
 
 YouTube频道： [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4070.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4072.PNG)
 
 ***
 
