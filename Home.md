@@ -16,8 +16,6 @@
 
 **推荐YouTube视频频道**： [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)
 
-**2019年5月3日公告**：更新[苹果手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 在App Store里直接更改apple ID的国家，方便下载SS/SSR客户端软件。
-
 ***
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年5月1日云端更新Brook版配置信息；2019年4月28日云端更新SSR版配置信息）
