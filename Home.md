@@ -18,7 +18,7 @@
 
 ***
 
-[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年5月10日更新v2ray客户端版本至4.18）
+[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年5月10日更新v2ray版本至4.18）
 
 [谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年5月1日更新版本，解决扩展无法正常打开造成无法使用的问题）
 
