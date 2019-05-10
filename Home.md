@@ -22,7 +22,7 @@
 
 [谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年5月1日更新版本，解决扩展无法正常打开造成无法使用的问题）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年5月4日云端更新v2ray配置信息，对速度进行了优化处理）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年5月10日更新v2ray版本至4.18）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年4月28日云端更新配置信息）
 
