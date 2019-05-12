@@ -14,6 +14,12 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国外网盘2下载](http://108.61.224.82:8000/f/b32e85a553/) 密码：12345678
 
+实例图：
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53brook1.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53brook2.png)
+
 ***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
