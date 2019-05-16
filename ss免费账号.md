@@ -29,13 +29,13 @@ VPS推荐：
 
 **如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
 
-**2019年5月12日更新。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
+**2019年5月17日更新。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
 
 **视频推荐**
 
 YouTube频道： [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [历史上的今天](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮時分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4076.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4078.PNG)
 
 ***
 
