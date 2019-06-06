@@ -10,6 +10,8 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
+[国内网盘下载](https://pan.baidu.com/s/1MpsS2xJevhEcKslzB0k-JA) 密码：ihm4 
+
 [国外网盘1下载](http://45.32.141.248:8000/f/1ae7c1eb95/) 密码：12345678
 
 [国外网盘2下载](http://108.61.224.82:8000/f/bc8b26405a/) 密码：12345678
