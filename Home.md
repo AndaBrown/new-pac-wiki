@@ -16,7 +16,7 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-### 2019年6月6日公告：近期封锁加重，导致很多软件用不了，会尽全力逐步来修复软件，请大家放心！如果你用的软件有ip更新功能，至少每天运行1次来保证你目前用的是最新的云端配置。目前来看的话，trojan版使用效果最佳。SSR版今天更新了一下云端配置。关于网盘地址有时候打不开的问题，如果某个时间点下载量过大的话，会短时间下载不了，可以换个时间段再下载，最近下载量有点大。
+### 2019年6月6日公告：近期封锁加重，导致很多软件用不了，会尽全力逐步来修复软件，请大家放心！如果你用的软件有ip更新功能，至少每天运行1次来保证你目前用的是最新的云端配置。目前来看的话，trojan版使用效果最佳。SSR版今天更新了一下云端配置。关于网盘地址有时候打不开的问题，如果某个时间点下载量过大的话，会短时间下载不了，可以换个时间段再下载，最近下载量有点大。邮件和issues暂时没有时间一一回复，请谅解。
 
 ***
 
