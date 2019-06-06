@@ -16,6 +16,8 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
+### 2019年6月6日公告：近期封锁加重，导致很多软件用不了，会尽全力逐步来修复软件，请大家放心！如果你用的软件有ip更新功能，至少每天运行1次来保证你目前用的是最新的云端配置。目前来看的话，trojan版使用效果最佳。SSR版今天更新了一下云端配置。
+
 ***
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年5月30日云端更新brook版配置信息；2019年5月19日云端更新v2ray版配置信息；2019年5月25日第一次发布Trojan版）
