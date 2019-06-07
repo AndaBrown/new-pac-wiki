@@ -10,6 +10,8 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
+[国内云盘下载](https://pan.baidu.com/s/1yIFD4CRLfUWLmzXROgLKHQ) 密码：2v96 
+
 [国外云盘1下载](http://108.61.224.82:8000/f/0c6368a583/) 密码：12345678
 
 [国外云盘2下载](http://45.32.141.248:8000/f/2add8a4994/) 密码：12345678
