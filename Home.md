@@ -16,15 +16,15 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-### 2019年6月7日公告：增加trojan版、SSR版国内云盘下载地址，更新SSR版云端配置。
+### 2019年6月7日公告：增加各个版本的国内云盘下载地址，更新SSR版、Brook版云端配置。
 
 ***
 
-[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年6月7日云端更新SSR版配置信息）
+[谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年6月7日云端更新SSR版、Brook版配置信息）
 
 [谷歌浏览器低内核Trojan版](https://github.com/Alvin9999/new-pac/wiki/Trojan%E7%89%88) （2019年5月25日第一次发布）
 
-[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年5月30日云端更新brook配置信息）
+[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年6月7日云端更新brook配置信息）
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年5月19日云端更新v2ray配置信息）
 
@@ -36,7 +36,7 @@
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88)（2018年9月23日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年6月7日云端更新SSR版配置信息）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年6月7日云端更新SSR版、Brook版配置信息）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2018年1月31日更新）
 
