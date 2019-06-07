@@ -16,7 +16,7 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-### 2019年6月7日公告：增加trojan版国内云盘下载地址，更新SSR版云端配置。
+### 2019年6月7日公告：增加trojan版、SSR版国内云盘下载地址，更新SSR版云端配置。
 
 ***
 
