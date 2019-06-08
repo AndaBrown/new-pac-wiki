@@ -16,7 +16,7 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-**2019年6月8日公告：更新v2ray版本、升级v2ray，增加抗封锁性，请下载最新版使用。**
+**2019年6月8日公告：更新v2ray版本、升级v2ray，增加抗封锁性，旧v2ray版停止维护，请下载最新版使用。**
 
 ***
 
