@@ -1,8 +1,8 @@
 ### 低内核版 （适合XP、win7、win8、win10）
 
-**2019年5月28日云端更新v2ray配置信息，按照使用说明运行ip更新文件即可同步。**
+**2019年6月8日更新版本，对v2ray进行升级，增加抗封锁性，请下载最新版使用。**
 
-压缩包名称Chrome53_v2ray_v2019.5.10.7z ，文件大小184.2M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
+压缩包名称Chrome53_v2rayN_v2019.6.8.7z ，文件大小184.5M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
 
 win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
 
@@ -10,17 +10,14 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
-[国内云盘下载](https://pan.baidu.com/s/1yIFD4CRLfUWLmzXROgLKHQ) 密码：2v96 
-
-[国外云盘1下载](http://108.61.224.82:8000/f/0c6368a583/) 密码：12345678
-
-[国外云盘2下载](http://45.32.141.248:8000/f/2add8a4994/) 密码：12345678
+[国内云盘下载](https://pan.baidu.com/s/1an3Y2dDfE0n-dHY6xhatXg) 密码：6q6v 
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53v2ray1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53v2rayN1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53v2ray2.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53v2rayN2.PNG)
+
 ***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
