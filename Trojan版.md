@@ -14,6 +14,10 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国内网盘下载](https://pan.baidu.com/s/1Zy1GsFnUPGRM9YuxElpUQw) 密码：kh98
 
+[国外网盘1下载](http://45.32.141.248:8000/f/e3f4ffca88/) 密码：12345678
+
+[国外网盘2下载](http://108.61.224.82:8000/f/f7af9f81c8/) 密码：12345678
+
 实例图：
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53trojan1.png)
