@@ -1,10 +1,10 @@
 ### 低内核版 （适合XP、win7、win8、win10）
 
-**2019年5月25日第一次发布Trojan版。一般的科学上网采用强加密和随机混淆来突破网络封锁，而Trojan采用HTTPS协议原理，抗封锁性更强。**
+**2019年6月10日更新版本。一般的科学上网采用强加密和随机混淆来突破网络封锁，而Trojan采用HTTPS协议原理，抗封锁性更强。**
 
 **注意：Trojan客户端打开无法运行，提示缺少找不到vcruntime140.dll或找不到msvcp140.dll。原因缺少运行库，[点击下载链接](https://www.microsoft.com/en-us/download/details.aspx?id=48145)中的两个软件，一个是32位一个是64位，请全部安装即可。**
 
-压缩包名称Chrome53_Trojan_2019.5.25.7z ，文件大小181.8M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
+压缩包名称Chrome53_Trojan_2019.6.10.7z ，文件大小182.8M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
 
 win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
 
@@ -12,11 +12,7 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
-[国内网盘下载](https://pan.baidu.com/s/1MpsS2xJevhEcKslzB0k-JA) 密码：ihm4 
-
-[国外网盘1下载](http://45.32.141.248:8000/f/1ae7c1eb95/) 密码：12345678
-
-[国外网盘2下载](http://108.61.224.82:8000/f/bc8b26405a/) 密码：12345678
+[国内网盘下载](https://pan.baidu.com/s/1Zy1GsFnUPGRM9YuxElpUQw) 密码：kh98
 
 实例图：
 
