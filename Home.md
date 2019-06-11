@@ -68,7 +68,7 @@
 
 真心希望大家都能够突破网络封锁、获得真相，祝愿每位善良的人都能拥有一个美好的未来。
 
-2019年神韵晚会超清预告片[在线观看或下载](http://108.61.224.82:8000/f/ddd18239a6/)
+2019年神韵晚会超清预告片[在线观看或下载](http://108.61.224.82/lib5/Shen Yun 2019 Official Trailer.mp4)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
 
