@@ -272,7 +272,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 第一步：下载Brook Tools，**本软件是一个辅助软件（可视化UI操作），他无法独立使用，需要配合 Brook Windows命令行版客户端使用**。
 
-Brook Tools v1.0.8 [下载地址1](http://45.32.141.248:8000/f/0b46222653/) [下载地址2]http://108.61.224.82/lib5/Brook%20Tools%20v1.0.8.zip)
+Brook Tools v1.0.8 [下载地址1](http://45.32.141.248:8000/f/0b46222653/) [下载地址2](http://108.61.224.82/lib5/Brook%20Tools%20v1.0.8.zip)
 
 第二步：下载Brook Windows命令行版客户端，地址：https://github.com/txthinking/brook/releases ，如下图，windows32位系统选择第一个，64位系统选择第二个，下载后**重命名为**brook.exe
 
