@@ -14,9 +14,7 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 [国内网盘下载](https://pan.baidu.com/s/1Zy1GsFnUPGRM9YuxElpUQw) 密码：kh98
 
-[国外网盘1下载](http://108.61.224.82/lib2/Chrome53_Trojan_2019.6.10.7z) 
-
-[国外网盘2下载](http://45.32.141.248:8000/f/e3f4ffca88/) 密码：12345678
+[国外网盘下载](http://108.61.224.82/lib2/Chrome53_Trojan_2019.6.10.7z) 
 
 实例图：
 
