@@ -6,7 +6,7 @@
 
 win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
 
-**使用方法：第一次使用时，需要安装 **NET Framework 4.0** ，不然无法正常运行，[微软官网下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718)。下载后解压，按文件夹里面的《使用说明（必看）》操作。使用前可以先运行ip更新文件来同步到最新的v2ray配置。**
+**使用方法：第一次使用时，如果提示需要安装 **NET Framework 4.0** ，可以在[微软官网下载](https://www.microsoft.com/zh-cn/download/details.aspx?id=17718) 并安装。下载后解压，按文件夹里面的《使用说明（必看）》操作。使用前可以先运行ip更新文件来同步到最新的v2ray配置。**
 
 **下载地址：**
 
