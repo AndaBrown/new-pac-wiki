@@ -16,14 +16,6 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-**2019年6月14日公告：云端更新SSR版配置信息，按照使用说明运行ip更新文件即可同步。**
-
-**2019年6月12日公告：云端更新v2ray版配置信息，下载过6月8日v2ray新版的朋友，按照使用说明运行ip更新文件即可同步。**
-
-**2019年6月10日公告：更新trojan版本，请下载最新版使用。**
-
-**2019年6月8日公告：更新v2ray版本、升级v2ray，增加抗封锁性，旧v2ray版停止维护，请下载最新版使用。**
-
 ***
 
 [谷歌浏览器69高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年6月14日云端更新SSR版配置信息；2019年6月12日云端更新v2ray版配置信息；2019年6月10日更新trojan版本；2019年6月8日更新v2ray版本、升级v2ray）
