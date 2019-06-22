@@ -60,9 +60,14 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 简介：内容丰富，实时更新。包括：禁闻，禁片，小品，电影，纪录片，网粹，网摘，网博等。
 
-二、Gfw-Breaker：https://github.com/gfw-breaker/open-proxy/blob/master/README.md
+二、Gfw-Breaker：https://github.com/gfw-breaker/banned-news
 
-简介：nginx反向代理，国产浏览器可能无法正常播放视频。
+简介：nginx反向代理。
+
+三、https://github.com/EtherDream/jsproxy
+
+简介：一个基于浏览器端JS 实现的在线代理。
+
 
 **其它翻墙方法**
 
