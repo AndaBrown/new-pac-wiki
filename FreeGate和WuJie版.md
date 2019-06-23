@@ -38,7 +38,7 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
-[国外云盘下载](http://108.61.224.82/lib2/Chrome53_WJ_v2019.6.21.7z) 
+[国外云盘下载](http://108.61.224.82/lib2/Chrome53_FG_v2019.6.21.7z) 
 
 实例图：
 
