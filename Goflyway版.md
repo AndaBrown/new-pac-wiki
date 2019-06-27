@@ -14,6 +14,8 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 实例图：
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53gw2.PNG)
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53gw.PNG)
 
 ***
