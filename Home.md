@@ -36,7 +36,7 @@
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88)（2018年9月23日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年6月27日发布新软Goflyway版；2019年6月21日更新自由门版本至7.68；2019年6月14日云端更新SSR版配置信息；2019年6月12日云端更新v2ray版配置信息；019年6月10日更新trojan版本；2019年6月8日更新v2ray版本、升级v2ray）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年6月27日发布新软Goflyway版；2019年6月21日更新自由门版本至7.68；2019年6月14日云端更新SSR版配置信息）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2019年6月22日更新）
 
