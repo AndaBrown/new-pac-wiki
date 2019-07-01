@@ -26,7 +26,7 @@
 
 [谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年6月7日云端更新brook配置信息）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年6月12日云端更新v2ray版配置信息）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年6月12日云端更新v2ray版配置信息，请下载最新版然后再更新ip配置信息）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年6月14日云端更新SSR版配置信息）
 
