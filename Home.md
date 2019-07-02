@@ -16,13 +16,15 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
+**2019年7月2日公告：更新Trojan版本，增加一键更新配置信息方式，方便以后的更新，请下载最新版使用。**
+
 ***
 
-[谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性；2019年6月27日发布新软Goflyway版；2019年6月23日更新所有版本的浏览器内核至75）
+[谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年7月2日更新Trojan版本；2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性；2019年6月27日发布新软Goflyway版）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2019年6月27日第一次发布）
 
-[谷歌浏览器低内核Trojan版](https://github.com/Alvin9999/new-pac/wiki/Trojan%E7%89%88) （2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性）
+[谷歌浏览器低内核Trojan版](https://github.com/Alvin9999/new-pac/wiki/Trojan%E7%89%88) （2019年7月2日更新Trojan版本）
 
 [谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年6月7日云端更新brook配置信息）
 
@@ -36,7 +38,7 @@
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88)（2018年9月23日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性；2019年6月27日发布新软Goflyway版；2019年6月21日更新自由门版本至7.68）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年7月2日更新Trojan版本；2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性；2019年6月27日发布新软Goflyway版）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2019年6月22日更新）
 
