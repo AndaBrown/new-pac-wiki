@@ -1,10 +1,10 @@
 ### 低内核版 （适合XP、win7、win8、win10）
 
-**2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性。**
+**2019年7月2日更新Trojan版本并增加一键更新配置信息方式，请下载最新版。**
 
 **注意：一般的科学上网采用强加密和随机混淆来突破网络封锁，而Trojan采用HTTPS协议原理，抗封锁性更强。Trojan客户端打开无法运行，提示缺少找不到vcruntime140.dll或找不到msvcp140.dll。原因缺少运行库，[点击下载链接](https://www.microsoft.com/en-us/download/details.aspx?id=48145)中的两个软件，一个是32位一个是64位，请全部安装即可。**
 
-压缩包名称Chrome53_Trojan_2019.6.29.7z ，文件大小191.04M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
+压缩包名称Chrome53_Trojan_2019.7.2.7z ，文件大小182.3M。主程序为谷歌浏览器36内核，压缩包里的ChromeUpdate文件夹有两个内核离线包(Xp系统49.0.2623.112内核和win7及以上系统53内核），共计86M。
 
 win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)
 
@@ -12,11 +12,11 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
-[国外网盘下载](http://108.61.224.82/629/Chrome53_Trojan_2019.6.29.7z) 
+[国外网盘下载](http://108.61.224.82/702/Chrome53_Trojan_2019.7.2.7z) 
 
 实例图：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53trojan1.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53trojan3.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/53trojan2.png)
 
