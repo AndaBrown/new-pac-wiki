@@ -33,7 +33,7 @@ VPS推荐：
 
 YouTube频道：[文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4104.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4106.PNG)
 
 ***
 
