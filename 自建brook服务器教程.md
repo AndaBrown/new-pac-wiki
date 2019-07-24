@@ -218,6 +218,12 @@ chmod +x bbr.sh
 
 **注意1**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装brook脚本，或者改用锐速加速脚本。
 
+重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/reinstall.png)
+
+重装过程一般需要5～10分钟。
+
 **注意2**：如果创建的是centos7的服务器，安装bbr加速后需要使用命令关闭防火墙，可能无法使用代理。CentOS 7.0默认使用的是firewall作为防火墙。
 
 查看防火墙状态命令：firewall-cmd --state
