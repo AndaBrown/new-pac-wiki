@@ -16,8 +16,6 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw)
 
-**2019年7月2日公告：更新Trojan版本，增加一键更新配置信息方式，方便以后的更新，请下载最新版使用。**
-
 ***
 
 [谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年7月2日更新Trojan版本；2019年6月29日更新Trojan版，升级Trojan至1.12.3，提高软件的流畅性；2019年6月27日发布新软Goflyway版）
