@@ -235,6 +235,12 @@ chmod +x bbr.sh
 
 **注意**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装v2ray脚本。
 
+重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/reinstall.png)
+
+重装过程一般需要5～10分钟。
+
 **【加速教程2：破解版锐速加速教程】**
 
 **第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
