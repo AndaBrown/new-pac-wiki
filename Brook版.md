@@ -10,8 +10,6 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
-[国内网盘下载](https://pan.baidu.com/s/1EB45Ksr6WoSXeZNISz7DJA) 密码：e5wx
-
 [国外网盘下载](http://108.61.224.82/lib2/Chrome53_Brook_2019.5.1.7z) 
 
 实例图：
