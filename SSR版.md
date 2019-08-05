@@ -13,8 +13,6 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址:**
 
-[国内云盘下载](https://pan.baidu.com/s/1koOCUae_nJMm9B6vuQnqkA) 密码：5q67
-
 [国外云盘下载](http://108.61.224.82/lib2/Chrome53_SSR_v2018.9.23.7z) 
 
 实例图：
