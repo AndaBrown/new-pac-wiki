@@ -10,8 +10,6 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 
 **下载地址：**
 
-[国内云盘下载](https://pan.baidu.com/s/1ys110BnCOl2XMEvWUqDq8w) 密码：vk8e
-
 [国外云盘下载](http://108.61.224.82/lib2/Chrome53_WJ_v2019.2.16.7z) 
 
 实例图：
