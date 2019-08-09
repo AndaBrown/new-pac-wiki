@@ -50,38 +50,6 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 苹果手机：目前大陆App Store商店很多SS/SSR软件都被下架了，所以我们首先把自己的账号更改到其它国家，比如美国，然后就可以下载软件了，非常方便。更改账号国家方法：打开App Store——App——账号头像——账号——国家/地区——更改国家或地区——美国——同意协议——确认，之后会进行到填写信息的界面，完善并确认后你就会发现自己的App Store变成美区了，这样就可以自由下载SS/SSR软件了。比如：Potatso Lite、Potatso、wingy等。或者用爱思助手PC端安装Shadowrocket的ipa文件，[Shadowrocket IPA文件下载及教程地址](https://github.com/gfw-breaker/guides/wiki/iPhone%E4%BD%BF%E7%94%A8Shadowsocks%E7%BF%BB%E5%A2%99)。
 
-**直翻项目**：
-
-注意：不管是电脑还是手机，推荐使用谷歌浏览器或火狐浏览器。国产浏览器可能会屏蔽直翻网址。
-
-一、网门 ：https://git.io/ogate2
-
-简介：内容丰富，实时更新。包括：禁闻，禁片，小品，电影，纪录片，网粹，网摘，网博等。
-
-二、Gfw-Breaker：https://github.com/gfw-breaker/banned-news
-
-简介：nginx反向代理。
-
-三、https://github.com/EtherDream/jsproxy
-
-简介：一个基于浏览器端JS 实现的在线代理。
-
-
-**其它翻墙方法**
-
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) 
-
-[windows系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki)
-
-[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95)
-
-[MAC翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) 
-
-[ios翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)  
-
-[安卓手机翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)
-
-
 ***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
