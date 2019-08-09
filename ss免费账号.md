@@ -50,6 +50,8 @@ MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 苹果手机：目前大陆App Store商店很多SS/SSR软件都被下架了，所以我们首先把自己的账号更改到其它国家，比如美国，然后就可以下载软件了，非常方便。更改账号国家方法：打开App Store——App——账号头像——账号——国家/地区——更改国家或地区——美国——同意协议——确认，之后会进行到填写信息的界面，完善并确认后你就会发现自己的App Store变成美区了，这样就可以自由下载SS/SSR软件了。比如：Potatso Lite、Potatso、wingy等。或者用爱思助手PC端安装Shadowrocket的ipa文件，[Shadowrocket IPA文件下载及教程地址](https://github.com/gfw-breaker/guides/wiki/iPhone%E4%BD%BF%E7%94%A8Shadowsocks%E7%BF%BB%E5%A2%99)。
 
+[其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
+
 ***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
