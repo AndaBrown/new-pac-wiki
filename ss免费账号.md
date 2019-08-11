@@ -25,11 +25,11 @@ VPS推荐：
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！为保证每个用户都能获得一定的带宽资源，单个用户限速100kb/s。以下账号SSR客户端和SS客户端都能使用。[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
-**2019年8月2日更新端口和密码。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
+**2019年8月11日更新洛杉矶账号的端口和密码。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。免费资源有速度限制，建议每个有条件的人都学习一下自己搭建服务器，学一门技能有备无患。**
 
 **YouTube频道推荐**：[文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4110.PNG)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4112.PNG)
 
 ***
 
