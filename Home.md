@@ -72,7 +72,7 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
 
-(图片来源于神韵晚会，访问更多图片或视频介绍，可访问[神韵官网](http://zh-cn.shenyun.com/videos/latest-videos/#/latest-videos))
+(图片来源于神韵晚会，访问更多图片或视频，可访问[神韵官网](http://zh-cn.shenyun.com/videos/latest-videos/#/latest-videos))
 
 ***
 有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，反馈邮件标题最好注明什么软件及截图。
