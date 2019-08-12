@@ -64,4 +64,13 @@
 
 ***
 
-希望大家都能够突破网络封锁，获得真相。有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，反馈邮件标题最好注明什么软件及截图。
+希望大家都能够突破网络封锁，获得真相！天佑中华，天佑善良人！
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.JPG)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
+
+***
+有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，反馈邮件标题最好注明什么软件及截图。
