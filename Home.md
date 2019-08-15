@@ -18,7 +18,7 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos)
 
-**2019年8月16日公告：trojan版已修复。原因是有人使用trojan版下载BT电影（侵权）导致服务器被封。禁止使用trojan版及其它版本进行BT下载、侵权电影下载、垃圾邮件发送、浏览并下载色情视频。**
+**2019年8月16日公告：trojan版已修复。原因是有人使用trojan版下载BT电影（侵权）导致服务器被封。禁止使用trojan版及其它版本进行BT下载、版权电影下载、垃圾邮件发送、浏览并下载色情视频。**
 
 ***
 
