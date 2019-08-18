@@ -18,6 +18,8 @@
 
 **推荐YouTube视频频道**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos)
 
+**2019年8月18日公告：云端更新了Goflyway版、Trojan版、Brook版、v2ray版、SSR版配置信息，按照使用说明运行ip更新文件即可同步。**
+
 ***
 
 [谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年8月17日云端更新trojan版、Goflyway版配置信息）
@@ -26,11 +28,11 @@
 
 [谷歌浏览器低内核Trojan版](https://github.com/Alvin9999/new-pac/wiki/Trojan%E7%89%88) （2019年8月17日云端更新trojan配置信息）
 
-[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年6月7日云端更新brook配置信息）
+[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年8月18日云端更新brook配置信息）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年6月12日云端更新v2ray版配置信息，请下载最新版然后再更新ip配置信息）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年8月18日云端更新v2ray版配置信息）
 
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年6月14日云端更新SSR版配置信息）
+[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2019年8月18日云端更新SSR版配置信息）
 
 [谷歌浏览器低内核FreeGate和WuJie版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2019年6月21日更新自由门版本至7.68）
 
