@@ -19,7 +19,7 @@
 如果想搭建ss/ssr，可以参考
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
 
-**注意：搭建ss/ssr脚本和搭建v2ray脚本不要在同一台vps上使用，以免互相干扰！如果ss/ssr和v2ray都想搭建，可以用两台vps，一台搭建ss/ssr，另外一台搭建v2ray。**
+注意：如果想在一台vps服务器上同时搭建ss/ssr和v2ray，端口不要重复。
 
 ***
 
