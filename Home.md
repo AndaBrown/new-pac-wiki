@@ -20,10 +20,6 @@
 
 **2019年8月18日公告：云端更新了Goflyway版、Trojan版、Brook版、v2ray版、SSR版配置信息，按照使用说明运行ip更新文件即可同步。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。**
 
-**2019年8月27日征求**：你希望下次版本的浏览器背景色是什么颜色，白色？蓝色？黑色？灰色？其它颜色？
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E8%83%8C%E6%99%AF%E8%89%B2.png)
-
 ***
 
 [谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年8月18日云端更新Brook版、v2ray版、SSR版配置信息；2019年8月17日云端更新trojan版、Goflyway版配置信息）
