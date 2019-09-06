@@ -233,7 +233,7 @@ chmod +x bbr.sh
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
 
-**注意**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装v2ray脚本。
+**注意**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装v2ray脚本。或者换锐速加速。
 
 重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
 
