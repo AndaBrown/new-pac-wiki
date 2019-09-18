@@ -91,9 +91,7 @@ vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr2019年1月�
 
 购买服务器后，需要部署一下。因为你买的是虚拟东西，而且又远在国外，我们需要一个叫Xshell的软件来远程部署。Xshell windows版下载地址：
 
-[国外云盘1下载](http://45.32.141.248:8000/f/d91974d046/) 
-
-[国外云盘2下载](http://108.61.224.82/lib5/Xshell_setup_wm.exe) 
+[国外云盘下载](http://108.61.224.82/lib5/Xshell_setup_wm.exe) 
 
 如果你是苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。打开**终端**（Terminal），输入ssh root@ip  其中“ip”替换成你VPS的ip, 按回车键，然后复制粘贴密码，按回车键即可登录。粘贴密码时有可能不显示密码，但不影响， [参考设置方法](http://www.cnblogs.com/ghj1976/archive/2013/04/19/3030159.html)  如果不能用MAC自带的终端连接的话，直接网上搜“MAC连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。
 
