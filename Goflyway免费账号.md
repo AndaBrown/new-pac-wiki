@@ -38,6 +38,8 @@ VPS推荐：
 
 **Goflyway客户端下载：**
 
+2019年9月21日更新。
+
 目前只有Windows客户端，如果有其它客户端版本会更新。
 
 Goflyway Windows客户端 [下载地址](http://108.61.224.82/Goflyway.7z) 操作方法和ss/ssr客户端类似。下载后解压出来，打开Goflyway文件夹里面的GoflywayTools.exe客户端，填写账号信息后，点击“启动”按钮，浏览器代理设置成http 127.0.0.1 8100即可。
