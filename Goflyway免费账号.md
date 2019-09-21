@@ -46,7 +46,7 @@ Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyw
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/goflyway/gy1.PNG)
 
-目前只有Windows图形界面的客户端，其它电脑系统，比如MAC、Linux要使用命令行来使用，[MAC、Linux参考教程](https://github.com/coyove/goflyway/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)、[软件下载](https://github.com/coyove/goflyway/releases)，具体命令行使用方法目前请自行研究，。
+目前只有Windows图形界面的客户端，其它电脑系统，比如MAC、Linux要使用命令行来使用，[参考教程](https://github.com/coyove/goflyway/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)、[软件下载](https://github.com/coyove/goflyway/releases)，具体命令行使用方法目前请自行研究。
 
 [其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
 
