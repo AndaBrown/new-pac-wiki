@@ -78,6 +78,8 @@ D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 2、第三方Goflyway安卓版：[下载地址](https://github.com/koolwiki/goflyway_android/releases/download/1.3.2/golyway_v1.3.2.apk)
 
+有的手机杀后台比较严重，可以把goflyway加入白名单或者设置成不进行省电优化，这样可以避免在后台中被杀掉。
+
 3、暂无苹果手机版。
 
 ***
