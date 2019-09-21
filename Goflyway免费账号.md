@@ -55,6 +55,7 @@ MAC和Linux系统的电脑可以参考下面的命令行使用方法：
 首先[下载命令行客户端](https://github.com/coyove/goflyway/releases)。下载并解压后，会得到goflyway.exe及其它文件，注意：这时候并不能直接运行 goflyway.exe 程序，因为这样没有指定任何参数不说，还会识别为服务端模式。
 
 制作启动脚本：假设你的 goflyway.exe 解压后位于 D:\goflyway\goflyway.exe ，那么在 D:\goflyway 目录下我们新建一个文本文件，写入以下内容：
+
 goflyway.exe -up="1.1.1.1:80" -k="doubi233" -l=":8100"
 
 pause>nul
