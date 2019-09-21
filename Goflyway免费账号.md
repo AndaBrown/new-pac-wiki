@@ -74,6 +74,8 @@ D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 Goflyway安卓版：[下载地址](https://github.com/coyove/goflyway/releases/download/2.0.0rc1/ss-align-signed.apk)
 
+当前版本v1.1.0a-apk，如果您的系统里已经存在原版的shadowsocks客户端，那么最好先卸载再安装本客户端。
+
 ***
 
 [其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
