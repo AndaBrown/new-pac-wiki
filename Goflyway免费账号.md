@@ -76,7 +76,7 @@ D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 当前版本v1.1.0a-apk，如果您的系统里已经存在原版的shadowsocks客户端，那么最好先卸载再安装本客户端。
 
-2、第三方Goflyway安卓版：[下载地址](https://github.com/koolwiki/goflyway_android/releases/download/1.3.2/golyway_v1.3.2.apk)
+2、第三方Goflyway安卓版：[下载及教程地址](https://github.com/koolwiki/goflyway_android)
 
 有的手机杀后台比较严重，可以把goflyway加入白名单或者设置成不进行省电优化，这样可以避免在后台中被杀掉。
 
