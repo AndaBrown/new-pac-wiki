@@ -50,13 +50,13 @@ Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyw
 
 ***
 
-MAC和Linux系统的电脑可以参考下面的命令行使用方法：
+MAC和Linux系统的电脑可以参考下面的goflyway命令行使用方法：
 
 首先[下载命令行客户端](https://github.com/coyove/goflyway/releases)。下载并解压后，会得到goflyway.exe及其它文件，注意：这时候并不能直接运行 goflyway.exe 程序，因为这样没有指定任何参数不说，还会识别为服务端模式。
 
 制作启动脚本：假设你的 goflyway.exe 解压后位于 D:\goflyway\goflyway.exe ，那么在 D:\goflyway 目录下我们新建一个文本文件，写入以下内容：
 
-goflyway.exe -up="1.1.1.1:80" -k="doubi233" -l=":8100"
+goflyway.exe -up="服务器地址:端口" -k="密码" -l=":8100"
 
 pause>nul
 
@@ -64,7 +64,7 @@ pause>nul
 
 下面是运行启动脚本后的内容示例（注意下面的不需要你写入）：
 
-D:\goflyway\>goflyway.exe -k="doubi233" -up="1.1.1.1:80" -l=":8100"
+D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 [ 0914 10:03:59.572] listening on :8100, upstream is 1.1.1.1:80
 
