@@ -46,7 +46,37 @@ Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyw
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/goflyway/gy1.PNG)
 
-目前只有Windows图形界面的客户端，其它电脑系统，比如MAC、Linux要使用命令行来使用，[参考教程](https://github.com/coyove/goflyway/wiki/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)、[软件下载](https://github.com/coyove/goflyway/releases)，具体命令行使用方法目前请自行研究。
+**目前只有Windows图形界面的客户端，其它电脑系统，比如MAC、Linux要使用命令行来使用。**
+
+***
+
+MAC和Linux系统的电脑可以参考下面的命令行使用方法：
+
+首先[下载命令行客户端](https://github.com/coyove/goflyway/releases)。下载并解压后，会得到goflyway.exe及其它文件，注意：这时候并不能直接运行 goflyway.exe 程序，因为这样没有指定任何参数不说，还会识别为服务端模式。
+
+制作启动脚本：假设你的 goflyway.exe 解压后位于 D:\goflyway\goflyway.exe ，那么在 D:\goflyway 目录下我们新建一个文本文件，写入以下内容：
+goflyway.exe -up="1.1.1.1:80" -k="doubi233" -l=":8100"
+
+pause>nul
+
+# 将上面两行内容写入到新建文本文件中
+
+# 注意：-k="密码"和-up="服务器地址:8100" 是服务端的配置信息
+
+# -l=":8100" 指的是客户端监听本地端口 8100，默认就行
+
+# 第二行代码的作用是，当你某个地方/代码配置错误，CMD批处理不会运行后直接关闭，免得看不到报错信息
+
+然后重命名新建的文本文件为：run.bat，并运行BAT脚本（或者以管理员身份运行），提示内容大概如下：
+
+# 下面是运行启动脚本后的内容示例（注意下面的不需要你写入）：
+
+D:\goflyway\>goflyway.exe -k="doubi233" -up="1.1.1.1:80" -l=":8100"
+
+[  0914 10:03:59.572] listening on :8100, upstream is 1.1.1.1:80
+
+
+***
 
 [其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
 
