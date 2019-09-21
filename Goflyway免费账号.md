@@ -25,7 +25,7 @@ VPS推荐：
 
 ### ===免费Goflyway节点列表===（不定期更新账号ip或端口或密码）
 
-**免费账号用的人多，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！以下账号仅Goflyway客户端能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+**免费账号用的人多，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！以下账号仅Goflyway客户端能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/Goflyway免费账号)
 
 ### 2019年9月21日首次发布。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。
 
@@ -72,7 +72,7 @@ D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 **二、手机版**
 
-Goflyway安卓版：[下载地址](https://github.com/coyove/goflyway/releases/download/1.3.0a/aligned-signed.apk)
+Goflyway安卓版：[下载地址](https://github.com/coyove/goflyway/releases/download/2.0.0rc1/ss-align-signed.apk)
 
 ***
 
