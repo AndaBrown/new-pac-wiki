@@ -36,9 +36,11 @@ VPS推荐：
 ***
 
 
-**Goflyway客户端下载：**
+### Goflyway客户端下载：
 
 2019年9月21日更新。
+
+**一、电脑版**
 
 Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyway.7z) 操作方法和ss/ssr客户端类似。下载后解压出来，打开Goflyway文件夹里面的GoflywayTools.exe客户端，填写账号信息后，点击“启动”按钮，浏览器代理设置成http 127.0.0.1 8100即可。
 
@@ -49,7 +51,6 @@ Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyw
 **目前只有Windows图形界面的客户端，其它电脑系统，比如MAC、Linux要使用命令行来使用。**
 
 ***
-
 
 MAC和Linux系统的电脑可以参考下面的**goflyway命令行**使用方法：
 
@@ -69,7 +70,9 @@ D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 [ 0914 10:03:59.572] listening on :8100, upstream is 服务器地址:端口
 
+**二、手机版**
 
+Goflyway安卓版：[下载地址](https://github.com/coyove/goflyway/releases/download/1.3.0a/aligned-signed.apk)
 
 ***
 
