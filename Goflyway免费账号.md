@@ -72,17 +72,7 @@ D:\goflyway\>goflyway.exe -k="密码" -up="服务器地址:端口" -l=":8100"
 
 [ 0914 10:03:59.572] listening on :8100, upstream is 服务器地址:端口
 
-**二、手机版**
 
-1、Goflyway安卓版：[下载地址](https://github.com/coyove/goflyway/releases/download/2.0.0rc1/ss-align-signed.apk)
-
-当前版本v1.1.0a-apk，如果您的系统里已经存在原版的shadowsocks客户端，那么最好先卸载再安装本客户端。
-
-2、第三方Goflyway安卓版：[下载及教程地址](https://github.com/koolwiki/goflyway_android)
-
-有的手机杀后台比较严重，可以把goflyway加入白名单或者设置成不进行省电优化，这样可以避免在后台中被杀掉。
-
-3、暂无苹果手机版。
 
 ***
 
