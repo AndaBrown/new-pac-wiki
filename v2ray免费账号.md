@@ -31,7 +31,8 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray1.PNG) UUID:1382eedb-da7e-4f4f-87d4-29ad00e8187b
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray1.PNG)
+ UUID:1382eedb-da7e-4f4f-87d4-29ad00e8187b
 
 ***
 
@@ -50,7 +51,25 @@ Linux客户端[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 IOS客户端kitsunebi或Kitsunebi Lite
 
-使用方法待更新。由于最近很忙，且设备有限，请使用windows、MAC、安卓、IOS、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！
+**使用方法待更新。由于最近很忙，且设备有限，请使用windows、MAC、安卓、IOS、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
+
+***
+
+1、感谢zhao网友提供windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法。
+
+第一步按照地址下载v2ray客户端，然后解压缩后打开应用：
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/v2ray2.png)
+
+第二步在任务栏中找到蓝色V图标，单击打开客户端界面，然后在服务器下拉中找到添加Vmess服务器选项
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/v2ray3.png)
+
+第三步，按照分享的账号信息逐一填写后，选择确定
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/v2ray4.png)
+
+第四步，在任务栏中右键蓝色V图标，选择开启HTTP代理，接着在HTTP代理模式中选择开启代理并自动保存配置全局或者PAC模式即可开始畅游墙外的世界了。
 
 ***
 
