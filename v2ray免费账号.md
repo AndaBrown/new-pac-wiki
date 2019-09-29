@@ -52,7 +52,7 @@ Linux客户端[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 IOS客户端kitsunebi或Kitsunebi Lite
 
-**使用方法待更新。由于最近很忙，且设备有限，请使用windows、MAC、安卓、IOS、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
+**使用方法待更新。由于最近很忙，且设备有限，请使用MAC、安卓、IOS、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
 
 ***
 
@@ -71,6 +71,10 @@ IOS客户端kitsunebi或Kitsunebi Lite
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/v2ray4.png)
 
 第四步，在任务栏中右键蓝色V图标，选择开启HTTP代理，接着在HTTP代理模式中选择开启代理并自动保存配置全局或者PAC模式即可开始畅游墙外的世界了。
+
+2、感谢yang网友提供IOS系统的图文使用方法。
+
+https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png
 
 ***
 
