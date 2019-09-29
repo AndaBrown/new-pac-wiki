@@ -56,7 +56,7 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 ***
 
-1、感谢zhao网友提供windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法。
+**1、windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法**
 
 第一步按照地址下载v2ray客户端，然后解压缩后打开应用：
 
@@ -72,7 +72,7 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 第四步，在任务栏中右键蓝色V图标，选择开启HTTP代理，接着在HTTP代理模式中选择开启代理并自动保存配置全局或者PAC模式即可开始畅游墙外的世界了。
 
-2、感谢yang网友提供IOS系统的图文使用方法。
+**2、IOS系统的图文使用方法**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png)
 
