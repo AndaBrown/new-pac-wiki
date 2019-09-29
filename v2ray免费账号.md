@@ -74,7 +74,7 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 2、感谢yang网友提供IOS系统的图文使用方法。
 
-https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png)
 
 ***
 
