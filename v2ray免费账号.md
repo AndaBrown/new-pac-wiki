@@ -56,6 +56,8 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 ***
 
+**2019年9月30日更新。**
+
 **1、windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法**
 
 第一步按照地址下载v2ray客户端，然后解压缩后打开应用：
