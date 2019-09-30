@@ -80,6 +80,22 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png)
 
+**3、安卓系统的图文使用方法**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az1.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az2.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az3.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az4.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az5.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az6.png)
+
+注: 1、最下端的测试结果不完全正确，即便失败也可以在浏览器里试一试。2、不成功可以考虑重启手机(靠飞行模式"重启"无效)。3、如果选绕过大陆和局域网不行，可以切换模式为全局模式
+
 ***
 
 [其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
