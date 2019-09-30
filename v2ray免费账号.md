@@ -74,13 +74,25 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 第四步，在任务栏中右键蓝色V图标，选择开启HTTP代理，接着在HTTP代理模式中选择开启代理并自动保存配置全局或者PAC模式即可开始畅游墙外的世界了。
 
-**2、IOS系统的图文使用方法**
+**2、MAC系统的图文使用方法**
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac1.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac2.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac3.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac4.jpg)
+
+填写完信息后点击ok进行保存，点击load un即可开始使用。模式选择pac就行，全局也可以（全局有时候会导致国内网络无法使用）
+
+**3、IOS系统的图文使用方法**
 
 大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，自己申请要麻烦点。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png)
 
-**3、安卓系统的图文使用方法**
+**4、安卓系统的图文使用方法**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/az1.png)
 
