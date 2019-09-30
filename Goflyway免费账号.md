@@ -54,7 +54,7 @@ Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyw
 
 MAC和Linux系统的电脑可以参考下面的**goflyway命令行**使用方法：
 
-首先[下载命令行客户端](https://github.com/coyove/goflyway/releases)。下载并解压后，会得到goflyway.exe及其它文件，注意：这时候并不能直接运行 goflyway.exe 程序，因为这样没有指定任何参数不说，还会识别为服务端模式。
+[下载命令行客户端](https://github.com/coyove/goflyway/releases)。
 
 **启动命令**：./goflyway -up="cf://服务器地址:端口" -k="密码" -l=":8100"
 
