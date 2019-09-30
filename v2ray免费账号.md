@@ -52,7 +52,7 @@ Linux客户端[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 IOS客户端kitsunebi或Kitsunebi Lite
 
-**使用方法待更新。由于最近很忙，且设备有限，请使用MAC、安卓、IOS、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
+**使用方法待更新。由于最近很忙，且设备有限，请使用MAC、安卓、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
 
 ***
 
@@ -76,7 +76,7 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 **2、IOS系统的图文使用方法**
 
-大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以自己网上申请或者淘宝购买。
+大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，自己申请要麻烦点。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png)
 
