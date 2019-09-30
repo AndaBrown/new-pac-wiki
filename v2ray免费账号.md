@@ -76,6 +76,8 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 **2、IOS系统的图文使用方法**
 
+大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以自己网上申请或者淘宝购买。
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2ray5.png)
 
 ***
