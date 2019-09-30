@@ -46,7 +46,7 @@ windows客户端[v2rayN(第三方开发)](https://github.com/2dust/v2rayN/releas
 
 MAC客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases)或[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
-Linux客户端[v2ray](https://github.com/v2ray/v2ray-core/releases)
+Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 安卓客户端[v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
