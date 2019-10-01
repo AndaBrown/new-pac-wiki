@@ -4,7 +4,7 @@
 
 ### 第一种方法：利用v2ray翻墙
 
-1、使用Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases)或[v2ray](https://github.com/v2ray/v2ray-core/releases)  [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+1、使用Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac1.jpg)
 
