@@ -48,17 +48,21 @@ Goflyway Windows图形界面客户端 [下载地址](http://108.61.224.82/Goflyw
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/goflyway/gy1.PNG)
 
-**目前只有Windows图形界面的客户端，其它电脑系统，比如MAC、Linux要使用命令行来使用。**
+**目前只有Windows图形界面的客户端，其它电脑系统，比如Mac、Linux要使用命令行来使用。**
 
 ***
 
-MAC和Linux系统的电脑可以参考下面的**goflyway命令行**使用方法：
+Mac和Linux系统的电脑可以参考下面的**goflyway命令行**使用方法：
 
 [下载命令行客户端](https://github.com/coyove/goflyway/releases)。
 
 **启动命令**：./goflyway -up="cf://服务器地址:端口" -k="密码" -l=":8100"
 
-MAC：cloudflare 里面 SSL/TLS 菜单里面 选上 Flexible，不要关闭成off。
+Mac：cloudflare 里面 SSL/TLS 菜单里面 选上 Flexible，不要关闭成off。
+
+**二、手机版**
+
+暂无方法。
 
 ***
 
