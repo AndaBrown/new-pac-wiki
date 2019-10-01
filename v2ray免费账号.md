@@ -44,7 +44,7 @@ UUID:1382eedb-da7e-4f4f-87d4-29ad00e8187b
 
 windows客户端[v2rayN(第三方开发)](https://github.com/2dust/v2rayN/releases/latest) 或[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
-Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases)或[v2ray](https://github.com/v2ray/v2ray-core/releases)
+Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 或 [v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
 
@@ -76,6 +76,8 @@ iOS客户端kitsunebi或Kitsunebi Lite
 
 **2、Mac系统的图文使用方法**
 
+第一种，使用[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 
+
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac1.jpg)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac2.jpg)
@@ -85,6 +87,20 @@ iOS客户端kitsunebi或Kitsunebi Lite
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac4.jpg)
 
 填写完信息后点击ok进行保存，点击load un即可开始使用。模式选择pac就行，全局也可以（全局有时候会导致国内网络无法使用）
+
+第二种，使用[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)
+
+正常安装程序,点击应用程序中的 V2RayU 图标:勾选 pac 模式、点击服务器设置
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu1.png)
+
+如图配置:
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu2.png)
+
+确定如图状态就是已经开启, 即可开始畅游墙外的世界
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu3.png)
 
 **3、iOS系统的图文使用方法**
 
