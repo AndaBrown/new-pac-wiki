@@ -25,7 +25,7 @@ VPS推荐：
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-**免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！单个用户限速20kb/s。以下账号SSR客户端和SS客户端都能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+**免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！单个用户限速40kb/s。以下账号SSR客户端和SS客户端都能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 **2019年10月2日更新账号。由于目前网络封锁加重，SS/SSR被封的很厉害，如果你无法使用最新的SSR账号，请换[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费Goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 来翻墙上网，v2ray和Goflyway抗封锁性很强。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
 
