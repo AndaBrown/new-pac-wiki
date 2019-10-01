@@ -56,7 +56,7 @@ iOS客户端kitsunebi或Kitsunebi Lite
 
 ***
 
-**2019年9月30日更新。**
+**2019年10月2日更新。**
 
 **1、windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法**
 
