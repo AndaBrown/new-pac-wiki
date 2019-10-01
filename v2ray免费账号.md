@@ -44,15 +44,15 @@ UUID:1382eedb-da7e-4f4f-87d4-29ad00e8187b
 
 windows客户端[v2rayN(第三方开发)](https://github.com/2dust/v2rayN/releases/latest) 或[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
-MAC客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases)或[v2ray](https://github.com/v2ray/v2ray-core/releases)
+Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases)或[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
 
 安卓客户端[v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
-IOS客户端kitsunebi或Kitsunebi Lite
+iOS客户端kitsunebi或Kitsunebi Lite
 
-**使用方法待更新。由于最近很忙，且设备有限，请使用MAC、安卓、linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
+**使用方法待更新。由于最近很忙，且设备有限，请使用linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
 
 ***
 
@@ -74,7 +74,7 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 第四步，在任务栏中右键蓝色V图标，选择开启HTTP代理，接着在HTTP代理模式中选择开启代理并自动保存配置全局或者PAC模式即可开始畅游墙外的世界了。
 
-**2、MAC系统的图文使用方法**
+**2、Mac系统的图文使用方法**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac1.jpg)
 
@@ -86,7 +86,7 @@ IOS客户端kitsunebi或Kitsunebi Lite
 
 填写完信息后点击ok进行保存，点击load un即可开始使用。模式选择pac就行，全局也可以（全局有时候会导致国内网络无法使用）
 
-**3、IOS系统的图文使用方法**
+**3、iOS系统的图文使用方法**
 
 大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，自己申请要麻烦点。
 
