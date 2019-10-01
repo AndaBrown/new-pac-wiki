@@ -42,13 +42,13 @@ VPS推荐：
 
 Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
 
-MAC SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
+Mac SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
 
 [Linux客户端一键安装配置使用脚本](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr) (使用方法见注释)
 
 安卓SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk) 
 
-苹果手机：目前大陆App Store商店很多SS/SSR软件都被下架了，我们需要美区的ID，然后到美区的商店就可以自由下载软件了。关于美区ID的申请方法网上有很多，可以自己搜一下。如果不想自己注册，可以去淘宝购买或者网上找别人共享的ID。SS/SSR软件有很多，比如：Potatso Lite、Potatso、wingy等。或者用爱思助手PC端安装Shadowrocket的ipa文件，[Shadowrocket IPA文件下载及教程地址](https://github.com/gfw-breaker/guides/wiki/iPhone%E4%BD%BF%E7%94%A8Shadowsocks%E7%BF%BB%E5%A2%99)。
+iOS：目前大陆App Store商店很多SS/SSR软件都被下架了，我们需要美区的ID，然后到美区的商店就可以自由下载软件了。关于美区ID的申请方法网上有很多，可以自己搜一下。如果不想自己注册，可以去淘宝购买或者网上找别人共享的ID。SS/SSR软件有很多，比如：Potatso Lite、Potatso、wingy等。或者用爱思助手PC端安装Shadowrocket的ipa文件，[Shadowrocket IPA文件下载及教程地址](https://github.com/gfw-breaker/guides/wiki/iPhone%E4%BD%BF%E7%94%A8Shadowsocks%E7%BF%BB%E5%A2%99)。
 
 [其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
 
