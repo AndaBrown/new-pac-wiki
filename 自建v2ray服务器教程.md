@@ -290,11 +290,11 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 [v2ray PC客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
-[v2ray ios客户端下载地址](https://itunes.apple.com/cn/app/kitsunebi/id1275446921?mt=8)
+[v2ray iOS客户端下载地址](https://itunes.apple.com/cn/app/kitsunebi/id1275446921?mt=8)
 
 [v2ray 安卓客户端下载地址](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
 
-[v2ray macOS客户端下载地址](https://github.com/Cenmrev/V2RayX/releases)
+[v2ray MacOS客户端下载地址](https://github.com/Cenmrev/V2RayX/releases)
 
 [v2ray Linux客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
