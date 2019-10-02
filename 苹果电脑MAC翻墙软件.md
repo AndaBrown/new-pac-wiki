@@ -63,7 +63,3 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 上面是使用SS客户端填写SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
 
 SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和1080就可以用浏览器翻墙了。
-
-### 第二种方法：
-
-使用Lantern MAC版 [下载地址](https://github.com/getlantern/download/wiki)
