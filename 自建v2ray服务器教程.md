@@ -286,18 +286,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 【v2ray客户端下载】
 
-**2019年3月20日更新。**
+**2019年10月2日更新。**
 
-[v2ray PC客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
+[v2ray各平台客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
 [v2ray iOS客户端下载地址](https://itunes.apple.com/cn/app/kitsunebi/id1275446921?mt=8)
 
 [v2ray 安卓客户端下载地址](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
-
-[v2ray MacOS客户端下载地址](https://github.com/Cenmrev/V2RayX/releases)
-
-[v2ray Linux客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
-
 
 以v2ray windows版为例：
 
