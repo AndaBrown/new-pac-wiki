@@ -292,7 +292,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 [v2ray iOS客户端下载地址](https://itunes.apple.com/cn/app/kitsunebi/id1275446921?mt=8)
 
-[v2ray 安卓客户端下载地址](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
+[v2ray 安卓客户端下载地址](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv) [v2rayNG下载地址](https://github.com/2dust/v2rayNG/releases)
 
 以v2ray windows版为例：
 
@@ -303,10 +303,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
 
 运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
-
-***
-
-v2ray安卓客户端[下载地址](https://github.com/2dust/v2rayNG/releases)
 
 ***
 
