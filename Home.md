@@ -18,7 +18,7 @@
 
 **推荐YouTube视频频道**： [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-**提醒：近期网络翻墙环境比以前要差一些，请多下载几款不同类型的软件，以备不时之需。Trojan版、Goflyway版、v2ray版表现很不错，可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。**
+**2019年10月3日提醒：近期网络翻墙环境比以前要差一些，请多下载几款不同类型的软件，以备不时之需。Trojan版、Goflyway版、v2ray版表现很不错，可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。Brook版近期无法使用。**
 
 ***
 
