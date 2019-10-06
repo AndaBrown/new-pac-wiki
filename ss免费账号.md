@@ -27,7 +27,7 @@ VPS推荐：
 
 **免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！单个用户限速100kb/s。以下账号SSR客户端和SS客户端都能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
-**2019年10月7日更新。由于目前网络封锁加重，如果你无法使用最新的SSR账号，请换[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费Goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 来翻墙上网，v2ray和Goflyway抗封锁性很强。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
+**2019年10月7日更新。如果你无法使用最新的SSR账号，请换[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费Goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 来翻墙上网，v2ray和Goflyway抗封锁性很强。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
 
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
