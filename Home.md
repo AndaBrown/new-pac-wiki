@@ -18,17 +18,17 @@
 
 **推荐YouTube视频频道**： [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-**2019年10月3日提醒：近期网络翻墙环境比以前要差一些，请多下载几款不同类型的软件，以备不时之需。Trojan版、Goflyway版、v2ray版表现很不错，可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。Brook版近期无法使用。**
+**2019年10月7日提醒：如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。**
 
 ***
 
-[谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年9月27日云端更新v2ray版配置信息，抗封锁性明显增强）
+[谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年10月7日云端更新brook版配置信息；2019年9月27日云端更新v2ray版配置信息，抗封锁性明显增强）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2019年9月24日云端更新Goflyway配置信息）
 
 [谷歌浏览器低内核Trojan版](https://github.com/Alvin9999/new-pac/wiki/Trojan%E7%89%88) （2019年9月16日云端更新trojan配置信息）
 
-[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年9月24日云端更新brook配置信息）
+[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2019年10月7日云端更新brook配置信息）
 
 [谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2019年9月27日云端更新v2ray版配置信息，抗封锁性明显增强）
 
@@ -40,7 +40,7 @@
 
 [谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88)（2018年9月23日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年9月27日云端更新v2ray版配置信息，抗封锁性明显增强）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2019年10月7日云端更新brook版配置信息；2019年9月27日云端更新v2ray版配置信息，抗封锁性明显增强）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2019年6月22日更新）
 
