@@ -62,7 +62,7 @@ vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr2019年1月�
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
 
 
-### 点击图中的CentOS几个字，会弹出centos6，然后选中centos6！
+### 点击图中的CentOS几个字，会弹出centos6，然后选中centos6！ （不要选默认的centos8，脚本不支持centos8！）
 
 > 接下来这一步是开启vps的ipv6 ip，选填项。如果你的电脑系统可以用ipv6，那么可以勾选此项。大多数用户没有这个需求，但有一些用户可能会用到，所以补充了这部分内容。
 
