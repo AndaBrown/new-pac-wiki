@@ -27,7 +27,7 @@ VPS推荐：
 
 V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工具，而 V2Ray 定位为一个平台，任何开发者都可以利用 V2Ray 提供的模块开发出新的代理软件。简单来说，Shadowsocks 功能单一，V2Ray 功能强大。相对来说，V2Ray 有以下优势：更完善的协议: V2Ray 使用了新的自行研发的 VMess 协议，改正了 Shadowsocks 一些已有的缺点，更难被墙检测到；更强大的性能: 网络性能更好；更丰富的功能：mKCP、动态端口、路由功能、传出代理、数据包伪装、WebSocket 协议、Mux。
 
-**2019年9月28日第一次发布。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
+**2019年9月28日第一次发布。如果你无法使用以下v2ray账号，可以换[免费ss/ssr账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)，如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
 
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
