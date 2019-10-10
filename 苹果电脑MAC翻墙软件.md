@@ -2,35 +2,7 @@
 
 ***
 
-### 第一种方法：利用v2ray翻墙
-
-1、使用Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac1.jpg)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac2.jpg)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac3.jpg)
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac4.jpg)
-
-填写完信息后点击ok进行保存，点击load un即可开始使用。模式选择pac就行，全局也可以（全局有时候会导致国内网络无法使用）
-
-2、使用Mac客户端[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)  [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-
-正常安装程序,点击应用程序中的 V2RayU 图标:勾选 pac 模式、点击服务器设置
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu1.png)
-
-如图配置:
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu2.png)
-
-确定如图状态就是已经开启, 即可开始畅游墙外的世界
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu3.png)
-
-### 第二种方法：利用shadowsocks软件翻墙上网
+**第一种方法：利用SS/SSR账号翻墙上网**
 
 [点我获取最新免费ss或ssr账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
@@ -63,3 +35,32 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 上面是使用SS客户端填写SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
 
 SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和1080就可以用浏览器翻墙了。
+
+**第二种方法：利用v2ray翻墙**
+
+1、使用Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac1.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac2.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac3.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/mac4.jpg)
+
+填写完信息后点击ok进行保存，点击load un即可开始使用。模式选择pac就行，全局也可以（全局有时候会导致国内网络无法使用）
+
+2、使用Mac客户端[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)  [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+
+正常安装程序,点击应用程序中的 V2RayU 图标:勾选 pac 模式、点击服务器设置
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu1.png)
+
+如图配置:
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu2.png)
+
+确定如图状态就是已经开启, 即可开始畅游墙外的世界
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayu3.png)
+
