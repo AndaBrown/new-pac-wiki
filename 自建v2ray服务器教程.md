@@ -72,7 +72,7 @@ vultr注册地址：https://www.vultr.com/?ref=7777564-4F  （vultr2019年1月�
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian1.png)
 
 
-### 为了配合v2ray一键搭建脚本，vps操作系统可以选择Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持centos 6系统。centos 6是ss/ssr搭建教程的推荐系统，但centos 6不支持v2ray一键搭建脚本，提醒下！）
+### 为了配合v2ray一键搭建脚本，vps操作系统可以选择Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持centOS 6和8系统！）
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统（演示Debian 8）的密码获取方法如下图：**
 
