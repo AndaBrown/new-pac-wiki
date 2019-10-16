@@ -27,7 +27,7 @@ VPS推荐：
 
 **免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！单个用户限速180kb/s。以下账号SSR客户端和SS客户端都能使用。**[项目备用地址](https://gitlab.com/Alvin9999/free/wikis/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
-**2019年10月14日更新端口和密码。除了SS/SSR账号，你还可以使用[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费Goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 来翻墙上网，v2ray和Goflyway抗封锁性很强。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
+**2019年10月14日更新端口和密码。除了SS/SSR账号，你还可以使用[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费Goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 来翻墙上网，v2ray和Goflyway抗封锁性很强。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **2019年10月17日公告：近期有人反映本页面在Chrome 77和Safari 12打开时会出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，原因是“5毛”恶意投诉，触发机器人判定页面为恶意从而导致的。现在需要网友们帮忙进行反馈回去，之后会有人工审核，一周左右应该就正常了，人多点好，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，如果愿意做出解释，要用英文。**
 
