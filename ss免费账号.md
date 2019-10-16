@@ -29,6 +29,10 @@ VPS推荐：
 
 **2019年10月14日更新端口和密码。除了SS/SSR账号，你还可以使用[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或 [免费Goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 来翻墙上网，v2ray和Goflyway抗封锁性很强。如果经常访问本页面，有时候需要清除浏览器缓存后才能查看本页面的最新内容。**
 
+**2019年10月17日公告：近期有人反映本页面在Chrome 77和Safari 12打开时会出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，原因是“5毛”恶意投诉，触发机器人判定页面为恶意从而导致的。现在需要网友们帮忙进行反馈回去，之后会有人工审核，一周左右应该就正常了，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，如果愿意做出解释，要用英文。**
+
+如果愿意做出解释，要用英文。**
+
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4160.PNG)
