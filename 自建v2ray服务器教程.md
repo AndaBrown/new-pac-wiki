@@ -1,4 +1,4 @@
-**2019年6月22日：增加安卓版下载地址。**
+**2019年10月18日更新。**
 
 ***
 
@@ -303,6 +303,8 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
 
 运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
+
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/socks.PNG)
 
 ***
 
