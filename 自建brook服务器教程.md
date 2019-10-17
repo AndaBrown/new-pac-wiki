@@ -296,6 +296,8 @@ Brook Tools客户端有2种代理方式，默认的是**http代理**，如果把
 
 浏览器代理相应设置为：如果是http代理，设置为HTTP 127.0.0.1 2080；如果是socks5代理，设置为socks5 127.0.0.1 2080；
 
+![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/bhttp.PNG)
+
 ***
 
 **常见问题参考解决方法**：
