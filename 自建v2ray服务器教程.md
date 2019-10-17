@@ -183,7 +183,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian14.png)
 
-采用xshell软件，可以很方便的将配置文件导出，方便配置v2ray客户端。选择数字4，出现提示后，输入字母y，选择电脑路径即可。
+采用xshell软件，可以很方便的将配置文件导出，方便配置windows v2ray客户端。选择数字4，出现提示后，输入字母y，选择电脑路径即可。
 
 > 如果你没有用xshell软件，那么无法使用脚本的文件导出功能。vps服务器里面的config.json配置文件存放路径为 /etc/v2ray/config.json MAC电脑用户可以用WinSCP MAC版连接vps服务器，然后根据路径把config.json文件复制出来。
 
@@ -305,6 +305,8 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/socks.PNG)
+
+附：[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ***
 
