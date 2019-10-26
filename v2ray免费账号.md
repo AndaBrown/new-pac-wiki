@@ -33,11 +33,11 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayzh1.PNG)
 
-UUID：1382eedb-da7e-4f4f-87d4-29ad00e8187b
+UUID（用户ID）：1382eedb-da7e-4f4f-87d4-29ad00e8187b
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayzh2.PNG)
 
-UUID：3cf35a68-ea46-11e9-9cab-003048d37a3c
+UUID（用户ID）：3cf35a68-ea46-11e9-9cab-003048d37a3c
 
 ***
 
