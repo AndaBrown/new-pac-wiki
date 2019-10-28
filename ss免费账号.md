@@ -25,7 +25,7 @@ VPS推荐：
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！单个用户限速100～150kb/s。以下账号SSR客户端和SS客户端都能使用。
+免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！单个用户限速100～150kb/s。以下账号SSR客户端和SS客户端都能使用。[项目备用地址](https://github.com/bannedbook/fanqiang/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7)
 
 **注意**：为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如**360安全卫生、360杀毒软件、腾讯管家、金山卫士等**不仅仅会起干扰作用，造成账号无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
 
