@@ -33,13 +33,42 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayzh1.PNG)
+**V2ray账号1:**
+      Address(地址): www.free6666.net
 
-UUID（用户ID）：1382eedb-da7e-4f4f-87d4-29ad00e8187b
+      Port（端口）: 443
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/v2rayzh2.PNG)
+      UUID（用户id）: 1382eedb-da7e-4f4f-87d4-29ad00e8187b
 
-UUID（用户ID）：3cf35a68-ea46-11e9-9cab-003048d37a3c
+      alterId（额外ID）: 64
+
+      security（加密方式）: auto
+
+      network（传输协议）: ws
+
+      headerType（伪装类型）: none
+
+      path（路径）: /18425739/
+
+      streamSecurity（底层传输安全）: tls
+
+
+**V2ray账号2:**
+
+      Address(地址): 216.244.76.219
+
+      Port（端口）: 54321
+
+      UUID（用户id）: 3cf35a68-ea46-11e9-9cab-003048d37a3c
+
+      alterId（额外ID）: 64
+
+      security（加密方式）: aes-128-gcm
+
+      network（传输协议）: tcp
+
+      提醒：没有的参数不要填即可。
+
 
 ***
 
