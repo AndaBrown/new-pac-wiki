@@ -35,7 +35,18 @@ VPS推荐：
 
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-![](https://i.loli.net/2019/12/01/TA7WrgjdcpGlfZE.png)
+**账号1:**
+
+西雅图：38.100.229.84          端口:10981          密码: bannedbook.org
+
+加密方式: aes-256-cfb          协议:origin         混淆:plain
+
+**账号2：**
+
+洛杉矶：67.21.94.192           端口:99             密码: dongtaiwang.com
+
+加密方式: aes-256-cfb          协议:origin         混淆:plain
+
 
 ***
 
