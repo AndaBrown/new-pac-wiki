@@ -66,10 +66,10 @@ vultr注册地址： https://www.vultr.com/?ref=7777564-4F （vultr2019年1月�
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
 
 
-### 点击图中的CentOS几个字，会弹出centos6，然后选中centos6！ （不要选默认的centos8，脚本不支持centos8！）
+### trojan安装脚本仅支持Centos7或8。
 
 
-**开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统（推荐centos6）的密码获取方法如下图：**
+**开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统的密码获取方法如下图：**
 
 ![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
 
@@ -139,7 +139,7 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_centos7.
 
 ***
 
-安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
+安装过程中会提示输入域名，最终安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
 
 浏览器代理设置成socks5，直接指向127.0.0.1：1080即可。
 
