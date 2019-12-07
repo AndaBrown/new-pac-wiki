@@ -139,7 +139,7 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_centos7.
 
 ***
 
-安装过程中会提示输入域名，最终安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
+复制上面整个代码到vps服务器中进行安装，安装过程中会提示输入域名，最终安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
 
 浏览器代理设置成socks5，直接指向127.0.0.1：1080即可。
 
