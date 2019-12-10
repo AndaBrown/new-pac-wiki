@@ -1,4 +1,4 @@
-**2019年12月7日发布。**
+**2019年12月11日更新。**
 
 ***
 
@@ -145,6 +145,14 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_centos7.
 最终安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
 
 浏览器代理设置成socks5，直接指向127.0.0.1：1080即可。
+
+谷歌浏览器chrome可配合switchomega插件来使用，下载插件：[switchyomega](https://github.com/atrandys/trojan/releases/download/1.0.0/SwitchyOmega_Chromium.crx)
+
+安装插件，打开chrome，打开扩展程序，将下载的插件拖动到扩展程序页面，添加到扩展。
+![20181116000534](https://user-images.githubusercontent.com/12132898/70548725-0461d000-1bae-11ea-9d1e-4577e36ac46e.png)
+
+完成添加，会跳转到switchyomega页面，点跳过教程，然后点击proxy，如图填写，最后点击应用选项。
+![20181116001438](https://user-images.githubusercontent.com/12132898/70548727-04fa6680-1bae-11ea-99da-568af4fd6f5f.png)
 
 ***
 
