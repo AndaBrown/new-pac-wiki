@@ -297,7 +297,6 @@ Brook Tools客户端有2种代理方式，默认的是**http代理**，如果把
 ![20181116000534](https://user-images.githubusercontent.com/12132898/70548725-0461d000-1bae-11ea-9d1e-4577e36ac46e.png)
 
 完成添加，会跳转到switchyomega页面，点跳过教程，然后点击proxy，如图填写，最后点击应用选项。
-![20181116001438](https://user-images.githubusercontent.com/12132898/70548727-04fa6680-1bae-11ea-99da-568af4fd6f5f.png)
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/bhttp.PNG)
 
