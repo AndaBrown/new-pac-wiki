@@ -146,7 +146,7 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_centos7.
 
 浏览器代理设置成socks5，直接指向127.0.0.1：1080即可。
 
-谷歌浏览器chrome可配合switchomega插件来使用，下载插件：[switchyomega](https://github.com/atrandys/trojan/releases/download/1.0.0/SwitchyOmega_Chromium.crx)
+谷歌浏览器chrome可配合switchyomega插件来使用，下载插件：[switchyomega](https://github.com/atrandys/trojan/releases/download/1.0.0/SwitchyOmega_Chromium.crx)
 
 安装插件，打开chrome，打开扩展程序，将下载的插件拖动到扩展程序页面，添加到扩展。
 ![20181116000534](https://user-images.githubusercontent.com/12132898/70548725-0461d000-1bae-11ea-9d1e-4577e36ac46e.png)
