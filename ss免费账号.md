@@ -21,7 +21,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](https://www.vultr.com/?ref=7777564-4F) （vultr2019年1月的活动，新用户通过此[活动链接](https://www.vultr.com/?ref=7777564-4F)注册，赠送50美元，有效期1个月。vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
+[Vultr](https://www.vultr.com/?ref=7777564-4F) （新用户通过此[活动链接](https://www.vultr.com/?ref=7777564-4F)注册，赠送50美元，有效期1个月。vultr全球15个服务器位置可选，KVM框架。支持支付宝和paypal付款。）
 
 <a href="https://www.vultr.com/?ref=7777564-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
