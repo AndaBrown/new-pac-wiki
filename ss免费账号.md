@@ -48,7 +48,7 @@ VPS推荐：
 
 **如果你觉得免费账号速度不能满足自己的需求，同时也不想自己搭建服务器，那么你可以考虑搬瓦工官方付费ss服务-[Just My Socks教程](https://github.com/Alvin9999/justmysocks/blob/master/README.md)。**
 
-<b>推荐：</b><br>
+<br>
 <a href="https://github.com/Alvin9999/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
 
 ***
