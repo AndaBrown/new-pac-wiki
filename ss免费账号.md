@@ -46,7 +46,7 @@ VPS推荐：
 
 加密方式: aes-256-cfb          协议:origin         混淆:plain
 
-如果你觉得免费账号速度不能满足自己的需求，同时也不想自己搭建服务器，那么你可以考虑搬瓦工官方付费ss服务[Just My Socks](https://github.com/Alvin9999/justmysocks)。
+**如果你觉得免费账号速度不能满足自己的需求，同时也不想自己搭建服务器，那么你可以考虑搬瓦工官方付费ss服务[Just My Socks](https://github.com/Alvin9999/justmysocks)。**
 
 ***
 
