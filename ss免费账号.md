@@ -67,7 +67,7 @@ Mac SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/Shadowsoc
 
 iOS：目前大陆App Store商店很多SS/SSR软件都被下架了，我们需要美区的ID，然后到美区的商店就可以自由下载软件了。关于美区ID的申请方法网上有很多，可以自己搜一下。如果不想自己注册，可以去淘宝购买或者网上找别人共享的ID。SS/SSR软件有很多，比如：Potatso Lite、Potatso、wingy等。或者用爱思助手PC端安装Shadowrocket的ipa文件，[Shadowrocket IPA文件下载及教程地址](https://github.com/gfw-breaker/guides/wiki/iPhone%E4%BD%BF%E7%94%A8Shadowsocks%E7%BF%BB%E5%A2%99)。
 
-[全平台SS/SSR客户端下载地址](https://www.mediafire.com/folder/btkdbx7j9lr98/Shadowsocks_%E7%9B%B8%E5%85%B3%E5%AE%A2%E6%88%B7%E7%AB%AF)
+[全平台SS/SSR客户端下载汇总](https://www.mediafire.com/folder/btkdbx7j9lr98/Shadowsocks_%E7%9B%B8%E5%85%B3%E5%AE%A2%E6%88%B7%E7%AB%AF)
 ***
 
 [其它翻墙方法](https://github.com/Alvin9999/new-pac/wiki/)
