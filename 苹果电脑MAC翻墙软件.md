@@ -1,8 +1,10 @@
-**2019年10月2日更新，增加v2ray使用方法。**
+**2019年12月18日更新。**
 
 ***
 
 **第一种方法：利用SS/SSR账号翻墙上网**
+
+[Mac SS/SSR客户端下载](http://www.mediafire.com/folder/mbqxqvrcc6zqi/Mac)
 
 [点我获取最新免费ss或ssr账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。
 
@@ -45,3 +47,7 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 使用方法参考[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+
+***
+
+有问题或者有更好的Mac软件分享，都可以发邮件到海外邮箱进行反馈kebi2014@gmail.com
