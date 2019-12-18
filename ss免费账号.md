@@ -75,4 +75,4 @@ iOS：目前大陆App Store商店很多SS/SSR软件都被下架了，我们需�
 
 ***
 
-有问题可以发邮件至海外邮箱kebi2014@gmail.com
+有问题或者有更好的软件分享，都可以发邮件至海外邮箱kebi2014@gmail.com
