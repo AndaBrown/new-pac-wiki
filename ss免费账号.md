@@ -61,7 +61,7 @@ Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shado
 
 Mac SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
 
-[Linux客户端](http://www.mediafire.com/folder/xag0zy318a5tt/Linux) 
+Linux 客户端 [下载地址](http://www.mediafire.com/folder/xag0zy318a5tt/Linux) 
 
 安卓SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk) 
 
