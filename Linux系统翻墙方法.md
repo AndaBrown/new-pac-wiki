@@ -18,3 +18,7 @@ Ubuntu 14.04 32位 [下载地址](https://raw.githubusercontent.com/getlantern/l
 Ubuntu 14.04 64位 [下载地址](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb)
 
 使用方法：解压并运行 lantern_linux ，设置http代理为 127.0.0.1:8787
+
+***
+
+有问题或者有更好的Linux软件分享，都可以发邮件到海外邮箱进行反馈kebi2014@gmail.com
