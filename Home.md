@@ -20,9 +20,11 @@
 
 **2019年12月7日公告：Goflyway版、v2ray版、Trojan版、SSR版、brook版、lightsocks版可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。更新ip时，如果ip-1文件无法成功更新ip的话，请运行ip-2来更新ip。**
 
+**2020年1月9日公告：升级高内核版浏览器内核至79，合并ip-1和ip-2文件，部分代理软件进行了升级。**
+
 ***
 
-[谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2019年12月21日云端更新v2ray版配置信息；2019年12月20日云端更新trojan版配置信息；2019年11月22日云端更新trojan版配置信息；2019年11月20日云端更新ssr版和brook版配置信息）
+[谷歌浏览器75高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年1月9日升级浏览器内核至79，合并ip-1和ip-2文件，部分代理软件进行了升级）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2019年11月14日云端更新Goflyway配置信息）
 
