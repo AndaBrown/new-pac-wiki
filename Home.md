@@ -28,7 +28,7 @@
 
 ***
 
-[谷歌浏览器79高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年1月12日云端更新Brook版、Goflyway版、trojan版配置信息；2020年1月9日升级浏览器内核至79，合并ip-1和ip-2文件，部分代理软件进行了升级）
+[谷歌浏览器79高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年1月12日云端更新Brook版、Goflyway版、Trojan版配置信息；2020年1月9日升级浏览器内核至79，合并ip-1和ip-2文件，部分代理软件进行了升级）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年1月12日云端更新Goflyway配置信息）
 
@@ -46,7 +46,7 @@
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2018年9月23日更新版本）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（020年1月12日云端更新Brook版、Goflyway版、trojan版配置信息；2020年1月10日合并ip-1和ip-2文件，部分代理软件进行了升级）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（020年1月12日云端更新Brook版、Goflyway版、Trojan版配置信息；2020年1月10日合并ip-1和ip-2文件，部分代理软件进行了升级）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2019年6月22日更新）
 
