@@ -33,16 +33,16 @@ VPS推荐：
 
 **公告**：关于本页面在Chrome和Safari浏览器打开时，出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，原因是“5毛”恶意投诉，触发机器人判定页面为恶意导致的。需要网友们帮忙进行反馈回去，之后会有人工审核，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，可以用英文解释下（不会英文的用google在线翻译）,[帖子详细介绍](https://github.com/Alvin9999/new-pac/issues/690)。
 
-**2019年12月13日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**2020年1月12日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-**洛杉矶1**：38.131.99.251      端口:6666          密码: dongtaiwang.com
+**洛杉矶1**：38.131.99.251      端口:11111          密码: dongtaiwang.com
 
 加密方式: aes-256-cfb          协议:origin         混淆:plain
 
 
-**洛杉矶2**：67.21.94.192       端口:19             密码: dongtaiwang.com
+**洛杉矶2**：67.21.94.192       端口:22222          密码: dongtaiwang.com
 
 加密方式: aes-256-cfb          协议:origin         混淆:plain
 
