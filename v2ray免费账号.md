@@ -31,6 +31,26 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
 **注意**：为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如**360安全卫生、360杀毒软件、腾讯管家、金山卫士等**不仅仅会起干扰作用，造成账号无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
 
+***
+
+**2020年1月23日公告：新唐人电视台将播出〝2020全球华人新年晚会〞——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看。仅能通过翻墙软体自由门或无界浏览观看。**
+
+**神韵晚会四次播出时间(北京时间)**:
+
+1月24日(五)除夕 20:00
+
+1月24日(五)除夕 23:00
+
+1月25日(六)初一 08:30
+
+1月25日(六)初一 14:00
+
+[神韻2020全球巡迴演出預告片（華人版）](https://www.youtube.com/watch?time_continue=18&v=hdOuuCqxfkY&feature=emb_logo)
+
+祝：新年快乐！身体健康、平安！远离瘟疫！
+
+***
+
 **2020年1月12日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
