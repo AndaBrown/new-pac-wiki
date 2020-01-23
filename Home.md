@@ -19,7 +19,7 @@
 **推荐YouTube视频频道**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)
 
-**新唐人新年对大陆播出2020年全球华人新年晚会:针对中国大陆观众，新唐人将播出〝2020全球华人新年晚会〞——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看。请通过翻墙软体自由门或无界浏览观看。**
+**2020年1月23日公告：新唐人电视台将播出〝2020全球华人新年晚会〞——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看。请通过翻墙软体自由门或无界浏览观看。**
 
 **神韵晚会四次播出时间(北京时间)**:
 
