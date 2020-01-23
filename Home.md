@@ -19,11 +19,21 @@
 **推荐YouTube视频频道**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)
 
-**2019年12月7日公告**：Goflyway版、v2ray版、Trojan版、SSR版、brook版、lightsocks版可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。更新ip时，如果ip-1文件无法成功更新ip的话，请运行ip-2来更新ip。
+**新唐人新年对大陆播出2020年全球华人新年晚会:针对中国大陆观众，新唐人将播出〝2020全球华人新年晚会〞——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看。请通过翻墙软体自由门或无界浏览观看。**
 
-**2020年1月9日公告**：升级高内核版浏览器内核至79，合并ip-1和ip-2文件，部分代理软件进行了升级。
+**神韵晚会四次播出时间(北京时间)**:
 
-**2020年1月10日公告**：火狐翻墙浏览器合并ip-1和ip-2文件，部分代理软件进行了升级。
+1月24日(五)除夕 20:00
+
+1月24日(五)除夕 23:00
+
+1月25日(六)初一 08:30
+
+1月25日(六)初一 14:00
+
+[神韻2020全球巡迴演出預告片（華人版）](https://www.youtube.com/watch?time_continue=18&v=hdOuuCqxfkY&feature=emb_logo)
+
+祝：新年快乐！身体健康、平安！远离瘟疫！
 
 ***
 
