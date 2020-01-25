@@ -33,24 +33,6 @@ VPS推荐：
 
 ***
 
-**2020年1月23日公告：新唐人电视台将播出〝2020全球华人新年晚会〞——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看。仅能通过翻墙软体自由门或无界浏览观看。**
-
-**神韵晚会四次播出时间(北京时间)**:
-
-1月24日(五)除夕 20:00
-
-1月24日(五)除夕 23:00
-
-1月25日(六)初一 08:30
-
-1月25日(六)初一 14:00
-
-[神韻2020全球巡迴演出預告片（華人版）](https://www.youtube.com/watch?time_continue=18&v=hdOuuCqxfkY&feature=emb_logo)
-
-祝：新年快乐！身体健康、平安！远离瘟疫！
-
-***
-
 **2020年1月12日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
