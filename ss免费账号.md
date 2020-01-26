@@ -31,7 +31,7 @@ VPS推荐：
 
 **注意**：为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如**360安全卫生、360杀毒软件、腾讯管家、金山卫士等**不仅仅会起干扰作用，造成账号无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
 
-**公告**：关于本页面在Chrome和Safari浏览器打开时，出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，原因是“5毛”恶意投诉，触发机器人判定页面为恶意导致的。需要网友们帮忙进行反馈回去，之后会有人工审核，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，可以用英文解释下（不会英文的用google在线翻译）。
+**公告**：关于本页面在Chrome和Safari浏览器打开时，出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，很可能是“网络评论员”恶意投诉，触发机器人判定页面为恶意导致的。需要网友们帮忙进行反馈回去，之后会有人工审核，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，可以用英文解释下（不会英文的用google在线翻译）。
 
 **2020年1月25日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
