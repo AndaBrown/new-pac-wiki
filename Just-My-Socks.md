@@ -1,5 +1,4 @@
 <h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
-<h2>力荐！Just My Socks - 非常靠谱稳定的shadowsocks代理服务！</h2>
 <h2>文章目录</h2>
 <ol id="user-content-content-index-contents">
  	<li><a href="#user-content-just1">Just My Socks介绍</a></li>
