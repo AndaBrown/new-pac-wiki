@@ -19,11 +19,11 @@
 **推荐YouTube视频频道**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)
 
-**2020年2月1日公告：近期网络封锁加重。云端更新V2ray版、Brook版、SSR、Lightsocks版配置信息，按照使用说明运行ip更新文件即可同步。Goflyway版、Trojan版、v2ray版、SSR版、brook版、lightsocks版可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。**
+**2020年2月4日公告：近期网络封锁加重，云端更新Goflyway、Brook版、SSR、Trojan版配置信息，按照使用说明运行ip更新文件即可同步。Goflyway版、Trojan版、v2ray版、SSR版、brook版、lightsocks版可以优先选择使用。如果你更新ip后还是无法使用，请关闭防火墙、杀毒软件、安全卫士，删掉文件夹，重新解压后再更新ip。**
 
 ***
 
-[谷歌浏览器79高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月1日云端更新V2ray版、Brook版、SSR、Lightsocks版配置信息；2020年1月26日云端更新v2ray版配置信息；2020年1月25日云端更新SSR版配置信息；2020年1月13日云端更新SSR版、V2ray版配置信息；2020年1月12日云端更新Brook版、Goflyway版、Trojan版配置信息）
+[谷歌浏览器79高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月4日云端更新Goflyway、Brook版、SSR、Trojan版配置信息；2020年2月1日云端更新V2ray版、Brook版、SSR、Lightsocks版配置信息）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年2月3日更新版本）
 
@@ -41,7 +41,7 @@
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2020年2月3日更新赛风版本至3.151）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月1日云端更新V2ray版、Brook版、SSR、Lightsocks版配置信息；2020年1月26日云端更新v2ray版配置信息；2020年1月25日云端更新SSR版配置信息；2020年1月13日云端更新SSR版、V2ray版配置信息；2020年1月12日云端更新Brook版、Goflyway版、Trojan版配置信息）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月4日云端更新Goflyway、Brook版、SSR、Trojan版配置信息；2020年2月1日云端更新V2ray版、Brook版、SSR、Lightsocks版配置信息）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2019年6月22日更新）
 
