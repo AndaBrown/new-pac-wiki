@@ -19,7 +19,7 @@
 **推荐YouTube视频频道**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos)
 
-2020年2月5日公告：分别对谷歌浏览器高内核版、低内核版和火狐翻墙浏览器的Goflyway、V2ray、Trojan、Brook、SSR、Lightsocks进行了版本更新，优化了ip更新文件，解决ip无法正常更新的问题。请帮忙反馈下新的ip更新文件是否好用？
+**2020年2月5日公告：分别对谷歌浏览器高内核版、低内核版和火狐翻墙浏览器的Goflyway、V2ray、Trojan、Brook、SSR、Lightsocks进行了版本更新，优化了ip更新文件，解决ip无法正常更新的问题。请帮忙反馈下新的ip更新文件是否好用？**
 
 ***
 
