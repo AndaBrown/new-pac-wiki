@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**公告**：关于本页面在Chrome和Safari浏览器打开时，出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，很可能是“网络评论员”恶意投诉，触发机器人判定页面为恶意导致的。需要网友们帮忙进行反馈回去，之后会有人工审核，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，可以用英文解释下（不会英文的用google在线翻译）。
+**公告**：关于本页面在Chrome和Safari浏览器打开时，出现“您要访问的网站包含有害程序警告”的提示。页面本身没有问题，很可能是“网络评论员”恶意投诉，触发机器人判定页面为恶意导致的。需要网友们帮忙进行反馈回去，申诉网址https://safebrowsing.google.com/safebrowsing/report_error/?hl=zh-CN ，可以用英文解释下（不会英文的用google在线翻译）。
 
 ***
 
