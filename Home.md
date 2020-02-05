@@ -41,7 +41,7 @@
 
 [谷歌浏览器低内核赛风版](https://github.com/Alvin9999/new-pac/wiki/%E8%B5%9B%E9%A3%8E%E7%89%88) （2020年2月3日更新赛风版本至3.151）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月4日云端更新Goflyway、Brook版、SSR、Trojan版配置信息；2020年2月1日云端更新V2ray版、Brook版、SSR、Lightsocks版配置信息）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月5日更新Goflyway、V2ray、Trojan、Brook版、SSR、Lightsocks版本，优化ip更新文件；2020年2月4日云端更新Goflyway、Brook版、SSR、Trojan版配置信息）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2020年2月4日更新）
 
