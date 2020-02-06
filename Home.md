@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：Goflyway版、v2ray版、Trojan版、SSR版、Brook版、Lightsocks版、无界版、自由门版、Brook版，适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：Goflyway版、v2ray版、Trojan版、SSR版、Brook版、Lightsocks版、无界版、自由门版，适合windows操作系统，比如：Xp、win7、win8、win10系统。浏览器自带翻译插件和YouTube视频下载脚本，方便且实用。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
 
