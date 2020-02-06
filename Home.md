@@ -23,6 +23,8 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ntd_newyear.jpg)
 
+[2020神韵晚会介绍片（翻墙观看）](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/eWf8MLcK9bk/trailer-2020-world-tour)
+
 **播放地址**：[低频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150) [中频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800)
 
 **神韵晚会二次播出时间：北京时间**
