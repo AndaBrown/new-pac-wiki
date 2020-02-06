@@ -1,4 +1,4 @@
-### 低内核WuJie版  （适合XP、win7、win8、win10）
+### 低内核无界版  （适合XP、win7、win8、win10）
 
 **2020年2月3日更新版本。**
 
@@ -26,7 +26,7 @@ win7、win8、win10系统可选择[高内核版](https://github.com/Alvin9999/ne
 ***
 
 
-### 低内核FreeGate版  （适合XP、win7、win8、win10）
+### 低内核自由门版  （适合XP、win7、win8、win10）
 
 **2020年2月3日更新自由门版本至7.71。**
 
