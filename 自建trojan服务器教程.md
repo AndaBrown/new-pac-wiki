@@ -1,4 +1,4 @@
-**2019年12月11日更新。**
+**2020年2月6日更新。**
 
 ***
 
@@ -267,3 +267,26 @@ chmod +x bbr.sh
 
 [点击下载140_1.dll](https://github.com/atrandys/trojan/raw/master/vcruntime140_1.dll)
 
+3、trojan服务端怎么修改密码
+
+trojan服务端配置文件路径如下，如需修改内容，修改以下文件即可。
+
+/usr/src/trojan/server.conf
+
+修改完成后，重启trojan服务端即可，同时客户端的密码也要同步修改哦。
+
+systemctl restart trojan
+
+4、关于申请证书没有成果的处理
+
+可能的原因1：
+
+一些原因导致使用nginx申请证书时出错，要么防火墙端口没开放，要么nginx未正常。建议用最纯净的系统安装。
+
+可能的原因2:
+
+出现这个问题最可能的原因之一是你的同一个域名多次申请证书，导致let’s encrypt官方的限制，同一域名每周最多5次申请。
+
+![](https://www.atrandys.com/wp-content/uploads/2019/10/clipboard.png)
+
+如果你的同一个域名申请了很多此证书，这个处理方法可能有用：更换二级域名，例如原来使用的域名是www.abc.com或abc.com或xyz.abc.com，那么现在你添加一个二级域名解析例如xxx.abc.com，安装时使用这个域名即可。
