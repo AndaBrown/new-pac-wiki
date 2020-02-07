@@ -33,28 +33,6 @@ VPS推荐：
 
 ***
 
-**2020年2月6日公告：元宵节新唐人电视台针对中国大陆观众将播出〝新唐人全球华人新年晚会——神韵晚会〞——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看，仅能通过翻墙软体自由门或无界浏览观看。**
-
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ntd_newyear.jpg)
-
-[2020神韵晚会预告片（翻墙观看）](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/eWf8MLcK9bk/trailer-2020-world-tour)
-
-**播放地址**：[低频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150) [中频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800) （自由门或无界软件）
-
-**神韵晚会二次播出时间：北京时间**
-
-2月7日(五) 20:00
-
-2月7日(五) 23:00
-
-**神韵交响乐团音乐会：北京时间**
-
-2月8日(六) 8:30
-
-2月8日(六) 20:00
- 
-***
-
 **2020年2月6日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
