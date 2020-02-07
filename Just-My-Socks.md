@@ -113,4 +113,6 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks.net/members/a
 <h2 id="user-content-just6"><span id="just_my_socks-6"></span></h2>
 <p class="keepp">
 
+注意：aes-256-gcm 加密方式必须使用 SS 客户端，一般SSR客户端都不支持aes-256-gcm。
+
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
