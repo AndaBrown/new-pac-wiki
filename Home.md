@@ -21,7 +21,7 @@
 
 ***
 
-[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月7日发布新软DAZE版；2020年2月6日升级浏览器内核至80，优化ip更新文件，部分代理软件进行了升级）
+[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月8日更新Goflyway、V2ray、Trojan、Brook版、SSR、Lightsocks、DAZE版本，优化ip更新文件）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年2月5日更新版本）
 
