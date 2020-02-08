@@ -74,4 +74,4 @@
 
 ***
 
-有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，反馈邮件标题最好注明什么软件及截图。
+有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，反馈邮件标题最好注明软件的压缩包名称。
