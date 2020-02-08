@@ -1,4 +1,4 @@
-**2019年12月11日更新。**
+**2020年2月8日更新，在常见问题及解决方法里面增加专门部署ws+tls+nginx的脚本。**
 
 ***
 
@@ -166,7 +166,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 **接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
 
-**注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。**
+**注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。(在教程的最后“常见问题解决方法”里面增加了专门部署ws+tls的脚本)**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
 
@@ -328,6 +328,14 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 2、账号无法使用，可能原因二：**Windows 防火墙、杀毒软件阻挡代理软件。**
 
 如果以上问题都已排查，可以关闭 Windows 自带的防火墙、杀毒软件再尝试。
+
+3、高阶篇
+
+当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以尝试下ws+tls的方式，甚至搭建好后还可以套CDN，套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活。套CDN的方法可以自行网络搜索。提前准备好域名，并将域名指定vps的ip，然后根据脚本来搭建就好了。
+
+一键部署Vmess+websocket+TLS+Nginx+Website脚本(2020.2.8 )：
+
+bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
 
 ***
 
