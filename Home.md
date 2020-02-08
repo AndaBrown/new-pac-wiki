@@ -74,4 +74,14 @@
 
 ***
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.JPG)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
+
+[神韵艺术团介绍](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/wvzyehv9aYU/%E7%A5%9E%E9%9F%B5%E8%89%BA%E6%9C%AF%E5%9B%A2%E4%BB%8B%E7%BB%8D) [中国古典舞简介](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/ha6DuBP41t8/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E5%85%B8%E8%88%9E%E7%B0%A1%E4%BB%8B) [神韵音乐](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/TE4gCYpMpbQ/%E7%A5%9E%E9%9F%B5%E9%9F%B3%E4%B9%90) （视频需翻墙打开）
+
+***
+
 有问题可以发帖[反馈交流](https://github.com/Alvin9999/new-pac/issues)，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，反馈邮件标题最好注明软件的压缩包名称。
