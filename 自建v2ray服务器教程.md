@@ -1,4 +1,4 @@
-**2020年2月8日更新，在常见问题及解决方法里面增加专门部署ws+tls+nginx的脚本。**
+**2020年2月8日更新，在“常见问题参考解决方法”里面增加了专门部署ws+tls+nginx的脚本。**
 
 ***
 
@@ -16,10 +16,7 @@
 
 **v2ray的优势**：v2ray支持的传输方式有很多，包括：普通TCP、HTTP伪装、WebSocket流量、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量，不同的传输方式其效果会不同，有可能会遇到意想不到的效果哦！当然国内不同的地区、不同的网络环境，效果也会不同，所以具体可以自己进行测试。现在v2ray客户端也很多了，有windows、MAC、linux和安卓版。
 
-如果想搭建ss/ssr，可以参考
-[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)
-
-注意：如果想在一台vps服务器上同时搭建ss/ssr和v2ray，端口不要重复。
+注意：如果你选择使用 V2ray，强烈建议你关闭并删除所有的 shadowsocksR 服务端
 
 ***
 
@@ -138,6 +135,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 ———————————————————代码分割线————————————————
 
+(在教程的最后“常见问题参考解决方法”里面增加了专门部署ws+tls的脚本)
+
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian4.png)
@@ -166,7 +165,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 **接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
 
-**注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。(在教程的最后“常见问题解决方法”里面增加了专门部署ws+tls的脚本)**
+**注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。(在教程的最后“常见问题参考解决方法”里面增加了专门部署ws+tls的脚本)**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
 
@@ -333,9 +332,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以尝试下ws+tls的方式，甚至搭建好后还可以套CDN，套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活。套CDN的方法可以自行网络搜索。提前准备好域名，并将域名指定vps的ip，然后根据脚本来搭建就好了。
 
-一键部署Vmess+websocket+TLS+Nginx+Website脚本(2020.2.8 )：
+一键部署Vmess+websocket+TLS+Nginx+Website脚本(2020.2.8 )，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7
 
 bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+
+启动 V2ray：systemctl start v2ray
+
+启动 Nginx：systemctl start nginx
 
 ***
 
