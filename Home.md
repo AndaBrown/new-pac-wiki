@@ -78,7 +78,11 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/shenyun/2020shenyun2.jpg)
 
-（视频需翻墙打开）
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/shenyun003.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/1.JPG)
+
+（以下视频地址需翻墙打开）
 
 [神韵2020世界巡演预告片](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/2Pc2ir2JbRA/%E7%A5%9E%E9%9F%B52020%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E9%A2%84%E5%91%8A%E7%89%87) 
 [神韵2020全球巡回演出预告片（华人版）](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/VWaSup76KzA/%E7%A5%9E%E9%9F%B52020%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%87%BA%E9%A2%84%E5%91%8A%E7%89%87%EF%BC%88%E5%8D%8E%E4%BA%BA%E7%89%88%E4%B9%8B%E4%BA%8C%EF%BC%89) [2020年神韵观众反馈](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/lDB38zNrzhA/2020%E5%B9%B4%E7%A5%9E%E9%9F%B5%E8%A7%82%E4%BC%97%E5%8F%8D%E9%A6%88) 
