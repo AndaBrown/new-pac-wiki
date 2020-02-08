@@ -91,4 +91,4 @@
 
 ***
 
-有问题可以[发帖]((https://github.com/Alvin9999/new-pac/issues))反馈交流，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，如果用的是一键翻墙浏览器，反馈邮件最好注明软件的压缩包名称。
+有问题可以[发帖](https://github.com/Alvin9999/new-pac/issues)反馈交流，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈，如果用的是一键翻墙浏览器，反馈邮件最好注明软件的压缩包名称。
