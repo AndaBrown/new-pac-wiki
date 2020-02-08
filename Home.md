@@ -80,7 +80,7 @@
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/2.JPG)
 
-[神韵艺术团介绍](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/wvzyehv9aYU/%E7%A5%9E%E9%9F%B5%E8%89%BA%E6%9C%AF%E5%9B%A2%E4%BB%8B%E7%BB%8D) [中国古典舞简介](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/ha6DuBP41t8/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E5%85%B8%E8%88%9E%E7%B0%A1%E4%BB%8B) [神韵音乐](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/TE4gCYpMpbQ/%E7%A5%9E%E9%9F%B5%E9%9F%B3%E4%B9%90) （视频需翻墙打开）
+[神韵2020全球巡回演出预告片（华人版）](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/VWaSup76KzA/%E7%A5%9E%E9%9F%B52020%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%87%BA%E9%A2%84%E5%91%8A%E7%89%87%EF%BC%88%E5%8D%8E%E4%BA%BA%E7%89%88%E4%B9%8B%E4%BA%8C%EF%BC%89) [神韵艺术团介绍](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/wvzyehv9aYU/%E7%A5%9E%E9%9F%B5%E8%89%BA%E6%9C%AF%E5%9B%A2%E4%BB%8B%E7%BB%8D) [中国古典舞简介](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/ha6DuBP41t8/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E5%85%B8%E8%88%9E%E7%B0%A1%E4%BB%8B) [神韵音乐](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/TE4gCYpMpbQ/%E7%A5%9E%E9%9F%B5%E9%9F%B3%E4%B9%90) （视频需翻墙打开）
 
 ***
 
