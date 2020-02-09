@@ -76,7 +76,7 @@
 
 [![Watch the video](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun1.jpg)](https://kebi2014.wistia.com/medias/zg47grzzxz)
 
-[![Watch the video](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)](https://kebi2014.wistia.com/medias/zg47grzzxz)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/shenyun003.jpg)
 
