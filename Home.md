@@ -82,8 +82,6 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/1.JPG)
 
-<script src="https://fast.wistia.com/embed/medias/oaazt1jozm.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_oaazt1jozm videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/oaazt1jozm/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
-
 （以下视频地址需翻墙打开）
 
 [神韵2020世界巡演预告片](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/2Pc2ir2JbRA/%E7%A5%9E%E9%9F%B52020%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E9%A2%84%E5%91%8A%E7%89%87) 
