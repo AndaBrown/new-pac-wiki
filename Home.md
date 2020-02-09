@@ -78,8 +78,6 @@
 
 [![Watch the video](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)](http://youtu.be/vt5fpE0bzSY)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)
-
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/shenyun003.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/1.JPG)
