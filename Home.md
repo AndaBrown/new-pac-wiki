@@ -83,7 +83,7 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/1.JPG)
 
 [神韵2020世界巡演预告片](https://kebi2014.wistia.com/medias/zg47grzzxz) 
-[神韵2020全球巡回演出预告片（华人版）](https://kebi2014.wistia.com/medias/zg47grzzxz) [2020年神韵观众反馈](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/lDB38zNrzhA/2020%E5%B9%B4%E7%A5%9E%E9%9F%B5%E8%A7%82%E4%BC%97%E5%8F%8D%E9%A6%88) 
+[神韵2020全球巡回演出预告片（华人版）](https://kebi2014.wistia.com/medias/oaazt1jozm) [2020年神韵观众反馈](https://zh-cn.shenyunperformingarts.org/videos/latest-videos/play/lDB38zNrzhA/2020%E5%B9%B4%E7%A5%9E%E9%9F%B5%E8%A7%82%E4%BC%97%E5%8F%8D%E9%A6%88) 
 
 [神韵艺术团介绍](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/wvzyehv9aYU/%E7%A5%9E%E9%9F%B5%E8%89%BA%E6%9C%AF%E5%9B%A2%E4%BB%8B%E7%BB%8D) [中国古典舞简介](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/ha6DuBP41t8/%E4%B8%AD%E5%9C%8B%E5%8F%A4%E5%85%B8%E8%88%9E%E7%B0%A1%E4%BB%8B) [神韵音乐](https://zh-cn.shenyunperformingarts.org/videos/about-shen-yun/play/TE4gCYpMpbQ/%E7%A5%9E%E9%9F%B5%E9%9F%B3%E4%B9%90) 
 
