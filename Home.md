@@ -74,9 +74,9 @@
 
 ***
 
-[![Watch the video](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun1.jpg)](https://kebi2014.wistia.com/medias/zg47grzzxz)
+[![Watch the video](https://raw.githubusercontent.com/Alvin9999/PAC/master/shenyun/2020shenyun1.jpg)](https://kebi2014.wistia.com/medias/zg47grzzxz)
 
-[![Watch the video](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)](https://kebi2014.wistia.com/medias/zg47grzzxz)
+[![Watch the video](https://raw.githubusercontent.com/Alvin9999/PAC/master/shenyun/2020shenyun2.jpg)](https://kebi2014.wistia.com/medias/zg47grzzxz)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/shenyun003.jpg)
 
