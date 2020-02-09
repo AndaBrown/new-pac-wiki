@@ -74,11 +74,11 @@
 
 ***
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/shenyun/2020shenyun1.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun1.jpg)
 
 [神韵2020世界巡演预告片](https://kebi2014.wistia.com/medias/zg47grzzxz) （在线播放）
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/shenyun/2020shenyun2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)
 
 [神韵2020全球巡回演出预告片（华人版）](https://kebi2014.wistia.com/medias/oaazt1jozm) （在线播放）
 
