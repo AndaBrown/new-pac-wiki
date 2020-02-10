@@ -1,7 +1,3 @@
-**十分感谢分享windows、Mac、iOS和安卓系统使用v2ray图文教程的网友！由于最近很忙，且设备有限，请使用linux系统对v2ray配置熟悉的用户，帮忙写下图文配置说明，然后发到邮箱kebi2014@gmail.com，之后我再更新分享给大家，感谢！**
-
-***
-
 **2019年10月2日更新。**
 
 **1、windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法**
