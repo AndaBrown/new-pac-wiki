@@ -137,8 +137,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 ———————————————————代码分割线————————————————
 
-(在教程的最后“常见问题参考解决方法”里面增加了专门部署ws+tls的脚本)
-
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian4.png)
@@ -191,7 +189,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 **因为一键搭建v2ray脚本是一个循环脚本，当你配置结束后不会自动退出快捷管理命令，如果你想退出界面进行其它操作，可以同时按下键盘上的ctrl键和字母z键。**
 
-### 注意：以上直接下载并替换config文件的方法只适合v2ray官方客户端，像第三方开发的客户端，比如v2rayN、v2rayX是不适合用直接替换config文件的方法。如果用第三方开发的客户端的话，可以按照要求填写账号信息，参考教程：[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+### 注意：以上直接下载并替换config文件的方法只适合v2ray官方客户端，像第三方开发的客户端，比如v2rayN、v2rayX是不适合用直接替换config文件的方法。如果用第三方开发的客户端的话，可以按照要求填写账号信息，如果部署的账号信息没有额外ID，在第三方客户端的额外ID那一栏一般是可以随便填写一个数字，比如1～10选1个。参考教程：[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 
 ***
