@@ -332,9 +332,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以尝试下ws+tls的方式，甚至搭建好后还可以套CDN，套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活。套CDN的方法可以自行网络搜索。提前准备好域名，并将域名指定vps的ip，然后根据脚本来搭建就好了。
 
-一键部署Vmess+websocket+TLS+Nginx+Website脚本(2020.2.8 )，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7
+支持系统Debian 8+ / Ubuntu 16.04+ / Centos7，一键部署Vmess+websocket+TLS+Nginx+Website脚本(2020.2.8 )：
+
+***
 
 bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+
+***
 
 启动 V2ray：systemctl start v2ray
 
