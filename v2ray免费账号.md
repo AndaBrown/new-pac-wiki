@@ -31,26 +31,32 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
 **注意**：为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如**360安全卫生、360杀毒软件、腾讯管家、金山卫士等**不仅仅会起干扰作用，造成账号无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
 
-**2020年2月7日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**2020年2月10日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
 
 **V2ray账号1:**
 
-      Address(地址): 216.244.76.219
+     Address(地址): www.free9999.net
 
-      Port（端口）: 8880
+     Port（端口）: 443
 
-      UUID（用户id）: 3cf35a68-ea46-11e9-9cab-003048d37a3c
+     UUID（用户id）: f7a5505a-1c2f-4c2b-978e-e0d33de30362
 
-      alterId（额外ID）: 64
+     alterId（额外ID）: 2
 
-      security（加密方式）: aes-128-gcm
+     security（加密方式）: auto
 
-      network（传输协议）: tcp
+     network（传输协议）: h2
 
-      提醒：没有的参数不要填即可。
+     headerType（伪装类型）: none
+
+     path（路径）: /cbab7b91/
+
+     streamSecurity（底层传输安全）: tls
+
+
 
 
 **V2ray账号2:**
