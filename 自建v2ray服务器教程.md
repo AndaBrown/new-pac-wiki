@@ -340,6 +340,8 @@ bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_o
 
 ***
 
+![v2ray](https://user-images.githubusercontent.com/12132898/74119025-c22e2c80-4bf8-11ea-81fe-614133dcc713.PNG)
+
 启动 V2ray：systemctl start v2ray
 
 启动 Nginx：systemctl start nginx
