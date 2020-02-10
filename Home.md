@@ -31,7 +31,7 @@
 
 [谷歌浏览器低内核DAZE版](https://github.com/Alvin9999/new-pac/wiki/DAZE%E7%89%88) （2020年2月7日发布新软DAZE版）
 
-[谷歌浏览器低内核XX-Net版](https://github.com/Alvin9999/new-pac/wiki/XX-Net%E7%89%88) （2020年2月10日发布新软XX-Net版）
+[谷歌浏览器低内核XX-Net版](https://github.com/Alvin9999/new-pac/wiki/XX-Net%E7%89%88) （2020年2月10日更新XX-Net版,解决不支持XP系统的问题）
 
 [谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2020年2月5日更新版本）
 
