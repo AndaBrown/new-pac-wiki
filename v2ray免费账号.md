@@ -67,7 +67,7 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
      UUID（用户id）: d898bb43-75fe-4738-b6f1-1e00aadf4aca
 
-     alterId（额外ID）: 6
+     alterId（额外ID）: 2
 
      security（加密方式）: auto
 
