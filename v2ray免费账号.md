@@ -65,17 +65,17 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
      Port（端口）: 443
 
-     UUID（用户id）: 430d4f4f-35a1-4c29-b161-b45dfd9f21ec
+     UUID（用户id）: d898bb43-75fe-4738-b6f1-1e00aadf4aca
 
-     alterId（额外ID）: 2
+     alterId（额外ID）: 6
 
      security（加密方式）: auto
 
-     network（传输协议）: ws
+     network（传输协议）: h2
 
      headerType（伪装类型）: none
 
-     path（路径）: /7f71b9e5/
+     path（路径）: /d267dc4d/
 
      streamSecurity（底层传输安全）: tls
 
