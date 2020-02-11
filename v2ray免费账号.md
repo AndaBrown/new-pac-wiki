@@ -58,6 +58,7 @@ YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://
 
      没有的参数不填
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5MSIsDQogICJhZGQiOiAiMjE2LjI0NC43Ni4yMTgiLA0KICAicG9ydCI6ICIyMzQ1NiIsDQogICJpZCI6ICJkZWU3MDA0Mi1jMzg2LTQyZmEtODMxZC02MDVlYjNjYzhmMWEiLA0KICAiYWlkIjogIjIzIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 
 **V2ray账号2:**
@@ -78,6 +79,7 @@ YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://
 
      没有的参数不填
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5MiIsDQogICJhZGQiOiAiNDUuODkuMTk3LjcxIiwNCiAgInBvcnQiOiAiMTIzNDUiLA0KICAiaWQiOiAiNjhjNTVlMmEtNGM1Ny0xMWVhLWEzYjgtMDAxNjNjZjZiOTNhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 ***
 
