@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**2020年2月13日更新，aes-256-cfb加密方式被封的厉害，所以更换了RC4，目前RC4加密方式表现还不错，如果你用的客户端没有这个加密方式，可以下载新的客户端[全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
+**2020年2月13日更新，aes-256-cfb加密方式被封的厉害，所以更换了RC4，目前RC4加密方式表现还不错，待度过了封锁强的时期会再换成以前的加密方式。如果你用的客户端没有RC4这个加密方式，可以下载新的客户端[全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
 。苹果手机Shadowrocket有RC4加密方式。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
