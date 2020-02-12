@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**2020年2月12日更新。网络封锁加重，如果SSR账号用不了可以用[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或[免费goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**2020年2月12日更新。网络封锁加重，如果SS/SSR账号用不了可以用[免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 或[免费goflyway账号](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
@@ -42,7 +42,11 @@ YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://
 
 **洛杉矶1**：162.245.239.74       端口:5532          密码: dongtaiwang.com
 
-加密方式: RC-4          协议:origin         混淆:plain
+加密方式: rc-4          协议:origin         混淆:plain
+
+**日本2**：45.32.42.19       端口:345          密码: dongtaiwang.com
+
+加密方式: rc-4          协议:origin         混淆:plain
 
 如果你觉得免费账号速度不能满足自己的需求，同时也不想自己搭建服务器，那么你可以考虑搬瓦工官方付费ss服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。要想保证自己未来100%能翻墙上网，最好掌握搭建翻墙服务器技能，同时也可以多备用不同的翻墙工具，以备不时之需。
 
