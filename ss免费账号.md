@@ -41,13 +41,13 @@ VPS推荐：
 
 YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4)
 
-**洛杉矶1**：162.245.239.74       端口:5532          密码: dongtaiwang.com
+**洛杉矶1**：162.245.239.74       端口：5532          密码： dongtaiwang.com
 
-加密方式: RC4          协议:origin         混淆:plain
+加密方式： RC4          协议：origin         混淆：plain
 
-**日本2**：45.32.42.19       端口:999         密码: dongtaiwang.com
+**日本2**：45.32.42.19       端口：999         密码： dongtaiwang.com
 
-加密方式:  RC4         协议:origin         混淆:plain
+加密方式：  RC4         协议：origin         混淆：plain
 
 如果你觉得免费账号速度不能满足自己的需求，同时也不想自己搭建服务器，那么你可以考虑搬瓦工官方付费ss服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。要想保证自己未来100%能翻墙上网，最好掌握搭建翻墙服务器技能，同时也可以多备用不同的翻墙工具，以备不时之需。
 
