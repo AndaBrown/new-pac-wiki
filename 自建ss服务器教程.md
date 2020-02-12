@@ -50,14 +50,19 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **开通服务器步骤如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程01.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程02.png)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程04.png)
-
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
 
 ### 点击图中的CentOS几个字，会弹出centos6，然后选中centos6！ （不要选默认的centos8，脚本不支持centos8！）
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr4.PNG)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr5.PNG)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr6.PNG)
 
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统（推荐centos6）的密码获取方法如下图：**
