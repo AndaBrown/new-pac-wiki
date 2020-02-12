@@ -23,7 +23,7 @@ YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://
 
 ***
 
-[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月10日更新XX-Net版，更新使用说明文档，解决“连接不是私密连接”的问题；2020年2月8日更新Goflyway、V2ray、Trojan、Brook版、SSR、Lightsocks、DAZE版本，优化ip更新文件）
+[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月12日更新所有版本，解决浏览器黑屏问题；更新XX-Net版本，解决google账号登录、youtube评论等问题；更新自由门版本，自由门升级到7.72）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年2月5日更新版本）
 
