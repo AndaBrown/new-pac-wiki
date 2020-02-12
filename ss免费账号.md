@@ -40,7 +40,7 @@ VPS推荐：
 
 YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4)
 
-**洛杉矶1**：67.21.94.192       端口:54321          密码: dongtaiwang.com
+**洛杉矶1**：67.21.94.192       端口:29          密码: ntdtv.com
 
 加密方式: aes-256-cfb          协议:origin         混淆:plain
 
