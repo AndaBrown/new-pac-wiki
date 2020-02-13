@@ -40,9 +40,9 @@ VPS推荐：
 
 YouTue视频推荐：[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4)
 
-**洛杉矶1**：162.245.239.74       端口：12345          密码： eIW0Dnk69454e6nSwuspv9DmS201tQ0D
+**洛杉矶1**：162.245.239.74       端口：23456          密码： dongtaiwang.com
 
-加密方式： aes-256-cfb        协议：origin         混淆：plain
+加密方式： RC4        协议：origin         混淆：plain
 
 **日本2**：45.32.42.19       端口：999         密码： dongtaiwang.com
 
