@@ -33,7 +33,7 @@ V2Ray跟Shadowsocks有什么区别？Shadowsocks 只是一个简单的代理工�
 
 ***
 
-**2020年2月13日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月13日20点10分更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
@@ -65,7 +65,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5MSIsDQogICJhZGQiOiAiMjE2LjI0NC43
 
      Address(地址): 45.89.197.71
 
-     Port（端口）: 33333
+     Port（端口）: 8080
 
      UUID（用户id）: 68c55e2a-4c57-11ea-a3b8-00163cf6b93a
 
@@ -79,7 +79,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5MSIsDQogICJhZGQiOiAiMjE2LjI0NC43
 
      没有的参数不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5MiIsDQogICJhZGQiOiAiNDUuODkuMTk3LjcxIiwNCiAgInBvcnQiOiAiMzMzMzMiLA0KICAiaWQiOiAiNjhjNTVlMmEtNGM1Ny0xMWVhLWEzYjgtMDAxNjNjZjZiOTNhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInYycmF5MiIsDQogICJhZGQiOiAiNDUuODkuMTk3LjcxIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI2OGM1NWUyYS00YzU3LTExZWEtYTNiOC0wMDE2M2NmNmI5M2EiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+
 
 ***
 
