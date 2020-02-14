@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年2月14日19点00分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月15日3点36分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -41,13 +41,15 @@ VPS推荐：
 
 **视频推荐**：[历史上的今天-切尔诺贝利核泄漏](https://ipsite.org/1szq7)（免翻墙） [一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4) （YouTue）
 
-**账号1**：185.118.166.1 端口：345 密码： dongtaiwang.com
-
-加密方式： RC4 协议：origin 混淆：plain
-
-**账号2**：45.32.42.19       端口：80         密码： dongtaiwang.com
+**账号1**：170.178.171.71      端口：9199        密码： dongtaiwang.com
 
 加密方式：  RC4         协议：origin         混淆：plain
+
+**账号2**：185.118.166.1 端口：777 密码： dongtaiwang.com
+
+加密方式：aes-256-cfb 协议：origin 混淆：plain
+
+
 
 如果你觉得免费账号速度不能满足自己的需求，同时也不想自己搭建服务器，那么你可以考虑搬瓦工官方付费ss服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。要想保证自己未来100%能翻墙上网，最好掌握搭建翻墙服务器技能，同时也可以多备用不同的翻墙工具，以备不时之需。
 
