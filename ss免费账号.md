@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年2月15日3点36分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月15日6点10分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 
 **YouTube频道推荐**：[新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -45,9 +45,9 @@ VPS推荐：
 
 加密方式：  RC4         协议：origin         混淆：plain
 
-**账号2**：185.118.166.1 端口：666 密码： dongtaiwang.com
+**账号2**：185.118.166.1 端口：777 密码： dongtaiwang.com
 
-加密方式：aes-256-cfb 协议：origin 混淆：plain
+加密方式： RC4  协议：origin 混淆：plain
 
 
 
