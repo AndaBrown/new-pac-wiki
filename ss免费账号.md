@@ -45,7 +45,7 @@ VPS推荐：
 
 加密方式：  RC4         协议：origin         混淆：plain
 
-**账号2**：185.118.166.1 端口：777 密码： dongtaiwang.com
+**账号2**：185.118.166.1 端口：666 密码： dongtaiwang.com
 
 加密方式：aes-256-cfb 协议：origin 混淆：plain
 
