@@ -19,9 +19,6 @@
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
 
-**视频推荐**：[历史上的今天-切尔诺贝利核泄漏](https://ipsite.org/1szq7)（免翻墙）
-
-
 **2020年2月14日公告：使用谷歌浏览器低内核版的朋友请下载2月14日的新版，旧版的ip更新文件虽然能下载但无法实时同步，所以请换新版本。**
 
 **温馨提醒：如果软件用不了，首先能更新ip的软件需要按照使用说明更新一下ip，其次，用的时候防火墙和杀毒软件最好关闭，已经有人反馈关闭防火墙和杀毒软件就能用了。最近网络封锁明显加重，由于国内各个地区封锁强度又不一样，所以，如果某一款软件实在用不了，请更换其它的软件。**
