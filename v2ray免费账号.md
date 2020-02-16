@@ -43,19 +43,19 @@ VPS推荐：
 
      Port（端口）: 8099
 
-     UUID（用户id）: dee70042-c386-42fa-831d-605eb3cc8f1a
+     UUID（用户id）: 6ac6bf90-50ba-11ea-af83-003048d37a3c
 
-     alterId（额外ID）: 2
+     alterId（额外ID）: 23
 
      security（加密方式）: aes-128-gcm
 
-     network（传输协议）: tcp
+     network（传输协议）: ws
 
      headerType（伪装类型）: none
 
      没有的参数不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IiwNCiAgImFkZCI6ICIyMTYuMjQ0Ljc2LjIxOCIsDQogICJwb3J0IjogIjgwOTkiLA0KICAiaWQiOiAiZGVlNzAwNDItYzM4Ni00MmZhLTgzMWQtNjA1ZWIzY2M4ZjFhIiwNCiAgImFpZCI6ICIyMyIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IiwNCiAgImFkZCI6ICIyMTYuMjQ0Ljc2LjIxOCIsDQogICJwb3J0IjogIjEyMzQwIiwNCiAgImlkIjogIjZhYzZiZjkwLTUwYmEtMTFlYS1hZjgzLTAwMzA0OGQzN2EzYyIsDQogICJhaWQiOiAiMjMiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 
 
