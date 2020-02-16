@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**2020年2月7日更新。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**2020年2月16日更新，更新后的配置信息支持安卓客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -43,9 +43,9 @@ VPS推荐：
 
       服务器地址：www.free6666.com
 
-      端口：8880
+      端口：8080
 
-      密码：ntdtv.com
+      密码：?www.free6666.com:8080
 
       客户端协议：CDN（HTTP协议）
 
@@ -78,7 +78,15 @@ Mac：cloudflare 里面 SSL/TLS 菜单里面 选上 Flexible，不要关闭成of
 
 **二、手机版**
 
-暂无方法。
+首先我们去 Github [下载安卓客户端](https://github.com/coyove/goflyway/releases)（下载 aligned-signed.apk ）
+
+下载安装后继续。注意：因为 Goflyway 安卓客户端是基于 Shadowsocks 安卓客户端修改而来的，所以与 SS 客户端无法共存。
+
+打开 Goflyway 安卓客户端后，可以看到一个默认的账号，因为 Goflyway 安卓客户端是基于 Shadowsocks 安卓客户端修改而来的，所以此处的默认账户实际上是 Shadowsocks 安卓客户端自带的 SS 账号，你只要删除或者修改该默认账户，就没有广告了。
+
+如下图所示，点击 [笔] 符号就能修改该账号了。
+
+如下图所示，点击 [中间有个+号的纸] 符号，然后再点击 [手动设置] 就能新建一个账号了。
 
 ***
 
