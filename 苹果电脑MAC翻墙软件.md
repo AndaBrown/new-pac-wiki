@@ -12,8 +12,7 @@
 
 STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 
 
-**SSR客户端下载地址：** [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) [备用下载地址](https://nofile.io/f/62K91pC7cBa/ShadowsocksX-NG-R8+.dmg)
-
+**SSR客户端下载地址：** [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
 ***
 
 以SS客户端为例：
