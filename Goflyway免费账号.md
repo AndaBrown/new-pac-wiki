@@ -76,7 +76,7 @@ Mac和Linux系统的电脑可以参考下面的**goflyway命令行**使用方法
 
 Mac：cloudflare 里面 SSL/TLS 菜单里面 选上 Flexible，不要关闭成off。
 
-**二、手机版**
+**二、安卓版**
 
 首先我们下载aligned-signed.apk[下载地址](https://github.com/coyove/goflyway/releases/download/2.0.0rc1/ss-align-signed.apk)
 
