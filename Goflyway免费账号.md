@@ -78,7 +78,7 @@ Mac：cloudflare 里面 SSL/TLS 菜单里面 选上 Flexible，不要关闭成of
 
 **二、手机版**
 
-首先我们去 Github [下载安卓客户端](https://github.com/coyove/goflyway/releases)（下载 aligned-signed.apk ）
+首先我们下载aligned-signed.apk[下载地址](https://github.com/coyove/goflyway/releases/download/2.0.0rc1/ss-align-signed.apk)
 
 下载安装后继续。注意：因为 Goflyway 安卓客户端是基于 Shadowsocks 安卓客户端修改而来的，所以与 SS 客户端无法共存。
 
