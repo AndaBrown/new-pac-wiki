@@ -31,7 +31,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年2月14日10点15分更新账号2端口。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月16日20点56分更新账号。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
