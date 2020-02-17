@@ -31,7 +31,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年2月16日21点13分更新账号1和2。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月18日6点25分更新账号2。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -63,7 +63,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
      Address(地址): 45.89.197.71
 
-     Port（端口）: 35112
+     Port（端口）: 96
 
      UUID（用户id）: 68c55e2a-4c57-11ea-a3b8-00163cf6b93a
 
@@ -77,7 +77,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
      没有的参数不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IiwNCiAgImFkZCI6ICI0NS44OS4xOTcuNzEiLA0KICAicG9ydCI6ICIzNTExMiIsDQogICJpZCI6ICI2OGM1NWUyYS00YzU3LTExZWEtYTNiOC0wMDE2M2NmNmI5M2EiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIiwNCiAgImFkZCI6ICI0NS44OS4xOTcuNzEiLA0KICAicG9ydCI6ICI5NiIsDQogICJpZCI6ICI2OGM1NWUyYS00YzU3LTExZWEtYTNiOC0wMDE2M2NmNmI5M2EiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 
 ***
