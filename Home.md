@@ -26,13 +26,13 @@
 
 ***
 
-[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月18日云端更新Lightsocks版ip配置信息；2020年2月16日重新发布SkyZip版；2020年2月12日更新所有版本，解决浏览器黑屏问题；更新XX-Net版本，解决google账号登录、youtube评论等问题；更新自由门版本，自由门升级到7.72）
+[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息；2020年2月16日重新发布SkyZip版；2020年2月12日更新所有版本，解决浏览器黑屏问题；更新XX-Net版本，解决google账号登录、youtube评论等问题；更新自由门版本，自由门升级到7.72）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
 
 [谷歌浏览器低内核XX-Net版](https://github.com/Alvin9999/new-pac/wiki/XX-Net%E7%89%88) （2020年2月12日更新XX-Net版本，解决google账号登录、youtube评论等问题）
 
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
+[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2020年2月18日云端更新ip配置信息，请用新版本来更新ip）
 
 [谷歌浏览器低内核DAZE版](https://github.com/Alvin9999/new-pac/wiki/DAZE%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
 
@@ -49,7 +49,7 @@
 [谷歌浏览器低内核自由门和无界版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2020年2月12日更新自由门版本至7.72）
 
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月18日云端更新Lightsocks版ip配置信息；2020年2月12日更新XX-Net版，解决google登录、youtube评论等问题；更新自由门版，升级自由门至7.72）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息；2020年2月12日更新XX-Net版，解决google登录、youtube评论等问题；更新自由门版，升级自由门至7.72）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2020年2月4日更新）
 
