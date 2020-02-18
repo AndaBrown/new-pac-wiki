@@ -27,7 +27,7 @@ VPS推荐：
 
 ### ===免费v2ray节点列表===（不定期更新账号ip或端口或密码）
 
-**北京时间2020年2月18日6点25分更新账号2。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月18日17点03分更新账号2。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -52,6 +52,30 @@ VPS推荐：
      没有的参数不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IiwNCiAgImFkZCI6ICIyMTYuMjQ0Ljc2LjIxOCIsDQogICJwb3J0IjogIjEyMzQwIiwNCiAgImlkIjogIjZhYzZiZjkwLTUwYmEtMTFlYS1hZjgzLTAwMzA0OGQzN2EzYyIsDQogICJhaWQiOiAiMjMiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+
+（注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
+
+**V2ray账号2:**
+
+     Address(地址): www.free6666.net 
+
+     Port（端口）: 443
+
+     UUID（用户id）: bc0abab8-a0e7-40dd-8e20-7acabed8625a
+
+     alterId（额外ID）: 2
+
+     security（加密方式）: auto
+
+     network（传输协议）: ws
+
+     headerType（伪装类型）: none
+
+     路径（不要落下/）： /6aa0a068/ 
+
+     底层传输安全： tls 
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpLyIsDQogICJhZGQiOiAid3d3LmZyZWU2NjY2Lm5ldCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiYzBhYmFiOC1hMGU3LTQwZGQtOGUyMC03YWNhYmVkODYyNWEiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy5mcmVlNjY2Ni5uZXQiLA0KICAicGF0aCI6ICIvNmFhMGEwNjgvIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 （注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
 
