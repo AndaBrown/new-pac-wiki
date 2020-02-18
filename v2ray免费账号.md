@@ -86,7 +86,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 ### v2ray客户端下载及使用方法
 
-2019年9月28日发布。v2ray比goflyway的客户端更多。
+2019年9月28日发布。
 
 windows客户端[v2rayN(第三方开发)](https://github.com/2dust/v2rayN/releases/latest) 或[v2ray](https://github.com/v2ray/v2ray-core/releases)
 
