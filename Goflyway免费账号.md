@@ -29,10 +29,6 @@ VPS推荐：
 
 **免费账号用的人多，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！以下账号仅Goflyway客户端能使用。**
 
-**注意**：为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如**360安全卫生、360杀毒软件、腾讯管家、金山卫士等**不仅仅会起干扰作用，造成账号无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
-
-***
-
 **2020年2月16日更新，更新后的配置信息支持安卓客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
