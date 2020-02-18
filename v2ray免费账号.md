@@ -33,7 +33,7 @@ VPS推荐：
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
 
-**V2ray账号1:**
+**V2ray账号1（ws+tls）:**
 
      Address(地址): www.free9999.net
 
@@ -56,7 +56,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 （注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
 
-**V2ray账号2:**
+**V2ray账号2（ws+tls+nginx+cdn）:**
 
      Address(地址): www.free6666.net 
 
