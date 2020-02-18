@@ -56,28 +56,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 （注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
 
 
-**V2ray账号2:**
-
-     Address(地址): 45.89.197.71
-
-     Port（端口）: 96
-
-     UUID（用户id）: 68c55e2a-4c57-11ea-a3b8-00163cf6b93a
-
-     alterId（额外ID）: 2
-
-     security（加密方式）: aes-128-gcm
-
-     network（传输协议）: tcp
-
-     headerType（伪装类型）: none
-
-     没有的参数不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIiwNCiAgImFkZCI6ICI0NS44OS4xOTcuNzEiLA0KICAicG9ydCI6ICI5NiIsDQogICJpZCI6ICI2OGM1NWUyYS00YzU3LTExZWEtYTNiOC0wMDE2M2NmNmI5M2EiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
-（注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
-
 ***
 
 
