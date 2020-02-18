@@ -29,16 +29,16 @@ VPS推荐：
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载、滥发垃圾邮件！BT下载会导致服务器被投诉而被封！单个用户限速150～200kb/s。以下账号SSR客户端和SS客户端都能使用。
 
-**北京时间2020年2月18日9点59分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月18日14点20分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
 
 
-**账号1**：216.176.190.10      端口：12300        密码： dongtaiwang.com
+**账号1**：216.176.190.11      端口：12008        密码： dongtaiwang.com
 
-加密方式：aes-256-cfb       协议：origin         混淆：plain
+加密方式：RC4       协议：origin         混淆：plain
 
 **账号2**：185.118.166.1 端口：777 密码： dongtaiwang.com
 
