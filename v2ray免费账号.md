@@ -27,7 +27,7 @@ VPS推荐：
 
 ### ===免费v2ray节点列表===（不定期更新账号ip或端口或密码）
 
-**北京时间2020年2月18日17点03分更新账号2。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月18日22点21分更新账号1。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -35,9 +35,9 @@ VPS推荐：
 
 **V2ray账号1:**
 
-     Address(地址): 216.244.76.218
+     Address(地址): www.free9999.net
 
-     Port（端口）: 12340
+     Port（端口）: 456
 
      UUID（用户id）: 6ac6bf90-50ba-11ea-af83-003048d37a3c
 
@@ -49,9 +49,10 @@ VPS推荐：
 
      headerType（伪装类型）: none
 
-     没有的参数不填
+     底层传输安全： tls 
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IiwNCiAgImFkZCI6ICIyMTYuMjQ0Ljc2LjIxOCIsDQogICJwb3J0IjogIjEyMzQwIiwNCiAgImlkIjogIjZhYzZiZjkwLTUwYmEtMTFlYS1hZjgzLTAwMzA0OGQzN2EzYyIsDQogICJhaWQiOiAiMjMiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IiwNCiAgImFkZCI6ICJ3d3cuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDU2IiwNCiAgImlkIjogIjZhYzZiZjkwLTUwYmEtMTFlYS1hZjgzLTAwMzA0OGQzN2EzYyIsDQogICJhaWQiOiAiMjMiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
 
 （注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
 
