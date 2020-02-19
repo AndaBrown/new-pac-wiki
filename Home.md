@@ -20,11 +20,11 @@
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
 
-**2020年2月18日公告：还在用2个ip更新文件版本的朋友，请尽快下载最新版，新版更换了ip更新地址，旧的ip更新文件已失效。**
+**2020年2月19日公告：更新了谷歌浏览器高内核版和火狐浏览器Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件，2月19日新版中的ip.bat更新文件集成了3个ip更新文件地址，当某一个更新地址不好用的时候会自动切换成另外一个更新地址，建议下载新版使用。**
 
 ***
 
-[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息；2020年2月16日重新发布SkyZip版；2020年2月12日更新所有版本，解决浏览器黑屏问题；更新XX-Net版本，解决google账号登录、youtube评论等问题；更新自由门版本，自由门升级到7.72）
+[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月19日更新Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件；2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息）
 
 [谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
 
@@ -47,7 +47,7 @@
 [谷歌浏览器低内核自由门和无界版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2020年2月12日更新自由门版本至7.72）
 
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息；2020年2月12日更新XX-Net版，解决google登录、youtube评论等问题；更新自由门版，升级自由门至7.72）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月19日更新Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件；2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2020年2月4日更新）
 
