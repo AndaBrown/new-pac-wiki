@@ -22,7 +22,7 @@
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
 
-**征集**：为了给大家提供速度更快、更稳定的软件，需要了解国内各个地区使用软件的效果，以便及时优化和调整，以及开发更好的新软件。需要网友们的帮忙，有愿意当志愿者的可以发邮件给我kebi2014@gmail.com，注明电脑操作系统、宽带类型，包括xp、win7、win10、移动网络、电信网络、联通网络、教育网等。主要事情就是平时反馈一下各个版本使用情况、速度表现。
+**征集**：为了给大家提供速度更快、更稳定的软件，需要了解国内各个地区使用软件的效果，以便及时优化和调整，以及开发更好的新软件。需要网友们的帮忙，有愿意当热心网友的可以发邮件到kebi2014@gmail.com，注明电脑操作系统、宽带类型，包括xp、win7、win10、移动网络、电信网络、联通网络、教育网等。主要事情就是平时反馈一下各个版本使用情况、速度表现。
 
 **2020年2月19日公告：对谷歌浏览器高内核版和火狐浏览器的Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本进行了更新，更换了ip更新文件，新的ip.bat更新文件集成了3个ip更新地址，当某1个地址不好用的时候会自动切换其它的更新地址。建议下载新版使用。**
 
