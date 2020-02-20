@@ -2,8 +2,6 @@
 
 ### 希望大家都能够突破网络封锁，获得真相！天佑中华，天佑善良人！请多帮助身边的朋友翻墙！
 
-本页面短网址：https://git.io/v9999
-
                                一键翻墙浏览器
 
 
@@ -82,4 +80,4 @@
 
 ***
 
-有问题可以[发帖](https://github.com/Alvin9999/new-pac/issues)反馈，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈。
+本页面短网址：https://git.io/v9999，有问题可以[发帖](https://github.com/Alvin9999/new-pac/issues)反馈，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈。
