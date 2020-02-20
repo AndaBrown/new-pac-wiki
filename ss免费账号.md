@@ -63,7 +63,7 @@ Linux 客户端 [下载地址](http://www.mediafire.com/folder/xag0zy318a5tt/Lin
 
 安卓SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk) 
 
-iOS：目前大陆App Store商店很多SS/SSR软件都被下架了，我们需要美区的ID，然后到美区的商店就可以自由下载软件了。关于美区ID的申请方法网上有很多，可以自己搜一下。如果不想自己注册，可以去淘宝购买或者网上找别人共享的ID。SS/SSR软件有很多，比如：Potatso Lite、Potatso、wingy等。或者用爱思助手PC端安装Shadowrocket的ipa文件，[Shadowrocket IPA文件下载及教程地址](https://github.com/gfw-breaker/guides/wiki/iPhone%E4%BD%BF%E7%94%A8Shadowsocks%E7%BF%BB%E5%A2%99)。
+[iOS没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
 
