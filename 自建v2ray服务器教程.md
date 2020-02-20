@@ -339,7 +339,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 如果以上问题都已排查，可以关闭 Windows 自带的防火墙、杀毒软件再尝试。
 
-3、高阶篇
+3、搭建的账号之前能用，突然不能用了，怎么解决？
+
+如果ip不能ping通，xshell不能直接连接vps服务器，说明ip被墙了，需要换ip。
+
+如果ip能ping，xshell能直接连接vps服务器，说明ip没有被墙，多半是端口被封了，优先换端口。
+
+4、高阶篇
 
 当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以尝试下ws+tls的方式，甚至搭建好后还可以套CDN，套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活。套CDN的方法可以自行网络搜索。提前准备好域名，并将域名指定vps的ip，然后根据脚本来搭建就好了。
 
