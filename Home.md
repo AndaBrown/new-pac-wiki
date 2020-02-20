@@ -80,4 +80,4 @@
 
 ***
 
-本页面短网址：https://git.io/v9999，有问题可以[发帖](https://github.com/Alvin9999/new-pac/issues)反馈，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈。
+本页面短网址：https://git.io/v9999 ，有问题可以[发帖](https://github.com/Alvin9999/new-pac/issues)反馈，或者发邮件到海外邮箱kebi2014@gmail.com进行反馈。
