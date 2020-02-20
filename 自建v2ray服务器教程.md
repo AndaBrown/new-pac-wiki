@@ -341,7 +341,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 3、搭建的账号之前能用，突然不能用了，怎么解决？
 
-如果ip不能ping通，xshell不能直接连接vps服务器，说明ip被墙了，需要换ip。
+如果ip不能ping通，xshell不能直接连接vps服务器，说明ip被墙了，需要开新服务器换ip。
 
 如果ip能ping，xshell能直接连接vps服务器，说明ip没有被墙，多半是端口被封了，优先换端口。
 
