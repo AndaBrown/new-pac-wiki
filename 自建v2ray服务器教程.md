@@ -194,7 +194,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
 
-**下面这个config.jason文件就是我们刚刚配置的v2ray文件，如果以后更改了v2ray服务端信息，那么你需要重新导出config.jason文件。**
+**下面这个config.json文件就是我们刚刚配置的v2ray文件，如果以后更改了v2ray服务端信息，那么你需要重新导出config.json文件。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
 
