@@ -29,10 +29,6 @@ VPS推荐：
 
 **免费账号用的人多，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载！BT下载会导致服务器被投诉而被封！以下账号仅Goflyway客户端能使用。**
 
-**2020年2月16日更新，更新后的配置信息支持安卓客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
-
-### 2020年2月21日公告：发布新网站http://blog.free-air.org/Goflyway免费账号 ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。
-
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) 
@@ -41,6 +37,9 @@ VPS推荐：
 
 [一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube）[切尔诺贝利核泄漏](https://ipsite.org/1szq7) （直翻通道）
 
+**2020年2月16日更新，更新后的配置信息支持安卓客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+
+**重要通知：发布新网站http://blog.free-air.org/Goflyway免费账号 ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
 
 **Goflyway账号:**
 
