@@ -30,8 +30,6 @@
 
 **重要公告：发布新网站http://blog.free-air.org/ ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
 
-计划近期发布集成所有工具的一款综合浏览器。软件正在抓紧制作中。需要XP系统、win7 32位、win7 64位、 win10 32位 、win10 64位来参与测试。有兴趣想参与新版测试的，可以发邮件到kebi2014@gmail.com，邮件注明系统名称即可。
-
 ***
 
 [谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月19日更新Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件；2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息）
