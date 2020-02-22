@@ -35,25 +35,7 @@
 
 [谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月19日更新Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件；2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息）
 
-[谷歌浏览器低内核Goflyway版](https://github.com/Alvin9999/new-pac/wiki/Goflyway%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
-
-[谷歌浏览器低内核XX-Net版](https://github.com/Alvin9999/new-pac/wiki/XX-Net%E7%89%88) （2020年2月12日更新XX-Net版本，解决google账号登录、youtube评论等问题）
-
-[谷歌浏览器低内核v2ray版](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%88) （2020年2月18日云端更新ip配置信息，请用新版本来更新ip）
-
-[谷歌浏览器低内核DAZE版](https://github.com/Alvin9999/new-pac/wiki/DAZE%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
-
-[谷歌浏览器低内核SSR版](https://github.com/Alvin9999/new-pac/wiki/SSR%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
-
-[谷歌浏览器低内核Brook版](https://github.com/Alvin9999/new-pac/wiki/Brook%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
-
-[谷歌浏览器低内核Lightsocks版](https://github.com/Alvin9999/new-pac/wiki/Lightsocks%E7%89%88) （2020年2月18日云端更新ip配置信息，请用新版本来更新ip）
-
-[谷歌浏览器低内核Trojan版](https://github.com/Alvin9999/new-pac/wiki/Trojan%E7%89%88) （2020年2月14日更新版本，更换ip更新文件）
-
-[谷歌浏览器低内核SkyZip版](https://github.com/Alvin9999/new-pac/wiki/SkyZip%E7%89%88) （2020年2月16日重新发布）
-
-[谷歌浏览器低内核自由门和无界版](https://github.com/Alvin9999/new-pac/wiki/FreeGate%E5%92%8CWuJie%E7%89%88)（2020年2月12日更新自由门版本至7.72）
+[谷歌浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息；2020年2月14日更新Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件；2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息）
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年2月19日更新Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本，更换了ip更新文件；2020年2月18日云端更新v2ray版、Lightsocks版ip配置信息）
 
