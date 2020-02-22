@@ -27,11 +27,11 @@ VPS推荐：
 
 ### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
 
-免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。禁止使用账号进行BT下载、滥发垃圾邮件！BT下载会导致服务器被投诉而被封！单个用户限速150～200kb/s。以下账号SSR客户端和SS客户端都能使用。
+免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。单个用户限速150～200kb/s。以下账号SSR客户端和SS客户端都能使用。
 
-**北京时间2020年2月21日8点05分更新。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年2月22日19点55分更新。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你的SS客户端没有rc4加密方式，可以用SSR客户端。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
-### 2020年2月21日公告：发布新网站http://blog.free-air.org/ss免费账号 ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。
+**重要通知：发布新网站http://blog.free-air.org/ss免费账号 ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
@@ -41,7 +41,7 @@ VPS推荐：
 
 [一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube）[切尔诺贝利核泄漏](https://ipsite.org/1szq7) （直翻通道）
 
-**账号1**：216.176.190.11      端口：12008        密码： dongtaiwang.com
+**账号1**：162.245.239.66      端口：666        密码： dongtaiwang.com
 
 加密方式：RC4       协议：origin         混淆：plain
 
