@@ -41,6 +41,8 @@ VPS推荐：
 
 **重要通知：发布新网站http://blog.free-air.org/v2ray免费账号 ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
 
+***
+
 **V2ray账号1（ws+tls）:**
 
      Address(地址): www.free9999.net
