@@ -58,7 +58,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
 
-### 点击图中的CentOS几个字，会弹出centos6，然后选中centos6！ （不要选默认的centos8，脚本不支持centos8！）
+### 点击图中的CentOS几个字，会弹出选项，然后选中centos6或7！ （不要选默认的centos8，脚本不支持centos8！）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr4.PNG)
 
