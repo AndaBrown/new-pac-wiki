@@ -26,10 +26,11 @@
 
 [一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube）[切尔诺贝利核泄漏](https://ipsite.org/1szq7) （直翻通道）
 
-**2020年2月19日公告：对谷歌浏览器高内核版和火狐浏览器的Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本进行了更新，更换了ip更新文件，新的ip.bat更新文件集成了3个ip更新地址，当某1个地址不好用的时候会自动切换其它的更新地址。请下载新版使用。**
-
 **重要公告：发布新网站http://blog.free-air.org/ ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
 
+**2020年2月19日公告：对谷歌浏览器高内核版和火狐浏览器的Goflyway版、v2ray版、DAZE版、SSR版、Brook版、Lightsocks版、Trojan版版本进行了更新，更换了ip更新文件，新的ip.bat更新文件集成了3个ip更新地址，当某1个地址不好用的时候会自动切换其它的更新地址。请下载新版使用。**
+
+**2020年2月23日公告：更新了浏览器网盘下载地址，提高了下载速度。**
 
 ***
 
