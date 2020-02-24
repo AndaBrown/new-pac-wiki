@@ -9,7 +9,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 
 
-### ===自己搭建SS/SSR或v2ray或brook服务器教程===
+### 自己搭建服务器教程（SS、v2ray、brook、trojan） 
 
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （图文教程，2020年2月20日更新）
 
@@ -25,7 +25,7 @@ VPS推荐：
 
 <a href="https://www.vultr.com/?ref=7777564-4F"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
-### ===免费SS/SSR节点列表===（不定期更新账号ip或端口或密码）
+### 免费SS/SSR节点列表（长期更新）
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。单个用户限速150～200kb/s。以下账号SSR客户端和SS客户端都能使用。
 
