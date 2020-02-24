@@ -55,7 +55,7 @@ VPS推荐：
 
       端口：80
 
-      密码：?cwww.free6666.com:8080
+      密码：?cwww.free6666.com:80
 
       客户端协议：CDN（HTTP协议）
 
