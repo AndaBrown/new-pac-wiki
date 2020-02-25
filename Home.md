@@ -28,7 +28,7 @@
 
 **重要公告：发布新网站http://blog.free-air.org/ ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
 
-**2020年2月25日公告：发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，更新ip更方便。谷歌浏览器低内核和火狐翻墙浏览器的全新版也会陆陆续续发布。**
+**2020年2月26日公告：发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，部分ip更新地址，为新的加密协议做准备，有的旧版由于客户端本身的限制不支持。**
 
 ***
 
