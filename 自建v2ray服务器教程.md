@@ -62,14 +62,13 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **开通服务器步骤如图**：
 
-
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr1.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr2.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
 
-**v2ray一键搭建脚本支持的系统有：Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持CentOS 6和8系统！） **
+### v2ray一键搭建脚本支持的系统有：Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持CentOS 6和8系统！）
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr-v2ray1.png)
 
