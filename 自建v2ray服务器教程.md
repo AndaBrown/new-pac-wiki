@@ -69,7 +69,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
 
-### v2ray一键搭建脚本支持的系统有：Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持CentOS 6和8系统！） 
+**v2ray一键搭建脚本支持的系统有：Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持CentOS 6和8系统！） **
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr-v2ray1.png)
 
@@ -130,7 +130,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名默认都是root，密码是你购买的服务器系统的密码。
 
-### 如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。
+**如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。**
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
 
@@ -206,7 +206,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 **因为一键搭建v2ray脚本是一个循环脚本，当你配置结束后不会自动退出快捷管理命令，如果你想退出界面进行其它操作，可以同时按下键盘上的ctrl键和字母z键。**
 
-### 注意：以上直接下载并替换config文件的方法只适合v2ray官方客户端，像第三方开发的客户端，比如v2rayN、v2rayX是不适合用直接替换config文件的方法。如果用第三方开发的客户端的话，可以按照要求填写账号信息，如果部署的账号信息没有额外ID，在第三方客户端的额外ID那一栏一般是可以随便填写一个数字，比如1～10选1个。参考教程：[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+**注意：以上直接下载并替换config文件的方法只适合v2ray官方客户端，像第三方开发的客户端，比如v2rayN、v2rayX是不适合用直接替换config文件的方法。如果用第三方开发的客户端的话，可以按照要求填写账号信息，如果部署的账号信息没有额外ID，在第三方客户端的额外ID那一栏一般是可以随便填写一个数字，比如1～10选1个。参考教程：[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)**
 
 
 ***
@@ -293,7 +293,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 ***
 
-### 需要注意的是：不管是重启服务器，还是以后想修改之前vps里面的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。
+**需要注意的是：不管是重启服务器，还是以后想修改之前vps里面的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。**
 
 ***
 
