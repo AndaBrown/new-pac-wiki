@@ -14,7 +14,7 @@
 
 [今日点击](https://v99.eewtr.cf/v99/19)
 
-[涛哥侃电影](ttps://v99.eewtr.cf/v99/26)
+[涛哥侃电影](https://v99.eewtr.cf/v99/26)
 
 [财经冷眼](https://v99.eewtr.cf/v99/28)
 
