@@ -17,3 +17,5 @@
 涛哥侃電影：https://v99.eewtr.cf/v99/26
 
 萧铭看世界：https://v99.eewtr.cf/v99/25
+
+财经冷眼：https://v99.eewtr.cf/v99/28
