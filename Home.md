@@ -32,7 +32,7 @@
 
 ***
 
-[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （ 2020年2月26日更新AllNew全新版，更换brook ip更新地址，为新的加密协议做准备；2020年2月25日发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，更新ip更方便；更新XX-Net单独版，优化启动程序 ）
+[谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （ 2020年2月27日更新各个版本的启动程序，升级自由门至7.74；2020年2月26日更新AllNew全新版；2020年2月25日发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序；更新XX-Net单独版，优化启动程序 ）
 
 [谷歌浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月26日更新AllNew全新版，更换brook ip更新地址，为新的加密协议做准备；2020年2月25日发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，更新ip更方便）
 
