@@ -10,7 +10,7 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 ***
 
-### 自己搭建服务器教程（SS、v2ray、brook、trojan） 
+### 自己搭建服务器教程（SS、v2ray、brook、trojan、wireguard vpn） 
 
 **图文教程，步骤详细，适合新手**
 
