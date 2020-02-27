@@ -210,9 +210,8 @@ TunSafe尚没有针对Linux，OSX或FreeBSD的图形用户界面。但是，您�
 
 
 
-安卓版：WireGuard_v0.0.20200206.xapk 国外云盘下载
-
-TunSafe VPN_v1.0.apk 国外云盘下载
+安卓版：WireGuard_v0.0.20200206.xapk [国外云盘下载](http://www.freedown9.com/html/smallsoftware/WireGuard_v0.0.20200206.xapk)
+TunSafe VPN_v1.0.apk [国外云盘下载](http://www.freedown9.com/html/smallsoftware/TunSafeVPN_v1.0.apk)
 
 安卓版安卓wireguard后，选择右下角的+号按钮进行配置，可以选择第一个将配置文件导入进去，也可以选择第二个扫描二维码。
 
