@@ -70,7 +70,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **V2ray账号2（ws+tls+nginx+cdn）:**
 
-     Address(地址): www.free6666.net 
+     Address(地址): tr1.free6666.net 
 
      Port（端口）: 443
 
