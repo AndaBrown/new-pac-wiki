@@ -1,7 +1,5 @@
 ## Goflyway免费账号（长期更新）
 
-### 希望大家都能够突破网络封锁，获得真相！天佑中华，天佑善良人！请多帮助身边的朋友翻墙！
-
 ### 翻墙后推荐网站：
 
 google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导航类）  youtube.com(油管；视频类）  ntdtv.com(新唐人；视频新闻娱乐类）    epochtimes.com（大纪元；新闻类）  renminbao.com（人民报；爆料类） bannedbook.org（禁书网；书籍类）   soundofhope.org（希望之声国际广播电台）
