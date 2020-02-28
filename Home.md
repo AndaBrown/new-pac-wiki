@@ -30,6 +30,8 @@
 
 **2020年2月26日公告：发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，部分ip更新地址，为新的加密协议做准备，有的旧版由于客户端本身的限制不支持。**
 
+**2020年2月28日公告：最新的谷歌浏览器全新版或Goflyway单独版的ip2更新地址才用了新的技术和加密协议，ip2与ip1不同，会根据国内宽带类型来分配不同的ip，提高稳定性和速度，使用Goflyway的朋友可以进行尝试。测试结果可以给我反馈，发聩的数据越多，以后越能更好的进行优化。反馈内容：宽带类型、省份城市、速度。反馈邮箱：kebi2014@gmail.com**
+
 ***
 
 [谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月27日更新各个单独版本的启动程序，升级自由门至7.74；2020年2月26日更新AllNew全新版；2020年2月25日发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序；更新XX-Net单独版，优化启动程序 ）
