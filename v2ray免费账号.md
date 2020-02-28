@@ -48,7 +48,7 @@ VPS推荐：
 
 **V2ray账号1（ws）:**
 
-     Address(地址): tr1.free9999.net
+     Address(地址): www.free9999.net
 
      Port（端口）: 1234
 
