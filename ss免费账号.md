@@ -36,7 +36,7 @@ VPS推荐：
 
 **文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网）PDF文件：[在线观看或本地下载](http://www.freedown9.com/html/book/lunwy.pdf)
 
-[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube）[切尔诺贝利核泄漏](https://ipsite.org/1szq7) （直翻通道）
+[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Reflection_on_the_epidemic_situation_and_the_way_of_refuge.mp4)）[切尔诺贝利核泄漏](https://www.youtube.com/watch?v=nfGt6ugUgpo) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Chernobyl_nuclear_leak.mp4)）
 
 ***
 
