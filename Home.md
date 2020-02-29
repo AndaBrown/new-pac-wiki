@@ -20,7 +20,7 @@
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [子弘闲谈](https://www.youtube.com/channel/UClS1mgEIYLN9k03_B9o2DCw/videos) [神韵](https://www.youtube.com/channel/UC_z8ERuOLTrlAaopY0gxzsA)
 
-**文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://www.freedown9.com/html/book/lbw.pdf)））[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://www.freedown9.com/html/book/lunwy.pdf)）
+**文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://www.freedown9.com/html/book/lbw.pdf)）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://www.freedown9.com/html/book/lunwy.pdf)）
 
 [一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Reflection_on_the_epidemic_situation_and_the_way_of_refuge.mp4)）[切尔诺贝利核泄漏](https://www.youtube.com/watch?v=nfGt6ugUgpo) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Chernobyl_nuclear_leak.mp4)）
 
