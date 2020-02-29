@@ -64,7 +64,7 @@
 
 [路由器翻墙](https://github.com/Alvin9999/new-pac/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BF%BB%E5%A2%99) （2019年9月29日发布）
 
-[YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2018年11月25日发布）
+[YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2020年2月29日更新）
 
 [实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86) （2018年4月26日更新）
 
