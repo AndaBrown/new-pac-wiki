@@ -14,7 +14,7 @@
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系!其实win10自带的defender就有杀毒的功能，如果还需要安全软件，可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，还有清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)。它们都是免费的，而且不会干扰电脑运行。
 
-**选择指南**：Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan、SkyZip、无界、自由门可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。内存低于2G的电脑建议用[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)。还有[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习自建服务器教程（图文教程，步骤详细，适合新手）。
+**选择指南**：Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan、SkyZip、无界、自由门可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。还有[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习自建服务器教程（图文教程，步骤详细，适合新手）。
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
