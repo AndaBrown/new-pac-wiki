@@ -28,6 +28,8 @@
 
 **2020年2月26日公告：发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，部分ip更新地址，为新的加密协议做准备，有的旧版由于客户端本身的限制不支持。**
 
+**2020年3月1日公告：发布火狐浏览器73高内核版。**
+
 ***
 
 [谷歌浏览器80高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年2月29日更新全新版及其它版本，解决路径找不到文件的问题；2020年2月27日更新各个单独版本的启动程序，升级自由门至7.74；2020年2月25日发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序 ）
