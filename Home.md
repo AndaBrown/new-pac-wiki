@@ -22,7 +22,7 @@
 
 [一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Reflection_on_the_epidemic_situation_and_the_way_of_refuge.mp4)）[切尔诺贝利核泄漏](https://www.youtube.com/watch?v=nfGt6ugUgpo) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Chernobyl_nuclear_leak.mp4)）
 
-**重要公告：发布新网站http://blog.free-air.org/ ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新，但会优先更新新网站。**
+**重要公告：发布新网站http://blog.free-air.org/ ，请牢记并收藏，防止失联！github官方的图片地址已经被封了一段时间，未来极有可能整个github被全部封掉。两个网站都会继续更新。**
 
 **2020年2月26日公告：发布AllNew全新版，集成8种代理工具，包括Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan，并且优化了启动程序，部分ip更新地址，为新的加密协议做准备，有的旧版由于客户端本身的限制不支持。**
 
