@@ -14,7 +14,7 @@
 
 **1、准备**
 
-在这里下载适合系统的压缩包，并解压到 ~path/v2ray文件夹中。
+在[这里](https://github.com/v2ray/v2ray-core/releases/)下载适合系统的压缩包，并解压到 ~path/v2ray文件夹中。
 
 编辑config.json配置文件，略。。。
 
