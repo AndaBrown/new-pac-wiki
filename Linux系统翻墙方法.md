@@ -18,10 +18,15 @@
 
 编辑config.json配置文件，略。。。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/linux/1.png)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/linux/2.png)
 
 **2、配置**
 
 将v2ray文件夹移动到 /usr/local/目录下，然后进入该目录
+
+![](http://blog.free-air.org/wp-content/uploads/2020/03/3.png)
 
   sudo mv /home/jacen/Downloads/v2ray /usr/local/v2ray
 
