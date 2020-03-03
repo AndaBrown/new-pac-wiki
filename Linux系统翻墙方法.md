@@ -90,7 +90,7 @@ sudo systemctl disable v2ray.service
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/linux/10.png)
 
-[获取最新v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+[点我获取最新v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 ***
 
