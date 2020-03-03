@@ -145,28 +145,43 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 一键安装wirguard脚本代码（Centos7/Centos8）：
 
+***
+
 curl -O https://raw.githubusercontent.com/atrandys/wireguard/master/wg_mult.sh && chmod +x wg_mult.sh && ./wg_mult.sh
+
+***
 
 复制上面整个代码到vps服务器中 。复制后如果不动按回车键。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire1.jpg)
+
 输入数字1进行安装，2是卸载。一键脚本会自动安装，一般几分钟就能安装好，很快。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire2.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire3.jpg)
 
 安装到这个界面就结束了。上述是二维码界面，不用管。鼠标往上滑动会看到这个提示，需要把 /etc/wireguard/client.conf文件下载到电脑上。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire4.jpg)
 
 有两种方法。一种是输入命令 cat /etc/wireguard/client.conf ，信息就会展示出来，如下来。然后复制（鼠标左键选中，右键选择复制），新建一个 client.conf 文件，把内容粘贴进去并保存即可。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire5.jpg)
 
 第二种方法是直接把这个文件下载下来。 先安装下载文件的命令：
 
 yum -y install lrzsz 
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire6.jpg)
+
 安装结束后输入如下命令就可以把client.conf文件下载到电脑上。
 
 sz /etc/wireguard/client.conf
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire7.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire8.jpg)
 
 这样，wireguard的账号配置信息就搭建好了。 接着下载安装TunSafe，这是wireguard windows版第三方开发软件，也可以去wireguard.com官网，下载官方的Windows版客户端，推荐用tunsafe。
 
@@ -178,20 +193,28 @@ TunSafe 官网下载：https://tunsafe.com/download ，下载TunSafe-1.5-rc2.exe
 
 下载后双击安装。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire13.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire10.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire11.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire12.jpg)
 
-
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire14.jpg)
 出现上述界面就安装好了，点击close关闭。
 
 打开TunSafe，选择File—Import File，把 client.conf文件 导入进去
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire15.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire16.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire17.jpg)
 
 导入client.conf文件后，点击Connect进行连接。出现如下标志就是连接成功啦。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/test2.jpg)
 
 这个软件是全局代理软件，也就是电脑上所有的软件都被代理了，所以建议上外网网就专门上网，国内软件最好关闭。下图是网友在白天测试的YouTube速度图，晚上高峰期会慢一些， 供参考。国内各个地区封锁不同，效果肯定也会不同。
 
@@ -208,6 +231,9 @@ TunSafe尚没有针对Linux，OSX或FreeBSD的图形用户界面。但是，您�
 
 二维码生成方法：
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-erwei1.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-erwei2.jpg)
 
 
 安卓版：WireGuard_v0.0.20200206.xapk [国外云盘下载](http://www.freedown9.com/html/smallsoftware/WireGuard_v0.0.20200206.xapk)
@@ -215,14 +241,24 @@ TunSafe VPN_v1.0.apk [国外云盘下载](http://www.freedown9.com/html/smallsof
 
 安卓版安卓wireguard后，选择右下角的+号按钮进行配置，可以选择第一个将配置文件导入进去，也可以选择第二个扫描二维码。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-an2.jpg)
 
 iOS用国外ID在国外商店搜索 tunsafe 下载。
 
 iOS安装tunsafe后，打开配置设置。
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-ios1.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-ios2.jpg)
 
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-ios3.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-ios4.jpg)
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-ios5.jpg)
 
 同样可以选择第一个将文件导入进去，或者第二个扫描配置文件的二维码。
+
+***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
