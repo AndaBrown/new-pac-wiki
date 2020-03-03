@@ -215,7 +215,7 @@ TunSafe 官网下载：https://tunsafe.com/download ，下载TunSafe-1.5-rc2.exe
 
 导入client.conf文件后，点击Connect进行连接。出现如下标志就是连接成功啦。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wrie18.jpg)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire18.jpg)
 
 这个软件是全局代理软件，也就是电脑上所有的软件都被代理了，所以建议上外网网就专门上网，国内软件最好关闭。下图是网友在白天测试的YouTube速度图，晚上高峰期会慢一些， 供参考。国内各个地区封锁不同，效果肯定也会不同。
 
