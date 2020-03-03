@@ -179,7 +179,7 @@ yum -y install lrzsz
 
 sz /etc/wireguard/client.conf
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire7.jpg)
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire7.PNG)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire8.jpg)
 
