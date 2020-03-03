@@ -202,6 +202,7 @@ TunSafe 官网下载：https://tunsafe.com/download ，下载TunSafe-1.5-rc2.exe
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire12.jpg)
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire14.jpg)
+
 出现上述界面就安装好了，点击close关闭。
 
 打开TunSafe，选择File—Import File，把 client.conf文件 导入进去
