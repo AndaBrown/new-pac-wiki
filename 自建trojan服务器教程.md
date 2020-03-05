@@ -95,7 +95,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **第二步：购买域名**
 
-有免费的域名，但为了稳定，建议选择付费的域名，因为免费的域名很可能会用不了多长时间。域名一般很便宜，1年几十人民币。推荐用国外的域名服务商：[Godaddy](https://www.godaddy.com/tlds/com-domain)、[Namecheap](https://www.namecheap.com)、[Gandi](https://www.gandi.net/zh-Hans)
+有免费的域名，但为了稳定，建议选择付费的域名，因为免费的域名很可能会用不了多长时间。推荐用国外的域名服务商：[Namecheap](https://www.namecheap.com)，xyz、club后缀的域名1年1美元左右。
 
 购买域名后，登录域名网站管理页面，将自己的vps ip指向域名。
 
