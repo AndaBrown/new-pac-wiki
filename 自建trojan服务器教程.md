@@ -197,11 +197,23 @@ wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
 **第二步，一键安装锐速**
 
+
+***
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+
+***
 
 卸载加速代码命令为：
 
+
+***
+
 chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+
+***
 
 但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
@@ -222,6 +234,9 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 **vultr服务器的centos6不支持bbr加速，但centos7系统支持bbr加速，所以如果你想用bbr加速教程，vps操作系统需要选择centos7或其它系统。**
 
+
+***
+
 yum -y install wget
 
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
@@ -229,6 +244,9 @@ wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 chmod +x bbr.sh
 
 ./bbr.sh
+
+
+***
 
 把上面整个代码复制后粘贴进去，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。
 
