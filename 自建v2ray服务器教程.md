@@ -138,17 +138,26 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
-**2019.2.11更新：**
-
-Debian8/Debian7/Ubuntu16/Ubuntu14/CentOS7 v2ray一键部署管理脚本：
+**Debian8/Debian7/Ubuntu16/Ubuntu14/CentOS7 v2ray一键部署管理脚本**：
 
 安装脚本命令：
 
+***
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/install.sh && bash install.sh
+
+
+***
 
 卸载脚本命令：
 
+
+***
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/uninstall.sh && bash uninstall.sh
+
+
+***
 
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 
