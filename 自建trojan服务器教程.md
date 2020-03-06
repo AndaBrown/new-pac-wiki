@@ -1,6 +1,6 @@
 **2020年2月12日更新。**
 
-**本教程的图片被屏蔽了，可以访问http://blog.free-air.org/自建trojan服务器教程**
+**本教程的图片被屏蔽了，可以访问https://blog.free-air.org/自建trojan服务器教程**
 
 ***
 
