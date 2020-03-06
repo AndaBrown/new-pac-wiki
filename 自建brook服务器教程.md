@@ -146,6 +146,9 @@ chmod +x brook.sh
 ./brook.sh
 
 
+***
+
+
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 ***
 
@@ -195,11 +198,16 @@ chmod +x brook.sh
 
 **【加速教程1：谷歌BBR加速教程】**
 
+***
+
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
 chmod +x bbr.sh
 
 ./bbr.sh
+
+
+***
 
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 
@@ -249,9 +257,15 @@ chmod +x bbr.sh
 
 **第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
 
+
+***
+
 yum -y install wget
 
 wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
+
+
+***
 
 ![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
 
@@ -265,11 +279,23 @@ wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
 **第二步，一键安装锐速**
 
+
+***
+
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
+
+
+***
 
 卸载加速代码命令为：
 
+
+***
+
 chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
+
+
+***
 
 但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
