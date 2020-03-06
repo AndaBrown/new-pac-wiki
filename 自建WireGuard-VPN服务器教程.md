@@ -144,7 +144,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ***
 
-一键安装wirguard脚本代码（Centos7/Centos8）：
+**一键安装wirguard脚本代码（Centos7/Centos8）**：
 
 ***
 
