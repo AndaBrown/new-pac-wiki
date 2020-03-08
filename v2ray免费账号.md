@@ -38,21 +38,21 @@ VPS推荐：
 
 ***
 
-**北京时间2020年3月6日19点19分更新账号1。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年3月9日2点14分更新。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **重要通知：发布新网站https://blog.free-air.org/v2ray免费账号 ，请牢记并收藏，防止失联！两个网站都会继续更新。**
 
 ***
 
-**V2ray账号1（ws）:**
+**V2ray账号1（ws+tls）:**
 
      Address(地址): tr1.free9999.net
 
-     Port（端口）: 45678
+     Port（端口）: 1234
 
-     UUID（用户id）: a2d83225-d8b6-4ad9-bf3a-bda17f800d5e
+     UUID（用户id）: 50a7c8ab-3690-4e54-b4d7-6c9624ebb8ab
 
-     alterId（额外ID）: 8
+     alterId（额外ID）: 64
 
      security（加密方式）: auto
 
@@ -60,8 +60,9 @@ VPS推荐：
 
      headerType（伪装类型）: none
 
+     底层传输安全： tls 
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIiwNCiAgImFkZCI6ICJ0cjEuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDU2NzgiLA0KICAiaWQiOiAiYTJkODMyMjUtZDhiNi00YWQ5LWJmM2EtYmRhMTdmODAwZDVlIiwNCiAgImFpZCI6ICI4IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjEuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiMTIzNCIsDQogICJpZCI6ICI1MGE3YzhhYi0zNjkwLTRlNTQtYjRkNy02Yzk2MjRlYmI4YWIiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyINCn0=
 
 
 （注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
