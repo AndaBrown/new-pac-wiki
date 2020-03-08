@@ -1,4 +1,4 @@
-**2020年2月27日发布。**
+**2020年3月8日更新创建多账号方法。**
 
 **本教程的图片被屏蔽了，可以访问http://blog.free-air.org/自建wireguard服务器教程**
 
@@ -186,6 +186,20 @@ sz /etc/wireguard/client.conf
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire8.jpg)
 
 这样，wireguard的账号配置信息就搭建好了。 接着下载安装TunSafe，这是wireguard windows版第三方开发软件，也可以去wireguard.com官网，下载官方的Windows版客户端，推荐用tunsafe。
+
+**增加wireguard多用户方法**：
+
+1、进入下载脚本的路径，然后使用以下命令打开脚本
+
+./wg_mult.sh
+
+2、选择4 add user
+
+3、然后输入一个用户名，不要和之前的重复
+
+4、然后获取新用户名.conf文件即可
+
+***
 
 第三步：客户端TunSafe使用方法
 
