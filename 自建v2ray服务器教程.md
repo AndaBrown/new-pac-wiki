@@ -392,7 +392,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 有免费的域名，但为了稳定，建议选择付费的域名，因为免费的域名很可能会用不了多长时间。推荐用国外的域名服务商：[Namecheap](https://www.namecheap.com)，xyz、club后缀的域名1年1美元左右。
 
 
-**一键部署Nginx+ws+tls脚本(2020.2.8 )，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
+**一键部署Nginx+ws+tls脚本，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
 
 ***
 
