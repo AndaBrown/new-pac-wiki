@@ -38,59 +38,21 @@ VPS推荐：
 
 ***
 
-**北京时间2020年3月9日2点14分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年3月9日21点20分。 即日起采取图片的形式分享账号，避免被爬虫抓取 。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
-**重要通知：发布新网站https://blog.free-air.org/v2ray免费账号 ，请牢记并收藏，防止失联！两个网站都会继续更新。**
+**如果你无法查看图片，请用这个网址https://blog.free-air.org/v2ray免费账号**
 
 ***
 
-**V2ray账号1（ws+tls）:**
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray1.PNG)
 
-     Address(地址): tr1.free9999.net
+UUID（用户id）: 50a7c8ab-3690-4e54-b4d7-6c9624ebb8ab
 
-     Port（端口）: 1234
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray2.PNG)
 
-     UUID（用户id）: 50a7c8ab-3690-4e54-b4d7-6c9624ebb8ab
+UUID（用户id）: bc0abab8-a0e7-40dd-8e20-7acabed8625a
 
-     alterId（额外ID）: 64
-
-     security（加密方式）: auto
-
-     network（传输协议）: ws
-
-     headerType（伪装类型）: none
-
-     底层传输安全： tls 
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjEuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiMTIzNCIsDQogICJpZCI6ICI1MGE3YzhhYi0zNjkwLTRlNTQtYjRkNy02Yzk2MjRlYmI4YWIiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyINCn0=
-
-
-（注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
-
-**V2ray账号2（ws+tls+nginx+cdn）:**
-
-     Address(地址): www.free6666.net 
-
-     Port（端口）: 443
-
-     UUID（用户id）: bc0abab8-a0e7-40dd-8e20-7acabed8625a
-
-     alterId（额外ID）: 2
-
-     security（加密方式）: auto
-
-     network（传输协议）: ws
-
-     headerType（伪装类型）: none
-
-     路径（不要落下/）： /6aa0a068/ 
-
-     底层传输安全： tls 
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpLyIsDQogICJhZGQiOiAid3d3LmZyZWU2NjY2Lm5ldCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiYzBhYmFiOC1hMGU3LTQwZGQtOGUyMC03YWNhYmVkODYyNWEiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy5mcmVlNjY2Ni5uZXQiLA0KICAicGF0aCI6ICIvNmFhMGEwNjgvIiwNCiAgInRscyI6ICJ0bHMiDQp9
-
-（注：如果用v2rayN客户端，vmess导入的账号信息本地代理端口是socks5 10808，所以浏览器代理请设置成一致）
-
+路径（不要落下/）： /6aa0a068/ 
 
 ***
 
