@@ -106,7 +106,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks2.net/members/
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 </p>
 <p class="keepp">
-这里就可以看到shadowsocks详情了，包括shadowsocks加密方式，shadowsocks端口，shadowsocks密码和shadowsocks IP（有5个节点，域名形式发放）：
+这里就可以看到shadowsocks详情了，包括shadowsocks加密方式，shadowsocks端口，shadowsocks密码和shadowsocks IP（有5个节点，域名形式发放，每个节点速度可能不同，都测试下，选择最快的）：
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png" alt="Just My Socks shadowsocks详情" /></a>
 </p>
