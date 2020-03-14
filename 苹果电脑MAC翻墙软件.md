@@ -19,19 +19,19 @@ STEP1，下载用于MAC OS X的SHADOWSOCKSX软件
 
 STEP2，打开下载的DMG文件，将程序图标拖到右边的APPLICATIONS，安装完成
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC1.png)
 
 STEP3，进入LAUNCHPAD，打开SHADOWSOCKSX,右上方出现程序图标，点击图标–“服务器”–“打开服务器设定”
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC2.png)
 
 STEP4，根据帐号信息，填写服务器地址（IP或者域名），端口，加密方式和密码，点确定
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC3.png)
 
 STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/MAC4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC4.png)
 
 上面是使用SS客户端填写SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
 
