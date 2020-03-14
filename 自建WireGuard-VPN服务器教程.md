@@ -1,6 +1,6 @@
 **2020年3月8日更新创建多账号方法。**
 
-**本教程的图片被屏蔽了，可以访问http://t1.free-air.org/自建wireguard服务器教程**
+**如果无法查看图片，可以访问http://t1.free-air.org/自建wireguard服务器教程**
 
 ***
 
