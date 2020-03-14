@@ -8,7 +8,7 @@
 
 图文教程如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/download/youtube下载5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/download/youtube下载5.png)
 
 ***
 
