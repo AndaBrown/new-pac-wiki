@@ -52,42 +52,42 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **账号充值如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/pp100.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/pp101.png)
 
 
 **开通服务器步骤如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
+![](hhttps://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr3.PNG)
 
 ### trojan安装脚本仅支持Centos7或8!
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr-v2ray1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-v2ray1.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr5.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr5.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr6.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr6.PNG)
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统的密码获取方法如下图：**
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/crp_up/pac教程05.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程06.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/crp_up/pac教程06.png)
 
 **删掉服务器步骤如下图**：
 
 删除服务器时，先开新的服务器后再删除旧服务器，这样可以保证新服务器的ip与旧ip不同。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de4.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de5.png)
 
 一个被墙ip的vps被删掉后，其ip并不会消失，会随机分配给下一个在这个服务器位置新建服务器的人，这就是为什么开新服务器会有一定几率开到被墙的ip。被墙是指在国内地区无法ping通服务器，但在国外是可以ping通的，vultr是面向全球服务，如果这个被墙ip被国外的人开到了，它是可以被正常使用的，一般一段时间后就会被解封，那么这就是一个良性循环。
 
@@ -111,7 +111,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 如果你是Mac苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。直接打开Terminal终端，输入：ssh root@43.45.43.21（将45.45.43.21换成你的IP），之后输入你的密码就可以登录了（输入密码的时候屏幕上不会有显示）
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/Mac.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/Mac.png)
 
 如果不能用Mac自带的终端连接的话，直接网上搜“Mac连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。Mac成功连接vps后剩下的操作和windows一样。
 
@@ -121,23 +121,23 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 下载windows xshell软件并安装后，打开软件
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell11.png)
 
 选择文件，新建
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell12.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell12.png)
 
 随便取个名字，然后把你的服务器ip填上
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell13.png)
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名默认都是root，密码是你购买的服务器系统的密码。
 
 **如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell14.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/xshell2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/xshell2.png)
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
@@ -151,11 +151,11 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_centos7.
 
 复制上面整个代码到vps服务器中进行安装，安装过程中会提示输入域名。
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/trojan1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan1.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/trojan2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan2.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/softimag/trojan3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan3.png)
 
 最终安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
 
@@ -185,11 +185,11 @@ yum -y install wget
 
 wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+![](hhttps://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs1.PNG)
 
 不动的时候敲回车键，在上图时需要多等一会儿。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs2.PNG)
 
 出现上图时表示已成功替换内核并服务器自动重启。
 
@@ -217,13 +217,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F2.PNG)
 
 提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
 
 锐速安装成功标志如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F3.png)
 
 出现running字样即可!
 
@@ -254,29 +254,29 @@ chmod +x bbr.sh
 
 复制并粘贴代码后，按回车键确认
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/18.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/18.png)
 
 如下图提示，按任意键继续部署
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/19.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/20.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/20.png)
 
 部署到上图这个位置的时候，等待3～6分钟
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/21.png)
 
 最后输入y重启服务器，如果输入y提示command not found ，接着输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/tcp_bbr.PNG)
 
 **注意1**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装ssr脚本，或者改用锐速加速脚本。
 
 重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/reinstall.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/reinstall.png)
 
 重装过程一般需要5～10分钟。
 
