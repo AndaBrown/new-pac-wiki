@@ -261,7 +261,7 @@ TunSafe VPN_v1.0.apk [国外云盘下载](http://www.freedown9.com/html/smallsof
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/wire/wire-an2.jpg)
 
-iOS用国外ID在国外商店搜索 tunsafe 下载。
+iOS用国外ID在国外商店搜索 tunsafe 或 wireguard 下载。[iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
 
 iOS安装tunsafe后，打开配置设置。
 
