@@ -49,7 +49,7 @@ VPS推荐：
 
 ***
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/goflywayimage/goflyway1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/goflywayimage/goflyway1.PNG)
 
 密码：?ctr2.free5555.site:8880
 
