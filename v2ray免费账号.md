@@ -38,11 +38,13 @@ VPS推荐：
 
 ***
 
-**北京时间2020年3月13日16点09分。 即日起采取图片的形式分享账号，避免被爬虫抓取。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年3月14日8点46分。 即日起采取图片的形式分享账号，避免被爬虫抓取。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **如果你无法查看图片，请用这个网址https://t1.free-air.org/v2ray免费账号**
 
 ***
+
+**账号1**:
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray3.PNG)
 
@@ -50,11 +52,22 @@ VPS推荐：
 
 路径（不要落下/）：/df40c300/
 
+**账号2**:
+
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray4.PNG)
 
 可复制的参数：UUID（用户id）: 3e827c9d-55f0-471c-82bc-3ae79405bc48
 
 路径（不要落下/）：/dbae47c3/
+
+**账号3**:
+
+![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray5.PNG)
+
+可复制的参数：UUID（用户id）: c94b0262-a272-4e0c-bfd7-292e7f327943
+
+路径（不要落下/）：/c3e707df/ 
+
 
 ***
 
