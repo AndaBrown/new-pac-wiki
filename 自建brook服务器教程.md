@@ -54,43 +54,43 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **账号充值如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/pp100.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/pp101.png)
 
 
 **开通服务器步骤如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr3.PNG)
 
 ### 一键部署brook脚本支持的系统有：CentOS 6和7 / Debian 6+ / Ubuntu 14.04 +， 本教程演示选择系统Debian 8。（不要选默认的CentOS8，脚本不支持CentOS8！）
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr4.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr5.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr5.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr6.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr6.PNG)
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统的密码获取方法如下图：**
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/crp_up/pac教程05.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian2.png)
 
 
 **删掉服务器步骤如下图**：
 
 删除服务器时，先开新的服务器后再删除旧服务器，这样可以保证新服务器的ip与旧ip不同。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de4.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de5.png)
 
 一个被墙ip的vps被删掉后，其ip并不会消失，会随机分配给下一个在这个服务器位置新建服务器的人，这就是为什么开新服务器会有一定几率开到被墙的ip。被墙是指在国内地区无法ping通服务器，但在国外是可以ping通的，vultr是面向全球服务，如果这个被墙ip被国外的人开到了，它是可以被正常使用的，一般一段时间后就会被解封，那么这就是一个良性循环。
 
@@ -105,7 +105,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 如果你是Mac苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。直接打开Terminal终端，输入：ssh root@43.45.43.21（将45.45.43.21换成你的IP），之后输入你的密码就可以登录了（输入密码的时候屏幕上不会有显示）
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/Mac.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/Mac.png)
 
 如果不能用Mac自带的终端连接的话，直接网上搜“Mac连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。Mac成功连接vps后剩下的操作和windows一样。
 
@@ -115,23 +115,23 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 下载windows xshell软件并安装后，打开软件
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell11.png)
 
 选择文件，新建
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell12.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell12.png)
 
 随便取个名字，然后把你的服务器ip填上
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell13.png)
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名默认都是root，密码是你购买的服务器系统的密码。
 
 **如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell14.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/xshell2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/xshell2.png)
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
@@ -157,37 +157,37 @@ chmod +x brook.sh
 
 复制上面的**脚本一代码**到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash brook.sh 或 ./brook.sh
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook1.PNG)
 
 出现上图表明脚本安装成功，脚本安装成功后就可以输入快捷管理命令bash brook.sh 或 ./brook.sh 如果输入了快捷管理命令后，出现“Permission denied”字样，如下图，接着需要输入命令：chmod +x brook.sh 然后再输入快捷管理命令即可。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook3.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook3.PNG)
 
 输入快捷管理命令后，出现上图，接着输入数字1来进行安装。会依次对**端口、密码、协议和版本号**进行选择。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook4.PNG)
 
 端口输入1-65535之间的数字。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook5.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook5.PNG)
 
 密码最好不要有特殊符号。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook6.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook6.PNG)
 
 协议选择新版协议，输入1。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook7.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook7.PNG)
 
 版本号输入v20190205
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook8.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook8.PNG)
 
 最终安装成功后，会出现下面的界面。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brook9.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook9.PNG)
 
 此脚本是开机自动启动，部署一次即可。最后可以重启服务器确保部署生效（一般情况不重启也可以）。重启需要在命令栏里输入reboot ，输入命令后稍微等待一会服务器就会自动重启，一般重启过程需要2～5分钟，重启过程中Xshell会自动断开连接，等VPS重启好后才可以用Xshell软件进行连接。如果部署过程中卡在某个位置超过10分钟，可以用xshell软件断开，然后重新连接你的ip，再复制代码进行部署。
 
@@ -218,29 +218,29 @@ chmod +x bbr.sh
 
 复制并粘贴代码后，按回车键确认
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/18.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/18.png)
 
 如下图提示，按任意键继续部署
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/19.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/20.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/20.png)
 
 部署到上图这个位置的时候，等待3～6分钟
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/21.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/21.png)
 
 最后输入y重启服务器，如果输入y提示command not found ，接着输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/tcp_bbr.PNG)
 
 **注意1**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装brook脚本，或者改用锐速加速脚本。
 
 重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/reinstall.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/reinstall.png)
 
 重装过程一般需要5～10分钟。
 
@@ -268,11 +268,11 @@ wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
 ***
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs1.PNG)
 
 不动的时候敲回车键，在上图时需要多等一会儿。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs2.PNG)
 
 出现上图时表示已成功替换内核并服务器自动重启。
 
@@ -300,13 +300,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F2.PNG)
 
 提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
 
 锐速安装成功标志如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F3.png)
 
 出现running字样即可!
 
@@ -320,19 +320,19 @@ Brook Tools v1.0.8 [下载地址](http://108.61.224.82/lib5/Brook%20Tools%20v1.0
 
 第二步：下载Brook Windows命令行版客户端，地址：https://github.com/txthinking/brook/releases ，如下图，windows32位系统选择第一个，64位系统选择第二个，下载后**重命名为**brook.exe
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brookwin1.png)
 
 第三步：将下载好的Brook Tools压缩包解压出来，解压路径不要包含中文，将重命名好的Brook Windows命令行版客户端**放在同一个文件夹**。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brookwin2.png)
 
 打开Brook Tools客户端，点击界面上的“浏览”后，打开同一文件夹的brook.exe ,之后点击“保存配置”、“启动”
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brookwin3.png)
 
 Brook Tools客户端有2种代理方式，默认的是**http代理**，如果把前面的勾去掉，则变为**socks5代理**。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/brook/brookwin4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brookwin4.png)
 
 浏览器代理相应设置为：如果是http代理，设置为HTTP 127.0.0.1 2080；如果是socks5代理，设置为socks5 127.0.0.1 2080；
 
@@ -343,7 +343,7 @@ Brook Tools客户端有2种代理方式，默认的是**http代理**，如果把
 
 完成添加，会跳转到switchyomega页面，点跳过教程，然后点击proxy，如图填写，最后点击应用选项。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/v2ray/bhttp.PNG)
+![](https://cdn.jsdelivr.net/gh/PAC/v2ray/bhttp.PNG)
 
 ***
 
