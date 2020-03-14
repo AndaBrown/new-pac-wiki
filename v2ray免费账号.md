@@ -46,7 +46,7 @@ VPS推荐：
 
 **账号1**:
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray3.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/master/v2ray3.PNG)
 
 可复制的参数：UUID（用户id）: 4d0e5248-015c-494e-92e5-38cb6be611e7
 
@@ -54,7 +54,7 @@ VPS推荐：
 
 **账号2**:
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray4.PNG)
 
 可复制的参数：UUID（用户id）: 3e827c9d-55f0-471c-82bc-3ae79405bc48
 
@@ -62,7 +62,7 @@ VPS推荐：
 
 **账号3**:
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/v2rayimage/v2ray5.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray5.PNG)
 
 可复制的参数：UUID（用户id）: c94b0262-a272-4e0c-bfd7-292e7f327943
 
