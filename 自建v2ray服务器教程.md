@@ -57,44 +57,43 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **账号充值如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp100.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/pp100.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/pp101.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/pp101.png)
 
 **开通服务器步骤如图**：
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr1.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr3.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr3.PNG)
 
 ### v2ray一键搭建脚本支持的系统有：Debian 8、Debian 7、Ubuntu 14、Ubuntu 16、CentOS 7。（注意：不支持CentOS 6和8系统！）
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr-v2ray1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-v2ray1.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr5.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr5.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr6.PNG)
-
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr6.PNG)
 
 
 **开通服务器时，当出现了ip，不要立马去ping或者用xshell去连接，再等5分钟之后，有个缓冲时间。完成购买后，找到系统的密码记下来，部署服务器时需要用到。vps系统的密码获取方法如下图：**
 
-![](https://raw.githubusercontent.com/Alvin9999/crp_up/master/pac教程05.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/crp_up/pac教程05.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian2.png)
 
 
 **删掉服务器步骤如下图**：
 
 删除服务器时，先开新的服务器后再删除旧服务器，这样可以保证新服务器的ip与旧ip不同。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de4.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de2.PNG)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/de5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/de5.png)
 
 一个被墙ip的vps被删掉后，其ip并不会消失，会随机分配给下一个在这个服务器位置新建服务器的人，这就是为什么开新服务器会有一定几率开到被墙的ip。被墙是指在国内地区无法ping通服务器，但在国外是可以ping通的，vultr是面向全球服务，如果这个被墙ip被国外的人开到了，它是可以被正常使用的，一般一段时间后就会被解封，那么这就是一个良性循环。
 
@@ -109,7 +108,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 如果你是Mac苹果电脑操作系统，更简单，无需下载xshell，系统可以直接连接VPS。直接打开Terminal终端，输入：ssh root@43.45.43.21（将45.45.43.21换成你的IP），之后输入你的密码就可以登录了（输入密码的时候屏幕上不会有显示）
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/Mac.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/Mac.png)
 
 如果不能用Mac自带的终端连接的话，直接网上搜“Mac连接SSH的软件”，有很多，然后通过软件来连接vps服务器就行，具体操作方式参考windows xshell。Mac成功连接vps后剩下的操作和windows一样。
 
@@ -119,23 +118,23 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 下载windows xshell软件并安装后，打开软件
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell11.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell11.png)
 
 选择文件，新建
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell12.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell12.png)
 
 随便取个名字，然后把你的服务器ip填上
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell13.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell13.png)
 
 连接国外ip即服务器时，软件会先后提醒你输入用户名和密码，用户名默认都是root，密码是你购买的服务器系统的密码。
 
 **如果xshell连不上服务器，没有弹出让你输入用户名和密码的输入框，表明你开到的ip是一个被墙的ip，遇到这种情况，重新开新的服务器，直到能用xshell连上为止，耐心点哦！如果同一个地区开了多台服务器还是不行的话，可以换其它地区。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/xshell14.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/xshell14.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/xshell2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/xshell2.png)
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
@@ -166,53 +165,53 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian4.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian5.png)
 
 如上图，输入快捷管理命令v2ray后，开始进行v2ray服务端配置。以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：v2ray
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian7.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian7.png)
 
 如上图，输入数字2进行更改配置，共有6个子选项，包括：更改UUID、更改主端口、更改加密方式、更改传输方式、更改TLS设置（有域名才行）、更改广告拦截功能。（更改TLS设置和更改广告拦截功能不用设置）
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian8.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian8.png)
 
 如上图，输入数字1来更改新的UUID号，弹出提示后，输入字母y来确认。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian9.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian9.png)
 
 修改UUID号，界面会回到v2ray主界面，重新输入2进入更改配置选项，在输入数字2来更改主端口，主端口范围40～65535，理论上可以任意设置，但不要以0开头！
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian10.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian10.png)
 
 重新进入更改配置选项，输入数字3来更改加密方式，加密方式有4种，最后1种为不加密。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian11.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian11.png)
 
 **接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
 
 **注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。(在教程的最后“常见问题参考解决方法”里面增加了专门部署ws+tls的脚本)**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian12.png)
+![](https://raw.githubusercontent.com/Alvin9999/PAC/ss/Debian12.png)
 
 进行了更改配置的设置后，输入数字3可以查看自己设置的v2ray信息。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian13.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian13.png)
 
 **最后一步很关键，那就是启动服务，进入主界面后，输入数字1，然后输入1启动v2ray服务。以后，每次你更改配置或重启vps服务器后都要进行启动服务，请牢记！**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian14.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian14.png)
 
 采用xshell软件，可以很方便的将配置文件导出，方便配置windows v2ray客户端。选择数字4，出现提示后，输入字母y，选择电脑路径即可。
 
 > 如果你没有用xshell软件，那么无法使用脚本的文件导出功能。vps服务器里面的config.json配置文件存放路径为 /etc/v2ray/config.json MAC电脑用户可以用WinSCP MAC版连接vps服务器，然后根据路径把config.json文件复制出来。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian15.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian15.png)
 
 **下面这个config.json文件就是我们刚刚配置的v2ray文件，如果以后更改了v2ray服务端信息，那么你需要重新导出config.json文件。**
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian16.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian16.png)
 
 **因为一键搭建v2ray脚本是一个循环脚本，当你配置结束后不会自动退出快捷管理命令，如果你想退出界面进行其它操作，可以同时按下键盘上的ctrl键和字母z键。**
 
@@ -246,25 +245,25 @@ chmod +x bbr.sh
 
 复制并粘贴代码后，按回车键确认
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/18.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/18.png)
 
 如下图提示，按任意键继续部署
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/19.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/19.png)
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian19.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian19.png)
 
 整个部署过程需要2～5分钟，最后输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
 
 服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/tcp_bbr.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/tcp_bbr.PNG)
 
 **注意**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装v2ray脚本。或者换锐速加速。
 
 重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/demo/reinstall.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/reinstall.png)
 
 重装过程一般需要5～10分钟。
 
@@ -282,11 +281,11 @@ wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
 
 ***
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs1.PNG)
 
 不动的时候敲回车键，在上图时需要多等一会儿。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/rs2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs2.PNG)
 
 出现上图时表示已成功替换内核并服务器自动重启。
 
@@ -314,13 +313,13 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F2.PNG)
 
 提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
 
 锐速安装成功标志如下：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/%E9%94%90%E9%80%9F3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F3.png)
 
 出现running字样即可!
 
@@ -343,11 +342,11 @@ iOS客户端:kitsunebi或Kitsunebi Lite [iOS注册美区Apple ID教程](https://
 
 以v2ray windows版为例：
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian17.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian17.png)
 
 下载windows版客户端后解压出来，然后替换config.json配置文件。
 
-![](https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/Debian18.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian18.png)
 
 运行上图中的v2ray.exe启动软件，浏览器代理设置成Socks(5) 127.0.0.1 和1080 即可通过v2ray代理上网。
 
