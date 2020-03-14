@@ -7,7 +7,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>前言</strong>：注册美区id， 注册成功后你可以下载很多的翻墙app， 一劳永逸 ， 虽然需要花费一些时间和精力来注册，但很值得。</p>
+<p><strong>前言</strong>：注册美区id成功后你可以下载很多的翻墙app， 一劳永逸 ， 虽然需要花费一些时间和精力来注册，但很值得。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
