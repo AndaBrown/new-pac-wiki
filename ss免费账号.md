@@ -46,7 +46,7 @@ VPS推荐：
 
 ***
 
-![](https://raw.githubusercontent.com/Alvin9999/pac2/master/ssimage/ss2020.3.14.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/ssimage/ss2020.3.14.PNG)
 
 ***
 
