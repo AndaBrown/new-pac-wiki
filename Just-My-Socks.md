@@ -80,7 +80,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <strong>我该选择哪一款Just My Socks？</strong>一般来说，如果只是谷歌查资料，直接选择最便宜的方案就行，如果你爱看视频，并且非常频繁，那么就选择500或者1000的，需要注意的是<span style="color: #ff0000;">便宜方案都有设备限制</span>，如果你想多个人一起用，那么建议选择1000的，不限制设备数量。
 </p>
 <p class="keepp">
-选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击Continue继续：
+选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，点击Continue继续：
 <br class="keepp">
 Just My Socks 官网：<a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>
 </p>
