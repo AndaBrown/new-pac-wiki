@@ -6,7 +6,7 @@
  	<li><a href="#user-content-just3">Just My Socks优惠码</a></li>
  	<li><a href="#user-content-just4">Just My Socks注册</a></li>
  	<li><a href="#user-content-just5">Just My Socks信息查看</a></li>
- 	<li><a href="#user-content-just6">Just My Socks怎么用</a></li>
+ 	<li><a href="#user-content-just6">Just My Socks怎么用(增加obfs=tls使用方法)</a></li>
 </ol>
 <p class="keepp">
 Just My Socks是目前非常火热的一个Shadowsocks服务商（机场），由搬瓦工官方推出，每个服务提供5条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
@@ -114,5 +114,25 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks2.net/members/
 <p class="keepp">
 
 注意：aes-256-gcm 加密方式必须使用 SS 客户端，一般SSR客户端都不支持aes-256-gcm。
+
+**第三个和第四个帐号的“obfs=tls”如何使用呢？**
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs.jpg)
+
+这两个帐号与另外3个不同，多了obfs插件选项，可以在 [obfs官网](https://github.com/shadowsocks/simple-obfs/releases)上下载obfs-local.zip，然后把它放在ss客户端同一目录下（3个文件），如下图：
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs2.jpg)
+
+你也可以直接下载打包好的ss和obfs客户端压缩包，[网盘下载1](http://www.freedown9.com/html/ss/windows-shadowsocks-4.1.6.zip) [网盘下载2](http://tr1.freedown9.com/ss/windows-shadowsocks-4.1.6.zip)
+
+下载后解压即可。
+
+接着，打开ss客户端，在插件程序那里填上obfs-local 插件选项那里填上obfs=tls，如下图
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs3.jpg)
+
+帐号的其它信息自己补上。
+
+同理，iOS和安卓要想使用帐号3和帐号4，也需要支持obfs协议的客户端才行，混淆参数设置为：obfs=tls
 
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
