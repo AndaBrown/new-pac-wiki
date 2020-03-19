@@ -370,7 +370,7 @@ iOS：[没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/
 
 **有了账号后，打开SSR客户端，填上信息，这里以windows版的SSR客户端为例子**：
 
-![]https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/42.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/42.PNG)
 
 在对应的位置，填上服务器ip、服务器端口、密码、加密方式、协议和混淆，最后将浏览器的代理设置为（http）127.0.0.1和1080即可。账号的端口号就是你自己设置的，而要上网的浏览器的端口号是1080，固定的，谷歌浏览器可以通过 SwitchyOmega 插件来设置。
 
