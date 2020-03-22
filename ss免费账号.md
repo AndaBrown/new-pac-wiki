@@ -48,6 +48,8 @@ VPS推荐：
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/ssimage/ss2020.3.22.PNG)
 
+帐号可以分享给朋友使用，如果是网站转载请注明出处。
+
 ***
 
 
