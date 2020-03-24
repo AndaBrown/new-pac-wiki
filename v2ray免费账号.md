@@ -54,7 +54,7 @@ VPS推荐：
 
 **账号2**:
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray7.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray8.PNG)
 
 可复制的参数：UUID（用户id）: 8c072383-ad46-4045-91bf-64885c3e8967
 
