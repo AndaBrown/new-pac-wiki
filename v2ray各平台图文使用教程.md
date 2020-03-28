@@ -52,6 +52,8 @@
 
 **4、安卓系统的图文使用方法**
 
+[v2ray vpn](http://173.0.55.66/html/smallsoftware/v2ray.vpn-universal-release.apk) (内置v2ray账号)
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/az1.png)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/az2.png)
