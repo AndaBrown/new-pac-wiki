@@ -79,7 +79,8 @@ Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-c
 
 Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
 
-安卓客户端[v2ray vpn](http://173.0.55.66/html/smallsoftware/v2ray.vpn-universal-release.apk)
+安卓客户端v2ray vpn:[下载1](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
+[下载2](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
 
 iOS客户端kitsunebi或Kitsunebi Lite [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
 
