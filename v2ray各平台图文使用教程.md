@@ -52,7 +52,7 @@
 
 **4、安卓系统的图文使用方法**
 
-[v2ray vpn][下载1](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
+v2ray vpn:[下载1](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
 [下载2](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk)  (内置v2ray账号)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/az1.png)
