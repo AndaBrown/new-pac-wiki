@@ -18,7 +18,7 @@
 <p><strong>美国人信息生成器</strong>：<a href="http://www.shenfendaquan.com/" target="_blank" rel="noreferrer noopener" aria-label="http://www.shenfendaquan.com/（在新窗口打开）">http://www.shenfendaquan.com/</a></p>
 <!-- /wp:paragraph -->
 
-[视频教程](https://www.youtube.com/watch?v=nmdd-MFEu6k)（YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Us-Apple-ID-registration-method.mp4)） 
+[视频教程](https://www.youtube.com/watch?v=nmdd-MFEu6k)（YouTube或[本地观看&下载](http://www.freedown8.club/html/video/Us-Apple-ID-registration-method.mp4)） 
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
