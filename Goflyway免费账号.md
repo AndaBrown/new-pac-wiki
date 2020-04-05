@@ -43,15 +43,15 @@ VPS推荐：
 
 ***
 
-**北京时间2020年3月9日21点30分更新。即日起采取图片的形式分享账号，避免被爬虫抓取。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年4月5日9点05分更新。即日起采取图片的形式分享账号，避免被爬虫抓取。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 **如果你无法查看图片，请用这个网址https://t1.free-air.org/Goflyway免费账号**
 
 ***
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/goflywayimage/goflyway1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/goflywayimage/goflyway2.PNG)
 
-密码：?ctr2.free5555.site:8880
+可复制信息：密码：?ctr3.free5555.site:8880
 
 ***
 
