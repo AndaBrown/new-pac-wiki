@@ -34,7 +34,7 @@
 
 ***
 
-[谷歌浏览器81高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年4月9日更新AllNew全新版；2020年3月18日发布Astar版）
+[谷歌浏览器81高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年4月9日更新AllNew全新版及其它版本；2020年3月18日发布Astar版）
 
 [谷歌浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年3月12日更新AllNew全新版，v2ray支持xp系统）
 
