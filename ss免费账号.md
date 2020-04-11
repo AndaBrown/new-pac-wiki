@@ -45,14 +45,30 @@ VPS推荐：
 
 ***
 
-账号1：162.245.239.68 端口：777 密码： ntdtv.com
+账号1：162.245.239.68
+ 
+端口：777 
 
-加密方式：RC4 协议：origin 混淆：plain
+密码： ntdtv.com
+
+加密方式：RC4 
+
+协议：origin 
+
+混淆：plain
 
 
-账号2：45.89.230.99 端口：55555 密码： dongtaiwang.com
+账号2：45.89.230.99 
 
-加密方式： RC4 协议：origin 混淆：plain
+端口：55555 
+
+密码： dongtaiwang.com
+
+加密方式： RC4 
+
+协议：origin 
+
+混淆：plain
 
 ***
 
