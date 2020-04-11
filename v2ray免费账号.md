@@ -38,36 +38,74 @@ VPS推荐：
 
 ***
 
-**北京时间2020年3月24日9点16分更新账号2的UUID。 即日起采取图片的形式分享账号，避免被爬虫抓取。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
-
-**如果你无法查看图片，请用这个网址https://blog.freeair999.club/v2ray免费账号**
+**北京时间2020年3月24日9点16分更新账号2的UUID。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 ***
 
-**账号1**:
+** 账号1**:                                                        
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray3.PNG)
+ Address(地址): tr3.free9999.net
 
-可复制的参数：UUID（用户id）: 4d0e5248-015c-494e-92e5-38cb6be611e7
+ Port（端口）: 443
 
-路径（不要落下/）：/df40c300/
+ UUID（用户id）: 4d0e5248-015c-494e-92e5-38cb6be611e7
 
-**账号2**:
+ alterId（额外ID）: 2
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray8.PNG)
+ security（加密方式）: auto
 
-可复制的参数：UUID（用户id）: 8c072383-ad46-4045-91bf-64885c3e8967
+ network（传输协议）: ws
 
-路径（不要落下/）：/dbae47c3/
+ headerType（伪装类型）: none
 
-**账号3**:
+ 路径（不要落下/）： /df40c300/
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2rayimage/v2ray5.PNG)
+ 底层传输安全： tls 
+ 
+------
+ 
+** 账号2**:
 
-可复制的参数：UUID（用户id）: c94b0262-a272-4e0c-bfd7-292e7f327943
+ Address(地址): tr6.free6666.net 
 
-路径（不要落下/）：/c3e707df/ 
+ Port（端口）: 443
 
+ UUID（用户id）: 8c072383-ad46-4045-91bf-64885c3e8967
+
+ alterId（额外ID）: 2
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 路径（不要落下/）： /dbae47c3/
+
+ 底层传输安全： tls 
+
+------
+
+** 账号3**:
+
+ Address(地址): tr8.free6666.net 
+
+ Port（端口）: 443
+
+ UUID（用户id）: c94b0262-a272-4e0c-bfd7-292e7f327943
+
+ alterId（额外ID）: 2
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 路径（不要落下/）： /c3e707df/
+
+ 底层传输安全： tls 
+ 
 ***
 
 
