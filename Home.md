@@ -36,9 +36,9 @@
 
 [谷歌浏览器81高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年4月9日更新AllNew全新版及其它版本；2020年3月18日发布Astar版）
 
-[谷歌浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年3月12日更新AllNew全新版，v2ray支持xp系统）
+[谷歌浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年4月11日更新AllNew全新版及其它版本；2020年3月12日更新AllNew全新版，v2ray支持xp系统）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年3月12日更新AllNew全新版，v2ray支持xp系统）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年4月11日更新AllNew全新版及其它版本；2020年3月12日更新AllNew全新版，v2ray支持xp系统）
 
 [iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年2月20日更新没有美区AppleID的翻墙教程）
 
