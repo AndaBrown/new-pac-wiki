@@ -43,17 +43,31 @@ VPS推荐：
 
 ***
 
-**北京时间2020年4月5日22点17分更新。即日起采取图片的形式分享账号，避免被爬虫抓取。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
-
-**如果你无法查看图片，请用这个网址https://t1.free-air.org/Goflyway免费账号**
+**北京时间2020年4月5日22点17分更新。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 ***
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/goflywayimage/goflyway2.PNG)
+**Goflyway账号1**:
 
-可复制信息：密码：?ctr3.free5555.site:8880
+服务器地址：tr3.free5555.site
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/goflywayimage/goflyway3.PNG)
+端口：8880
+
+密码：?ctr3.free5555.site:8880
+
+客户端协议：CDN（HTTP协议）
+
+------
+
+**Goflyway账号2**:
+
+服务器地址：tr4.free5555.site
+
+端口：8880
+
+密码：dongtaiwang.com
+
+客户端协议：CDN（HTTP协议）
 
 ***
 
