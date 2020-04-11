@@ -44,7 +44,7 @@ VPS推荐：
 
 **账号1**:                                                        
 
- Address(地址): tr3.free9999.net
+ Address(地址): tr3.free6666.net
 
  Port（端口）: 443
 
