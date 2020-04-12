@@ -30,13 +30,15 @@ VPS推荐：
 
 免费账号用的人多，所以有速度限制，如果想高速翻墙上网、学习翻墙技能，可以按照上面的教程自己搭建服务器。单个用户限速150～200kb/s。
 
+**纪录片推荐**：[《解密中共病毒的起源》](http://209.250.226.242:10000/videos/corona/OriginOfCcpVirus.html) (首部探究中共病毒疫情真相的紀錄片）
+
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [公子沈](https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q/videos) [神韵](https://www.youtube.com/channel/UC_z8ERuOLTrlAaopY0gxzsA)
 
 **文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://www.freedown9.com/html/book/lbw.pdf)）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://www.freedown9.com/html/book/lunwy.pdf)）
 
-[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Reflection_on_the_epidemic_situation_and_the_way_of_refuge.mp4)）[切尔诺贝利核泄漏](https://www.youtube.com/watch?v=nfGt6ugUgpo) （YouTube或[本地观看&下载](http://www.freedown9.com/html/video/Chernobyl_nuclear_leak.mp4)）
+[一个修行人对疫情的反思和避难之道](http://209.250.226.242:10000/videos/corona/t02.html) [切尔诺贝利核泄漏](http://209.250.226.242:10000/videos/res/disaster/e335.html) 
 
 ***
 
