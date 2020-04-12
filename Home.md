@@ -14,13 +14,15 @@
 
 **选择指南**：Goflyway、XX-Net、v2ray、DAZE、SSR、Brook、Lightsocks、Trojan、SSROT、Astar、SkyZip、无界、自由门可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。还有[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93)可供选择，电脑、手机、平板都能使用。如果想自己搭建翻墙服务器，可以学习自建服务器教程（图文教程，步骤详细，适合新手）。
 
+**纪录片推荐**：[《解密中共病毒的起源》（首部探究中共病毒疫情真相的紀錄片）](http://209.250.226.242:10000/videos/corona/OriginOfCcpVirus.html) [《红龙之爪》（抓捕孟晚舟事件改编，总统前顾问班农监制）](http://209.250.226.242:10000/videos/news/ClawsOftheRedDragon.html)
+
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
 [石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [公子沈](https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q/videos) [神韵](https://www.youtube.com/channel/UC_z8ERuOLTrlAaopY0gxzsA)
 
 **文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://www.freedown8.club/html/book/lbw.pdf)）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://www.freedown8.club/html/book/lunwy.pdf)）
 
-[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=8s) （YouTube或[本地观看&下载](http://www.freedown8.club/html/video/Reflection_on_the_epidemic_situation_and_the_way_of_refuge.mp4)）[切尔诺贝利核泄漏](https://www.youtube.com/watch?v=nfGt6ugUgpo) （YouTube或[本地观看&下载](http://www.freedown8.club/html/video/Chernobyl_nuclear_leak.mp4)）
+[一个修行人对疫情的反思和避难之道](http://209.250.226.242:10000/videos/corona/t02.html) [切尔诺贝利核泄漏](http://209.250.226.242:10000/videos/res/disaster/e335.html) 
 
 ***
 
