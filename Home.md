@@ -22,7 +22,7 @@
 
 **文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://173.0.55.66/html/book/lbw.pdf)）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://173.0.55.66/html/book/lunwy.pdf)）
 
-[一个修行人对疫情的反思和避难之道](http://209.250.226.242:10000/videos/corona/t02.html) [切尔诺贝利核泄漏](http://209.250.226.242:10000/videos/res/disaster/e335.html) 
+[一个修行人对疫情的反思和避难之道](https://www.youtube.com/watch?v=KzSvhOHPxB4&t=20s) [切尔诺贝利核泄漏（比核辐射更有杀伤力的竟然是谎言）](https://www.youtube.com/watch?v=nfGt6ugUgpo&t=4s) 
 
 ***
 
