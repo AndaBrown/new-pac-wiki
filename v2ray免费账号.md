@@ -28,7 +28,7 @@ VPS推荐：
 
 ### 免费v2ray节点列表（长期更新）
 
-**纪录片推荐**：《解密中共病毒的起源》 (首部探究中共病毒疫情真相的紀錄片）[YouTube英文版](https://www.youtube.com/watch?v=3bXWGxhd7ic) [中文字幕版1](https://www.youtube.com/watch?v=EIOPHnWFE40) [中文字幕版2](https://www.ntdtv.com/gb/2020/04/11/a102821093.html)
+**纪录片推荐**：《解密武汉肺炎的起源》 (首部探究武汉肺炎疫情真相的紀錄片）[YouTube英文版](https://www.youtube.com/watch?v=3bXWGxhd7ic) [中文字幕版1](https://www.youtube.com/watch?v=EIOPHnWFE40) [中文字幕版2](https://www.ntdtv.com/gb/2020/04/11/a102821093.html)
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
