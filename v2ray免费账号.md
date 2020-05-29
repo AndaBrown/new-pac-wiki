@@ -38,7 +38,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年3月24日9点16分更新账号2的UUID。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年5月29日21点32分更新账号1。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 备用网址：https://blog.freeair999.club/v2ray免费账号
 
@@ -46,67 +46,24 @@ VPS推荐：
 
 **账号1**:                                                        
 
- Address(地址): tr3.free6666.net
+ Address(地址): 51.158.145.156
 
- Port（端口）: 443
+ Port（端口）: 12345
 
- UUID（用户id）: 4d0e5248-015c-494e-92e5-38cb6be611e7
-
- alterId（额外ID）: 2
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 路径（不要落下/）： /df40c300/
-
- 底层传输安全： tls 
- 
-------
- 
-**账号2**:
-
- Address(地址): tr6.free6666.net 
-
- Port（端口）: 443
-
- UUID（用户id）: 8c072383-ad46-4045-91bf-64885c3e8967
+ UUID（用户id）: f43af1e8-7386-4709-bdf6-55db215a1ab7
 
  alterId（额外ID）: 2
 
- security（加密方式）: auto
+ security（加密方式）: none
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
- headerType（伪装类型）: none
+ headerType（伪装类型）: 
 
- 路径（不要落下/）： /dbae47c3/
+ 路径（不要落下/）： 
 
- 底层传输安全： tls 
+ 底层传输安全：
 
-------
-
-**账号3**:
-
- Address(地址): tr8.free6666.net 
-
- Port（端口）: 443
-
- UUID（用户id）: c94b0262-a272-4e0c-bfd7-292e7f327943
-
- alterId（额外ID）: 2
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 路径（不要落下/）： /c3e707df/
-
- 底层传输安全： tls 
  
 ***
 
