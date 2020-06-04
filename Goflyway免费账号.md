@@ -50,7 +50,7 @@ VPS推荐：
 
 ***
 
-**Goflyway账号1**:
+**Goflyway账号**:
 
 服务器地址：tr30.free5555.xyz
 
