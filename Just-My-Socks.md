@@ -51,7 +51,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>100 GB /月</td>
 <td>$2.88 / 月</td>
 <td>最多3个设备同时在线(当前断货)</td>
-<td><a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&pid=1">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=1">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 500</td>
@@ -59,7 +59,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
 <td>最多5个设备同时在线</td>
-<td><a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&pid=2">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=2">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 1000</td>
@@ -67,7 +67,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&pid=3">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=3">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 5000</td>
@@ -75,7 +75,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&pid=4">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=4">立即购买</a></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <p class="keepp">
 选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，点击Continue继续：
 <br class="keepp">
-Just My Socks 官网：<a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>
+Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>
 </p>
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-1.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-1.png" alt="Just My Socks 购买教程" /></a>
 <h2 id="user-content-just3"><span id="just_my_socks-3">三、Just My Socks优惠码</span></h2>
@@ -104,7 +104,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks2.net/members/
 </p>
 <h2 id="user-content-just5"><span id="just_my_socks-5">五、Just My Socks信息查看</span></h2>
 <p class="keepp">
-完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks2.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>，选择Services-&gt;My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
+完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>，选择Services-&gt;My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 </p>
