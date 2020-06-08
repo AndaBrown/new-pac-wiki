@@ -38,7 +38,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年6月8日20点29分更新账号1。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年6月8日21点57分更新。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 备用网址：https://blog.freeair999.club/v2ray免费账号
 
@@ -63,6 +63,32 @@ VPS推荐：
  路径： 不填
 
  底层传输安全：不填
+
+---
+
+**账号2**:                                                        
+
+ Address(地址): britagood.ml
+
+ Port（端口）:443
+
+ UUID（用户id）: c7a33cfa-a760-11ea-a8f9-560002cfeee4
+
+ alterId（额外ID）:46
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ requestHost: britagood.ml
+
+ 路径： /k4FJUjdM/
+
+ 底层传输安全：tls
+
+ allowInsecure: false
 
 
 ***
