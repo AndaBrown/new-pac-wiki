@@ -64,33 +64,6 @@ VPS推荐：
 
  底层传输安全：不填
 
----
-
-**账号2**:                                                        
-
- Address(地址): britagood.ml
-
- Port（端口）:443
-
- UUID（用户id）: c7a33cfa-a760-11ea-a8f9-560002cfeee4
-
- alterId（额外ID）:46
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- requestHost: britagood.ml
-
- 路径： /k4FJUjdM/
-
- 底层传输安全：tls
-
- allowInsecure: false
-
-
 ***
 
 
