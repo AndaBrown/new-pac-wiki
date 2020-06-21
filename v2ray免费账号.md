@@ -38,7 +38,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年6月18日16点35分增加账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年6月21日12点19分更新账号2和3，提高速度。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 备用网址：https://blog.freeair999.club/v2ray免费账号
 
@@ -72,9 +72,9 @@ VPS推荐：
 
  Port（端口）:443
 
- UUID（用户id）: 11b35ccd-4cb0-4681-89fe-18bb2e791757
+ UUID（用户id）: 8feb4b66-75f8-4c20-b1ae-eda8c35a2ddc
 
- alterId（额外ID）: 2
+ alterId（额外ID）: 16
 
  security（加密方式）: auto
 
@@ -82,9 +82,9 @@ VPS推荐：
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr4.free9999.net
+ 伪装域名（host）：不填
 
- 路径： /bce8ada760e/
+ 路径： /ray
 
  底层传输安全：tls
 
@@ -94,19 +94,19 @@ VPS推荐：
 
  Port（端口）:443
 
- UUID（用户id）: aa939e70-fe85-403c-a009-f96a7043eaa6
+ UUID（用户id）: f365edab-67e3-40ab-ac33-ed1d7a0d81ce
 
- alterId（额外ID）: 2
+ alterId（额外ID）: 16
 
  security（加密方式）: auto
 
  network（传输协议）: ws
 
- headerType（伪装类型）: 不填
+ headerType（伪装类型）: none
 
- 伪装域名（host）：tr6.free9999.net
+ 伪装域名（host）：不填
 
- 路径： /020d9ffb54ed/
+ 路径： /ray
 
  底层传输安全：tls
 
