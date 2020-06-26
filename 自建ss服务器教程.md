@@ -130,7 +130,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
 
-**CentOS 6和7/Debian6+/Ubuntu14+ ShadowsocksR一键部署管理脚本（2018.11.21更新）：**
+**CentOS 6和7/Debian6+/Ubuntu14+ ShadowsocksR一键部署管理脚本：**
 
 **脚本一**
 
