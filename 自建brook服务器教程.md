@@ -1,6 +1,6 @@
 **2020年2月12日更新。**
 
-**如果无法查看图片，可以访问https://t1.freeair999.club/自建brook服务器教程**
+**如果无法查看图片，可以访问https://tr1.freeair999.club/自建brook服务器教程**
 
 ***
 
