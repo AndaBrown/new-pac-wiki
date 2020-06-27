@@ -353,6 +353,8 @@ chmod +x bbr.sh
 
 Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
 
+Windows SS客户端 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases) 
+
 Mac SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
 
 [Linux客户端一键安装配置使用脚本](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr) (使用方法见注释)
