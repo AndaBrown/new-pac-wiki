@@ -24,7 +24,7 @@
 
 ***
 
-**备用网址：https://tr1.freeair999.club**
+**备用网址：https://tr1.freeair999.club (6月27日更新)**
 
 ***
 
