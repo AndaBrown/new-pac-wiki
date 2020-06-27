@@ -1,5 +1,7 @@
 **2019年10月2日更新。**
 
+[点我获取更多免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 
+
 **1、windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法**
 
 第一步按照地址下载v2ray客户端，然后解压缩后打开应用：
