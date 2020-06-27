@@ -132,7 +132,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **CentOS 6和7/Debian6+/Ubuntu14+ ShadowsocksR/Shadowsocks一键部署管理脚本：**
 
-**脚本一(SSR)**
+**脚本一(SSR)，安装完成后，快捷管理命令：bash ssr.sh**
 
 ***
 
@@ -144,7 +144,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 **脚本二（SS）**
 
-**脚本二没有单独做图文教程，参考脚本一的图文说明摸索下就会了。快捷管理命令：./ss-go.sh**
+**脚本二没有单独做图文教程，参考脚本一的图文说明摸索下就会了。安装完成后，快捷管理命令：bash ss-go.sh**
 
 ***
 
