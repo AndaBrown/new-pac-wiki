@@ -87,6 +87,8 @@ IP：45.136.245.89
 
 Windows SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases) 
 
+Windows SS客户端 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases) 
+
 Mac SSR客户端 [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
 
 Linux 客户端 [下载地址](http://www.mediafire.com/folder/xag0zy318a5tt/Linux) 
