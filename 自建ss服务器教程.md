@@ -1,4 +1,4 @@
-**2020年2月20日更新常见问题及解决方法。**
+**2020年6月27日增加一键搭建SS脚本。**
 
 **如果无法查看图片，可以访问https://blog.freeair999.club/自建ss服务器教程**
 
@@ -132,7 +132,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **CentOS 6和7/Debian6+/Ubuntu14+ ShadowsocksR一键部署管理脚本：**
 
-**脚本一**
+**SSR脚本一**
 
 ***
 
@@ -142,19 +142,15 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 
 ***
 
-**备用脚本二**
+**SS脚本二**
 
-**如果上面的脚本暂时用不了，可以用下面的备用脚本，备用脚本没有单独做图文教程，自己摸索下就会了。备用脚本卸载命令：./shadowsocksR.sh uninstall**
+**脚本二没有单独做图文教程，参考脚本一的图文说明摸索下就会了。快捷管理命令：./ss-go.sh**
 
 ***
 
 yum -y install wget
 
-wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
-
-chmod +x shadowsocksR.sh
-
-./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
 
 ***
 
