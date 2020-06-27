@@ -24,7 +24,7 @@
 
 ***
 
-**备用网址：https://blog.freeair999.club**
+**备用网址：https://t1.freeair999.club**
 
 ***
 
