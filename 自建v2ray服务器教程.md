@@ -332,7 +332,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 【v2ray客户端下载】
 
-**2019年12月11日更新。**
 
 [v2ray各平台客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
