@@ -37,7 +37,7 @@ VPS推荐：
 **文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://tr1.freedown7.club/html/book/lbw.pdf)）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://tr1.freedown7.club/html/book/lunwy.pdf)）
 
 
-[切尔诺贝利核泄漏（比核辐射更有杀伤力的竟然是谎言）](https://www.youtube.com/watch?v=nfGt6ugUgpo&t=4s) （YouTube或本地[在线观看&下载](http://tr1.freedown7.club/html/video/Chernobyl_nuclear_leak.mp4)）
+[切尔诺贝利核泄漏（比核辐射更有杀伤力的竟然是谎言）](https://www.youtube.com/watch?v=nfGt6ugUgpo&t=4s) （YouTube或本地[在线观看&下载](http://tr1.freedown7.club/html/video/Chernobyl_nuclear_leak.mp4)） [预言铁口，句句惊心，2020下半年是否更可怕？疫情是否有第二波？](https://www.youtube.com/watch?v=xk0s2XTfrVQ) （YouTube）
 
 ***
 
