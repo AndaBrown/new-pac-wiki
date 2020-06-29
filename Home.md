@@ -24,6 +24,8 @@
 
 [预言铁口，句句惊心，2020下半年是否更可怕？疫情是否有第二波？](https://www.youtube.com/watch?v=xk0s2XTfrVQ) （YouTube）
 
+[尚未实现的2020年预言（一）](https://www.youtube.com/watch?v=dSFyJvQPKmQ) （YouTube）
+
 ***
 
 **备用网址：https://tr1.freeair999.club (6月27日更换网址)**
