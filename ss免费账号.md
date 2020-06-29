@@ -41,6 +41,8 @@ VPS推荐：
 
 [预言铁口，句句惊心，2020下半年是否更可怕？疫情是否有第二波？](https://www.youtube.com/watch?v=xk0s2XTfrVQ) （YouTube）
 
+[尚未实现的2020年预言（一）](https://www.youtube.com/watch?v=dSFyJvQPKmQ) （YouTube）
+
 ***
 
 **提醒：本页面地址已被国产浏览器屏蔽，请用谷歌或火狐浏览器打开。**
