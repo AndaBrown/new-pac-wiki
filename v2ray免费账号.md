@@ -38,6 +38,8 @@ VPS推荐：
 
 [预言铁口，句句惊心，2020下半年是否更可怕？疫情是否有第二波？](https://www.youtube.com/watch?v=xk0s2XTfrVQ) （YouTube）
 
+[尚未实现的2020年预言（一）](https://www.youtube.com/watch?v=dSFyJvQPKmQ) （YouTube）
+
 ***
 
 **北京时间2020年6月22日12点02分更新账号1。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
