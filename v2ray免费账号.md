@@ -92,27 +92,6 @@ VPS推荐：
 
  底层传输安全：tls
 
-**账号3**:                                                        
-
- Address(地址): tr6.free9999.net
-
- Port（端口）:443
-
- UUID（用户id）: f365edab-67e3-40ab-ac33-ed1d7a0d81ce
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： /ray
-
- 底层传输安全：tls
 
 ***
 
