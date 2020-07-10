@@ -39,10 +39,7 @@ VPS推荐：
 
 [切尔诺贝利核泄漏（比核辐射更有杀伤力的竟然是谎言）](https://www.youtube.com/watch?v=nfGt6ugUgpo&t=4s) （YouTube或本地[在线观看&下载](http://tr1.freedown7.club/html/video/Chernobyl_nuclear_leak.mp4)） 
 
-[预言铁口，句句惊心，2020下半年是否更可怕？疫情是否有第二波？](https://www.youtube.com/watch?v=xk0s2XTfrVQ) （YouTube）
-
-[尚未实现的2020年预言（一）](https://www.youtube.com/watch?v=dSFyJvQPKmQ) （YouTube）
-
+[2020异象频频，背后预示着什么？](https://www.youtube.com/watch?v=0WumB9GRHh8) （YouTube）
 
 ***
 
