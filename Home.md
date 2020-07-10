@@ -16,7 +16,7 @@
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos) 
 [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos)  [萧茗看世界](https://www.youtube.com/channel/UC6HcLCrHusY7qLwsWGzfXnw) 
-[石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [公子沈](https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q/videos) [老北京茶馆](https://www.youtube.com/channel/UCpj_AT6Bt1_VT038hmfFGSQ/videos) [脑洞黑洞](https://www.youtube.com/channel/UCVvjAQtFnRMVlrXGoRz3H6A/videos) [老高与小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/videos) [神韵](https://www.youtube.com/channel/UC_z8ERuOLTrlAaopY0gxzsA)
+[石濤TV–聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [陈破空纵论天下](https://www.youtube.com/channel/UCwb7avxK-L5vPjMC1ZIGayw/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [财经冷眼](https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA/videos) [公子沈](https://www.youtube.com/channel/UCrGSFNEBmCN0rqhATZels2Q/videos) [老北京茶馆](https://www.youtube.com/channel/UCpj_AT6Bt1_VT038hmfFGSQ/videos) [脑洞黑洞](https://www.youtube.com/channel/UCVvjAQtFnRMVlrXGoRz3H6A/videos)  [神韵](https://www.youtube.com/channel/UC_z8ERuOLTrlAaopY0gxzsA)
 
 **文章及视频推荐**：[《刘伯温碑记》预言避开武汉肺炎的妙招](https://www.bannedbook.org/bnews/comments/20200207/1272816.html) （禁闻网或pdf[在线观看&下载](http://tr1.freedown7.club/html/book/lbw.pdf)）[揭秘：武汉肺炎会过去，但更大更猛烈的瘟疫会再来](https://www.bannedbook.org/bnews/comments/20200211/1275071.html)（禁闻网或pdf[在线观看&下载](http://tr1.freedown7.club/html/book/lunwy.pdf)）
 
@@ -73,8 +73,6 @@
 [路由器翻墙](https://github.com/Alvin9999/new-pac/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BF%BB%E5%A2%99) （2019年9月29日发布）
 
 [YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2020年2月29日更新）
-
-[实用网络小知识](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%BB%9C%E5%B0%8F%E7%9F%A5%E8%AF%86) （2018年4月26日更新）
 
 ***
 
