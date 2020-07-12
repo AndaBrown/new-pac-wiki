@@ -40,13 +40,13 @@ VPS推荐：
 
 ***
 
-**北京时间2020年6月22日12点02分更新账号1。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年7月13日0点29分更新账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 备用网址：https://tr1.freeair999.club/v2ray免费账号 (6月27日更换网址)
 
 ***
 
-**账号1**:                                                        
+**账号1（WebSocket+TLS+Caddy+CDN）**:                                                        
 
  Address(地址): tr2.free9999.net
 
@@ -68,13 +68,13 @@ VPS推荐：
 
  底层传输安全：tls
 
-**账号2**:                                                        
+**账号2（WebSocket+TLS+Caddy）**:                                                        
 
  Address(地址): tr4.free9999.net
 
  Port（端口）:443
 
- UUID（用户id）: 8feb4b66-75f8-4c20-b1ae-eda8c35a2ddc
+ UUID（用户id）: 4cda855f-c551-495a-9a0b-12b0e167043f
 
  alterId（额外ID）: 16
 
@@ -90,6 +90,49 @@ VPS推荐：
 
  底层传输安全：tls
 
+**账号3（HTTP/2+TLS）**:                                                        
+
+ Address(地址): tr6.free9999.net
+
+ Port（端口）:443
+
+ UUID（用户id）: 1c8b2de2-66e6-4f7b-8d6a-31884ff9bcc6
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: h2
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：tr6.free9999.net
+
+ 路径： /ray
+
+ 底层传输安全：tls
+
+**账号4（WebSocket）**:                                                        
+
+ Address(地址): 45.135.134.151
+
+ Port（端口）:13135
+
+ UUID（用户id）: de9b9b54-15db-416a-ad06-72d6d97065ba
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径： 不填
+
+ 底层传输安全：不填
 
 ***
 
