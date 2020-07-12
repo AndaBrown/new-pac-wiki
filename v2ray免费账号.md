@@ -74,7 +74,7 @@ VPS推荐：
 
  Port（端口）:443
 
- UUID（用户id）: 4d6fc496-2496-46b5-a1b2-51584397520b
+ UUID（用户id）: 0bd0248e-caf9-4a0e-9171-16a585efc0b8
 
  alterId（额外ID）: 16
 
