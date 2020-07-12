@@ -68,7 +68,7 @@ VPS推荐：
 
  底层传输安全：tls
 
-**账号2（WebSocket+TLS+Web+Caddy）**:                                                        
+**账号2（WebSocket+TLS+Caddy+CDN）**:                                                        
 
  Address(地址): tr8.free9999.net
 
