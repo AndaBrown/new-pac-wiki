@@ -70,7 +70,7 @@ VPS推荐：
 
 **账号2（WebSocket+TLS+Web+Caddy）**:                                                        
 
- Address(地址): tr4.free9999.net
+ Address(地址): tr8.free9999.net
 
  Port（端口）:443
 
