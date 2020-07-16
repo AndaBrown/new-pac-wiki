@@ -40,7 +40,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年7月13日8点51分更新账号3。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年7月16日11点18分增加vmess导入链接，方便使用。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (6月27日更换网址)
 
@@ -68,6 +68,8 @@ VPS推荐：
 
  底层传输安全：tls
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+
 **账号2（WebSocket+TLS+Caddy+CDN）**:                                                        
 
  Address(地址): tr8.free9999.net
@@ -89,6 +91,8 @@ VPS推荐：
  路径： /ray
 
  底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjBiZDAyNDhlLWNhZjktNGEwZS05MTcxLTE2YTU4NWVmYzBiOCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 **账号3（WebSocket+TLS）**:                                                        
 
@@ -112,6 +116,9 @@ VPS推荐：
 
  底层传输安全：tls
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICI0NS4xNDcuMjAwLjI1MCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMDlmMzM3ZC1mYjVmLTQwMGMtOTA5MS02ZjQ1MTdiMGRhYmIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
+
+
 **账号4（WebSocket）**:                                                        
 
  Address(地址): 45.135.134.151
@@ -133,6 +140,9 @@ VPS推荐：
  路径： 不填
 
  底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICI0NS4xMzUuMTM0LjE1MSIsDQogICJwb3J0IjogIjEzMTM1IiwNCiAgImlkIjogImRlOWI5YjU0LTE1ZGItNDE2YS1hZDA2LTcyZDZkOTcwNjViYSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+
 
 ***
 
