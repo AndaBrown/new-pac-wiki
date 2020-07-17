@@ -1,4 +1,4 @@
-**2019年10月2日更新。**
+**2020年7月17日更新iOS使用v2ray方法。**
 
 [点我获取更多免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 
 
@@ -48,8 +48,9 @@
 
 **3、iOS系统的图文使用方法**
 
-大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，自己申请要麻烦点。
+如果没有美区AppleID，可以使用Shadowrocket IPA文件，[iOS离线安装Shadowrocket iPA文件及v2ray使用方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)
 
+如果有美区AppleID，可以直接到app商店下载专门使用v2ray的Kitsunebi，使用方法如下
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray5.png)
 
 **4、安卓系统的图文使用方法**
