@@ -46,7 +46,31 @@ VPS推荐：
 
 ***
 
-**账号1（WebSocket+TLS+Web+Caddy+CDN）**:                                                        
+**账号1（WebSocket+TLS+Caddy+CDN）**:                                                        
+
+ Address(地址): tr8.free9999.net
+
+ Port（端口）:443
+
+ UUID（用户id）: 0bd0248e-caf9-4a0e-9171-16a585efc0b8
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径： /ray
+
+ 底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjBiZDAyNDhlLWNhZjktNGEwZS05MTcxLTE2YTU4NWVmYzBiOCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+
+**账号2（WebSocket+TLS+Web+Caddy+CDN）**:                                                        
 
  Address(地址): tr2.free9999.net
 
@@ -70,29 +94,6 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
-**账号2（WebSocket+TLS+Caddy+CDN）**:                                                        
-
- Address(地址): tr8.free9999.net
-
- Port（端口）:443
-
- UUID（用户id）: 0bd0248e-caf9-4a0e-9171-16a585efc0b8
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： /ray
-
- 底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjBiZDAyNDhlLWNhZjktNGEwZS05MTcxLTE2YTU4NWVmYzBiOCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 **账号3（WebSocket+TLS）**:                                                        
 
