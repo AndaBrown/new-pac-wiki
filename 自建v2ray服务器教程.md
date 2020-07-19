@@ -1,4 +1,4 @@
-**2020年7月17日更新iOS使用v2ray方法。**
+**2020年7月19日更新iOS使用v2ray方法。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建v2ray服务器教程**
 
@@ -335,7 +335,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 [v2ray各平台客户端下载地址](https://github.com/v2ray/v2ray-core/releases)
 
-iOS客户端：如果没有美区AppleID，可以使用Shadowrocket IPA文件，[iOS离线安装Shadowrocket iPA文件及v2ray使用方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) ；如果有美区AppleID，可以直接到app商店下载专门使用v2ray的Kitsunebi 
+iOS客户端：大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，[iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
 
 [v2ray 安卓客户端下载地址](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv) [v2rayNG下载地址](https://github.com/2dust/v2rayNG/releases)
 
