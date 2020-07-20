@@ -40,13 +40,13 @@ VPS推荐：
 
 ***
 
-**北京时间2020年7月16日11点18分增加vmess导入链接，方便使用。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
+**北京时间2020年7月20日8点24分更新账号3。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (6月27日更换网址)
 
 ***
 
-**账号1（WebSocket+TLS+Web+Caddy+CDN）**:                                                        
+**账号1（WebSocket+TLS+Caddy+CDN）**:                                                        
 
  Address(地址): tr2.free9999.net
 
@@ -96,13 +96,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjBiZDAyNDhlLWNhZjktNGEwZS05MTcxLTE2YTU4NWVmYzBiOCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号3（WebSocket+TLS）**:                                                        
+**账号3（WebSocket+TLS+Caddy+CDN）**:                                                        
 
- Address(地址): 45.147.200.250
+ Address(地址): tr6.free9999.net
 
  Port（端口）:443
 
- UUID（用户id）: d09f337d-fb5f-400c-9091-6f4517b0dabb
+ UUID（用户id）: 8a739021-c295-4756-b9b1-a55301f13831
 
  alterId（额外ID）: 16
 
@@ -118,7 +118,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICI0NS4xNDcuMjAwLjI1MCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMDlmMzM3ZC1mYjVmLTQwMGMtOTA5MS02ZjQ1MTdiMGRhYmIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF5JUU1JTg1JThEJUU4JUI0JUI5JUU4JUI0JUE2JUU1JThGJUI3IiwNCiAgImFkZCI6ICJ0cjYuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjhhNzM5MDIxLWMyOTUtNDc1Ni1iOWIxLWE1NTMwMWYxMzgzMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
 **账号4（WebSocket）**:                                                        
