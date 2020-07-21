@@ -30,7 +30,7 @@
 
 ***
 
-**2020年7月21日公告：新增了一个[YouTube自媒体节目免翻链接](https://github.com/Alvin9999/new-pac/wiki/YouTube%E8%87%AA%E5%AA%92%E4%BD%93%E8%8A%82%E7%9B%AE%E5%85%8D%E7%BF%BB%E9%93%BE%E6%8E%A5) 页面，将目前YouTube一些很热门的自媒体节目的免翻墙链接收集起来，便于大家分享给有需要的人，比如家人、亲戚、朋友等。确实有一些人年龄较大没有条件学翻墙。**
+**2020年7月21日公告：新增了一个[YouTube自媒体节目免翻链接](https://github.com/Alvin9999/new-pac/wiki/YouTube%E8%87%AA%E5%AA%92%E4%BD%93%E8%8A%82%E7%9B%AE%E5%85%8D%E7%BF%BB%E9%93%BE%E6%8E%A5) 页面，将目前YouTube一些很热门的自媒体节目的免翻墙链接收集起来，便于大家分享给有需要的人，比如家人、亲戚、朋友等。**
 
 **2020年7月7日公告： 更新集合版。更新内容：1、新增两款代理工具，分别是Trojan-go和Etgo；2、新增v2ray两个ip更新地址；3、去掉失效的工具，包括trojan、lightsocks、ssrot、xx-net。**
 
