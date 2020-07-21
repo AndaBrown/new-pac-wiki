@@ -58,7 +58,7 @@ IP：162.245.239.68
  
 端口：34567
 
-密码： dongtaiwang 123abc
+密码： dongtaiwang.com 123abc
 
 加密方式：RC4 
 
