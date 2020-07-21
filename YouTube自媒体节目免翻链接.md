@@ -18,11 +18,15 @@
 
 1、肖建華明天係金融王國被全面接管，“嚴正聲明”後面的深厚背景，預示北戴河會議中共元老將集體向習近平發難（江峰漫谈20200719第206期）
 
-免翻墻鏈接1：https://is.gd/0DuAhV   免翻墻鏈接2：https://is.gd/LReiTj
+免翻墻鏈接1：https://is.gd/0DuAhV   
+
+免翻墻鏈接2：https://is.gd/LReiTj
 
 2、美國南海政策突然轉向，局部戰爭可能性迅速上升，台海軍政重點南移，中共軍力部署大亂，東亞東盟齊聲反共，英國航母在路上（江峰漫談20200717第205期）
 
-免翻墻鏈接1：https://is.gd/Esc4l4   免翻墻鏈接2：https://is.gd/WNdKiG
+免翻墻鏈接1：https://is.gd/Esc4l4   
+
+免翻墻鏈接2：https://is.gd/WNdKiG
 
 ### [大纪元新闻看点](https://www.youtube.com/c/%E5%A4%A7%E7%B4%80%E5%85%83-%E6%96%B0%E8%81%9E%E7%9C%8B%E9%BB%9E/videos)
 
@@ -42,18 +46,34 @@
 
 1、習近平「攬炒」沒收高層家族錢袋子；核研究所近百科學家集體辭職，有內幕更有嚴重問題（文昭談古論今20200720第788期）
 
-免翻1:https://is.gd/tqkDAc  免翻2:https://is.gd/CzW9BZ   免翻3:https://is.gd/MzSurs   免翻4:https://is.gd/l1Q3mI
+免翻1:https://is.gd/tqkDAc  
+
+免翻2:https://is.gd/CzW9BZ   
+
+免翻3:https://is.gd/MzSurs   
+
+免翻4:https://is.gd/l1Q3mI
 
 2、川普簽法案下戰書，華春瑩喊「讓暴風雨來得更猛烈」！習近平超級昏招「聯伊抗美」未見其利先受三害，南海風雲突變（文昭談古論今20200715第786期）
 
-免翻牆1:https://is.gd/YO6Xkd   免翻牆2:https://is.gd/6okUs0   免翻牆3:https://is.gd/10rOTo   免翻牆4:https://is.gd/qaYV23
+免翻牆1:https://is.gd/YO6Xkd   
+
+免翻牆2:https://is.gd/6okUs0   
+
+免翻牆3:https://is.gd/10rOTo   
+
+免翻牆4:https://is.gd/qaYV23
 
 ### [天亮時分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)
 
 1、“40米长刀和5.1万吨鲜血”,南中国海是否会爆发热战?中国第二季度GDP到底增长多少?(政论天下第200集 20200718)天亮时分 
 
-免翻牆1:https://is.gd/NzeMuG   免翻牆2:https://is.gd/Jtc9HB
+免翻牆1:https://is.gd/NzeMuG   
+
+免翻牆2:https://is.gd/Jtc9HB
 
 2、九千万党员禁止来美?川普签署的可行性分析;中美对决将迅速升级,大战略下的具体操作捷径(政论天下第199集 20200716)天亮时分
 
-免翻牆1:https://is.gd/xarhBK  免翻牆2:https://is.gd/xZETn1
+免翻牆1:https://is.gd/xarhBK  
+
+免翻牆2:https://is.gd/xZETn1
