@@ -4,7 +4,7 @@
 
 ***
 
-### [新聞拍案驚奇](https://www.youtube.com/c/%E5%A4%A7%E5%AE%87%E6%8B%8D%E6%A1%88%E9%A9%9A%E5%A5%87DayuShow/videos)
+### [新闻拍案惊奇](https://www.youtube.com/c/%E5%A4%A7%E5%AE%87%E6%8B%8D%E6%A1%88%E9%A9%9A%E5%A5%87DayuShow/videos)
 
 1、直播問答：中共敢跟美國打熱戰嗎？黨自行解散的可能性？拜登若當選會給它續命嗎？三個問題深入談；官媒承認三峽大壩位移、形變！防汛進入“七下八上”更嚴峻 （2020年7月19日）
 
@@ -24,7 +24,7 @@
 
 免翻墻鏈接1：https://is.gd/Esc4l4   免翻墻鏈接2：https://is.gd/WNdKiG
 
-### [大紀元 — 新聞看點](https://www.youtube.com/c/%E5%A4%A7%E7%B4%80%E5%85%83-%E6%96%B0%E8%81%9E%E7%9C%8B%E9%BB%9E/videos)
+### [大纪元新闻看点](https://www.youtube.com/c/%E5%A4%A7%E7%B4%80%E5%85%83-%E6%96%B0%E8%81%9E%E7%9C%8B%E9%BB%9E/videos)
 
 1、驚人！伊朗2500萬染疫💥全球100小時新增100萬確診❗️新疆烏魯木齊進入「戰時狀態」；戰狼後浪來了！近七成患者家中感染？高官為何不染病？大洪水北京又甩鍋？（2020年7月19日）
 
@@ -34,7 +34,7 @@
 
 免翻牆1:https://is.gd/DvElW1
 
-### [文昭談古論今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/videos)
+### [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/videos)
 
 1、習近平「攬炒」沒收高層家族錢袋子；核研究所近百科學家集體辭職，有內幕更有嚴重問題（文昭談古論今20200720第788期）
 
