@@ -38,8 +38,6 @@ VPS推荐：
 
 [切尔诺贝利核泄漏（比核辐射更有杀伤力的竟然是谎言）](https://www.youtube.com/watch?v=nfGt6ugUgpo&t=4s) （YouTube或本地[在线观看&下载](http://tr1.freedown7.club/html/video/Chernobyl_nuclear_leak.mp4)） 
 
-[病毒学家闫丽梦博士历经死亡威胁出逃美国接受Fox专访（中文字幕完整版）](https://www.youtube.com/watch?v=n2E0raFVsrg) （YouTube）
-
 ***
 
 **北京时间2020年7月12日8点01分更新,去掉帐号2。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。如果你不能看到最新的账号信息，把浏览器缓存清理了。**
