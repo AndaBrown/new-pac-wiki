@@ -22,8 +22,6 @@
 
 [切尔诺贝利核泄漏（比核辐射更有杀伤力的竟然是谎言）](https://www.youtube.com/watch?v=nfGt6ugUgpo&t=4s) （YouTube或本地[在线观看&下载](http://tr1.freedown7.club/html/video/Chernobyl_nuclear_leak.mp4)） 
 
-[病毒学家闫丽梦博士历经死亡威胁出逃美国接受Fox专访（中文字幕完整版）](https://www.youtube.com/watch?v=n2E0raFVsrg) （YouTube）
-
 ***
 
 **备用网址：https://tr1.freeair888.club (7月16日更换网址)**
