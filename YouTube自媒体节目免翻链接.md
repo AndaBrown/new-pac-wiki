@@ -27,56 +27,56 @@
 
 3、美追打中共；英終止香港引渡條例、尋求日本建設沒有華為的5G；南海問題、疫情追責——中共外交部新發言人汪文斌上班第一天（江峰漫談20200720第207期）
 
-免翻鏈1：https://is.gd/aK0q6f
+免翻链接：https://is.gd/aK0q6f
 
 
 ### [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/videos)
 
 1、休斯敦中領館被關，41年未有之巨變！還有更刺激的、川普「驚濤掌」三掌必發（文昭談古論今20200722第790期）
 
-免翻:https://is.gd/mnDgqH
+免翻链接:https://is.gd/mnDgqH
 
 
 2、習近平向李克強奪權！開企業家座談會，硬上「內循環」；炸堤啟用蓄洪區，糧食危險浮現（文昭談古論今20200721第789期）
 
-免翻:https://is.gd/ZO0Q5F
+免翻链接:https://is.gd/ZO0Q5F
 
 3、習近平「攬炒」沒收高層家族錢袋子；核研究所近百科學家集體辭職，有內幕更有嚴重問題（文昭談古論今20200720第788期）
 
-免翻:https://is.gd/54xtBN
+免翻链接:https://is.gd/54xtBN
 
 
 ### [天亮時分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)
 
 1、72小时内关闭中领馆!美国暗示真正原因恐非间谍案那么简单;美国已经给了中共面子;中共将如何报复?(政论天下第202集 20200722)天亮时分
 
-免翻1:https://is.gd/2EmiDM
+免翻链接1:https://is.gd/2EmiDM
 
-免翻2:https://is.gd/fBEyvB
+免翻链接2:https://is.gd/fBEyvB
 
 2、中共末日逃生计划一夜夭折；算一算二十年来,中共洗了多少钱到海外； 评美国国务院最新声明;(政论天下第201集 20200720)天亮时分
 
-免翻1:https://is.gd/BVQlov
+免翻链接1:https://is.gd/BVQlov
 
-免翻2:https://is.gd/eeSf2V
+免翻链接2:https://is.gd/eeSf2V
 
 3、“40米长刀和5.1万吨鲜血”,南中国海是否会爆发热战?中国第二季度GDP到底增长多少?(政论天下第200集 20200718)天亮时分 
 
-免翻牆1:https://is.gd/NzeMuG   
+免翻链接1:https://is.gd/NzeMuG   
 
-免翻牆2:https://is.gd/Jtc9HB
+免翻链接2:https://is.gd/Jtc9HB
 
 
 ### [大纪元新闻看点](https://www.youtube.com/c/%E5%A4%A7%E7%B4%80%E5%85%83-%E6%96%B0%E8%81%9E%E7%9C%8B%E9%BB%9E/videos)
 
 1、珍珠港事件前奏？美勒令72小時關閉，休斯敦總領館急燒文件？習近平隱身月餘終露面，只為搞笑「內循環」；哈爾濱風雨雹太嚇人；河南暴雨成災，開車如開船；華人竟偷渡越南
 
-免翻:https://is.gd/VilLx3
+免翻链接:https://is.gd/VilLx3
 
 2、「慶回歸」21人確診，病毒追找藍絲？美制裁 11中企，蘋果微軟供應商也上榜！中共內鬥洶湧，習掐住對方喉嚨？中共最恐懼的是「這個」！英宣布中止引渡協議，港抗爭派參選立會
 
-免翻: https://is.gd/jz5kKo
+免翻链接: https://is.gd/jz5kKo
 
 3、三峽大壩有問題，中共「羞澀」承認；安徽滁河炸堤洩洪！中殲11B永興島列陣，美B1B部署關島，中美隔空示威，南海一觸即發！若中共侵台，川普將被授權動用軍力？
 
-免翻:https://is.gd/JxIldm
+免翻链接:https://is.gd/JxIldm
