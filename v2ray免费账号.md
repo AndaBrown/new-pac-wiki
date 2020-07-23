@@ -39,7 +39,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年7月23日7点56分更新账号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年7月23日10点45分更新账号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (6月27日更换网址)
 
@@ -120,29 +120,30 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjYuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjhhNzM5MDIxLWMyOTUtNDc1Ni1iOWIxLWE1NTMwMWYxMzgzMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号4（TCP）**:                                                        
+**账号4（WebSocket+TLS）**:                                                        
 
  Address(地址): 64.32.6.195
 
- Port（端口）:17007
+ Port（端口）:443
 
- UUID（用户id）: 53029831-5924-424c-938b-e03622549109
+ UUID（用户id）: b7401435-5bfe-46c1-acd3-ca9e436afbdf
 
  alterId（额外ID）: 16
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
  伪装域名（host）：不填
 
- 路径： 不填
+ 路径： /ray
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI2NC4zMi42LjE5NSIsDQogICJwb3J0IjogIjE3MDA3IiwNCiAgImlkIjogIjUzMDI5ODMxLTU5MjQtNDI0Yy05MzhiLWUwMzYyMjU0OTEwOSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI2NC4zMi42LjE5NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiNzQwMTQzNS01YmZlLTQ2YzEtYWNkMy1jYTllNDM2YWZiZGYiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
+
 
 
 ***
