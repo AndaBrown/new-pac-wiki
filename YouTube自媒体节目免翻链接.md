@@ -23,9 +23,7 @@
 
 1、突發！重磅消息。美國關閉中共駐休斯頓總領事館並於72小時內驅逐，疑深度操控間諜活動（江峰漫談20200722第209期）
 
-免翻鏈接1：https://is.gd/1shO8L
-
-免翻鏈接2：https://is.gd/6wh6Nx
+免翻鏈接1：https://is.gd/fvAGDq
 
 2、毛鄧江胡都不敢搞，習近平外交思想研究中心成立看王毅的私心；洪峰一過，中共科學家便搬出“萬年一遇”論調，稱三峡大坝抵禦原子彈！美印聯合軍演，死扣紮緊（2020年7月22日）
 
@@ -44,34 +42,16 @@
 
 1、休斯敦中領館被關，41年未有之巨變！還有更刺激的、川普「驚濤掌」三掌必發（文昭談古論今20200722第790期）
 
-免翻1:https://is.gd/RhBrUq
-
-免翻2:https://is.gd/mpTuC2
-
-免翻3:https://is.gd/c3Hisq
-
-免翻4:https://is.gd/0XMmdo
+免翻1:https://is.gd/mnDgqH
 
 
 2、習近平向李克強奪權！開企業家座談會，硬上「內循環」；炸堤啟用蓄洪區，糧食危險浮現（文昭談古論今20200721第789期）
 
-免翻1:https://is.gd/MYvoDK
-
-免翻2:https://is.gd/o6zUfd
-
-免翻3:https://is.gd/mMis2O
-
-免翻4:https://is.gd/7QbvrO
+免翻1:https://is.gd/ZO0Q5F
 
 3、習近平「攬炒」沒收高層家族錢袋子；核研究所近百科學家集體辭職，有內幕更有嚴重問題（文昭談古論今20200720第788期）
 
-免翻1:https://is.gd/tqkDAc  
-
-免翻2:https://is.gd/CzW9BZ   
-
-免翻3:https://is.gd/MzSurs   
-
-免翻4:https://is.gd/l1Q3mI
+免翻1:https://is.gd/54xtBN
 
 
 ### [天亮時分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)
