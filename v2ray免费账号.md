@@ -147,33 +147,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjYuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjhhNzM5MDIxLWMyOTUtNDc1Ni1iOWIxLWE1NTMwMWYxMzgzMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
-
-**账号5（WebSocket+TLS）**:                                                        
-
- Address(地址): 64.32.6.195
-
- Port（端口）:443
-
- UUID（用户id）: b7401435-5bfe-46c1-acd3-ca9e436afbdf
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： /ray
-
- 底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI2NC4zMi42LjE5NSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiNzQwMTQzNS01YmZlLTQ2YzEtYWNkMy1jYTllNDM2YWZiZGYiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
-
-
-
 ***
 
 
