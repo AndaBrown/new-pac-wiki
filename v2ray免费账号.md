@@ -41,7 +41,7 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年7月23日10点45分更新账号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年7月25日20点55分新增账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (6月27日更换网址)
 
@@ -72,7 +72,33 @@ VPS推荐：
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号2（WebSocket+TLS+Caddy+CDN）**:                                                        
+**账号2（WebSocket）**:                                                        
+
+ Address(地址): 89.163.224.93
+
+ Port（端口）:37356
+
+ UUID（用户id）: 1b3e04a6-7cbf-413a-a4fc-1f1e44b78f77
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径： 不填
+
+ 底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI4OS4xNjMuMjI0LjkzIiwNCiAgInBvcnQiOiAiMzczNTYiLA0KICAiaWQiOiAiMWIzZTA0YTYtN2NiZi00MTNhLWE0ZmMtMWYxZTQ0Yjc4Zjc3IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+
+
+
+**账号3（WebSocket+TLS+Caddy+CDN）**:                                                        
 
  Address(地址): tr8.free9999.net
 
@@ -97,7 +123,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjBiZDAyNDhlLWNhZjktNGEwZS05MTcxLTE2YTU4NWVmYzBiOCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号3（WebSocket+TLS+Caddy）**:                                                        
+**账号4（WebSocket+TLS+Caddy）**:                                                        
 
  Address(地址): tr6.free9999.net
 
@@ -122,7 +148,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjYuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjhhNzM5MDIxLWMyOTUtNDc1Ni1iOWIxLWE1NTMwMWYxMzgzMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号4（WebSocket+TLS）**:                                                        
+**账号5（WebSocket+TLS）**:                                                        
 
  Address(地址): 64.32.6.195
 
