@@ -37,16 +37,27 @@
 
 1、中共關閉成都美領館，直接開通美台恢復邦交快車；共諜唐娟深夜被舊金山領事館推出門外遭逮捕；休斯頓領館內鎖大門，美執法人員破後門而入（江峰漫談20200724第210期）
 
-免翻鏈接：https://is.gd/IXdpBF
+免翻鏈接1：https://is.gd/IXdpBF
+
+免翻鏈接2：https://is.gd/Kpn8Mz
+
+免翻鏈接3：https://is.gd/snMl1R
 
 2、突發！重磅消息。美國關閉中共駐休斯頓總領事館並於72小時內驅逐，疑深度操控間諜活動（江峰漫談20200722第209期）
 
-免翻鏈接：https://is.gd/fvAGDq
+免翻鏈接1：https://is.gd/fvAGDq
+
+免翻鏈接2：https://is.gd/LnwFEW
+
+免翻鏈接3：https://is.gd/n5qVF2
 
 3、毛鄧江胡都不敢搞，習近平外交思想研究中心成立看王毅的私心；洪峰一過，中共科學家便搬出“萬年一遇”論調，稱三峡大坝抵禦原子彈！美印聯合軍演，死扣紮緊（2020年7月22日）
 
-免翻鏈接：https://is.gd/sC7OR5
+免翻鏈接1：https://is.gd/sC7OR5
 
+免翻鏈接2：https://is.gd/ZtLNh3
+
+免翻鏈接3：https://is.gd/PhB5oo
 
 ### [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/videos)
 
