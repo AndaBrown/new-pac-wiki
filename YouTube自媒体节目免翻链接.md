@@ -89,19 +89,27 @@
 
 1、蓬佩奥的灭共宣言,四大难题与解决方案;制裁习近平和全体党员概率大增;中美完全丧失互信;大量中共间谍将投诚西方（政论天下第203集 20200724）天亮时分（2020-07-25） 
 
-免翻链接 1: https://is.gd/Qgiqrc
+免翻链接1: https://is.gd/Qgiqrc
+
+免翻链接2: https://is.gd/rr5U8i
+
+免翻链接3:  https://is.gd/xzsbd6
 
 2、72小时内关闭中领馆!美国暗示真正原因恐非间谍案那么简单;美国已经给了中共面子;中共将如何报复?(政论天下第202集 20200722)天亮时分
 
-免翻链接1:https://is.gd/2EmiDM
+免翻链接1:https://is.gd/69jAFj
 
-免翻链接2:https://is.gd/fBEyvB
+免翻链接2:https://is.gd/J1rwcv
+
+免翻链接3:https://is.gd/Xe58fN
 
 3、中共末日逃生计划一夜夭折；算一算二十年来,中共洗了多少钱到海外； 评美国国务院最新声明;(政论天下第201集 20200720)天亮时分
 
-免翻链接1:https://is.gd/BVQlov
+免翻链接1: https://is.gd/5cNnUG
 
-免翻链接2:https://is.gd/eeSf2V
+免翻链接2: https://is.gd/zcb7Sq
+
+免翻链接3: https://is.gd/Th5lui
 
 
 ### [大纪元新闻看点](https://www.youtube.com/c/%E5%A4%A7%E7%B4%80%E5%85%83-%E6%96%B0%E8%81%9E%E7%9C%8B%E9%BB%9E/videos)
