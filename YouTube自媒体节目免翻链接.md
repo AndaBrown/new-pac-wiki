@@ -63,18 +63,27 @@
 
 1、成都美領館關閉；舊金山中領館認慫、交出間諜嫌犯，或引更多投誠；彭培奧發表歷史性演說，天下大勢係於一線！（文昭談古論今20200724第791期）
 
-免翻链接:https://is.gd/uSQlqp
+免翻链接1:https://is.gd/M4iP9P
+
+免翻链接2: https://is.gd/OMxXEO
+
+免翻链接3: https://is.gd/rjV1Mz
 
 2、休斯敦中領館被關，41年未有之巨變！還有更刺激的、川普「驚濤掌」三掌必發（文昭談古論今20200722第790期）
 
-免翻链接:https://is.gd/mnDgqH
+免翻链接1:https://is.gd/g4h6se
 
+免翻链接2:https://is.gd/PKr57F
+
+免翻链接3:https://is.gd/Q85jM0
 
 3、習近平向李克強奪權！開企業家座談會，硬上「內循環」；炸堤啟用蓄洪區，糧食危險浮現（文昭談古論今20200721第789期）
 
-免翻链接:https://is.gd/ZO0Q5F
+免翻链接1:https://is.gd/ZO0Q5F
 
+免翻链接2:https://is.gd/2o04Le
 
+免翻链接3:https://is.gd/x5YZSQ
 
 ### [天亮時分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)
 
