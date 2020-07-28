@@ -28,11 +28,11 @@
 
 1、美機抵近上海156公里，滬緊急臨戰演習！中共戰與和兩條路線角力；胡錫進再呼「核威懾」意在急統臺灣；巨大的歷史盲區（文昭談古論今20200727第792期）
 
-免翻链接:https://is.gd/8xaOtS
+免翻链接:https://is.gd/JfI1bW
 
 2、成都美領館關閉；舊金山中領館認慫、交出間諜嫌犯，或引更多投誠；彭培奧發表歷史性演說，天下大勢係於一線！（文昭談古論今20200724第791期）
 
-免翻链接:https://is.gd/Kdo2Az
+免翻链接: https://is.gd/U8C9oG
 
 
 ### [天亮時分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)
