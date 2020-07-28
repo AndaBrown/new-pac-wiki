@@ -41,7 +41,7 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年7月27日22点28分更新账号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年7月28日19点15分更新账号2。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
@@ -72,15 +72,15 @@ VPS推荐：
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号2（WebSocket）**:                                                        
+**账号2（WebSocket+TLS+Caddy+CDN）**:                                                        
 
- Address(地址): 89.163.224.93
+ Address(地址): tr4.free9999.net
 
- Port（端口）:37356
+ Port（端口）:443
 
- UUID（用户id）: 1b3e04a6-7cbf-413a-a4fc-1f1e44b78f77
+ UUID（用户id）: aa0e5476-0613-429a-bedb-24923901040d
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 2
 
  security（加密方式）: auto
 
@@ -88,14 +88,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：不填
+ 伪装域名（host）：tr4.free9999.net
 
- 路径： 不填
+ 路径： /622f/
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI4OS4xNjMuMjI0LjkzIiwNCiAgInBvcnQiOiAiMzczNTYiLA0KICAiaWQiOiAiMWIzZTA0YTYtN2NiZi00MTNhLWE0ZmMtMWYxZTQ0Yjc4Zjc3IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 
 **账号3（WebSocket+TLS+Caddy+CDN）**:                                                        
