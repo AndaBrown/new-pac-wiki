@@ -72,7 +72,7 @@ VPS推荐：
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号2（WebSocket+TLS+Nginx+CDN）**:                                                        
+**账号2（WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr4.free9999.net
 
