@@ -47,7 +47,7 @@ VPS推荐：
 
 ***
 
-**账号1（WebSocket+TLS+Caddy+CDN）**:                                                        
+**账号1（WebSocket+TLS+Nginx+CDN）**:                                                        
 
  Address(地址): tr3.free9999.net
 
