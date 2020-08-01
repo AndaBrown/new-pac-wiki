@@ -34,19 +34,19 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年7月31日11点11分修复账号1。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年8月1日15点18分更新账号1和3。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
 ***
 
-**账号1（WebSocket+TLS+Caddy+CDN）**:                                                        
+**账号1（WebSocket）**:                                                        
 
- Address(地址): tr2.free9999.net
+ Address(地址): 162.245.239.66 
 
- Port（端口）:443
+ Port（端口）:49732
 
- UUID（用户id）: ce738430-8bad-47b8-939b-436cb7493162
+ UUID（用户id）: 6e08e0f9-80ae-4582-82da-451c2ea9141e
 
  alterId（额外ID）: 16
 
@@ -58,11 +58,11 @@ VPS推荐：
 
  伪装域名（host）：不填
 
- 路径： /ray
+ 路径： 不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICIxNjIuMjQ1LjIzOS42NiAiLA0KICAicG9ydCI6ICI0OTczMiIsDQogICJpZCI6ICI2ZTA4ZTBmOS04MGFlLTQ1ODItODJkYS00NTFjMmVhOTE0MWUiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 
 **账号2（WebSocket+TLS+Nginx）**:                                                        
@@ -90,29 +90,29 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 
-**账号3（WebSocket+TLS+Caddy+CDN）**:                                                        
+**账号3（TCP）**:                                                        
 
- Address(地址): tr8.free9999.net
+ Address(地址): 89.163.212.34
 
- Port（端口）:443
+ Port（端口）:14863
 
- UUID（用户id）: 0bd0248e-caf9-4a0e-9171-16a585efc0b8
+ UUID（用户id）: 14261752-9a9c-4e4b-a8ba-cb3a5475be9d
 
  alterId（额外ID）: 16
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
  伪装域名（host）：不填
 
- 路径： /ray
+ 路径： 不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjBiZDAyNDhlLWNhZjktNGEwZS05MTcxLTE2YTU4NWVmYzBiOCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI4OS4xNjMuMjEyLjM0IiwNCiAgInBvcnQiOiAiMTQ4NjMiLA0KICAiaWQiOiAiMTQyNjE3NTItOWE5Yy00ZTRiLWE4YmEtY2IzYTU0NzViZTlkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 
 **账号4（WebSocket）**:                                                        
