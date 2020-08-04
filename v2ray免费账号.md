@@ -34,21 +34,21 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年8月4日22点41分更新帐号3，17点04分更新帐号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年8月4日25点15分更新帐号1，22点41分更新帐号3，17点04分更新帐号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
 ***
 
-**账号1（WebSocket+TLS+Caddy+CDN）**:                                                        
+**账号1（WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr2.free9999.net
 
  Port（端口）:443
 
- UUID（用户id）: ce738430-8bad-47b8-939b-436cb7493162
+ UUID（用户id）: 190a8fbd-6a8f-4387-b9c3-34042b81a099
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 2
 
  security（加密方式）: auto
 
@@ -56,13 +56,14 @@ VPS推荐：
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：不填
+ 伪装域名（host）：tr2.free9999.net
 
- 路径： /ray
+ 路径： /4969ec3a/
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImNlNzM4NDMwLThiYWQtNDdiOC05MzliLTQzNmNiNzQ5MzE2MiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyMi5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTkwYThmYmQtNmE4Zi00Mzg3LWI5YzMtMzQwNDJiODFhMDk5IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiLzQ5NjllYzNhLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
 
 
 **账号2（WebSocket+TLS+Nginx）**:                                                        
