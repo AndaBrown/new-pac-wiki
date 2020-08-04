@@ -34,7 +34,7 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年8月1日20点28分恢复账号1和3。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年8月4日17点04分更新帐号4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
@@ -119,9 +119,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 
  Address(地址): 45.147.200.250
 
- Port（端口）:36515
+ Port（端口）:19994
 
- UUID（用户id）: 80501c77-7b89-403e-b950-f18606655265
+ UUID（用户id）: 884d3977-2949-4795-9db3-fd9118ba24f1
 
  alterId（额外ID）: 16
 
@@ -137,7 +137,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICI0NS4xNDcuMjAwLjI1MCIsDQogICJwb3J0IjogIjM2NTE1IiwNCiAgImlkIjogIjgwNTAxYzc3LTdiODktNDAzZS1iOTUwLWYxODYwNjY1NTI2NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IDQ1LjE0Ny4yMDAuMjUwIiwNCiAgImFkZCI6ICI0NS4xNDcuMjAwLjI1MCIsDQogICJwb3J0IjogIjE5OTk0IiwNCiAgImlkIjogIjg4NGQzOTc3LTI5NDktNDc5NS05ZGIzLWZkOTExOGJhMjRmMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+
 
 
 ***
