@@ -34,19 +34,19 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年8月4日23点15分更新帐号1，22点41分更新帐号3，17点04分更新帐号4，提高速度。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年8月5日10点30分新增西雅图服务器替换荷兰2服务器。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
 ***
 
-**账号1（荷兰1，WebSocket+TLS+Nginx）**:                                                        
+**账号1（西雅图，WebSocket+TLS+Nginx）**:                                                        
 
- Address(地址): tr2.free9999.net
+ Address(地址): tr1.free9999.net
 
  Port（端口）:443
 
- UUID（用户id）: 190a8fbd-6a8f-4387-b9c3-34042b81a099
+ UUID（用户id）: a8c212bb-7f8c-4c84-bb23-eaa96afc1a3c
 
  alterId（额外ID）: 2
 
@@ -56,13 +56,13 @@ VPS推荐：
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr2.free9999.net
+ 伪装域名（host）：tr1.free9999.net
 
- 路径： /4969ec3a/
+ 路径： /d44a323a5c2217b/
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyMi5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTkwYThmYmQtNmE4Zi00Mzg3LWI5YzMtMzQwNDJiODFhMDk5IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiLzQ5NjllYzNhLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMS5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyMS5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYThjMjEyYmItN2Y4Yy00Yzg0LWJiMjMtZWFhOTZhZmMxYTNjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjEuZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiL2Q0NGEzMjNhNWMyMjE3Yi8iLA0KICAidGxzIjogInRscyINCn0=
 
 
 
@@ -90,14 +90,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVl
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
+**账号2（荷兰1，WebSocket+TLS+Nginx）**:                                                        
 
-**账号3（荷兰2，WebSocket+TLS+Nginx）**:                                                        
-
- Address(地址): tr8.free9999.net
+ Address(地址): tr2.free9999.net
 
  Port（端口）:443
 
- UUID（用户id）: 11b35ccd-4cb0-4681-89fe-18bb2e791757
+ UUID（用户id）: 190a8fbd-6a8f-4387-b9c3-34042b81a099
 
  alterId（额外ID）: 2
 
@@ -107,13 +106,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr8.free9999.net
+ 伪装域名（host）：tr2.free9999.net
 
- 路径： /ray
+ 路径： /4969ec3a/
 
- 底层传输安全：/bce8ada760e/
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyOC5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyOC5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTFiMzVjY2QtNGNiMC00NjgxLTg5ZmUtMThiYjJlNzkxNzU3IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjguZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiL2JjZThhZGE3NjBlLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyMi5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTkwYThmYmQtNmE4Zi00Mzg3LWI5YzMtMzQwNDJiODFhMDk5IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiLzQ5NjllYzNhLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 
 **账号4（莫斯科，WebSocket）**:                                                        
