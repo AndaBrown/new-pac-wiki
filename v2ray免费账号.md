@@ -34,13 +34,13 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年8月5日10点30分新增西雅图服务器替换荷兰2服务器。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年8月7日21点36分对帐号1、帐号2、帐号3进行了CDN加速。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
 ***
 
-**账号1（西雅图，WebSocket+TLS+Nginx）**:                                                        
+**账号1（西雅图，WebSocket+TLS+Nginx+CDN）**:                                                        
 
  Address(地址): tr1.free9999.net
 
@@ -66,7 +66,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMS5mcmVl
 
 
 
-**账号2（德国，WebSocket+TLS+Nginx）**:                                                        
+**账号2（德国，WebSocket+TLS+Nginx+CDN）**:                                                        
 
  Address(地址): tr4.free9999.net
 
@@ -90,7 +90,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMS5mcmVl
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-**账号2（荷兰1，WebSocket+TLS+Nginx）**:                                                        
+**账号3（荷兰1，WebSocket+TLS+Nginx+CDN）**:                                                        
 
  Address(地址): tr2.free9999.net
 
