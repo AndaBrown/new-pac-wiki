@@ -43,11 +43,11 @@ VPS推荐：
 
 **SSR账号（洛杉矶）**
 
-IP：64.32.6.195
+IP：67.21.94.231
  
-端口：23456
+端口：2333
 
-密码：dongtaiwang.com 123abc
+密码：bannedbook.org 001
 
 加密方式：RC4 
 
