@@ -40,33 +40,7 @@ VPS推荐：
 
 ***
 
-**账号1（WebSocket）**:                                                        
-
- Address(地址): 89.163.212.34
-
- Port（端口）:35079
-
- UUID（用户id）: d70f2bfa-2262-4e4d-bfaa-2875f885b87e
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： 不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IDg5LjE2My4yMTIuMzQiLA0KICAiYWRkIjogIjg5LjE2My4yMTIuMzQiLA0KICAicG9ydCI6ICIzNTA3OSIsDQogICJpZCI6ICJkNzBmMmJmYS0yMjYyLTRlNGQtYmZhYS0yODc1Zjg4NWI4N2UiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
-
-
-**账号2（WebSocket+TLS+Nginx）**:                                                        
+**帐号1（德国，WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr4.free9999.net
 
@@ -90,7 +64,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IDg5LjE2My4y
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-**账号3（WebSocket+TLS+Nginx+CDN）**:                                                        
+**账号2（荷兰，WebSocket+TLS+Nginx+CDN）**:                                                        
 
  Address(地址): tr2.free9999.net
 
@@ -115,7 +89,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyMi5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTkwYThmYmQtNmE4Zi00Mzg3LWI5YzMtMzQwNDJiODFhMDk5IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiLzQ5NjllYzNhLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 
-**账号4（WebSocket）**:                                                        
+**账号3（俄罗斯，WebSocket）**:                                                        
 
  Address(地址): 45.147.200.250
 
