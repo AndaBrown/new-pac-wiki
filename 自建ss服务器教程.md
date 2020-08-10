@@ -43,7 +43,7 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 
 **实测：日本服务器，1CPU、2G内存的10美元套餐，测试前部署了bbr加速**
 
-https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-speed-jp.PNG
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-speed-jp.PNG)
 
 ***
 
