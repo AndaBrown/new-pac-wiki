@@ -41,6 +41,10 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 
 40美元/月的服务器配置信息： 4cpu   8G内存   160G SSD硬盘   带宽1G共享    4000G流量/月  
 
+**实测：日本服务器，1CPU、2G内存的10美元套餐，测试前部署了bbr加速**
+
+https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-speed-jp.PNG
+
 ***
 
 **注意：2.5美元套餐只提供ipv6 ip，一般的电脑用不了，所以建议选择3.5美元及以上的套餐。**
