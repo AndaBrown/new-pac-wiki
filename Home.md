@@ -43,8 +43,6 @@
 
 [Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2019年12月18日更新）
 
-[YouTube自媒体节目免翻链接](https://github.com/Alvin9999/new-pac/wiki/YouTube%E8%87%AA%E5%AA%92%E4%BD%93%E8%8A%82%E7%9B%AE%E5%85%8D%E7%BF%BB%E9%93%BE%E6%8E%A5) （长期更新）
-
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2020年4月26日更新网门直翻网址）
 
 [谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2020年6月27日更新）
