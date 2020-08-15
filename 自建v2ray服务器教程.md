@@ -311,27 +311,24 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 **常见问题参考解决方法**：
 
-1、账号无法使用，可能原因一：**客户端与服务端的设备系统时间相差过大。**
+1、账号无法使用，可能原因：vps防火墙端口没有放开或者本地电脑防火墙、杀毒软件阻挡代理软件。
 
-当vps服务器与本地设备系统时间相差过大，会导致客户端无法与服务端建立链接。请修改服务器时区，再手动修改服务器系统时间（注意也要校准自己本地设备时间）！
+关闭vps防火墙即可开放所有端口，本地电脑防火墙和杀毒软件手动关闭即可。
 
-先修改vps的时区为中国上海时区：\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
+查看防火墙状态命令：firewall-cmd --state  
 
-再手动修改vps系统时间命令的格式为（数字改为和自己电脑时间一致，误差30秒以内）：date -s "2020-2-02 19:14:00"   
+停止firewall命令：systemctl stop firewalld.service
 
-修改后再输入date命令检查下。
+禁止firewall开机启动命令：systemctl disable firewalld.service
 
-2、账号无法使用，可能原因二：**Windows 防火墙、杀毒软件阻挡代理软件。**
 
-如果以上问题都已排查，可以关闭 Windows 自带的防火墙、杀毒软件再尝试。
-
-3、搭建的账号之前能用，突然不能用了，怎么解决？
+2、搭建的账号之前能用，突然不能用了，怎么解决？
 
 如果ip不能ping通，xshell不能直接连接vps服务器，说明ip被墙了，需要开新服务器换ip。
 
 如果ip能ping，xshell能直接连接vps服务器，说明ip没有被墙，多半是端口被封了，优先换端口。
 
-4、高阶篇
+3、高阶篇
 
 当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以尝试下WebSocket+Tls+Nginx+Web的方式，甚至搭建好后还可以套CDN，套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活。套CDN的方法可以自行网络搜索。提前准备好域名，将域名指定vps的ip，然后根据脚本来搭建就好了。
 
