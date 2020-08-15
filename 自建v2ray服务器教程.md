@@ -158,45 +158,18 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
 
-### 注意：由于2020年8月15日更新了脚本，以下图文教程与最新脚本不符合，会尽快更新，一般来说根据脚本提示操作即可。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray1.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray2.PNG)
 
-如上图，输入快捷管理命令v2ray后，开始进行v2ray服务端配置。以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：v2ray
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray3.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian7.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray4.PNG)
 
-如上图，输入数字2进行更改配置，共有6个子选项，包括：更改UUID、更改主端口、更改加密方式、更改传输方式、更改TLS设置（有域名才行）、更改广告拦截功能。（更改TLS设置和更改广告拦截功能不用设置）
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian8.png)
-
-如上图，输入数字1来更改新的UUID号，弹出提示后，输入字母y来确认。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian9.png)
-
-修改UUID号，界面会回到v2ray主界面，重新输入2进入更改配置选项，在输入数字2来更改主端口，主端口范围40～65535，理论上可以任意设置，但不要以0开头！
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian10.png)
-
-重新进入更改配置选项，输入数字3来更改加密方式，加密方式有4种，最后1种为不加密。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian11.png)
-
-**接着，进行传输方式的设置，传输方式共有7种，这个配置对v2ray的速度起着很大的作用，具体哪个最适合你那里的网络环境，需要你自己来尝试。**
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray5.PNG)
 
 **注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。(在教程的最后“常见问题参考解决方法”里面增加了专门部署ws+tls的脚本)**
-
-![](https://raw.githubusercontent.com/Alvin9999/PAC/ss/Debian12.png)
-
-进行了更改配置的设置后，输入数字3可以查看自己设置的v2ray信息。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian13.png)
-
-**最后一步很关键，那就是启动服务，进入主界面后，输入数字1，然后输入1启动v2ray服务。以后，每次你更改配置或重启vps服务器后都要进行启动服务，请牢记！**
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian14.png)
 
 
 **客户端使用教程：[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)**
