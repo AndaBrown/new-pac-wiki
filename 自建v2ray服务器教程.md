@@ -156,18 +156,18 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 ———————————————————代码分割线————————————————
 
-复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
+复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。
 
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray1.PNG)
 
-输入数字1进行安装，数字2为卸载
+输入数字1进行安装，数字2为卸载。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray2.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray3.PNG)
 
-选择v2ray传输协议，一共有32种，不同的传输协议速度一般会不同，这个可以自己来测试。带tls字样的协议需要域名。选择输入协议后，接着选择端口、广告拦截、shadowsocks等，默认按回车键。
+选择v2ray传输协议，一共有TCP、WebSocket、HTTP/2、mkcp、Quic共5大类。不同的传输协议速度一般会不同，这个可以自己来测试。带tls字样的协议需要域名。选择输入协议后，接着选择端口、广告拦截、shadowsocks等，默认按回车键。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray4.PNG)
 
@@ -182,7 +182,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
 
-**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署ws+tls+nginx+web”的脚本,高级篇需要域名**
+**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署ws+tls+nginx+web”的脚本,高级篇需要域名。**
 
 ***
 
