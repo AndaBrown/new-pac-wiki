@@ -182,7 +182,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
 
-**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署ws+tls+nginx+web”的脚本,高级篇需要域名。**
+**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署websocket+tls+nginx+web”的脚本,高级篇需要域名。**
 
 ***
 
