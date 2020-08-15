@@ -141,32 +141,24 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
-**Debian8/Debian7/Ubuntu16/Ubuntu14/CentOS7 v2ray一键部署管理脚本**：
+**Debian8/Debian7/Ubuntu16/CentOS7 v2ray一键部署管理脚本**：
 
 安装脚本命令：
 
 ***
 
- wget -N --no-check-certificate https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh && bash install-release.sh
-
-
-***
-
-卸载脚本命令：
-
+wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray-edit-from-233boy/master/install.sh && bash install.sh
 
 ***
 
-bash install-release.sh --remove
-
-
-***
 
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 
 ———————————————————代码分割线————————————————
 
 复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。
+
+### 注意：由于2020年8月15日更新了脚本，以下图文教程与最新脚本不符合，会尽快更新，一般来说根据脚本提示操作即可。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/Debian4.png)
 
