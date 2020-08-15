@@ -161,17 +161,26 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray1.PNG)
 
+输入数字1进行安装，数字2为卸载
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray2.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray3.PNG)
+
+选择v2ray传输协议，一共有32种，不同的传输协议速度一般会不同，这个可以自己来测试。带tls字样的协议需要域名。选择输入协议后，接着选择端口、广告拦截、shadowsocks等，默认按回车键。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray4.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray5.PNG)
 
+按回车键开始自动安装。
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray6.PNG)
 
+输入v2ray url可以自动生成vmess链接，然后鼠标选中右键复制。
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
+
 
 **注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署ws+tls+nginx+web”的脚本,高级篇需要域名**
 
