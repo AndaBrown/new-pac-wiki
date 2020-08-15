@@ -173,8 +173,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
-**注意：普通TCP、普通mKCP、mKCP伪装FaceTime通话、mKCP伪装BT下载流量、mKCP伪装微信视频流量可直接设置、不需要域名，HTTP伪装和WebSocket流量需要你有域名，且域名绑定了你的vps服务器ip。(在教程的最后“常见问题参考解决方法”里面增加了专门部署ws+tls的脚本)**
-
+**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署ws+tls+nginx+web”的脚本,高级篇需要域名**
 
 ***
 
@@ -281,10 +280,6 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 
 出现running字样即可!
 
-
-***
-
-**需要注意的是：不管是重启服务器，还是以后想修改之前vps里面的v2ray配置信息，当你重启好服务器或者修改好了v2ray配置信息后，都需要启动v2ray服务端。方式是：输入v2ray，选择1，然后选择1（启动服务）。**
 
 ***
 
