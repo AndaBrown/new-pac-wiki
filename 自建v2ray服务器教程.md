@@ -1,4 +1,4 @@
-**2020年7月19日更新iOS使用v2ray方法。**
+**2020年8月15日更新一键安装脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建v2ray服务器教程**
 
@@ -147,7 +147,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ***
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/install.sh && bash install.sh
+ wget -N --no-check-certificate https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh && bash install-release.sh
 
 
 ***
@@ -157,7 +157,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.
 
 ***
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/KiriKira/v2ray.fun/kiriMod/uninstall.sh && bash uninstall.sh
+bash install-release.sh --remove
 
 
 ***
