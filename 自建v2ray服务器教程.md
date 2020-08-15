@@ -181,6 +181,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
+如果是选择的CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：
+
+查看防火墙状态命令：firewall-cmd --state
+
+停止firewall命令：systemctl stop firewalld.service
+
+禁止firewall开机启动命令：systemctl disable firewalld.service
 
 **注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署WebSocket+Tls+Nginx+Web”的脚本,高级篇需要域名。**
 
