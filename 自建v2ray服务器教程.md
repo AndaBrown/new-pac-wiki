@@ -182,7 +182,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
 
-**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署websocket+tls+nginx+web”的脚本,高级篇需要域名。**
+**注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署WebSocket+Tls+Nginx+Web”的脚本,高级篇需要域名。**
 
 ***
 
@@ -338,7 +338,7 @@ chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninsta
 有免费的域名，但为了稳定，建议选择付费的域名，因为免费的域名很可能会用不了多长时间。推荐用国外的域名服务商：[Namecheap](https://www.namecheap.com)，xyz、club后缀的域名1年1美元左右。
 
 
-**一键部署Nginx+ws+tls脚本，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
+**一键部署WebSocket+Tls+Nginx+Web，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
 
 ***
 
