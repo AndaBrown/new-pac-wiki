@@ -1,4 +1,4 @@
-**2020年2月12日更新。**
+**2020年8月16日更新五合一的TCP网络加速脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建brook服务器教程**
 
@@ -10,7 +10,7 @@
 
 第二步：一键部署VPS服务器
 
-第三步：一键加速VPS服务器 
+第三步：一键加速VPS服务器 （五合一的TCP网络加速脚本）
 
 ***
 
@@ -198,120 +198,44 @@ chmod +x brook.sh
 
 **第三步：一键加速VPS服务器**
 
-**总共有2种加速方法，锐速加速和bbr加速，选择1种。**
-
-**【加速教程1：谷歌BBR加速教程】**
+五合一的TCP网络加速脚本，包括了BBR原版、BBR魔改版、暴力BBR魔改版、BBR plus、Lotsever(锐速)安装脚本。可用于KVMXen架构，不兼容OpenVZ（OVZ）。支持Centos 6+ / Debian 7+ / Ubuntu 14+，BBR魔改版不支持Debian 8。
 
 ***
 
-wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
 
-chmod +x bbr.sh
+chmod +x tcp.sh
 
-./bbr.sh
-
-
-***
-
-> 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
-
-把上面整个代码复制后粘贴进去，不动的时候按回车，然后耐心等待，最后重启vps服务器即可。
-
-演示开始，如图：
-
-复制并粘贴代码后，按回车键确认
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/18.png)
-
-如下图提示，按任意键继续部署
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/19.png)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/20.png)
-
-部署到上图这个位置的时候，等待3～6分钟
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/ss/21.png)
-
-最后输入y重启服务器，如果输入y提示command not found ，接着输入reboot来重启服务器，确保加速生效，bbr加速脚本是开机自动启动，装一次就可以了。
-
-服务器重启成功并重新连接服务器后，输入命令lsmod | grep bbr  如果出现tcp_bbr字样表示bbr已安装并启动成功。如图：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/tcp_bbr.PNG)
-
-**注意1**：根据反馈，少部分人安装bbr脚本并重启后，几分钟过去了，发现xshell无法连接服务器且服务器ip无法ping通。解决方法是：开新服务器或者重装系统，然后先安装bbr脚本再安装brook脚本，或者改用锐速加速脚本。
-
-重装系统方法，点击vultr服务器设置界面——“Server Reinstall”，如下图：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/reinstall.png)
-
-重装过程一般需要5～10分钟。
-
-**注意2**：如果创建的是centos7的服务器，安装bbr加速后需要使用命令关闭防火墙，可能无法使用代理。CentOS 7.0默认使用的是firewall作为防火墙。
-
-查看防火墙状态命令：firewall-cmd --state
-
-停止firewall命令：systemctl stop firewalld.service
-
-禁止firewall开机启动命令：systemctl disable firewalld.service 
-
-***
-
-**【加速教程2：破解版锐速加速教程】**
-
-**第一步，先更换服务器内核（脚本只支持centos系统，其它系统可以直接尝试第二步）**
+./tcp.sh
 
 
 ***
 
-yum -y install wget
+> 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 
-wget --no-check-certificate https://blog.asuhu.com/sh/ruisu.sh && bash ruisu.sh
+安装完成后，脚本管理命令为：./tcp.sh
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr1.jpg)
 
-***
+操作方法：先安装内核，重启vps让内核生效，再启动对应的加速即可。数字1的BBR/BBR魔改内核对应数字4、5、6的BBR加速、BBR魔改加速和暴力BBR魔改版加速。数字2的BBRplus内核对应数字7的BBRplus加速。数字3的锐速加速内核对应数字8的锐速加速。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs1.PNG)
+以安装暴力BBR魔改版加速为例，我们先安装对应的内核，输入数字1
 
-不动的时候敲回车键，在上图时需要多等一会儿。
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr2.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/rs2.PNG)
+内核安装完成后，输入y进行重启，重启才能让内核生效
 
-出现上图时表示已成功替换内核并服务器自动重启。
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr3.jpg)
 
-**完成后会重启，2分钟后重新连接服务器，连上后开始第二步的操作。**
+重启完成后，输入数字6来启动暴力BBR魔改版加速
 
-**第二步，一键安装锐速**
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr4.jpg)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr5.jpg)
 
-***
+输入./tcp.sh查看最终是否启动成功。
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/serverspeeder/master/serverspeeder-all.sh && bash serverspeeder-all.sh
-
-
-***
-
-卸载加速代码命令为：
-
-
-***
-
-chattr -i /serverspeeder/etc/apx* && /serverspeeder/bin/serverSpeeder.sh uninstall -f
-
-
-***
-
-但有些内核是不适合的，部署过程中需要手动选择推荐的，当部署时出现以下字样：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F2.PNG)
-
-提示没有完全匹配的内核,随便选一个内核就行,按照提示来输入数字,按回车键即可
-
-锐速安装成功标志如下：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/%E9%94%90%E9%80%9F3.png)
-
-出现running字样即可!
+如果想换一个加速，输入数字9进行卸载加速，然后进行同样的操作，安装内核再安装对应内核的加速即可。
 
 ***
 
