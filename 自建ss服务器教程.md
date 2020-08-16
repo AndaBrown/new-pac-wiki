@@ -1,4 +1,4 @@
-**2020年6月27日增加一键搭建SS脚本。**
+**2020年8月16日增加多用户一键脚本,支持流量限制等。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建ss服务器教程**
 
@@ -155,6 +155,19 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/dou
 yum -y install wget
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+
+***
+
+**脚本三（SSR多用户管理脚本）**
+
+**脚本三没有单独做图文教程，参考脚本一的图文说明摸索下就会了。安装完成后，快捷管理命令：bash ssrmu.sh  所有用户流量清零命令:
+bash ssrmu.sh clearall**
+
+***
+
+yum -y install wget
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 
 ***
 
