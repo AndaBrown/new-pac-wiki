@@ -237,6 +237,10 @@ chmod +x tcp.sh
 
 如果想换一个加速，输入数字9进行卸载加速，然后进行同样的操作，安装内核再安装对应内核的加速即可。
 
+**注意：如果在安装内核环节出现这样一张图，注意选择NO**
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr6.jpg)
+
 ***
 
 【**Brook windows客户端下载及使用方法**】
