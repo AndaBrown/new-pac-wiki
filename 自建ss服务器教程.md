@@ -1,4 +1,4 @@
-**2020年8月16日增加多用户一键脚本,支持流量限制等。**
+**2020年8月16日增加多用户一键脚本,支持流量限制等，更新五合一的TCP网络加速脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建ss服务器教程**
 
@@ -270,13 +270,25 @@ chmod +x tcp.sh
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr1.jpg)
 
+操作方法：先安装内核，重启vps让内核生效，再启动对应的加速即可。数字1的BBR/BBR魔改内核对应数字4、5、6的BBR加速、BBR魔改加速和暴力BBR魔改版加速。数字2的BBRplus内核对应数字7的BBRplus加速。数字3的锐速加速内核对应数字8的锐速加速。
+
+以安装暴力BBR魔改版加速为例，我们先安装对应的内核，输入数字1
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr2.jpg)
 
+内核安装完成后，输入y进行重启，重启才能让内核生效
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr3.jpg)
+
+重启完成后，输入数字6来启动暴力BBR魔改版加速
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr4.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr5.jpg)
+
+输入./tcp.sh查看最终是否启动成功。
+
+如果想换一个加速，输入数字9进行卸载加速，然后进行同样的操作，安装内核再安装对应内核的加速即可。
 
 ***
 
