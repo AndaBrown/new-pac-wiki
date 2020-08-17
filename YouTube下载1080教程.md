@@ -4,7 +4,7 @@
 
 ***
 
-翻墙打开网址：https://y2mate.com/
+翻墙打开网址：https://www.y2mate.com/zh-cn2
 
 图文教程如下：
 
