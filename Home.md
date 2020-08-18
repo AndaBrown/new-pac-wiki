@@ -8,7 +8,7 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：Goflyway、v2ray、SSR、SS、DAZE、Naiveproxy、Brook、Trojan-go、Etgo、Astar、SkyZip、无界、自由门，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：Goflyway、v2ray、SSR、SS、SS-Kcptun、Naiveproxy、Brook、Trojan-go、Etgo、Astar、SkyZip、无界、自由门，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系！可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)，它们都是免费的，而且不会干扰电脑运行。
 
@@ -23,17 +23,17 @@
 
 ***
 
-**2020.8.16：近期会发布新版。**
+**2020年8月18日公告：更新谷歌高内核所有版本、更新谷歌低内核和火狐浏览器集合版和FreeGate版。**
 
 **提醒：本页面地址已被国产浏览器屏蔽，请用谷歌或火狐浏览器打开。win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
 ***
 
-[谷歌翻墙浏览器83高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年7月7日更新集合版；2020年6月28日更新所有版本）
+[谷歌翻墙浏览器84高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年8月18日更新所有版本）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年7月7日更新集合版；2020年6月28日更新集合版和自由门版）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年8月18日更新集合版和FreeGate版）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年7月7日更新集合版；2020年6月28日更新集合版和自由门版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年8月18日更新集合版和FreeGate版）
 
 [iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年7月19日更新v2ray翻墙教程）
 
