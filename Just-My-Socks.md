@@ -2,6 +2,8 @@
 
 如果无法查看教程中的图片，可访问https://tr1.freeair888.club/just-my-socks
 
+**目前Just My Socks套餐提供2个SS帐号和4个v2ray帐号。**
+
 <h2>文章目录</h2>
 <ol id="user-content-content-index-contents">
  	<li><a href="#user-content-just1">Just My Socks介绍</a></li>
@@ -116,26 +118,38 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 <h2 id="user-content-just6"><span id="just_my_socks-6"></span></h2>
 <p class="keepp">
 
-注意：aes-256-gcm 加密方式必须使用 SS 客户端，一般SSR客户端都不支持aes-256-gcm。
+注意：目前Just My Socks套餐提供2个SS帐号和4个v2ray帐号。aes-256-gcm 加密方式必须使用 SS 客户端，SSR客户端不支持aes-256-gcm。
 
-**第三个和第四个帐号的“obfs=tls”如何使用呢？**
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just1.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just2.jpg)
 
-这两个帐号与另外3个不同，多了obfs插件选项，可以在 [obfs官网](https://github.com/shadowsocks/simple-obfs/releases)上下载obfs-local.zip，然后把它放在ss客户端同一目录下（3个文件），如下图：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs2.jpg)
-
-你也可以直接下载打包好的ss和obfs客户端压缩包，[网盘下载1](http://173.0.55.67/html/ss/windows-shadowsocks-4.1.6.zip) [网盘下载2](http://tr30.free4444.club/ss/windows-shadowsocks-4.1.6.zip)
-
-下载后解压即可。
-
-接着，打开ss客户端，在插件程序那里填上obfs-local 插件选项那里填上obfs=tls，如下图
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs3.jpg)
-
-帐号的其它信息自己补上。
-
-同理，iOS和安卓要想使用帐号3和帐号4，也需要支持obfs协议的客户端才行，混淆参数设置为：obfs=tls
+Windows SS客户端 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases) 
 
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
+
+v2ray帐号可以参考这个教程来使用[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B) 
+
+***
+
+**注意：如果你感觉 Just My Socks 速度慢，觉得不满意，那你可以申请 Just My Socks 退款的！但退款需要满足以下所有条件：**
+
+1、客户的账户信誉良好, 没有违反整个服务条款
+
+2、以前没有任何付款或目前有争议
+
+3、每月数据传输使用率低于 10％
+
+4、该帐户是在7天内 或更短的时间前创建的
+
+5、客户未使用其他账户退款的权利
+
+退款按原付款方式退回。退款处理后, 帐户可用于未来订单, 但不再有退款资格。内容来自 Just My Socks 官方的 [Terms of Service ](https://justmysocks3.net/members/index.php?rp=/knowledgebase/1/Terms-of-Service.html)说明。
+
+操作步骤：在 Just My Socks 官网菜单，选择 Services > My Services，然后会看到你已购买的产品信息，Status 显示 Active 的，即为当前可用的！
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just2.jpg)
+
+点击进去之后，在左侧找到 Request Refund ，即是申请退款选项！如果你要退款，那就点击它！！！备注，你可能需要再点击一下类似 Request full refund for this service 的按钮。
+
+退款方式是原路退回的，比如说你是使用了支付宝付款的，那么到时候也是退款到支付宝的。
