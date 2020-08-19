@@ -111,7 +111,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 </p>
 <p class="keepp">
-这里就可以看到shadowsocks和v2ray详情了（ip以域名形式发放，每个节点速度可能不同，都测试下）
+这里就可以看到shadowsocks和v2ray详情了（ip以域名形式发放，页面上也能看到域名对应的ip，如果域名解析不顺利可直接填入域名对应的ip）
 
 注意：目前Just My Socks套餐提供2个SS帐号和4个v2ray帐号。aes-256-gcm 加密方式必须使用 SS 客户端，SSR客户端不支持aes-256-gcm。
 
