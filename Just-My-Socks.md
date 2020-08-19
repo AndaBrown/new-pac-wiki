@@ -119,7 +119,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just1.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just5.jpg)
 
 
 ***
