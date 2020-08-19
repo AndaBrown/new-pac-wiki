@@ -148,7 +148,7 @@ v2ray帐号可以参考这个教程来使用[v2ray各平台图文使用教程](h
 
 操作步骤：在 Just My Socks 官网菜单，选择 Services > My Services，然后会看到你已购买的产品信息，Status 显示 Active 的，即为当前可用的！
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just3.jpg)
 
 点击进去之后，在左侧找到 Request Refund ，即是申请退款选项！如果你要退款，那就点击它！！！备注，你可能需要再点击一下类似 Request full refund for this service 的按钮。
 
