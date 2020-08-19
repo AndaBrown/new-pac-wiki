@@ -29,7 +29,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务
 <strong>Just My Socks怎么样？</strong>每个套餐提供2个ss账号和4个v2ray帐号，共6条线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
 </p>
 <p class="keepp">
-<strong>哪些人适合用Just My Socks？</strong>如果你只是为了翻墙看看YouTube、刷刷ins，或者谷歌，那么你完全不需要折腾VPS，自建ss，Just My Socks可以非常方便的达到这些需求。<strong>Just My Socks缺点</strong>：无法看Netflix。
+<strong>哪些人适合用Just My Socks？</strong>不想自己搭建ss或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。<strong>Just My Socks缺点</strong>：无法看Netflix。
 </p>
 <p class="keepp">
 <strong>支持的协议：TCP或UDP？</strong>
