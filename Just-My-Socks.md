@@ -150,8 +150,9 @@ v2ray帐号可以参考这个教程来使用[v2ray各平台图文使用教程](h
 
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 
+点击进去之后，在左侧找到 Request Refund ，即是申请退款选项！如果你要退款，那就点击它！！！备注，你可能需要再点击一下类似 Request full refund for this service 的按钮。
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just3.jpg)
 
-点击进去之后，在左侧找到 Request Refund ，即是申请退款选项！如果你要退款，那就点击它！！！备注，你可能需要再点击一下类似 Request full refund for this service 的按钮。
 
 退款方式是原路退回的，比如说你是使用了支付宝付款的，那么到时候也是退款到支付宝的。
