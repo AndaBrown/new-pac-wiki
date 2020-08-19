@@ -165,11 +165,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjEyLmZy
 
 ***
 
-如果你觉得免费账号速度不能满足自己的需求，可以根据[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建v2ray帐号，首选日本或者韩国服务器。或者你也可以考虑搬瓦工官方付费ss/v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。
-
-
-***
-
 
 ### v2ray客户端下载及使用方法
 
