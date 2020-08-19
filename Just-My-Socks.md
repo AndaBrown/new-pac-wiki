@@ -2,8 +2,6 @@
 
 如果无法查看教程中的图片，可访问https://tr1.freeair888.club/just-my-socks
 
-**目前Just My Socks套餐提供2个SS帐号和4个v2ray帐号。**
-
 ***
 
 <h2>文章目录</h2>
