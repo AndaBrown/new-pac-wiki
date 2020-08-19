@@ -121,6 +121,34 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just2.jpg)
 
+**前5条线路怎么选择？**
+
+cXs1，cXs2和cXs5通过CN2 GT网络与其他中国联通和中国移动直接连接进行路由。
+
+服务器cXs3通过中国电信提供的CN2 GIA网络进行路由（仅中国电信路由）。 
+
+服务器cXs4通过高级中国移动混合路由（在返回路径上具有CN2 GIA）（仅中国移动路由）。 
+
+根据您的提供商（CT，CU，CM）的不同，使用不同的服务器可能会看到不同的连接速度，因此justmysocks官方建议尝试一下每台服务器，看看哪种服务器最适合您。
+
+**第6条线路：什么是Freedom服务器（s801）？**
+
+Freedom服务器可以提供更多的数据传输，具体取决于当前的乘数。
+
+该服务器提供了较便宜的路由，并且不提供任何形式的保证。用它来节省您的每月数据传输津贴。
+
+例如，如果当前数据传输倍数= 10，那么您下载的所有内容中只有1/10会计入每月数据配额。 
+
+实际示例：假设您想通过我们的网络下载20 GB（20000MB）的文件。如果您使用s1..s5范围内的服务器进行下载，则我们的系统将计入所有20GB的数据传输（加上任何TCP开销）。
+但是，如果您使用服务器s801进行此传输，并且当前乘数为10，则我们的系统将仅占该传输的1/10（20 GB / 10 = 2 GB）
+
+注意：数据传输乘数可以随时更改。
+
+注意：官方不提供有关服务器s801的任何质量或正常运行时间保证。它是出于礼貌提供的，可以随时脱机使用。
+
+***
+
+
 Windows SS客户端 [下载地址](https://github.com/shadowsocks/shadowsocks-windows/releases) 
 
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
