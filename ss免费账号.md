@@ -86,7 +86,7 @@ IP：64.32.6.195
 
 ***
 
-如果你觉得免费账号速度不能满足自己的需求，可以根据[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建SS/SSR帐号，首选日本或者韩国服务器。或者你也可以考虑搬瓦工官方付费ss/v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) （目前Just My Socks套餐提供2个SS帐号和4个v2ray帐号）。
+如果你觉得免费账号速度不能满足自己的需求，可以根据[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建SS/SSR帐号，首选日本或者韩国服务器。或者你也可以考虑搬瓦工官方付费ss/v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
 
 
 ***
