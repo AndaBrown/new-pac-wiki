@@ -126,7 +126,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/obfs/obfs2.jpg)
 
-你也可以直接下载打包好的ss和obfs客户端压缩包，[网盘下载1](http://www.freedown9.com/html/ss/windows-shadowsocks-4.1.6.zip) [网盘下载2](http://tr1.freedown9.com/ss/windows-shadowsocks-4.1.6.zip)
+你也可以直接下载打包好的ss和obfs客户端压缩包，[网盘下载1](http://173.0.55.67/html/ss/windows-shadowsocks-4.1.6.zip) [网盘下载2](http://tr30.free4444.club/ss/windows-shadowsocks-4.1.6.zip)
 
 下载后解压即可。
 
