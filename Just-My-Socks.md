@@ -18,16 +18,16 @@ Just My Socks是目前非常火热的一个Shadowsocks/v2ray服务商（机场�
 </p>
 <h2 id="user-content-just1"><span id="just_my_socks">一、Just My Socks介绍</span></h2>
 <p class="keepp">
-Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务，支持支付宝付款，提供ss和v2ray账号，共6条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，<strong>保证IP可用，被封自动切换</strong>。
+Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务，支持支付宝付款，提供ss/ssr和v2ray账号，共6条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，<strong>保证IP可用，被封自动切换</strong>。
 </p>
 <p class="keepp">
 <strong>Just My Socks靠谱吗？</strong>不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近1年了（2018年10月推出的），可以说非常靠谱。
 </p>
 <p class="keepp">
-<strong>Just My Socks怎么样？</strong>每个套餐提供2个ss账号和4个v2ray帐号，共6条线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
+<strong>Just My Socks怎么样？</strong>每个套餐提供2个ss/ssr账号和4个v2ray帐号，共6条线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
 </p>
 <p class="keepp">
-<strong>哪些人适合用Just My Socks？</strong>不想自己搭建ss或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。<strong>Just My Socks缺点</strong>：无法看Netflix。
+<strong>哪些人适合用Just My Socks？</strong>不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。<strong>Just My Socks缺点</strong>：无法看Netflix。
 </p>
 <p class="keepp">
 <strong>支持的协议：TCP或UDP？</strong>
@@ -113,24 +113,19 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 <p class="keepp">
 这里就可以看到shadowsocks和v2ray详情了（ip以域名形式发放，页面上也能看到域名对应的ip，如果域名解析不顺利可直接填入域名对应的ip）
 
-注意：目前Just My Socks套餐提供2个SS帐号和4个v2ray帐号。aes-256-gcm 加密方式必须使用 SS 客户端，SSR客户端不支持aes-256-gcm。
+**注意：默认的SS/SSR加密方式为aes-256-gcm，aes-256-gcm加密方式必须使用 SS 客户端，SSR客户端不支持aes-256-gcm。如果想用SSR客户端，在界面上操作一下就可以自动把aes-256-gcm加密方式改为SSR客户端支持的aes-256-cfb。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just1.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just5.jpg)
 
+加密方式修改如下图：
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just6.jpg)
+
+除了更改加密方式以外，还可以选择更改帐号密码和端口。
 
 ***
-
-**前5条线路怎么选择？**
-
-cXs1，cXs2和cXs5通过CN2 GT网络与其他中国联通和中国移动直接连接进行路由。
-
-服务器cXs3通过中国电信提供的CN2 GIA网络进行路由（仅中国电信路由）。 
-
-服务器cXs4通过高级中国移动混合路由（在返回路径上具有CN2 GIA）（仅中国移动路由）。 
-
-根据您的提供商（CT，CU，CM）的不同，使用不同的服务器可能会看到不同的连接速度，建议尝试一下每台服务器，看看哪种服务器最快。
 
 **第6条线路：什么是Freedom服务器（s801）？**
 
