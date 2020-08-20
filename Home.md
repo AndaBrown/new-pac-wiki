@@ -23,7 +23,7 @@
 
 ***
 
-**帮助改善软件，[软件使用效果匿名调查问卷](https://www.surveymonkey.com/r/JXX6FK5)**
+**2020年8月21日：云端更新Naiveproxy ip1和ip2配置信息，运行ip1或ip2即可同步。帮助改善软件，软件使用效果匿名调查问卷帮助改善软件，[软件使用效果匿名调查问卷](https://www.surveymonkey.com/r/JXX6FK5)**
 
 **2020年8月18日：更新谷歌高内核所有版本、更新谷歌低内核和火狐浏览器集合版和FreeGate版。**
 
