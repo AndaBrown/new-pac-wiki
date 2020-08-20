@@ -24,7 +24,7 @@ Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务
 <strong>Just My Socks靠谱吗？</strong>不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近1年了（2018年10月推出的），可以说非常靠谱。
 </p>
 <p class="keepp">
-<strong>Just My Socks怎么样？</strong>每个套餐提供2个ss/ssr账号和4个v2ray帐号，共6条线路，包括最快的搬瓦工CN2 GIA线路，速度很快。
+<strong>Just My Socks怎么样？</strong>线路优质，包括最快的搬瓦工CN2 GIA线路。
 </p>
 <p class="keepp">
 <strong>哪些人适合用Just My Socks？</strong>不想自己搭建ss/ssr或v2ray翻墙帐号，但又对速度有较高的要求，Just My Socks可以非常方便的达到这些需求。<strong>Just My Socks缺点</strong>：无法看Netflix。
