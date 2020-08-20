@@ -23,9 +23,9 @@
 
 ***
 
-**2020年8月20日公告：云端更新集合版Goflyway工具ip3、v2ray工具ip3、SS工具ip2，运行ip更新文件即可同步。Goflyway ip3为洛杉矶服务器，电信联通网络使用效果较好，v2ray ip3和SS ip2为新加坡服务器，移动网络会比较快。帮助改善软件，[软件使用效果匿名调查问卷](https://www.surveymonkey.com/r/JXX6FK5)**
+**2020年8月20日：云端更新集合版Goflyway工具ip3、v2ray工具ip3、SS工具ip2，运行ip更新文件即可同步。Goflyway ip3为洛杉矶服务器，电信联通网络使用效果较好，v2ray ip3和SS ip2为新加坡服务器，移动网络会比较快。帮助改善软件，[软件使用效果匿名调查问卷](https://www.surveymonkey.com/r/JXX6FK5)**
 
-**2020年8月18日公告：更新谷歌高内核所有版本、更新谷歌低内核和火狐浏览器集合版和FreeGate版。**
+**2020年8月18日：更新谷歌高内核所有版本、更新谷歌低内核和火狐浏览器集合版和FreeGate版。**
 
 **谷歌高内核集合版更新内容**：1、升级浏览器内核至84；2、新增Goflyway两个ip更新地址；3、新增SS-Kcptun工具；4、去掉失效的工具Daze；5、升级v2ray、SS、Naiveproxy、Brook、Trojan-go客户端版本至最新版；6、Naiveproxy最新客户端版本支持最新服务器配置信息，老版本已失效。
 
