@@ -14,11 +14,11 @@
  	<li><a href="#user-content-just6">Just My Socks怎么用</a></li>
 </ol>
 <p class="keepp">
-Just My Socks是目前非常火热的一个Shadowsocks/v2ray服务商（机场），由搬瓦工官方推出，每个服务提供6条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
+Just My Socks是目前非常火热的一个ss/ssr/v2ray服务商（机场），由搬瓦工官方推出，每个服务提供6条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。
 </p>
 <h2 id="user-content-just1"><span id="just_my_socks">一、Just My Socks介绍</span></h2>
 <p class="keepp">
-Just My Socks是<strong>搬瓦工官方</strong>出品的Shadowsocks代理服务，支持支付宝付款，提供ss/ssr和v2ray账号，共6条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，<strong>保证IP可用，被封自动切换</strong>。
+Just My Socks是<strong>搬瓦工官方</strong>出品的ss/ssr/v2ray代理服务，支持支付宝付款，提供ss/ssr和v2ray账号，共6条线路，包括<strong>搬瓦工CN2 GIA线路</strong>，性价比很高且非常稳定，比买VPS灵活划算且省得折腾，<strong>保证IP可用，被封自动切换</strong>。
 </p>
 <p class="keepp">
 <strong>Just My Socks靠谱吗？</strong>不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近1年了（2018年10月推出的），可以说非常靠谱。
