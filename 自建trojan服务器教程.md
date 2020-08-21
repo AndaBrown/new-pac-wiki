@@ -23,6 +23,8 @@ VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、
 
 vultr注册地址：https://www.vultr.com/?ref=8418982-6G （vutr活动，新用户注册送100美元，vps最低2.5美元/月，vultr全球17个服务器位置可选，新增韩国服务器。支持支付宝和paypal付款。） 
 
+vultr活动注意：只针对从没有注册过vultr产品的用户，都可以收到来自vultr官方赠送的100美元的试用金额。不过，用户必须使用信用卡或者PayPal来激活；试用期为1个月，没有使用完的额度会自动失效！官方除了支持PayPal和信用卡付款之外，还支持微信、支付宝、比特币，不过你使用这些付款的话就不能享受100美元的试用金额了。
+
 <a href="https://www.vultr.com/?ref=8418982-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
 
 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
