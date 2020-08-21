@@ -20,9 +20,9 @@ google.com(谷歌；搜索类） dongtaiwang.com(动态网；新闻及网址导�
 
 VPS推荐：
 
-[Vultr](https://www.vultr.com/?ref=7048874) （vps最低2.5美元/月，vultr全球16个服务器位置可选，新增韩国服务器。支持支付宝和paypal付款。）
+[Vultr](https://www.vultr.com/?ref=8418982-6G) （vutr活动，新用户注册送100美元，vps最低2.5美元/月，vultr全球16个服务器位置可选，新增韩国服务器。支持支付宝和paypal付款。）
 
-<a href="https://www.vultr.com/?ref=7048874"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=8418982-6G"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 ***
 
