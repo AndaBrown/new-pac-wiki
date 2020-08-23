@@ -34,7 +34,7 @@ VPS推荐：
 
 **如果觉得好用，可以分享给自己的朋友，帮助他们突破网络封锁，了解外面真实的世界。**
 
-**北京时间2020年8月20日18点30分更新帐号4，新增洛杉矶服务器替换荷兰服务器。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年8月23日21点03分去掉原帐号2。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 (7月16日更换网址)
 
@@ -64,32 +64,8 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-**账号2（德国2，WebSocket+TLS）**:                                                        
 
- Address(地址): good.free9999.net
-
- Port（端口）:443
-
- UUID（用户id）: e5a59c58-d055-428e-b191-95fb5dcb7539
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： /ray
-
- 底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICBnb29kLmZyZWU5OTk5Lm5ldCIsDQogICJhZGQiOiAiZ29vZC5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTVhNTljNTgtZDA1NS00MjhlLWIxOTEtOTVmYjVkY2I3NTM5IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
-
-
-**账号3（俄罗斯，WebSocket）**:                                                        
+**账号2（俄罗斯，WebSocket）**:                                                        
 
  Address(地址): 45.147.200.250
 
@@ -113,7 +89,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICBnb29kLmZy
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IDQ1LjE0Ny4yMDAuMjUwIiwNCiAgImFkZCI6ICI0NS4xNDcuMjAwLjI1MCIsDQogICJwb3J0IjogIjE5OTk0IiwNCiAgImlkIjogIjg4NGQzOTc3LTI5NDktNDc5NS05ZGIzLWZkOTExOGJhMjRmMSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**账号4（洛杉矶，WebSocket+TLS+Nginx）**:                                                        
+**账号3（洛杉矶，WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr2.free3333.xyz
 
@@ -138,7 +114,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IDQ1LjE0Ny4y
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjIuZnJlZTMzMzMueHl6IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTMzMzMueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjNlODUyYzQzLTM2YjUtNDIxNS1iNTdjLTZiOTkxYWE0YTYwNSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHIyLmZyZWUzMzMzLnh5eiIsDQogICJwYXRoIjogIi9lMmE0YzgvIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
-**账号5（荷兰2，WebSocket+TLS+Nginx+CDN）**:                                                        
+**账号4（荷兰2，WebSocket+TLS+Nginx+CDN）**:                                                        
 
  Address(地址): tr12.free2222.xyz
 
