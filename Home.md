@@ -19,7 +19,7 @@
 
 ***
 
-**备用网址：https://tr1.freeair888.club (7月16日更换网址)**
+**备用网址：https://tr1.freeair888.club **
 
 ***
 
