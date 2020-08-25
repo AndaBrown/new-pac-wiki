@@ -139,7 +139,7 @@ IP：45.90.57.171
 
 ***
 
-如果您觉得免费账号速度不能满足自己的需求，可以根据[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建ss/ssr帐号。或者你也可以考虑搬瓦工官方付费ss/ssr服务-[Just My Socks介绍及购买教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
+如果您觉得免费账号速度不能满足自己的需求，可以根据[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建ss/ssr帐号。或者您也可以考虑搬瓦工官方付费ss/ssr服务-[Just My Socks介绍及购买教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
 
 
 ***
