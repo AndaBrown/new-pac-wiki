@@ -65,7 +65,7 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶1</td>
-<td>67.21.68.252 </td>
+<td>67.21.68.252</td>
 <td>56789</td>
 <td>dongtaiwang.com 123abc</td>
 <td>RC4</td>
