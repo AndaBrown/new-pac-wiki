@@ -97,6 +97,85 @@ VPS推荐：
 
 ***
 
+<table id="tablepress-1">
+<thead>
+<tr>
+<th>服务器位置</th>
+<th>服务器地址</th>
+<th>端口</th>
+<th>密码</th>
+<th>加密方式</th>
+<th>协议</th>
+<th>混淆</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>德国</td>
+<td>89.163.225.161</td>
+<td>23456</td>
+<td>ntdtv.com 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+<tr>
+<td>洛杉矶1</td>
+<td>67.21.68.252 </td>
+<td>56789</td>
+<td>dongtaiwang.com 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+<tr>
+<td>洛杉矶2</td>
+<td>64.32.6.195</td>
+<td>34567</td>
+<td>dongtaiwang.com 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+<tr>
+<td>新加坡</td>
+<td>195.123.237.12</td>
+<td>666</td>
+<td>ntdtv.com 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+<tr>
+<td>日本</td>
+<td>5.180.77.246</td>
+<td>555</td>
+<td>ntdtv.com 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+<tr>
+<td>莫斯科</td>
+<td>45.129.2.169</td>
+<td>666</td>
+<td>bannedbook.org 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+<tr>
+<td>瑞士</td>
+<td>45.90.57.171</td>
+<td>666</td>
+<td>ntdtv.com 123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr>
+</tbody>
+</table>
+
 如果觉得免费账号速度不能满足自己的需求，可以根据[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建ss/ssr帐号。或者也可以考虑搬瓦工官方付费ss/ssr服务-[Just My Socks介绍及购买教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
 
 
