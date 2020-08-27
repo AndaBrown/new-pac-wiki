@@ -40,62 +40,6 @@ VPS推荐：
 
 **以下SSR账号密码都有一个空格**
 
-**德国**：89.163.225.161
-端口：23456
-密码：ntdtv.com 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-
-**洛杉矶1**：67.21.68.252
-端口：56789
-密码：dongtaiwang.com 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-
-**洛杉矶2**：64.32.6.195
-端口：34567
-密码：dongtaiwang.com 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-
-**新加坡**：195.123.237.12
-端口：666
-密码：ntdtv.com 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-
-**日本**：5.180.77.246
-端口：555
-密码：ntdtv.com 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-
-**莫斯科**：45.129.2.169
-端口：666
-密码：bannedbook.org 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-
-**瑞士**：45.90.57.171
-端口：666
-密码：ntdtv.com 123abc
-加密方式：RC4 
-协议：origin 
-混淆：plain
-
-***
 
 <table id="tablepress-1">
 <thead>
@@ -175,6 +119,8 @@ VPS推荐：
 </tr>
 </tbody>
 </table>
+
+***
 
 如果觉得免费账号速度不能满足自己的需求，可以根据[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建ss/ssr帐号。或者也可以考虑搬瓦工官方付费ss/ssr服务-[Just My Socks介绍及购买教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
 
