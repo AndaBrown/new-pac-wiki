@@ -80,7 +80,16 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</a></td>
-</tr>
+</tr> 
+<tr>
+<td>洛杉矶3</td>
+<td>195.123.240.241</td>
+<td>12345</td>
+<td>ntdtv.comm&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</a></td>
+</tr> 
 <tr>
 <td>新加坡</td>
 <td>195.123.237.12</td>
