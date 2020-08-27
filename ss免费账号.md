@@ -51,85 +51,55 @@ IP：89.163.225.161
 **SSR账号（洛杉矶1）**
 
 IP：67.21.68.252
- 
 端口：56789
-
 密码：dongtaiwang.com 123abc
-
 加密方式：RC4 
-
 协议：origin 
-
 混淆：plain
 
 **SSR账号（洛杉矶2）**
 
 IP：64.32.6.195
- 
 端口：34567
-
 密码：dongtaiwang.com 123abc
-
 加密方式：RC4 
-
 协议：origin 
-
 混淆：plain
 
 **SSR账号（新加坡）**
 
 IP：195.123.237.12
- 
 端口：666
-
 密码：ntdtv.com 123abc
-
 加密方式：RC4 
-
 协议：origin 
-
 混淆：plain
 
 **SSR账号（日本）**
 
 IP：5.180.77.246
- 
 端口：555
-
 密码：ntdtv.com 123abc
-
 加密方式：RC4 
-
 协议：origin 
-
 混淆：plain
 
 **SSR账号（莫斯科）**
 
 IP：45.129.2.169
- 
 端口：666
-
 密码：bannedbook.org 123abc
-
 加密方式：RC4 
-
 协议：origin 
-
 混淆：plain
 
 **SSR账号（瑞士）**
 
 IP：45.90.57.171
- 
 端口：666
-
 密码：ntdtv.com 123abc
-
 加密方式：RC4 
-
 协议：origin 
-
 混淆：plain
 
 ***
