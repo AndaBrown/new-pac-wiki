@@ -163,8 +163,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjEyLmZy
 <td>2</td>
 <td>auto</td>
 <td>ws</a></td>
-<td>ws</a></td>
-<td>ws</a></td>
+<td>none</a></td>
+<td>tr4.free9999.net</a></td>
+<td>/622f/</a></td>
+<td>tls</a></td>
 </tr>
 </tbody>
 </table>
