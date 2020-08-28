@@ -152,6 +152,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjEyLmZy
 <th>伪装域名</th>
 <th>路径</th>
 <th>底层传输安全</th>
+<th>vmess链接</th>
 </tr>
 </thead>
 <tbody>
