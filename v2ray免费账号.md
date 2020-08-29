@@ -137,43 +137,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVl
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjEyLmZyZWUyMjIyLnh5eiIsDQogICJhZGQiOiAidHIxMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTFiMzVjY2QtNGNiMC00NjgxLTg5ZmUtMThiYjJlNzkxNzU3IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjEyLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi9iY2U4YWRhNzYwZS8iLA0KICAidGxzIjogInRscyINCn0=
 
 
-ps：下面这个表格是测试排版用。
-
-<table id="tablepress-1">
-<thead>
-<tr>
-<th>服务器位置</th>
-<th>服务器地址</th>
-<th>端口</th>
-<th>UUID</th>
-<th>alterId（额外ID）</th>
-<th>加密方式</th>
-<th>传输协议</th>
-<th>伪装类型</th>
-<th>伪装域名</th>
-<th>路径</th>
-<th>底层传输安全</th>
-<th>vmess链接</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>德国</td>
-<td>tr4.free9999.net</td>
-<td>443</td>
-<td>aa0e5476-0613-429a-bedb-24923901040d</td>
-<td>2</td>
-<td>auto</td>
-<td>ws</a></td>
-<td>none</a></td>
-<td>tr4.free9999.net</a></td>
-<td>/622f/</a></td>
-<td>tls</a></td>
-<td>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IiwNCiAgImFkZCI6ICJ0cjQuZnJlZTk5OTkubmV0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFhMGU1NDc2LTA2MTMtNDI5YS1iZWRiLTI0OTIzOTAxMDQwZCIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHI0LmZyZWU5OTk5Lm5ldCIsDQogICJwYXRoIjogIi82MjJmLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==</td>
-</tr>
-</tbody>
-</table>
-
 ***
 
 如果觉得免费账号速度不能满足自己的需求，可以根据[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建v2ray帐号。或者也可以考虑搬瓦工官方付费v2ray服务-[Just My Socks介绍及购买教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
