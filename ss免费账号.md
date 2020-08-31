@@ -50,6 +50,7 @@ VPS推荐：
 <th>加密方式</th>
 <th>协议</th>
 <th>混淆</th>
+<th>限速</th>
 </tr>
 </thead>
 <tbody>
@@ -60,7 +61,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>600kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶1</td>
@@ -69,7 +71,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶2</td>
@@ -78,7 +81,8 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr> 
 <tr>
 <td>洛杉矶3</td>
@@ -87,7 +91,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr> 
 <tr>
 <td>新加坡</td>
@@ -96,7 +101,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>日本1</td>
@@ -105,7 +111,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>日本2</td>
@@ -114,7 +121,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科</td>
@@ -123,7 +131,8 @@ VPS推荐：
 <td>bannedbook.org&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
@@ -132,7 +141,8 @@ VPS推荐：
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
-<td>plain</a></td>
+<td>plain</td>
+<td>400kb/s</a></td>
 </tr>
 </tbody>
 </table>
