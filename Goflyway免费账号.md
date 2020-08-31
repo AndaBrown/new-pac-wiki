@@ -39,7 +39,7 @@ VPS推荐：
 
 ***
 
-**Goflyway1账号**:
+**Goflyway账号1**:
 
 服务器地址：tr54.free5555.xyz
 
@@ -50,7 +50,7 @@ VPS推荐：
 客户端协议：CDN（HTTP协议）
 
 
-**Goflyway2账号**:
+**Goflyway账号2**:
 
 服务器地址：67.21.94.231
 
