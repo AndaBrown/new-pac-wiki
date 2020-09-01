@@ -1,4 +1,4 @@
-**2020年8月16日更新五合一的TCP网络加速脚本；8月15日更新一键安装脚本及图文教程。**
+**2020年9月1日更新高阶篇脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建v2ray服务器教程**
 
@@ -286,7 +286,7 @@ chmod +x tcp.sh
 
 ***
 
-bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
 
 ***
 
