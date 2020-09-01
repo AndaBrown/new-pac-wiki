@@ -107,10 +107,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieef
 
  路径：/996de193ab627c/
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
-
 
 
 **账号4（新加坡，WebSocket+TLS+Nginx）**:                                                        
@@ -133,7 +132,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIs
 
  路径：/882e/
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwMDE2YjFhNS1hNjk2LTQyNTAtYWNlNS1jZmJhMmQ1Mjk2YTYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMy5mcmVlMzMzMy54eXoiLA0KICAicGF0aCI6ICIvODgyZS8iLA0KICAidGxzIjogInRscyINCn0=
 
