@@ -38,7 +38,7 @@ VPS推荐：
 
 ***
 
-**帐号1（莫斯科，WebSocket+TLS+Nginx）**:                                                        
+**帐号1（莫斯科，tcp）**:                                                        
 
  Address(地址): 45.144.2.9
 
