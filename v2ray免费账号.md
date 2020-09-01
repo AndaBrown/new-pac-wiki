@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月1日更新帐号1。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月1日更新帐号1、3、4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -113,13 +113,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIs
 
 
 
-**账号4（荷兰2，WebSocket+TLS+Nginx+CDN）**:                                                        
+**账号4（新加坡，WebSocket+TLS+Nginx）**:                                                        
 
- Address(地址): tr12.free2222.xyz
+ Address(地址): tr3.free3333.xyz
 
  Port（端口）:443
 
- UUID（用户id）: 11b35ccd-4cb0-4681-89fe-18bb2e791757
+ UUID（用户id）: 0016b1a5-a696-4250-ace5-cfba2d5296a6
 
  alterId（额外ID）: 2
 
@@ -129,13 +129,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIs
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr12.free2222.xyz
+ 伪装域名（host）：tr3.free3333.xyz
 
- 路径：/bce8ada760e/
+ 路径：/882e/
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjEyLmZyZWUyMjIyLnh5eiIsDQogICJhZGQiOiAidHIxMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTFiMzVjY2QtNGNiMC00NjgxLTg5ZmUtMThiYjJlNzkxNzU3IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjEyLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi9iY2U4YWRhNzYwZS8iLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwMDE2YjFhNS1hNjk2LTQyNTAtYWNlNS1jZmJhMmQ1Mjk2YTYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMy5mcmVlMzMzMy54eXoiLA0KICAicGF0aCI6ICIvODgyZS8iLA0KICAidGxzIjogInRscyINCn0=
 
 
 ***
