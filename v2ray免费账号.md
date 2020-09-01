@@ -136,7 +136,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIs
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwMDE2YjFhNS1hNjk2LTQyNTAtYWNlNS1jZmJhMmQ1Mjk2YTYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMy5mcmVlMzMzMy54eXoiLA0KICAicGF0aCI6ICIvODgyZS8iLA0KICAidGxzIjogInRscyINCn0=
 
-
 ***
 
 如果觉得免费账号速度不能满足自己的需求，可以根据[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 搭建v2ray帐号。或者也可以考虑搬瓦工官方付费v2ray服务-[Just My Socks介绍及购买教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
