@@ -87,13 +87,14 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+en
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjIuZnJlZTMzMzMueHl6IiwNCiAgImFkZCI6ICJ0cjIuZnJlZTMzMzMueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjNlODUyYzQzLTM2YjUtNDIxNS1iNTdjLTZiOTkxYWE0YTYwNSIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHIyLmZyZWUzMzMzLnh5eiIsDQogICJwYXRoIjogIi9lMmE0YzgvIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**账号3（荷兰1，WebSocket+TLS+Nginx）**:                                                        
+**账号3（瑞士，WebSocket+TLS+Nginx）**:                                                        
 
- Address(地址): tr2.free9999.net
+ Address(地址): tr24.free2222.xyz
 
  Port（端口）:443
 
- UUID（用户id）: 190a8fbd-6a8f-4387-b9c3-34042b81a099
+ UUID（用户id）: ba9bd24c-f237-45ad-bb3e-4f7430897b9c
+
  alterId（额外ID）: 2
 
  security（加密方式）: auto
@@ -102,13 +103,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjIuZnJl
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr2.free9999.net
+ 伪装域名（host）：tr24.free2222.xyz
 
- 路径：/4969ec3a/
+ 路径：/996de193ab627c/
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHRyMi5mcmVlOTk5OS5uZXQiLA0KICAiYWRkIjogInRyMi5mcmVlOTk5OS5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTkwYThmYmQtNmE4Zi00Mzg3LWI5YzMtMzQwNDJiODFhMDk5IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjIuZnJlZTk5OTkubmV0IiwNCiAgInBhdGgiOiAiLzQ5NjllYzNhLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
 
 
 
