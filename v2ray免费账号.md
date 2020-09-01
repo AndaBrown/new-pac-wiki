@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月1日更新帐号1、3、4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月1日11点50分更新帐号1、3、4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -42,7 +42,7 @@ VPS推荐：
 
  Address(地址): tr22.free2222.xyz
 
- Port（端口）:443
+ Port（端口）:12345
 
  UUID（用户id）: 30608a60-defa-4e34-b41f-3394f16e6d46
 
@@ -60,7 +60,7 @@ VPS推荐：
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIyMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMzA2MDhhNjAtZGVmYS00ZTM0LWI0MWYtMzM5NGYxNmU2ZDQ2IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjIyLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi83OGUzMjFiODYvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIyMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICIxMjM0NSIsDQogICJpZCI6ICIzMDYwOGE2MC1kZWZhLTRlMzQtYjQxZi0zMzk0ZjE2ZTZkNDYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMjIuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiLzc4ZTMyMWI4Ni8iLA0KICAidGxzIjogInRscyINCn0=
 
 
 **账号2（洛杉矶，WebSocket+TLS+Nginx）**:                                                        
