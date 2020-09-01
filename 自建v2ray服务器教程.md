@@ -179,7 +179,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
-**如果是选择的CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
+**如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
 
 **查看防火墙状态命令：firewall-cmd --state**
 
