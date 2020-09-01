@@ -187,7 +187,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 **禁止firewall开机启动命令：systemctl disable firewalld.service**
 
-注意：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署WebSocket+Tls+Nginx+Web”的脚本,高级篇需要域名。
+提醒：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署WebSocket+Tls+Nginx+Web”的脚本,高级篇需要域名。
 
 ***
 
