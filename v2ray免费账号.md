@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月1日11点50分更新帐号1、3、4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月1日12点20分更新帐号1、3、4。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -40,27 +40,27 @@ VPS推荐：
 
 **帐号1（莫斯科，WebSocket+TLS+Nginx）**:                                                        
 
- Address(地址): tr22.free2222.xyz
+ Address(地址): 45.144.2.9
 
- Port（端口）:12345
+ Port（端口）:22083
 
- UUID（用户id）: 30608a60-defa-4e34-b41f-3394f16e6d46
+ UUID（用户id）: 26fd84b9-537f-4795-a443-1ae18df4df8a
 
- alterId（额外ID）: 2
+ alterId（额外ID）: 233
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr22.free2222.xyz
+ 伪装域名（host）：不填
 
- 路径： /78e321b86/
+ 路径： 不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIyMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICIxMjM0NSIsDQogICJpZCI6ICIzMDYwOGE2MC1kZWZhLTRlMzQtYjQxZi0zMzk0ZjE2ZTZkNDYiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMjIuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiLzc4ZTMyMWI4Ni8iLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjIyMDgzIiwNCiAgImlkIjogIjI2ZmQ4NGI5LTUzN2YtNDc5NS1hNDQzLTFhZTE4ZGY0ZGY4YSIsDQogICJhaWQiOiAiMjMzIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 
 **账号2（洛杉矶，WebSocket+TLS+Nginx）**:                                                        
