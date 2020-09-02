@@ -40,6 +40,7 @@ VPS推荐：
 
 **以下SSR账号密码都有一个空格。为了让每个人都能获得一定的带宽资源，帐号进行了单线程限速。**
 
+
 <table id="tablepress-1">
 <thead>
 <tr>
@@ -59,6 +60,26 @@ VPS推荐：
 <td>89.163.225.161</td>
 <td>34567</td>
 <td>ntdtv.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>400kb/s</a></td>
+</tr>
+<tr>
+<td>莫斯科1</td>
+<td>45.147.200.161</td>
+<td>12345</td>
+<td>ntdtv.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>400kb/s</a></td>
+</tr>
+<tr>
+<td>莫斯科2</td>
+<td>45.129.2.169</td>
+<td>666</td>
+<td>bannedbook.org&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
@@ -113,16 +134,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 <td>200kb/s</a></td>
-</tr>
-<tr>
-<td>莫斯科</td>
-<td>45.129.2.169</td>
-<td>666</td>
-<td>bannedbook.org&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
