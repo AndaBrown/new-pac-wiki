@@ -60,7 +60,7 @@ Goflyway Windows图形界面客户端 [下载地址1](http://45.147.201.142/Gofl
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/goflyway/gy2.png)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/goflyway/gy1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/goflyway/goflyway-001.jpg)
 
 **目前只有Windows图形界面的客户端，其它电脑系统，比如Mac、Linux要使用命令行来使用。**
 
