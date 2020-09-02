@@ -185,7 +185,7 @@ chmod +x brook.sh
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook7.PNG)
 
-版本号输入v20190205
+版本号输入v20200801
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/brook/brook8.PNG)
 
