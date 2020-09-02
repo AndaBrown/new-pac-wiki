@@ -62,7 +62,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>600kb/s</a></td>
+<td>400kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶1</td>
@@ -97,16 +97,6 @@ VPS推荐：
 <tr>
 <td>新加坡</td>
 <td>195.123.237.12</td>
-<td>777</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>400kb/s</a></td>
-</tr>
-<tr>
-<td>日本1</td>
-<td>5.180.77.246</td>
 <td>777</td>
 <td>ntdtv.com&nbsp;123abc</td>
 <td>RC4</td>
