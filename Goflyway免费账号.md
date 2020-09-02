@@ -58,7 +58,7 @@ VPS推荐：
 
 Goflyway Windows图形界面客户端 [下载地址1](http://45.147.201.142/Goflyway.7z) [下载地址2](http://89.163.224.142/Goflyway.7z) 操作方法和ss/ssr客户端类似。下载后解压出来，打开Goflyway文件夹里面的GoflywayTools.exe客户端，填写**上面最新的goflyway账号信息**后，点击“启动”按钮，浏览器代理设置成http 127.0.0.1 8100即可。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/goflyway/gy2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/goflyway/gy1.png)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/goflyway/goflyway-001.jpg)
 
