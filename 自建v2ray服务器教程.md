@@ -147,8 +147,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 
-
 > 安装完成后，输入v2ray可进入管理页面
+
+> 提醒：脚本一是根据网上的一个脚本修改而来，原脚本屏蔽了一些网站，修改脚本后取消了屏蔽网站，一般来说是生效的，但不排除特殊情况，如果以后发现无法生效可以换其它脚本，以及反馈一下。
 
 ***
 
