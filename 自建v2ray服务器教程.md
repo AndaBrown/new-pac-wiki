@@ -1,4 +1,4 @@
-**2020年9月3日更新脚本并增加一个脚本。**
+**2020年9月4日更新脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建v2ray服务器教程**
 
@@ -141,20 +141,6 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统 v2ray一键部署管理脚本**：
 
-**第一个脚本**：
-
-再次验证后，发现还没真正修复，请用第二个脚本
-
-> 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
-
-> 安装完成后，输入v2ray可进入管理页面
-
-> 提醒：脚本一是根据网上的一个脚本修改而来，原脚本屏蔽了一些网站，修改脚本后取消了屏蔽网站，一般来说是生效的，但不排除特殊情况，如果以后发现无法生效可以换其它脚本，以及反馈一下。
-
-***
-
-**第二个脚本**：
-
 安装命令：
 
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh
@@ -169,7 +155,7 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 > 安装完成后，输入v2ray可进入管理页面。脚本来自[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)。
 
-> 脚本二功能介绍：
+> 脚本功能介绍：
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun1.PNG)
 
@@ -177,48 +163,9 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 ***
 
+**脚本演示**
 
-**1、脚本一演示**
-
-复制上面脚本一的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。安装完成后，如果想修改、查看配置等，可以输入v2ray进行管理页面，不用重复安装脚本。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray1.PNG)
-
-输入数字1进行安装，数字2为卸载。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray2.PNG)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray3.PNG)
-
-选择v2ray传输协议，一共有TCP、WebSocket、HTTP/2、mkcp、Quic共5大类。不同的传输协议速度一般会不同，这个可以自己来测试。带tls字样的协议需要域名。选择输入协议后，接着选择端口、广告拦截、shadowsocks等，默认按回车键。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray4.PNG)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray5.PNG)
-
-按回车键开始自动安装。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray6.PNG)
-
-输入v2ray url可以自动生成vmess链接，然后鼠标选中右键复制。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
-
-输入v2ray可进入管理页面
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-man.PNG)
-
-**如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
-
-**查看防火墙状态命令：firewall-cmd --state**
-
-**停止firewall命令：systemctl stop firewalld.service**
-
-**禁止firewall开机启动命令：systemctl disable firewalld.service**
-
-**2、脚本二演示**
-
-复制上面脚本二的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。安装完成后，如果想修改、查看配置等，可以输入v2ray进行管理页面，不用重复安装脚本。
+复制上面安装命令代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。安装完成后，如果想修改、查看配置等，可以输入v2ray进行管理页面，不用重复安装脚本。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-2-1.PNG)
 
