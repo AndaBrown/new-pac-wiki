@@ -179,6 +179,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray7.PNG)
 
+输入v2ray可进入管理页面
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-man.PNG)
+
 **如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
 
 **查看防火墙状态命令：firewall-cmd --state**
