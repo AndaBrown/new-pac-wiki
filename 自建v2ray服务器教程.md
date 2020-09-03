@@ -167,7 +167,7 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) -k
 
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
-> 安装完成后，输入v2ray可进入管理页面
+> 安装完成后，输入v2ray可进入管理页面。脚本来自[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)。
 
 > 脚本二功能介绍：
 
