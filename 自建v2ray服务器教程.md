@@ -143,7 +143,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **第一个脚本**：
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/Alvin9999/v2ray-edit-from-233boy/master/install.sh && bash install.sh
+再次验证后，发现还没真正修复，请用第二个脚本
 
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget  Debian/Ubuntu系统安装wget命令:apt-get install -y wget
 
