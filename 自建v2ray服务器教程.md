@@ -170,33 +170,10 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 > 安装完成后，输入v2ray可进入管理页面
 
 > 脚本二功能介绍：
->  一键 启动 / 停止 / 重启 V2ray 服务端
->  流量统计(v2ray && iptables)
->  命令行模式管理v2ray
->  支持多用户， 多端口管理
->  开启关闭动态端口
->  bittorrent的禁止与放行
->  单端口, 范围端口的修改
->  直接走Cloudcflare cdn
->  开启关闭tcpFastOpen
->  快速查看服务器连接信息, 常规配置修改
->  自由更改传输配置：
->  常规TCP
->  HTTP头部伪装
->  WebSocket流量
->  常规mKCP流量
->  mKCP 伪装 FaceTime通话流量(srtp)
->  mKCP 伪装 BT下载流量(utp)
->  mKCP 伪装 微信视频通话流量(wechat-video)
->  mKCP 伪装 DTLS 1.2流量(dtls)
->  mKCP 伪装 WireGuard流量(wireguard)
->  HTTP/2的tls流量(h2)(需备域名)
->  Socks5
->  MTProto
->  Shadowsocks
->  Quic
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun1.PNG)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun2.PNG)
 
 ***
 
