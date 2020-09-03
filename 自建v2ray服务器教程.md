@@ -171,8 +171,9 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 ***
 
 
-教程以第一个脚本进行演示，复制上面的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。安装完成后，如果想修改、查看配置等，可以输入v2ray进行管理页面，不用重复安装脚本。
+**1、脚本一演示**
 
+复制上面脚本一的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。安装完成后，如果想修改、查看配置等，可以输入v2ray进行管理页面，不用重复安装脚本。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/new-v2ray1.PNG)
 
@@ -207,6 +208,27 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 **停止firewall命令：systemctl stop firewalld.service**
 
 **禁止firewall开机启动命令：systemctl disable firewalld.service**
+
+**2、脚本二演示**
+
+复制上面脚本二的代码到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着输入数字1来安装。安装完成后，如果想修改、查看配置等，可以输入v2ray进行管理页面，不用重复安装脚本。
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-2-1.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-2-2.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-2-3.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-2-4.PNG)
+
+**如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
+
+**查看防火墙状态命令：firewall-cmd --state**
+
+**停止firewall命令：systemctl stop firewalld.service**
+
+**禁止firewall开机启动命令：systemctl disable firewalld.service**
+
 
 提醒：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署WebSocket+Tls+Nginx+Web”的脚本,高级篇需要域名。
 
