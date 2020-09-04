@@ -148,7 +148,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ***
 
-curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh)"
 
 ***
 
@@ -158,7 +158,7 @@ curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh 
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan3.png)
 
-安装过程会先提示输入域名，接着输入密码。
+安装过程会先提示输入域名，不要带http或https，只输入域名即可，例如domain.com或 a.domain.com ，之后提示输入密码时输入密码。
 
 最终安装完成后，配置文件信息会自动展示在屏幕上，可以复制下来用。并且vps会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
 
