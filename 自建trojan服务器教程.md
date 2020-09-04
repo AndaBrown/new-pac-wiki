@@ -1,4 +1,4 @@
-**2020年8月16日更新五合一的TCP网络加速脚本。**
+**2020年9月4日更新脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建trojan服务器教程**
 
@@ -70,7 +70,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](hhttps://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr3.PNG)
 
-### trojan安装脚本仅支持Centos7或8!
+最新trojan安装脚本系统支持centos7+/debian9+/ubuntu16+
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-v2ray1.png)
 
@@ -144,23 +144,23 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
-**一键安装trojan脚本代码（Centos7/Centos8）**：
+**一键安装trojan脚本代码（系统支持centos7+/debian9+/ubuntu16+）**：
 
 ***
 
-curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_centos7.sh && chmod +x trojan_centos7.sh && ./trojan_centos7.sh
+curl -O https://raw.githubusercontent.com/atrandys/trojan/master/trojan_mult.sh && chmod +x trojan_mult.sh && ./trojan_mult.sh
 
 ***
 
 复制上面整个代码到vps服务器中进行安装，安装过程中会提示输入域名。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan1.png)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan-new1.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/trojan3.png)
 
-最终安装完成后，会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
+安装过程会先提示输入域名，接着输入密码。
+
+最终安装完成后，配置文件信息会自动展示在屏幕上，可以复制下来用。并且vps会展示一条下载地址，复制地址，并下载下来即可。解压缩下载的trojan-cli.zip的压缩包，进入文件夹，双击start.bat，开启Trojan服务，Trojan会监听本地1080端口。
 
 浏览器代理设置成socks5，直接指向127.0.0.1：1080即可。
 
