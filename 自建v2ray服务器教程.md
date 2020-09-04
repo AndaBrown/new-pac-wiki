@@ -161,6 +161,8 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun2.PNG)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun3.PNG)
+
 ***
 
 **脚本演示**
