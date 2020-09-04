@@ -70,7 +70,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](hhttps://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr3.PNG)
 
-最新trojan安装脚本系统支持centos7+/debian9+/ubuntu16+
+**最新trojan安装脚本系统支持centos7+/debian9+/ubuntu16+**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-v2ray1.png)
 
