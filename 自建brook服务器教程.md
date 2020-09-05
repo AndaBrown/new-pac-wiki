@@ -47,9 +47,6 @@ vultr活动注意：只针对从没有注册过vultr产品的用户，都可以�
 
 40美元/月的服务器配置信息： 4cpu   8G内存   160G SSD硬盘   带宽1G    4000G流量/月  
 
-**日本服务器，测试前部署了bbr加速，速度结果如下图：**
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-speed-jp.PNG)
 
 ***
 
