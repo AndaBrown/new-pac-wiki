@@ -143,7 +143,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>200kb/s</td>
+<td>400kb/s</td>
 </tr>
 <td>洛杉矶SS</td>
 <td>195.123.240.241</td>
