@@ -1,9 +1,12 @@
-**2020年3月2日更新，增加v2ray使用方法。**
+**2020年9月6日更新Linux使用ss图形客户端Shadowosocks-QT5教程。**
 
 ### 第一种方法：使用SSR账号翻墙
 
-[Linux客户端一键安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr)
-[Linux SSR 使用方法二](https://github.com/Turing2333/Detailed-tutorial-on-the-building-and-usage-of-SSR/blob/master/Instructions/Clients%20manual%20for%20each%20platform/Linux%20SSR%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E.txt)
+1、[Linux使用ss图形客户端Shadowosocks-QT5教程(推荐)](https://shadowsockshelp.github.io/Shadowsocks/linux.html)
+
+2、[Linux客户端一键安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr)
+
+3、[Linux SSR 使用方法二](https://github.com/Turing2333/Detailed-tutorial-on-the-building-and-usage-of-SSR/blob/master/Instructions/Clients%20manual%20for%20each%20platform/Linux%20SSR%E7%9B%B8%E5%85%B3%E8%AF%B4%E6%98%8E.txt)
 
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
 
