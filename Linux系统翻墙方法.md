@@ -2,7 +2,7 @@
 
 ### 第一种方法：使用SSR账号翻墙
 
-1、[Linux使用ss图形客户端Shadowosocks-QT5教程(推荐)](https://shadowsockshelp.github.io/Shadowsocks/linux.html)
+1、[Linux使用ss图形客户端Shadowosocks-QT5教程](https://shadowsockshelp.github.io/Shadowsocks/linux.html) (推荐)
 
 2、[Linux客户端一键安装配置使用脚本(使用方法见注释)](https://github.com/the0demiurge/CharlesScripts/blob/master/charles/bin/ssr)
 
