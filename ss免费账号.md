@@ -115,6 +115,15 @@ VPS推荐：
 <td>plain</td>
 <td>400kb/s</a></td>
 </tr> 
+<td>日本1</td>
+<td>104.233.163.123</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>40kb/s（适合浏览网页，不适合看视频）</a></td>
+</tr>
 <tr>
 <td>日本2</td>
 <td>45.88.43.37</td>
