@@ -153,7 +153,7 @@ chmod +x /usr/bin/brook
 
 setsid ./brook server -l :9999 -p password
 
-> 最后一条命令的意思是启动brook，端口设置为9999，密码设置为password，端口和密码可以改成自己的
+> 第一条命令是下载20200909版本，第二条命令给brook赋予权限，最后一条命令的意思是启动brook并增加守护进程，这样当ssh窗口关闭时，brook仍然是运行的，端口设置为9999，密码设置为password，端口和密码可以改成自己的
 
 ***
 
