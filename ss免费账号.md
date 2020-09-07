@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月7日13点48分增加日本1和洛杉矶4帐号，9点25分更新洛杉矶1、洛杉矶2、瑞士帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月8日4点48分新增2个日本帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -144,6 +144,26 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 <td>200kb/s</a></td>
+</tr>
+<tr>
+<td>日本3</td>
+<td>104.233.163.215</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>40kb/s</a></td>
+</tr>
+<tr>
+<td>日本4</td>
+<td>104.233.162.157</td>
+<td>23456</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>40kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
