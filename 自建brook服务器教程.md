@@ -139,12 +139,8 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ***
 
-wget -N --no-check-certificate wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh 
 
-chmod +x brook.sh 
-
-./brook.sh
-
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh  && bash brook.sh
 
 ***
 
