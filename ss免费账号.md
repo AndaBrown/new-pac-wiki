@@ -122,7 +122,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>40kb/s（适合浏览网页，不适合看视频）</a></td>
+<td>40kb/s</a></td>
 </tr>
 <tr>
 <td>日本2</td>
