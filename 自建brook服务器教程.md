@@ -1,4 +1,4 @@
-**2020年8月16日更新五合一的TCP网络加速脚本。**
+**2020年9月8日更新脚本。**
 
 **如果无法查看图片，可以访问https://tr1.freeair888.club/自建brook服务器教程**
 
@@ -137,18 +137,25 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **CentOS 6和7 / Debian 6+ / Ubuntu 14.04 + brook一键部署管理脚本**
 
-***
+**2020年9月1日，brook进行了重大的更新，9月1日到最新的版本客户端和服务端必须是最新的。如果你使用的是9月1日之前的老客户端，脚本一还是能用，只在安装的时候不能自动获取版本，需要手动输入版本号v20200801 如果你使用的是9月1日或最新的客户端版本，可以用脚本二来手动安装，几条命令就可以了。**
 
+**脚本一：**
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh  && bash brook.sh
 
-***
-
-
 > 如果提示 wget: command not found 的错误，这是你的系统精简的太干净了，wget都没有安装，所以需要安装wget。CentOS系统安装wget命令: yum install -y wget Debian/Ubuntu系统安装wget命令:apt-get install -y wget
-***
 
-———————————————————代码分割线————————————————
+**脚本二：**
+
+curl -L https://github.com/txthinking/brook/releases/download/v20200909/brook_linux_amd64 -o /usr/bin/brook
+
+chmod +x /usr/bin/brook
+
+setsid ./brook server -l :9999 -p password
+
+> 最后一条命令的意思是启动brook，端口设置为9999，密码设置为password，端口和密码可以改成自己的
+
+***
 
 复制上面的**脚本一代码**到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash brook.sh 或 ./brook.sh
 
