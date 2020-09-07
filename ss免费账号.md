@@ -115,6 +115,7 @@ VPS推荐：
 <td>plain</td>
 <td>400kb/s</a></td>
 </tr>
+<tr>
 <td>洛杉矶4</td>
 <td>104.192.80.86</td>
 <td>12345</td>
@@ -124,6 +125,7 @@ VPS推荐：
 <td>plain</td>
 <td>80kb/s</a></td>
 </tr> 
+<tr>
 <td>日本1</td>
 <td>104.233.163.123</td>
 <td>12345</td>
