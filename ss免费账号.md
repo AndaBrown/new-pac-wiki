@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月8日4点48分新增2个日本帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月9日7点08分更新德国和日本2帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -58,8 +58,8 @@ VPS推荐：
 <tr>
 <td>德国</td>
 <td>89.163.225.161</td>
-<td>34567</td>
-<td>ntdtv.com&nbsp;123abc</td>
+<td>12345</td>
+<td>epochtimes.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
@@ -138,8 +138,8 @@ VPS推荐：
 <tr>
 <td>日本2</td>
 <td>45.88.43.37</td>
-<td>777</td>
-<td>ntdtv.com&nbsp;123abc</td>
+<td>888</td>
+<td>epochtimes.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
