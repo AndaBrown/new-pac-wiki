@@ -59,7 +59,7 @@ VPS推荐：
 <td>德国</td>
 <td>89.163.225.161</td>
 <td>12345</td>
-<td>epochtimes.com&nbsp;123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
@@ -139,7 +139,7 @@ VPS推荐：
 <td>日本2</td>
 <td>45.88.43.37</td>
 <td>888</td>
-<td>epochtimes.com&nbsp;123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
