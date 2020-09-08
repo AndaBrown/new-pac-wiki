@@ -133,7 +133,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>40kb/s</a></td>
+<td>60kb/s</a></td>
 </tr>
 <tr>
 <td>日本2</td>
@@ -153,7 +153,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>40kb/s</a></td>
+<td>60kb/s</a></td>
 </tr>
 <tr>
 <td>日本4</td>
@@ -163,7 +163,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>40kb/s</a></td>
+<td>60kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
