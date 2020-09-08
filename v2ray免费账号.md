@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月5日21点23分更新洛杉矶帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月8日17点35分更新莫斯科和新加坡帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -42,11 +42,11 @@ VPS推荐：
 
  Address(地址): 45.144.2.9
 
- Port（端口）:22083
+ Port（端口）:26323
 
- UUID（用户id）: 26fd84b9-537f-4795-a443-1ae18df4df8a
+ UUID（用户id）: 55dd1768-f1b5-11ea-bc9b-7a78422de085
 
- alterId（额外ID）: 233
+ alterId（额外ID）: 16
 
  security（加密方式）: auto
 
@@ -60,8 +60,7 @@ VPS推荐：
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjIyMDgzIiwNCiAgImlkIjogIjI2ZmQ4NGI5LTUzN2YtNDc5NS1hNDQzLTFhZTE4ZGY0ZGY4YSIsDQogICJhaWQiOiAiMjMzIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjI2MzIzIiwNCiAgImlkIjogIjU1ZGQxNzY4LWYxYjUtMTFlYS1iYzliLTdhNzg0MjJkZTA4NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **账号2（洛杉矶，TCP）**:                                                        
 
@@ -116,11 +115,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIs
 
  Address(地址): 195.123.237.140
 
- Port（端口）:54487
+ Port（端口）:43613
 
- UUID（用户id）: 880d425b-8ce2-4fa2-bdf3-8b3a5ce3465e
+ UUID（用户id）: fca72eae-f1b4-11ea-9ad4-52dc00c01eed
 
- alterId（额外ID）: 233
+ alterId（额外ID）: 16
 
  security（加密方式）: auto
 
@@ -134,7 +133,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOeRnuWjqyIs
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiNTQ0ODciLA0KICAiaWQiOiAiODgwZDQyNWItOGNlMi00ZmEyLWJkZjMtOGIzYTVjZTM0NjVlIiwNCiAgImFpZCI6ICIyMzMiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiNDM2MTMiLA0KICAiaWQiOiAiZmNhNzJlYWUtZjFiNC0xMWVhLTlhZDQtNTJkYzAwYzAxZWVkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 ***
 
