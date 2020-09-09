@@ -195,6 +195,7 @@ VPS推荐：
 <td>plain</td>
 <td>400kb/s</td>
 </tr>
+<tr>
 <td>洛杉矶SS</td>
 <td>195.123.240.241</td>
 <td>999</td>
