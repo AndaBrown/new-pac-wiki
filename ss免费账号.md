@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月9日18点38分新增加利福尼亚SSR帐号和SS帐号，7点08分更新德国和日本2帐号端口及密码。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月10日6点22分新增2个加利福尼亚SSR帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -129,6 +129,26 @@ VPS推荐：
 <td>加利福尼亚2</td>
 <td>104.233.224.193</td>
 <td>666</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>200kb/s</a></td>
+</tr> 
+<tr>
+<td>加利福尼亚3</td>
+<td>104.233.224.155</td>
+<td>54321</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>400kb/s</a></td>
+</tr> 
+<tr>
+<td>加利福尼亚4</td>
+<td>104.233.224.36</td>
+<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
