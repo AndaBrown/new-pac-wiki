@@ -167,11 +167,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
 ### v2ray客户端下载及使用方法
 
-windows客户端[v2rayN(第三方开发)](https://github.com/2dust/v2rayN/releases/latest) 或[v2ray](https://github.com/v2ray/v2ray-core/releases)
+windows客户端[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 
 
-Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 或 [v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
+Mac客户端[v2rayX](https://github.com/insisttech/v2rayX-copy/releases) 或 [v2rayU](https://github.com/yanue/V2rayU/releases)
 
-Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 或 [v2ray](https://github.com/v2ray/v2ray-core/releases)
+Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 
 
 安卓客户端v2ray vpn:[下载1](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
 [下载2](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
