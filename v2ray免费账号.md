@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月10日6点35分新增加利福尼亚帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月11日20点05分更新莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -42,9 +42,9 @@ VPS推荐：
 
  Address(地址): 45.144.2.9
 
- Port（端口）:26323
+ Port（端口）:31576
 
- UUID（用户id）: 55dd1768-f1b5-11ea-bc9b-7a78422de085
+ UUID（用户id）: b4c405e6-f41e-11ea-ac05-7a78422de085
 
  alterId（额外ID）: 16
 
@@ -60,7 +60,7 @@ VPS推荐：
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjI2MzIzIiwNCiAgImlkIjogIjU1ZGQxNzY4LWYxYjUtMTFlYS1iYzliLTdhNzg0MjJkZTA4NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjMxNTc2IiwNCiAgImlkIjogImI0YzQwNWU2LWY0MWUtMTFlYS1hYzA1LTdhNzg0MjJkZTA4NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **帐号2（加利福尼亚，TCP）**:                                                        
 
