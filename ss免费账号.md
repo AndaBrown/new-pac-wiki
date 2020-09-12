@@ -157,7 +157,7 @@ VPS推荐：
 </tr>
 <tr>
 <td>日本2</td>
-<td>104.233.163.123</td>
+<td>jp.free2222.xyz</td>
 <td>333</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
