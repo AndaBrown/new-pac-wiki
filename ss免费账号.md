@@ -163,7 +163,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>40kb/s</a></td>
+<td>80kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
