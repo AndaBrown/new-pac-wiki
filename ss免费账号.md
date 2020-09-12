@@ -146,16 +146,6 @@ VPS推荐：
 <td>400kb/s</a></td>
 </tr> 
 <tr>
-<td>加利福尼亚4</td>
-<td>104.233.224.36</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>200kb/s</a></td>
-</tr> 
-<tr>
 <td>日本1</td>
 <td>45.88.43.37</td>
 <td>333</td>
