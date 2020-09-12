@@ -225,16 +225,6 @@ VPS推荐：
 <td></td>
 <td>400kb/s</a></td>
 </tr>
-<tr>
-<td>莫斯科SS</td>
-<td>45.144.2.216</td>
-<td>999</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-<td>400kb/s</a></td>
-</tr>
 </tbody>
 </table>
 
