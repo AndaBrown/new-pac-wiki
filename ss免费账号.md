@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月12日8点8分更新莫斯科1、洛杉矶1、日本1、日本2帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月13日10点58分新增1个香港帐号，带宽有限，限速25kb/s，适合浏览网页不适合看视频。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -173,7 +173,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>400kb/s</a></td>
+<td>400kb/s</td>
 </tr>
 <tr>
 <td>新加坡</td>
@@ -184,6 +184,16 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 <td>400kb/s</td>
+</tr>
+<tr>
+<td>香港</td>
+<td>hk.free2222.xyz</td>
+<td>666</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>25kb/s</td>
 </tr>
 <tr>
 <td>加利福尼亚SS</td>
