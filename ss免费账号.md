@@ -186,16 +186,6 @@ VPS推荐：
 <td>400kb/s</td>
 </tr>
 <tr>
-<td>香港</td>
-<td>hk.free2222.xyz</td>
-<td>666</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>25kb/s</td>
-</tr>
-<tr>
 <td>加利福尼亚SS</td>
 <td>104.233.224.193</td>
 <td>888</td>
