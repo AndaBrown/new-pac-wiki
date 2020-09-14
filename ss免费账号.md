@@ -63,7 +63,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>800kb/s</a></td>
+<td>600kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科1</td>
