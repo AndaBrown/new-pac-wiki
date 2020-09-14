@@ -148,6 +148,8 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) -k
 
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
+> 如果输入安装命令没反应，那是因为服务器系统没有自带curl命令，安装一下curl。CentOS系统安装curl命令:yum install -y curl   Debian/Ubuntu系统安装curl命令:apt-get install -y curl
+
 > 安装完成后，输入v2ray可进入管理页面。脚本来自[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)。
 
 > 脚本功能介绍：
@@ -182,7 +184,7 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 **禁止firewall开机启动命令：systemctl disable firewalld.service**
 
-**注意**：账号无法使用，可能原因：**客户端与服务端的设备系统时间相差过大。**
+**注意：账号无法使用，可能原因：客户端与服务端的设备系统时间相差过大。**
 
 当vps服务器与本地设备系统时间相差过大，会导致客户端无法与服务端建立链接。请修改服务器时区，再手动修改服务器系统时间（注意也要校准自己本地设备时间）！
 
