@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月16日6点50分更新日本1帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月16日17点50分新增日本1帐号，6点50分更新日本2帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -126,6 +126,16 @@ VPS推荐：
 </tr>
 <tr>
 <td>加利福尼亚1</td>
+<td>104.233.224.155</td>
+<td>9999</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>400kb/s</a></td>
+</tr>
+<tr>
+<td>加利福尼亚2</td>
 <td>104.192.80.86</td>
 <td>9999</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -135,7 +145,7 @@ VPS推荐：
 <td>200kb/s</a></td>
 </tr> 
 <tr>
-<td>加利福尼亚2</td>
+<td>加利福尼亚3</td>
 <td>104.233.224.193</td>
 <td>9999</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -145,17 +155,17 @@ VPS推荐：
 <td>200kb/s</a></td>
 </tr> 
 <tr>
-<td>加利福尼亚3</td>
-<td>104.233.224.155</td>
-<td>9999</td>
+<td>日本1</td>
+<td>109.166.37.200</td>
+<td>666</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>200kb/s</a></td>
-</tr> 
+<td>400kb/s</a></td>
+</tr>
 <tr>
-<td>日本1</td>
+<td>日本2</td>
 <td>45.88.43.37</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -165,7 +175,7 @@ VPS推荐：
 <td>200kb/s</a></td>
 </tr>
 <tr>
-<td>日本2</td>
+<td>日本3</td>
 <td>104.233.163.123</td>
 <td>666</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -175,7 +185,7 @@ VPS推荐：
 <td>80kb/s</a></td>
 </tr>
 <tr>
-<td>日本3</td>
+<td>日本4</td>
 <td>104.233.163.215</td>
 <td>666</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
