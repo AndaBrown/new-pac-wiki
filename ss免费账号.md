@@ -126,6 +126,16 @@ VPS推荐：
 </tr>
 <tr>
 <td>加利福尼亚1</td>
+<td>104.233.224.63</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>400kb/s</a></td>
+</tr>
+<tr>
+<td>加利福尼亚2</td>
 <td>104.233.224.155</td>
 <td>9999</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -135,7 +145,7 @@ VPS推荐：
 <td>400kb/s</a></td>
 </tr>
 <tr>
-<td>加利福尼亚2</td>
+<td>加利福尼亚3</td>
 <td>104.192.80.86</td>
 <td>9999</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -145,7 +155,7 @@ VPS推荐：
 <td>200kb/s</a></td>
 </tr> 
 <tr>
-<td>加利福尼亚3</td>
+<td>加利福尼亚4</td>
 <td>104.233.224.193</td>
 <td>9999</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
