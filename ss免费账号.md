@@ -232,7 +232,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>200kb/s</a></td>
+<td>100kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶SS</td>
