@@ -230,6 +230,8 @@ chmod +x tcp.sh
 
 内核安装完成后，输入y进行重启，重启才能让内核生效
 
+注意：当服务器重启后，日期可能恢复成了默认，最好重启后输入date检查下。
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr3.jpg)
 
 重启完成后，输入数字6来启动暴力BBR魔改版加速
