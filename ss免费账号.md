@@ -63,7 +63,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>400kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <td>德国2</td>
 <td>89.163.224.142</td>
@@ -72,7 +72,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>400kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科1</td>
