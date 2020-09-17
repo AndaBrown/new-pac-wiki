@@ -40,55 +40,7 @@ VPS推荐：
 
 **为了让每个人都能获得一定的带宽资源，帐号进行了限速。**
 
-**帐号1（莫斯科，TCP）**:                                                        
-
- Address(地址): 45.144.2.9
-
- Port（端口）:12345
-
- UUID（用户id）: b4c405e6-f41e-11ea-ac05-7a78422de085
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: tcp
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： 不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjEyMzQ1IiwNCiAgImlkIjogImI0YzQwNWU2LWY0MWUtMTFlYS1hYzA1LTdhNzg0MjJkZTA4NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
-**帐号2（加利福尼亚，TCP）**:                                                        
-
- Address(地址): 104.233.224.48
-
- Port（端口）:29485
-
- UUID（用户id）: b128dce4-f271-11ea-b52a-00163cb5e39b
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: tcp
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径： 不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuNDgiLA0KICAicG9ydCI6ICIyOTQ4NSIsDQogICJpZCI6ICJiMTI4ZGNlNC1mMjcxLTExZWEtYjUyYS0wMDE2M2NiNWUzOWIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
-**账号3（洛杉矶，TCP）**:                                                        
+**账号1（洛杉矶，TCP）**:                                                        
 
  Address(地址): 195.123.241.117
 
@@ -112,7 +64,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiNTQzMjEiLA0KICAiaWQiOiAiNTgyMWEwYTAtZWY3OC0xMWVhLWI5YTktNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**账号4（瑞士，WebSocket+TLS+Nginx）**:                                                        
+**账号3（瑞士，WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr24.free2222.xyz
 
@@ -137,7 +89,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号5（新加坡，TCP）**:                                                        
+**账号3（新加坡，TCP）**:                                                        
 
  Address(地址): 195.123.237.140
 
@@ -160,6 +112,55 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
  底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiOTk5IiwNCiAgImlkIjogImZjYTcyZWFlLWYxYjQtMTFlYS05YWQ0LTUyZGMwMGMwMWVlZCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+
+**帐号4（莫斯科，TCP）**:                                                        
+
+ Address(地址): 45.144.2.9
+
+ Port（端口）:12345
+
+ UUID（用户id）: b4c405e6-f41e-11ea-ac05-7a78422de085
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: tcp
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径： 不填
+
+ 底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjEyMzQ1IiwNCiAgImlkIjogImI0YzQwNWU2LWY0MWUtMTFlYS1hYzA1LTdhNzg0MjJkZTA4NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+
+**帐号5（加利福尼亚，TCP）**:                                                        
+
+ Address(地址): 104.233.224.48
+
+ Port（端口）:29485
+
+ UUID（用户id）: b128dce4-f271-11ea-b52a-00163cb5e39b
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: tcp
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径： 不填
+
+ 底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuNDgiLA0KICAicG9ydCI6ICIyOTQ4NSIsDQogICJpZCI6ICJiMTI4ZGNlNC1mMjcxLTExZWEtYjUyYS0wMDE2M2NiNWUzOWIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+
 
 ***
 
