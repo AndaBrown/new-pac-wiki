@@ -201,7 +201,7 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 > apt-get install ntp ntpdate -y  
 
-**按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务**：
+**安装NTP后，按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务**：
 
 service ntpd stop  
 
