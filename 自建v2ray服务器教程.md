@@ -285,15 +285,30 @@ chmod +x tcp.sh
 
 1、账号无法使用，可能原因一：**客户端与服务端的设备系统时间相差过大。**
 
-当vps服务器与本地设备系统时间相差过大，会导致客户端无法与服务端建立链接。请修改服务器时区，再手动修改服务器系统时间（注意也要校准自己本地设备时间）！
+**a、一般国外的VPS的镜像都是默认的国外时区，使用起来不是很方便。可以把它修改成北京时间，就会方便很多。**
+**修改中国时区代码如下**：
 
-先修改vps的时区为中国上海时区：\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
+\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
 
-再手动修改vps系统时间命令的格式为（数字改为和自己电脑时间一致，误差30秒以内）：date -s "2020-2-02 19:14:00"   
+**b、利用NTP同步时间协议**
 
-修改后再输入date命令检查下。
+**CentOS系统先安装NTP**：yum install ntp ntpdate -y
 
+> 如果是Ubuntu/Debian系统执行下面2条命令来安装NTP
 
+> apt-get update
+
+> apt-get install ntp ntpdate -y  
+
+**安装NTP后，按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务**：
+
+service ntpd stop  
+
+ntpdate us.pool.ntp.org 
+
+service ntpd start 
+
+**执行完成后，VPS上就是相对精确的时间设置了。很多依赖于系统时间的应用程序也就能正常工作了。修改后可以输入date命令检查下。**
 
 2、账号无法使用，可能原因：vps防火墙端口没有放开或者本地电脑防火墙、杀毒软件阻挡代理软件。
 
