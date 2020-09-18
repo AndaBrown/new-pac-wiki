@@ -184,17 +184,32 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 **禁止firewall开机启动命令：systemctl disable firewalld.service**
 
-**注意：账号无法使用，可能原因：客户端与服务端的设备系统时间相差过大。**
+**注意：账号无法使用，可能原因：客户端与服务端的设备系统时间相差过大。解决方法如下：**
 
-当vps服务器与本地设备系统时间相差过大，会导致客户端无法与服务端建立链接。请修改服务器时区，再手动修改服务器系统时间（注意也要校准自己本地设备时间）！
+1、一般国外的VPS的镜像都是默认的国外时区，使用起来不是很方便。可以把它修改成北京时间，就会方便很多。
+修改中国时区代码如下：
 
-先修改vps的时区为中国上海时区：\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
+\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
 
-再手动修改vps系统时间命令的格式为（数字改为和自己电脑时间一致，误差30秒以内）：date -s "2020-2-02 19:14:00"   
+2、利用NTP同步时间协议
 
-修改后再输入date命令检查下。
+CentOS系统先安装NTP：yum install ntp ntpdate -y
 
-**注意：当服务器重启后，日期可能恢复成了默认，最好重启后输入date检查下。**
+> 如果是Ubuntu/Debian系统执行下面2条命令来安装NTP
+
+> apt-get update
+
+> apt-get install ntp ntpdate -y  
+
+按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务：
+
+service ntpd stop  
+
+ntpdate us.pool.ntp.org 
+
+service ntpd start 
+
+**执行完成后，VPS上就是相对精确的时间设置了。很多依赖于系统时间的应用程序也就能正常工作了。修改后可以输入date命令检查下。**
 
 **提醒**：在教程的最后“常见问题参考解决方法”里面增加了高阶篇“一键部署WebSocket+Tls+Nginx+Web”的脚本,高级篇需要域名。
 
@@ -230,7 +245,6 @@ chmod +x tcp.sh
 
 内核安装完成后，输入y进行重启，重启才能让内核生效
 
-注意：当服务器重启后，日期可能恢复成了默认，最好重启后输入date检查下。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/newbbr3.jpg)
 
@@ -279,7 +293,7 @@ chmod +x tcp.sh
 
 修改后再输入date命令检查下。
 
-**注意：当服务器重启后，日期可能恢复成了默认，最好重启后输入date检查下。**
+
 
 2、账号无法使用，可能原因：vps防火墙端口没有放开或者本地电脑防火墙、杀毒软件阻挡代理软件。
 
