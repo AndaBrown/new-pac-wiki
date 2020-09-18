@@ -178,22 +178,22 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 **如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
 
-**查看防火墙状态命令：firewall-cmd --state**
+**查看防火墙状态命令**：firewall-cmd --state
 
-**停止firewall命令：systemctl stop firewalld.service**
+**停止firewall命令**：systemctl stop firewalld.service
 
-**禁止firewall开机启动命令：systemctl disable firewalld.service**
+**禁止firewall开机启动命令**：systemctl disable firewalld.service
 
 **注意：账号无法使用，可能原因：客户端与服务端的设备系统时间相差过大。解决方法如下：**
 
-1、一般国外的VPS的镜像都是默认的国外时区，使用起来不是很方便。可以把它修改成北京时间，就会方便很多。
-修改中国时区代码如下：
+**1、一般国外的VPS的镜像都是默认的国外时区，使用起来不是很方便。可以把它修改成北京时间，就会方便很多。**
+**修改中国时区代码如下**：
 
 \cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
 
-2、利用NTP同步时间协议
+**2、利用NTP同步时间协议**
 
-CentOS系统先安装NTP：yum install ntp ntpdate -y
+**CentOS系统先安装NTP**：yum install ntp ntpdate -y
 
 > 如果是Ubuntu/Debian系统执行下面2条命令来安装NTP
 
@@ -201,7 +201,7 @@ CentOS系统先安装NTP：yum install ntp ntpdate -y
 
 > apt-get install ntp ntpdate -y  
 
-按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务：
+**按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务**：
 
 service ntpd stop  
 
