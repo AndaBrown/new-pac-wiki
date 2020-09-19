@@ -62,7 +62,7 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiNTQzMjEiLA0KICAiaWQiOiAiNTgyMWEwYTAtZWY3OC0xMWVhLWI5YTktNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**账号3（瑞士，WebSocket+TLS+Nginx）**:                                                        
+**账号2（瑞士，WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr24.free2222.xyz
 
