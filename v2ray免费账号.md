@@ -159,10 +159,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+en
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuNDgiLA0KICAicG9ydCI6ICIyOTQ4NSIsDQogICJpZCI6ICJiMTI4ZGNlNC1mMjcxLTExZWEtYjUyYS0wMDE2M2NiNWUzOWIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
-| ip |端口 | uuid | 额外id | 加密方式 | 传输协议 | 伪装类型 | 伪装域名 | 路径 | 底层传输安全 |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 195.123.241.117 | 54321 | 5821a0a0-ef78-11ea-b9a9-52ac006718a2 | 16 | auto | tcp | none | 不填 | 不填 | 不填 |
-| tr24.free2222.xyz | 443 | ba9bd24c-f237-45ad-bb3e-4f7430897b9c | 2 | auto | ws |  none |tr24.free2222.xyz | /996de193ab627c/ | tls |
 
 ***
 
