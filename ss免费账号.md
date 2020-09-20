@@ -234,7 +234,7 @@ VPS推荐：
 <td>plain</td>
 <td>150kb/s</td>
 </tr>
-<td>洛杉矶1（SS）</td>
+<td>洛杉矶1SS</td>
 <td>142.4.123.237</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -244,7 +244,7 @@ VPS推荐：
 <td>220kb/s</a></td>
 </tr>
 <tr>
-<td>洛杉矶2（SS）</td>
+<td>洛杉矶2SS</td>
 <td>195.123.240.241</td>
 <td>12345</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -254,7 +254,7 @@ VPS推荐：
 <td>200kb/s</a></td>
 </tr>
 <tr>
-<td>日本（SS）</td>
+<td>日本SS</td>
 <td>109.166.37.200</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -264,7 +264,7 @@ VPS推荐：
 <td>200kb/s</a></td>
 </tr>
 <tr>
-<td>加利福尼亚（SS）</td>
+<td>加利福尼亚SS</td>
 <td>104.233.224.193</td>
 <td>888</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
