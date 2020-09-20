@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月20日10点05分更新瑞士SSR帐号，去掉瑞士SS帐号，新增日本SS帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月20日21点25分新增洛杉矶1SSR和SS帐号10点05分更新瑞士SSR帐号，去掉瑞士SS帐号，新增日本SS帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -96,6 +96,16 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶1</td>
+<td>142.4.123.237</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>220kb/s</a></td>
+</tr>
+<tr>
+<td>洛杉矶2</td>
 <td>195.123.240.241</td>
 <td>9999</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -105,7 +115,7 @@ VPS推荐：
 <td>220kb/s</a></td>
 </tr>
 <tr>
-<td>洛杉矶2</td>
+<td>洛杉矶3</td>
 <td>67.21.68.252</td>
 <td>12345</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -115,7 +125,7 @@ VPS推荐：
 <td>220kb/s</a></td>
 </tr>
 <tr>
-<td>洛杉矶3</td>
+<td>洛杉矶4</td>
 <td>64.32.6.195</td>
 <td>888</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -224,8 +234,17 @@ VPS推荐：
 <td>plain</td>
 <td>150kb/s</td>
 </tr>
+<td>洛杉矶1SS</td>
+<td>142.4.123.237</td>
+<td>23456</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+<td>220kb/s</a></td>
+</tr>
 <tr>
-<td>洛杉矶SS</td>
+<td>洛杉矶2SS</td>
 <td>195.123.240.241</td>
 <td>12345</td>
 <td>ntdtv.com&nbsp;123abc</td>
