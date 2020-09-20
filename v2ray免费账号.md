@@ -32,7 +32,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月17日11点48分更新莫斯科、新加坡帐号端口，7点30分更新洛杉矶帐号的端口。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月20日新增美国帐号替换莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -111,29 +111,29 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiOTk5IiwNCiAgImlkIjogImZjYTcyZWFlLWYxYjQtMTFlYS05YWQ0LTUyZGMwMGMwMWVlZCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-**帐号4（莫斯科，TCP）**:                                                        
+**帐号4（美国，WebSocket+TLS+CDN）**:                                                        
 
- Address(地址): 45.144.2.9
+ Address(地址): 104.19.59.166
 
- Port（端口）:12345
+ Port（端口）:443
 
- UUID（用户id）: b4c405e6-f41e-11ea-ac05-7a78422de085
+ UUID（用户id）: ba9bd24c-f237-45ad-bb3e-4f7430897b9c
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 2
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：不填
+ 伪装域名（host）：green-dew-4e95.kebi2014.workers.dev
 
- 路径： 不填
+ 路径： /996de193ab627c/
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ0LjIuOSIsDQogICJwb3J0IjogIjEyMzQ1IiwNCiAgImlkIjogImI0YzQwNWU2LWY0MWUtMTFlYS1hYzA1LTdhNzg0MjJkZTA4NSIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOe+juWbvSIsDQogICJhZGQiOiAiMTA0LjE5LjU5LjE2NiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiYTliZDI0Yy1mMjM3LTQ1YWQtYmIzZS00Zjc0MzA4OTdiOWMiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdyZWVuLWRldy00ZTk1LmtlYmkyMDE0LndvcmtlcnMuZGV2IiwNCiAgInBhdGgiOiAiLzk5NmRlMTkzYWI2MjdjLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 **帐号5（加利福尼亚，TCP）**:                                                        
 
