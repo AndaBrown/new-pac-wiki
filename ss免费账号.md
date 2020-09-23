@@ -63,7 +63,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>250kb/s</a></td>
+<td>350kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科1</td>
@@ -73,7 +73,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科2</td>
@@ -83,7 +83,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶1</td>
@@ -93,7 +93,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶2</td>
@@ -103,7 +103,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶3</td>
@@ -113,7 +113,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶4</td>
@@ -123,7 +123,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr> 
 <tr>
 <td>加利福尼亚1</td>
@@ -133,7 +133,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>150kb/s</a></td>
+<td>300kb/s</a></td>
 </tr>
 <tr>
 <td>加利福尼亚2</td>
@@ -143,7 +143,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>150kb/s</a></td>
+<td>300kb/s</a></td>
 </tr>
 <tr>
 <td>加利福尼亚3</td>
@@ -153,7 +153,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>100kb/s</a></td>
+<td>200kb/s</a></td>
 </tr> 
 <tr>
 <td>加利福尼亚4</td>
@@ -163,7 +163,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>100kb/s</a></td>
+<td>200kb/s</a></td>
 </tr> 
 <tr>
 <td>日本1</td>
@@ -173,7 +173,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>200kb/s</a></td>
+<td>300kb/s</a></td>
 </tr>
 <tr>
 <td>日本2</td>
@@ -183,7 +183,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>200kb/s</a></td>
+<td>300kb/s</a></td>
 </tr>
 <tr>
 <td>日本3</td>
@@ -213,7 +213,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</td>
+<td>320kb/s</td>
 </tr>
 <tr>
 <td>新加坡</td>
@@ -223,7 +223,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>150kb/s</td>
+<td>200kb/s</td>
 </tr>
 <td>洛杉矶1SS</td>
 <td>142.4.123.237</td>
@@ -232,7 +232,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>220kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶2SS</td>
@@ -242,7 +242,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>200kb/s</a></td>
+<td>320kb/s</a></td>
 </tr>
 <tr>
 <td>日本SS</td>
@@ -252,7 +252,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>200kb/s</a></td>
+<td>300kb/s</a></td>
 </tr>
 <tr>
 <td>加利福尼亚SS</td>
@@ -262,7 +262,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>100kb/s</a></td>
+<td>200kb/s</a></td>
 </tr>
 </tbody>
 </table>
