@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月24日21点48分更新洛杉矶帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月24日22点19分更新新加坡账号，21点48分更新洛杉矶帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -89,13 +89,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号3（新加坡，WebSocket）**:                                                        
+**账号3（新加坡，WebSocket+TLS+Caddy）**:                                                        
 
- Address(地址): 195.123.237.140
+ Address(地址): tr2.free2222.xyz
 
- Port（端口）:10911
+ Port（端口）:443
 
- UUID（用户id）: fca72eae-f1b4-11ea-9ad4-52dc00c01eed
+ UUID（用户id）: a2e3ed1e-4daa-417c-8eca-25eff6a843de
 
  alterId（额外ID）: 16
 
@@ -105,13 +105,13 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr2.free2222.xyz
+ 伪装域名（host）：不填
 
- 路径：/5ZdO2o3Y/
+ 路径：/ray
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTA5MTEiLA0KICAiaWQiOiAiZmNhNzJlYWUtZjFiNC0xMWVhLTlhZDQtNTJkYzAwYzAxZWVkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi81WmRPMm8zWS8iLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMmUzZWQxZS00ZGFhLTQxN2MtOGVjYS0yNWVmZjZhODQzZGUiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
 **帐号4（加利福尼亚，WebSocket）**:                                                        
