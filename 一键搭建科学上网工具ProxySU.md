@@ -95,43 +95,43 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **第二步:ProxySU下载及搭建**
 
-ProxySU:[github官方下载](https://github.com/proxysu/windows/releases/tag/v2.2.2) 下载那个zip文件,下载后解压.
+**ProxySU**:[github官方下载](https://github.com/proxysu/windows/releases/tag/v2.2.2) **下载那个zip文件,下载后解压.**
 
-如果github国内下载慢,可以用这几个网盘来下载: 待增加
+**如果github国内下载慢,可以用这几个网盘来下载: 待增加**
 
 打开ProxySU,填上第一步购买的vps服务器ip和密码后,选上想搭建的科学上网工具。步骤如下：
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps1.jpg)
 
-填上ip和密码，端口22和root默认。
+**填上ip和密码，端口22和root默认。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps2.jpg)
 
-以搭建v2ray为例，选中v2ray模板库。
+**以搭建v2ray为例，选中v2ray模板库。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps3.jpg)
 
-在v2ray模板库中，选中想要搭建的v2ray协议，有的协议不需要域名，可以直接搭建，有的需要域名，所以需要提前购买域名并绑定服务器ip。
+**在v2ray模板库中，选中想要搭建的v2ray协议，有的协议不需要域名，可以直接搭建，有的需要域名，所以需要提前购买域名并绑定服务器ip。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps4.jpg)
 
-目前比较热门的v2ray协议:WebSocket+Tls+Web （需要域名）选中后，填写域名。
+**目前比较热门的v2ray协议:WebSocket+Tls+Web （需要域名）选中后，填写域名。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps5.jpg)
 
-如果没有域名，可以搭建其它的协议，比如TCP。
+**如果没有域名，可以搭建其它的协议，比如TCP。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps9.jpg)
 
-点击v2ray一键安装，软件会自动搭建。
+**点击v2ray一键安装，软件会自动搭建。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps6.jpg)
 
-系统工具：点击系统工具可以校对时间和部署bbr加速。v2ray需要校对时间。
+**系统工具：点击系统工具可以校对时间和部署bbr加速。v2ray需要校对时间。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps7.jpg)
 
-部署完后，在文件夹中会自动生成相关配置文件及客户端下载地址。
+**部署完后，在文件夹中会自动生成相关配置文件及客户端下载地址。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps8.jpg)
 
