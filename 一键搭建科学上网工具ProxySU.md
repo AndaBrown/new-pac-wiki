@@ -10,7 +10,7 @@ ProxySU的安装流程，是假设在全新系统下，没有装过以上代理�
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps1.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps10.jpg)
 
 **搭建流程**:
 
@@ -113,7 +113,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **填上ip和密码，端口22和root默认。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps10.jpg)
 
 **以搭建v2ray为例，选中v2ray模板库。**
 
