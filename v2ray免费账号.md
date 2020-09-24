@@ -34,17 +34,17 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月23日更新新加坡帐号端口。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月24日21点05分更新洛杉矶、新加坡和加利福尼亚帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
 
-**账号1（洛杉矶，TCP）**:                                                        
+**账号1（洛杉矶，WebSocket）**:                                                        
 
  Address(地址): 195.123.241.117
 
- Port（端口）:40186
+ Port（端口）:26015
 
  UUID（用户id）: 320f6f22-fbb3-11ea-988e-52ac006718a2
 
@@ -52,17 +52,17 @@ VPS推荐：
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：不填
+ 伪装域名（host）：tr1.free2222.xyz
 
- 路径：不填
+ 路径：/yHAY4Oib/
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiNDAxODYiLA0KICAiaWQiOiAiMzIwZjZmMjItZmJiMy0xMWVhLTk4OGUtNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMjYwMTUiLA0KICAiaWQiOiAiMzIwZjZmMjItZmJiMy0xMWVhLTk4OGUtNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHIxLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi95SEFZNE9pYi8iLA0KICAidGxzIjogIiINCn0=
 
 **账号2（瑞士，WebSocket+TLS+Nginx）**:                                                        
 
@@ -89,11 +89,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
 
 
-**账号3（新加坡，TCP）**:                                                        
+**账号3（新加坡，WebSocket）**:                                                        
 
  Address(地址): 195.123.237.140
 
- Port（端口）:10000
+ Port（端口）:10911
 
  UUID（用户id）: fca72eae-f1b4-11ea-9ad4-52dc00c01eed
 
@@ -101,24 +101,24 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：不填
+ 伪装域名（host）：tr2.free2222.xyz
 
- 路径：不填
+ 路径：/5ZdO2o3Y/
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTAwMDAiLA0KICAiaWQiOiAiZmNhNzJlYWUtZjFiNC0xMWVhLTlhZDQtNTJkYzAwYzAxZWVkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTA5MTEiLA0KICAiaWQiOiAiZmNhNzJlYWUtZjFiNC0xMWVhLTlhZDQtNTJkYzAwYzAxZWVkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi81WmRPMm8zWS8iLA0KICAidGxzIjogIiINCn0=
 
 
-**帐号4（加利福尼亚，TCP）**:                                                        
+**帐号4（加利福尼亚，WebSocket）**:                                                        
 
  Address(地址): 104.233.224.48
 
- Port（端口）:29485
+ Port（端口）:31209
 
  UUID（用户id）: b128dce4-f271-11ea-b52a-00163cb5e39b
 
@@ -126,17 +126,17 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：不填
+ 伪装域名（host）：tr3.free2222.xyz
 
- 路径： 不填
+ 路径： /RACp6drH/
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuNDgiLA0KICAicG9ydCI6ICIyOTQ4NSIsDQogICJpZCI6ICJiMTI4ZGNlNC1mMjcxLTExZWEtYjUyYS0wMDE2M2NiNWUzOWIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuNDgiLA0KICAicG9ydCI6ICIzMTIwOSIsDQogICJpZCI6ICJiMTI4ZGNlNC1mMjcxLTExZWEtYjUyYS0wMDE2M2NiNWUzOWIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjMuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiL1JBQ3A2ZHJILyIsDQogICJ0bHMiOiAiIg0KfQ==
 
 
 ***
