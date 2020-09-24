@@ -97,7 +97,9 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ProxySU:[github官方下载](https://github.com/proxysu/windows/releases/tag/v2.2.2) 下载那个zip文件,下载后解压.
 
-如果github国内下载慢,可以用这几个网盘来下载:
+如果github国内下载慢,可以用这几个网盘来下载: 待增加
+
+打开ProxySU,填上第一步购买的vps服务器ip和密码后,选上想搭建的科学上网工具。步骤如下：
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps1.jpg)
 
@@ -109,10 +111,10 @@ ProxySU:[github官方下载](https://github.com/proxysu/windows/releases/tag/v2.
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps5.jpg)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps9.jpg)
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps6.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps7.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps8.jpg)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps9.jpg)
