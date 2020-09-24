@@ -106,6 +106,9 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 [国外云盘2下载](http://89.163.224.142/ProxySU-v2.2.2.zip) 
 [国外云盘3下载](http://45.147.201.142/ProxySU-v2.2.2.zip) 
 
+## Windows系统需要安装net4.0及以上
+
+[Microsoft.NET Framework 4.0](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net40-offline-installer) or higher
 
 打开ProxySU,填上第一步购买的vps服务器ip和密码后,选上想搭建的科学上网工具。步骤如下：
 
