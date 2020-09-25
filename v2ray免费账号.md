@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月25日更新加利福尼亚帐号，新增莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月26日7点12分更新加利福尼亚帐号和莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -114,7 +114,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMmUzZWQxZS00ZGFhLTQxN2MtOGVjYS0yNWVmZjZhODQzZGUiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
-**帐号4（加利福尼亚，KCP）**:                                                        
+**帐号4（加利福尼亚，TCP）**:                                                        
 
  Address(地址): 104.233.224.193
 
@@ -126,9 +126,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
  security（加密方式）: auto
 
- network（传输协议）: kcp
+ network（传输协议）: tcp
 
- headerType（伪装类型）: wireguard
+ headerType（伪装类型）: 不填
 
  伪装域名（host）：不填
 
@@ -136,15 +136,15 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuMTkzIiwNCiAgInBvcnQiOiAiMTQyMTgiLA0KICAiaWQiOiAiNzIwM2RiODAtZmVmMi0xMWVhLThkNGMtMDAxNjNjMTZlZjY0IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAid2lyZWd1YXJkIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuMTkzIiwNCiAgInBvcnQiOiAiMTQyMTgiLA0KICAiaWQiOiAiNzIwM2RiODAtZmVmMi0xMWVhLThkNGMtMDAxNjNjMTZlZjY0IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 **帐号5（莫斯科，TCP）**:                                                        
 
  Address(地址): 45.147.201.142
 
- Port（端口）:15659
+ Port（端口）:37443
 
- UUID（用户id）: 1ec8f3a0-ee45-11ea-918d-0218e09e6484
+ UUID（用户id）: 029eeee4-bd43-4b17-9947-28b2642ab061
 
  alterId（额外ID）: 16
 
@@ -160,7 +160,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ3LjIwMS4xNDIiLA0KICAicG9ydCI6ICIxNTY1OSIsDQogICJpZCI6ICIxZWM4ZjNhMC1lZTQ1LTExZWEtOTE4ZC0wMjE4ZTA5ZTY0ODQiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ3LjIwMS4xNDIiLA0KICAicG9ydCI6ICIzNzQ0MyIsDQogICJpZCI6ICIwMjllZWVlNC1iZDQzLTRiMTctOTk0Ny0yOGIyNjQyYWIwNjEiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 ***
 
