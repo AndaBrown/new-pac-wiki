@@ -184,7 +184,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps6.jpg)
 
-**系统工具：点击系统工具可以校对时间和部署bbr加速。v2ray需要校对时间。目前搭建v2ray的过程中，软件自动校对时间和开启bbr加速，如果一切顺利不会手动再去点击系统工具。**
+**系统工具：点击系统工具可以校对时间和部署bbr加速。v2ray需要校对时间。目前搭建v2ray的过程中，软件会自动校对时间和开启bbr加速，如果一切顺利不用手动再去点击系统工具。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps11.jpg)
 
