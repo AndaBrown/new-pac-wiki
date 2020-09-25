@@ -188,7 +188,9 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps7.jpg)
 
-**部署完后，在文件夹中会自动生成相关配置文件及客户端下载地址。**
+**部署完后，会自动弹出帐号配置信息，并且在文件夹中也会自动生成相关配置文件及客户端下载地址。**
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps11.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps8.jpg)
 
