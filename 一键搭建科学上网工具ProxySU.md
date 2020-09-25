@@ -56,7 +56,7 @@ ProxySU的安装流程，是假设在全新系统下，没有装过以上代理�
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps1.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps10.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps11.jpg)
 
 **搭建流程**:
 
