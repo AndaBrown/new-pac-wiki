@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月24日22点32分更新加利福尼亚账号，22点19分更新新加坡账号，21点48分更新洛杉矶帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月25日新增莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -138,6 +138,29 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAidHIzLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI4MWNjMmVhYS05NzY4LTQ5ZTQtOTZkYS0wNGE1ZWFjMjU4ZDIiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
+**帐号5（莫斯科，TCP）**:                                                        
+
+ Address(地址): 45.147.201.142
+
+ Port（端口）:15659
+
+ UUID（用户id）: 1ec8f3a0-ee45-11ea-918d-0218e09e6484
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: tcp
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径： 不填
+
+ 底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTQ3LjIwMS4xNDIiLA0KICAicG9ydCI6ICIxNTY1OSIsDQogICJpZCI6ICIxZWM4ZjNhMC1lZTQ1LTExZWEtOTE4ZC0wMjE4ZTA5ZTY0ODQiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 ***
 
