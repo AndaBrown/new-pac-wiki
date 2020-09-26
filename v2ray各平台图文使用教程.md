@@ -46,6 +46,8 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2rayu3.png)
 
+更详细方法可参考：https://book.v2rayx.org/mac.html
+
 **3、iOS系统的图文使用方法**
 
 大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，[iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B)
