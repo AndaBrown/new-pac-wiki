@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月26日8点20分更新加利福尼亚帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月26日去掉加利福尼亚帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
@@ -113,30 +113,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMmUzZWQxZS00ZGFhLTQxN2MtOGVjYS0yNWVmZjZhODQzZGUiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-
-**帐号4（加利福尼亚，KCP）**:                                                        
-
- Address(地址): 104.233.224.193
-
- Port（端口）:14218
-
- UUID（用户id）: 7203db80-fef2-11ea-8d4c-00163c16ef64
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: kcp
-
- headerType（伪装类型）: wireguard
-
- 伪装域名（host）：不填
-
- 路径： 不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA0LjIzMy4yMjQuMTkzIiwNCiAgInBvcnQiOiAiMTQyMTgiLA0KICAiaWQiOiAiNzIwM2RiODAtZmVmMi0xMWVhLThkNGMtMDAxNjNjMTZlZjY0IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAid2lyZWd1YXJkIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 
 ***
