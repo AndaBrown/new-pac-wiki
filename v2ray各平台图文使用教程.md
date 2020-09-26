@@ -18,6 +18,8 @@
 
 第四步，在任务栏中右键蓝色V图标，选择开启HTTP代理，接着在HTTP代理模式中选择开启代理并自动保存配置全局或者PAC模式即可开始畅游墙外的世界了。
 
+更详细方法可参考：https://book.v2rayx.org/mac.html
+
 **2、Mac系统的图文使用方法**
 
 第一种，使用[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 
@@ -46,7 +48,6 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2rayu3.png)
 
-更详细方法可参考：https://book.v2rayx.org/mac.html
 
 **3、iOS系统的图文使用方法**
 
