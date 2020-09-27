@@ -159,16 +159,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>加利福尼亚3</td>
-<td>104.192.80.86</td>
-<td>34567</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>200kb/s</a></td>
-</tr> 
-<tr>
-<td>加利福尼亚4</td>
 <td>104.233.224.157</td>
 <td>34567</td>
 <td>ntdtv.com&nbsp;123abc</td>
