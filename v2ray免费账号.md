@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月27日14点08分新增莫斯科帐号，12点13分更新加利福尼亚1和加利福尼亚2帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月27日14点08分新增莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -91,53 +91,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
 
-**加利福尼亚1（KCP）**:                                                        
-
- Address(地址): 137.175.30.162
-
- Port（端口）:27672
-
- UUID（用户id）: eb951408-0070-11eb-843f-00163c948d6d
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: kcp
-
- headerType（伪装类型）: wireguard
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjEiLA0KICAiYWRkIjogIjEzNy4xNzUuMzAuMTYyIiwNCiAgInBvcnQiOiAiMjc2NzIiLA0KICAiaWQiOiAiZWI5NTE0MDgtMDA3MC0xMWViLTg0M2YtMDAxNjNjOTQ4ZDZkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAid2lyZWd1YXJkIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
-**加利福尼亚2（KCP）**:                                                        
-
- Address(地址): 107.148.200.219
-
- Port（端口）:31840
-
- UUID（用户id）: d65e54d2-0070-11eb-a74c-00163cc13ef4
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: kcp
-
- headerType（伪装类型）: srtp
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjIiLA0KICAiYWRkIjogIjEwNy4xNDguMjAwLjIxOSIsDQogICJwb3J0IjogIjMxODQwIiwNCiAgImlkIjogImQ2NWU1NGQyLTAwNzAtMTFlYi1hNzRjLTAwMTYzY2MxM2VmNCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogInNydHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **新加坡（WebSocket+TLS+Caddy）**:                                                        
 
