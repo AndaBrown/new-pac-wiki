@@ -88,7 +88,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmE5YmQyNGMtZjIzNy00NWFkLWJiM2UtNGY3NDMwODk3YjljIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
 
-**加利福尼亚1（TCP）**:                                                        
+**加利福尼亚1（KCP）**:                                                        
 
  Address(地址): 137.175.30.162
 
@@ -100,9 +100,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: kcp
 
- headerType（伪装类型）: none
+ headerType（伪装类型）: wireguard
 
  伪装域名（host）：不填
 
@@ -110,9 +110,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjEiLA0KICAiYWRkIjogIjEzNy4xNzUuMzAuMTYyIiwNCiAgInBvcnQiOiAiMjc2NzIiLA0KICAiaWQiOiAiZWI5NTE0MDgtMDA3MC0xMWViLTg0M2YtMDAxNjNjOTQ4ZDZkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjEiLA0KICAiYWRkIjogIjEzNy4xNzUuMzAuMTYyIiwNCiAgInBvcnQiOiAiMjc2NzIiLA0KICAiaWQiOiAiZWI5NTE0MDgtMDA3MC0xMWViLTg0M2YtMDAxNjNjOTQ4ZDZkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAid2lyZWd1YXJkIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
-**加利福尼亚2（TCP）**:                                                        
+**加利福尼亚2（KCP）**:                                                        
 
  Address(地址): 107.148.200.219
 
@@ -124,9 +124,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: kcp
 
- headerType（伪装类型）: none
+ headerType（伪装类型）: srtp
 
  伪装域名（host）：不填
 
@@ -134,7 +134,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjIiLA0KICAiYWRkIjogIjEwNy4xNDguMjAwLjIxOSIsDQogICJwb3J0IjogIjMxODQwIiwNCiAgImlkIjogImQ2NWU1NGQyLTAwNzAtMTFlYi1hNzRjLTAwMTYzY2MxM2VmNCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjIiLA0KICAiYWRkIjogIjEwNy4xNDguMjAwLjIxOSIsDQogICJwb3J0IjogIjMxODQwIiwNCiAgImlkIjogImQ2NWU1NGQyLTAwNzAtMTFlYi1hNzRjLTAwMTYzY2MxM2VmNCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogInNydHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **新加坡（WebSocket+TLS+Caddy）**:                                                        
 
