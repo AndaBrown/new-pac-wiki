@@ -189,16 +189,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>日本3</td>
-<td>104.233.163.123</td>
-<td>999</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>60kb/s</a></td>
-</tr>
-<tr>
-<td>日本4</td>
 <td>104.233.163.215</td>
 <td>999</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
