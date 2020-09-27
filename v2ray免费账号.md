@@ -140,6 +140,29 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiOTEuMjA2LjkyLjE4MyIsDQogICJwb3J0IjogIjE3MDI0IiwNCiAgImlkIjogImNmYzFkMTgwLTAwODQtMTFlYi05NDYxLTNlNGNkMTk1OTYwYiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogInNydHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
+** 加利福尼亚（KCP**）:
+
+ Address(地址): 107.148.200.219
+
+ Port（端口）:31840
+
+ UUID（用户id）: d65e54d2-0070-11eb-a74c-00163cc13ef4
+
+ alterId（额外ID）: 16
+
+ security（加密方式）: auto
+
+ network（传输协议）: kcp
+
+ headerType（伪装类型）: srtp
+
+ 伪装域名（host）：不填
+
+ 路径：不填
+
+ 底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjIiLA0KICAiYWRkIjogIjEwNy4xNDguMjAwLjIxOSIsDQogICJwb3J0IjogIjMxODQwIiwNCiAgImlkIjogImQ2NWU1NGQyLTAwNzAtMTFlYi1hNzRjLTAwMTYzY2MxM2VmNCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogInNydHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 ***
 
