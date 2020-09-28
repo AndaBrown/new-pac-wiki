@@ -191,7 +191,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 ***
 
 如果想搭建自己的v2ray帐号或学习翻墙技能，可参考[一键搭建科学上网工具ProxySU](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU)
- 或 [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。如果想拥有更快的帐号可考虑搬瓦工官方付费v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
+ 或 [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。或考虑搬瓦工官方付费v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
 
 ***
 
