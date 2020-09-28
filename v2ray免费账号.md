@@ -123,6 +123,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
  Port（端口）:443
 
  UUID（用户id）: 0f54f0dd-03e8-40ec-ab01-a82fa43b99d8
+
  alterId（额外ID）: 16
 
  security（加密方式）: auto
