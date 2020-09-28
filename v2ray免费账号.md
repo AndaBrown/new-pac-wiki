@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月27日14点08分新增莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月28日21点25分更新莫斯科帐号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -116,29 +116,28 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMmUzZWQxZS00ZGFhLTQxN2MtOGVjYS0yNWVmZjZhODQzZGUiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**莫斯科（KCP）**:                                                        
+**莫斯科（WebSocket+TLS+Caddy）**:                                                        
 
- Address(地址): 91.206.92.183
+ Address(地址): tr3.free3333.xyz
 
- Port（端口）:17024
+ Port（端口）:443
 
- UUID（用户id）: cfc1d180-0084-11eb-9461-3e4cd195960b
-
+ UUID（用户id）: 0f54f0dd-03e8-40ec-ab01-a82fa43b99d8
  alterId（额外ID）: 16
 
  security（加密方式）: auto
 
- network（传输协议）: kcp
+ network（传输协议）: ws
 
- headerType（伪装类型）: srtp
+ headerType（伪装类型）: none
 
  伪装域名（host）：不填
 
- 路径：不填
+ 路径：/ray
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiOTEuMjA2LjkyLjE4MyIsDQogICJwb3J0IjogIjE3MDI0IiwNCiAgImlkIjogImNmYzFkMTgwLTAwODQtMTFlYi05NDYxLTNlNGNkMTk1OTYwYiIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogInNydHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwZjU0ZjBkZC0wM2U4LTQwZWMtYWIwMS1hODJmYTQzYjk5ZDgiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 **加利福尼亚1（KCP）:**
 
