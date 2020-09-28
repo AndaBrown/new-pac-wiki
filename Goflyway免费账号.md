@@ -49,7 +49,7 @@ VPS推荐：
 
 密码：ntdtv.com
 
-客户端协议：**HTTP默认协议**
+客户端协议：HTTP
 
 
 **Goflyway账号2**:
@@ -60,7 +60,7 @@ VPS推荐：
 
 密码：dongtaiwang.com
 
-客户端协议：**HTTP默认协议**
+客户端协议：HTTP
 
 
 **Goflyway账号3**:
@@ -71,7 +71,7 @@ VPS推荐：
 
 密码：dongtaiwang.com
 
-客户端协议：**HTTP默认协议**
+客户端协议：HTTP
 
 ***
 
