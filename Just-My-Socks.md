@@ -18,9 +18,6 @@ Just My Socks是目前非常火热的一个ss/ssr/v2ray服务商（机场），�
 </p>
 <h2 id="user-content-just1"><span id="just_my_socks">一、Just My Socks介绍</span></h2>
 <p class="keepp">
-</strong>。
-</p>
-<p class="keepp">
 <strong>Just My Socks靠谱吗？</strong>不同于其他机场，Just My Socks是搬瓦工官方推出的，已经稳定运行了近1年了（2018年10月推出的），可以说非常靠谱。
 </p>
 <p class="keepp">
