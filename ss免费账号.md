@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月28日20点58分更新莫斯科帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年9月29日17点25分新增2个加利福尼亚帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -89,16 +89,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶1</td>
-<td>142.4.123.237</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>320kb/s</a></td>
-</tr>
-<tr>
-<td>洛杉矶2</td>
 <td>195.123.240.241</td>
 <td>8888</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -108,7 +98,7 @@ VPS推荐：
 <td>320kb/s</a></td>
 </tr>
 <tr>
-<td>洛杉矶3</td>
+<td>洛杉矶2</td>
 <td>67.21.68.252</td>
 <td>23456</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -118,7 +108,7 @@ VPS推荐：
 <td>320kb/s</a></td>
 </tr>
 <tr>
-<td>洛杉矶4</td>
+<td>洛杉矶3</td>
 <td>64.32.6.195</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -128,9 +118,39 @@ VPS推荐：
 <td>320kb/s</a></td>
 </tr> 
 <tr>
-<td>洛杉矶5</td>
+<td>洛杉矶4</td>
 <td>64.32.6.246</td>
 <td>23456</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>320kb/s</a></td>
+</tr>
+<tr>
+<td>加利福尼亚1</td>
+<td>142.4.123.237</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>320kb/s</a></td>
+</tr>
+<tr>
+<td>加利福尼亚2</td>
+<td>137.175.30.162</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>RC4</td>
+<td>origin</td>
+<td>plain</td>
+<td>320kb/s</a></td>
+</tr>
+<tr>
+<td>加利福尼亚3</td>
+<td>107.148.200.219</td>
+<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
