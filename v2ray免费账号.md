@@ -140,54 +140,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwZjU0ZjBkZC0wM2U4LTQwZWMtYWIwMS1hODJmYTQzYjk5ZDgiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**加利福尼亚1（KCP）:**
-
- Address(地址): 137.175.30.162
-
- Port（端口）:27672
-
- UUID（用户id）: eb951408-0070-11eb-843f-00163c948d6d
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: kcp
-
- headerType（伪装类型）: wireguard
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjEiLA0KICAiYWRkIjogIjEzNy4xNzUuMzAuMTYyIiwNCiAgInBvcnQiOiAiMjc2NzIiLA0KICAiaWQiOiAiZWI5NTE0MDgtMDA3MC0xMWViLTg0M2YtMDAxNjNjOTQ4ZDZkIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAid2lyZWd1YXJkIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
-**加利福尼亚2（KCP）:**
-
- Address(地址): 107.148.200.219
-
- Port（端口）:31840
-
- UUID（用户id）: d65e54d2-0070-11eb-a74c-00163cc13ef4
-
- alterId（额外ID）: 16
-
- security（加密方式）: auto
-
- network（传输协议）: kcp
-
- headerType（伪装类型）: srtp
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6mjIiLA0KICAiYWRkIjogIjEwNy4xNDguMjAwLjIxOSIsDQogICJwb3J0IjogIjMxODQwIiwNCiAgImlkIjogImQ2NWU1NGQyLTAwNzAtMTFlYi1hNzRjLTAwMTYzY2MxM2VmNCIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogImtjcCIsDQogICJ0eXBlIjogInNydHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
 ***
 
 如果想搭建自己的v2ray帐号或学习翻墙技能，可参考[一键搭建科学上网工具ProxySU](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU)
