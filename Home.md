@@ -19,7 +19,6 @@
 
 ***
 
-**预告：北京时间2020年9月30日8点30分【逐鹿白宮 关键辩论】2020美國大选总统候选人首场辩论/全程直播同声翻译** [YouTube直播地址](https://www.youtube.com/watch?v=8RaN7v1f0-k&ab_channel=%E6%96%B0%E5%94%90%E4%BA%BA%E9%9B%BB%E8%A6%96%E5%8F%B0)
 
 **备用网址：https://tr1.freeair888.club**
 
