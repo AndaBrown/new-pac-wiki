@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年9月29日17点25分新增2个加利福尼亚帐号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月3日9点35分更新加利福尼亚2、日本1、日本2账号端口，去掉德国和莫斯科1账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -59,27 +59,7 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>德国</td>
-<td>89.163.224.142</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;666nice</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>350kb/s</a></td>
-</tr>
-<tr>
-<td>莫斯科1</td>
-<td>45.147.200.161</td>
-<td>12345</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>320kb/s</a></td>
-</tr>
-<tr>
-<td>莫斯科2</td>
+<td>莫斯科</td>
 <td>85.117.235.151</td>
 <td>12345</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -141,7 +121,7 @@ VPS推荐：
 <tr>
 <td>加利福尼亚2</td>
 <td>137.175.30.162</td>
-<td>12345</td>
+<td>666</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
@@ -161,7 +141,7 @@ VPS推荐：
 <tr>
 <td>日本1</td>
 <td>109.166.37.200</td>
-<td>34567</td>
+<td>888</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
@@ -171,7 +151,7 @@ VPS推荐：
 <tr>
 <td>日本2</td>
 <td>45.88.43.37</td>
-<td>34567</td>
+<td>888</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
