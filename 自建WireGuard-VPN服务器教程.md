@@ -53,6 +53,7 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 
 40美元/月的服务器配置信息： 4cpu   8G内存   160G SSD硬盘   带宽1G    4000G流量/月  
 
+**[vultr](https://www.vultr.com/?ref=7048874)17个服务器位置官方测试地址：**
 
 <table id="tablepress-1">
 <thead>
