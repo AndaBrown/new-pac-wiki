@@ -107,110 +107,108 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 <tbody>
 <tr>
 <td>德国法兰克福</td>
-<td>fra-de-ping.vultr.com</td>
+<td>108.61.210.117</td>
 <td><a rel="nofollow" href="https://fra-de-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://fra-de-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>荷兰阿姆斯特丹</td>
-<td>ams-nl-ping.vultr.com</td>
+<td>108.61.198.102</td>
 <td><a rel="nofollow" href="https://ams-nl-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://ams-nl-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>法国巴黎</td>
-<td>par-fr-ping.vultr.com</td>
+<td>108.61.209.127</td>
 <td><a rel="nofollow" href="https://par-fr-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://par-fr-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>英国伦敦</td>
-<td>lon-gb-ping.vultr.com</td>
+<td>108.61.196.101</td>
 <td><a rel="nofollow" href="https://lon-gb-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://lon-gb-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>韩国汉城</td>
-<td>sel-kor-ping.vultr.com</td>
+<td>141.164.34.61</td>
 <td><a rel="nofollow" href="https://sel-kor-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://sel-kor-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>新加坡</td>
-<td>sgp-ping.vultr.com</td>
+<td>45.32.100.168</td>
 <td><a rel="nofollow" href="https://sgp-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://sgp-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>日本东京</td>
-<td>hnd-jp-ping.vultr.com</td>
+<td>108.61.201.151</td>
 <td><a rel="nofollow" href="https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://hnd-jp-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国纽约</td>
-<td>nj-us-ping.vultr.com</td>
+<td>108.61.149.182</td>
 <td><a rel="nofollow" href="https://nj-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://nj-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>加拿大多伦多</td>
-<td>tor-ca-ping.vultr.com</td>
+<td>149.248.50.81</td>
 <td><a rel="nofollow" href="https://tor-ca-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://tor-ca-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国芝加哥</td>
-<td>il-us-ping.vultr.com</td>
+<td>107.191.51.12</td>
 <td><a rel="nofollow" href="https://il-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://il-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国亚特兰大</td>
-<td>ga-us-ping.vultr.com</td>
+<td>108.61.193.166</td>
 <td><a rel="nofollow" href="https://ga-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://ga-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国西雅图</td>
-<td>wa-us-ping.vultr.com</td>
+<td>108.61.194.105</td>
 <td><a rel="nofollow" href="https://wa-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://wa-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国迈阿密</td>
-<td>fl-us-ping.vultr.com</td>
+<td>104.156.244.232</td>
 <td><a rel="nofollow" href="https://fl-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://fl-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国达拉斯</td>
-<td>tx-us-ping.vultr.com</td>
+<td>108.61.224.175</td>
 <td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国硅谷</td>
-<td>sjo-ca-us-ping.vultr.com</td>
+<td>104.156.230.107</td>
 <td><a rel="nofollow" href="https://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://sjo-ca-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国洛杉矶</td>
-<td>lax-ca-us-ping.vultr.com</td>
+<td>108.61.219.200</td>
 <td><a rel="nofollow" href="https://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://lax-ca-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>澳大利亚悉尼</td>
-<td>syd-au-ping.vultr.com</td>
+<td>108.61.212.117</td>
 <td><a rel="nofollow" href="https://syd-au-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://syd-au-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 </tbody>
 </table>
-
-注：ping域名就是相应的ip了。官方测试服务器可能没有部署bbr加速，如果部署bbr加速，理论上会更快。
 
 ***
 
