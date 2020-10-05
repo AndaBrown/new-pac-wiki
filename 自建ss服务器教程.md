@@ -46,7 +46,6 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 <tr>
 <th>服务器位置</th>
 <th>官方测试ip</th>
-<th>100M</th>
 <th>下载测试文件100M</th>
 <th>下载测试文件1GB</th>
 </tr>
