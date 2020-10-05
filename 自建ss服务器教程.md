@@ -136,7 +136,7 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 <td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
-<td>美国硅谷/td>
+<td>美国硅谷</td>
 <td>sjo-ca-us-ping.vultr.com</td>
 <td><a rel="nofollow" href="https://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://sjo-ca-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
@@ -156,7 +156,7 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 </tbody>
 </table>
 
-注：ping域名就是相应的ip了
+注：ping域名就是相应的ip了。官方测试服务器可能没有部署bbr加速，如果部署bbr加速，理论上会更快。
 
 ***
 
