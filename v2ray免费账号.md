@@ -41,8 +41,6 @@ VPS推荐：
 
 ***
 
-如果遇到KCP类型的帐号， 在客户端里面headerType（伪装类型）无法手动添加的话，可以通过vmess链接来导入帐号。
-
 **洛杉矶（WebSocket+TLS+Nginx）**:                                                        
 
  Address(地址): tr1.free2222.xyz
