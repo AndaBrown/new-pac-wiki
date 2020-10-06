@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月6日20点35分去掉3个加利福尼亚账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月7日7点18分账号速度调整为220kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -66,7 +66,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>320kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科</td>
@@ -76,7 +76,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>320kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶1</td>
@@ -86,7 +86,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>320kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶2</td>
@@ -96,7 +96,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>320kb/s</a></td>
+<td>220kb/s</a></td>
 </tr> 
 <tr>
 <td>洛杉矶3</td>
@@ -106,7 +106,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>320kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>日本1</td>
@@ -116,7 +116,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>300kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>日本2</td>
@@ -126,7 +126,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>300kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
@@ -136,7 +136,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>320kb/s</td>
+<td>220kb/s</td>
 </tr>
 <tr>
 <td>新加坡</td>
@@ -146,7 +146,7 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>200kb/s</td>
+<td>220kb/s</td>
 </tr>
 <tr>
 <td>洛杉矶SS</td>
@@ -156,7 +156,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>320kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>日本SS</td>
@@ -166,7 +166,7 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>300kb/s</a></td>
+<td>220kb/s</a></td>
 </tr>
 </tbody>
 </table>
