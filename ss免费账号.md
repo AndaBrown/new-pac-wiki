@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月3日21点新增德国账号，9点35分更新加利福尼亚2、日本1、日本2账号端口。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月6日20点35分去掉3个加利福尼亚账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -102,36 +102,6 @@ VPS推荐：
 <td>洛杉矶3</td>
 <td>64.32.6.246</td>
 <td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>320kb/s</a></td>
-</tr>
-<tr>
-<td>加利福尼亚1</td>
-<td>142.4.123.237</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>320kb/s</a></td>
-</tr>
-<tr>
-<td>加利福尼亚2</td>
-<td>137.175.30.162</td>
-<td>666</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>320kb/s</a></td>
-</tr>
-<tr>
-<td>加利福尼亚3</td>
-<td>107.148.200.219</td>
-<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>RC4</td>
 <td>origin</td>
