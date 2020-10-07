@@ -99,16 +99,6 @@ VPS推荐：
 <td>220kb/s</a></td>
 </tr> 
 <tr>
-<td>洛杉矶3</td>
-<td>64.32.6.246</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-<td>220kb/s</a></td>
-</tr>
-<tr>
 <td>日本1</td>
 <td>109.166.37.200</td>
 <td>888</td>
