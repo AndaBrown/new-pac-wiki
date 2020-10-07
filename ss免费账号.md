@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月7日7点18分账号速度调整为220kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月7日19点30分更新德国、莫斯科帐号密码和加密方式。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -62,8 +62,8 @@ VPS推荐：
 <td>德国</td>
 <td>89.163.245.185</td>
 <td>23456</td>
-<td>dongtaiwang.com&nbsp;666nice</td>
-<td>RC4</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 <td>220kb/s</a></td>
@@ -72,8 +72,8 @@ VPS推荐：
 <td>莫斯科</td>
 <td>85.117.235.151</td>
 <td>12345</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>RC4</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 <td>220kb/s</a></td>
