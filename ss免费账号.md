@@ -159,7 +159,7 @@ VPS推荐：
 <td>220kb/s</td>
 </tr>
 <tr>
-<td>洛杉矶SS</td>
+<td>洛杉矶</td>
 <td>195.123.240.241</td>
 <td>12345</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -169,7 +169,7 @@ VPS推荐：
 <td>220kb/s</a></td>
 </tr>
 <tr>
-<td>日本SS</td>
+<td>日本</td>
 <td>109.166.37.200</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
