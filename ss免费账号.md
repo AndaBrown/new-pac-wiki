@@ -112,7 +112,7 @@ VPS推荐：
 <td>韩国</td>
 <td>141.164.52.118</td>
 <td>12345</td>
-<td>ntdtv.com&nbsp;123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
