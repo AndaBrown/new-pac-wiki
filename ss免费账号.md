@@ -54,7 +54,6 @@ VPS推荐：
 <th>加密方式</th>
 <th>协议</th>
 <th>混淆</th>
-<th>限速</th>
 </tr>
 </thead>
 <tbody>
@@ -65,8 +64,7 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-cfb</td>
 <td>origin</td>
-<td>plain</td>
-<td>220kb/s</a></td>
+<td>plain</a></td>
 </tr>
 <tr>
 <td>德国</td>
@@ -76,7 +74,6 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>莫斯科</td>
@@ -86,7 +83,6 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶1</td>
@@ -96,7 +92,6 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>洛杉矶2</td>
@@ -106,7 +101,6 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr> 
 <tr>
 <td>韩国</td>
@@ -116,7 +110,6 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr> 
 <tr>
 <td>日本1</td>
@@ -126,7 +119,6 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>日本2</td>
@@ -136,7 +128,6 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>瑞士</td>
@@ -146,7 +137,6 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</td>
 </tr>
 <tr>
 <td>新加坡</td>
@@ -156,7 +146,6 @@ VPS推荐：
 <td>RC4</td>
 <td>origin</td>
 <td>plain</td>
-<td>220kb/s</td>
 </tr>
 <tr>
 <td>洛杉矶</td>
@@ -166,7 +155,6 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>220kb/s</a></td>
 </tr>
 <tr>
 <td>日本</td>
@@ -176,7 +164,6 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-<td>220kb/s</a></td>
 </tr>
 </tbody>
 </table>
