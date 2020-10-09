@@ -148,6 +148,15 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
+<td>加利福尼亚</td>
+<td>107.148.240.162</td>
+<td>23456</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>洛杉矶</td>
 <td>195.123.240.241</td>
 <td>12345</td>
