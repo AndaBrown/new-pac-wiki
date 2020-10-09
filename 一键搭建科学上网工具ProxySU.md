@@ -307,7 +307,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps8.jpg)
 
-**目前这个工具还是特别成熟，跟域名相关的部署不一定会成功，如果尝试了多次还是不行的话，可以使用SSH工具连接vps后，使用一键脚本来搭建。参考一下教程**：
+**目前这个工具还是特别成熟，跟域名相关的部署不一定会成功，如果尝试了多次还是不行的话，可以使用SSH工具连接vps后，使用一键脚本来搭建。参考以下教程**：
 
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
 [自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
