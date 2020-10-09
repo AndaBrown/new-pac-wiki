@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月9日11点12分更新瑞士账号，11点更新洛杉矶账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月9日11点35分更新新加坡和莫斯科账号，11点12分更新瑞士账号，11点更新洛杉矶账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -89,57 +89,57 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiNTQ5NDMiLA0KICAiaWQiOiAiZGQxMTg2MjYtMDlkYy0xMWViLWIxZjYtNTI1NDAwNTAwYjc2IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**新加坡（WebSocket+TLS+Caddy）**:                                                        
+**新加坡（TCP）**:                                                        
 
- Address(地址): tr2.free2222.xyz
+ Address(地址): 195.123.237.140
 
- Port（端口）:443
+ Port（端口）:19594
 
- UUID（用户id）: a2e3ed1e-4daa-417c-8eca-25eff6a843de
+ UUID（用户id）: 9b88bbbf-abdb-464c-8d3d-706baecd7ee3
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
  伪装域名（host）：不填
 
- 路径：/ray
+ 路径：不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhMmUzZWQxZS00ZGFhLTQxN2MtOGVjYS0yNWVmZjZhODQzZGUiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTk1OTQiLA0KICAiaWQiOiAiOWI4OGJiYmYtYWJkYi00NjRjLThkM2QtNzA2YmFlY2Q3ZWUzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
-**莫斯科（WebSocket+TLS+Caddy）**:                                                        
+**莫斯科（TCP）**:                                                        
 
- Address(地址): tr3.free3333.xyz
+ Address(地址): 85.117.235.151
 
- Port（端口）:443
+ Port（端口）:14650
 
- UUID（用户id）: 0f54f0dd-03e8-40ec-ab01-a82fa43b99d8
+ UUID（用户id）: c438a1d2-17ed-4a90-8377-d20f21e0cfe1
 
- alterId（额外ID）: 16
+ alterId（额外ID）:0
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
  伪装域名（host）：不填
 
- 路径：/ray
+ 路径：不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIwZjU0ZjBkZC0wM2U4LTQwZWMtYWIwMS1hODJmYTQzYjk5ZDgiLA0KICAiYWlkIjogIjE2IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiODUuMTE3LjIzNS4xNTEiLA0KICAicG9ydCI6ICIxNDY1MCIsDQogICJpZCI6ICJjNDM4YTFkMi0xN2VkLTRhOTAtODM3Ny1kMjBmMjFlMGNmZTEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 ***
 
-免费帐号用的人很多，如果觉得速度慢，可以搭建自己的v2ray帐号，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。或者考虑搬瓦工官方付费v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
+免费帐号用的人多，如果觉得速度慢，可以搭建自己的v2ray帐号，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。或者考虑搬瓦工官方付费v2ray服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 。
 
 ***
 
