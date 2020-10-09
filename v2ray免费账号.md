@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月9日11点更新洛杉矶账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月9日11点12分更新瑞士账号，11点更新洛杉矶账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -65,30 +65,29 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMzIyNjMiLA0KICAiaWQiOiAiMjk1MGU0MzQtMDlkYi0xMWViLWFmODQtNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**瑞士（WebSocket+TLS+Nginx）**:                                                        
+**瑞士（TCP）**:                                                        
 
- Address(地址): tr24.free2222.xyz
+ Address(地址): 45.90.57.171
 
- Port（端口）:443
+ Port（端口）:54943
 
- UUID（用户id）: 1e0a4508-7a5c-4cb2-974c-e3139a70c32a
+ UUID（用户id）: dd118626-09dc-11eb-b1f6-525400500b76
 
- alterId（额外ID）: 2
+ alterId（额外ID）: 16
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr24.free2222.xyz
+ 伪装域名（host）：不填
 
- 路径：/996de193ab627c/
+ 路径：不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMWUwYTQ1MDgtN2E1Yy00Y2IyLTk3NGMtZTMxMzlhNzBjMzJhIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjI0LmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi85OTZkZTE5M2FiNjI3Yy8iLA0KICAidGxzIjogInRscyINCn0=
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiNTQ5NDMiLA0KICAiaWQiOiAiZGQxMTg2MjYtMDlkYy0xMWViLWIxZjYtNTI1NDAwNTAwYjc2IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 **新加坡（WebSocket+TLS+Caddy）**:                                                        
 
