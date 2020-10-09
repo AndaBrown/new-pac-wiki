@@ -34,38 +34,36 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月7日7点35分更新瑞士账号UUID，7点28分账号限速为220kb/s。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月9日11点更新洛杉矶账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
 
-**为了让每个人都能获得一定的带宽资源，帐号进行了限速。**
+**洛杉矶（TCP）**:                                                        
 
-**洛杉矶（WebSocket+TLS+Nginx）**:                                                        
+ Address(地址): 195.123.241.117
 
- Address(地址): tr1.free2222.xyz
+ Port（端口）:32263
 
- Port（端口）:443
+ UUID（用户id）: 2950e434-09db-11eb-af84-52ac006718a2
 
- UUID（用户id）: 60de6fa1-0bad-4648-b741-8c3a112d3d12
-
- alterId（额外ID）: 2
+ alterId（额外ID）: 16
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：tr1.free2222.xyz
+ 伪装域名（host）：不填
 
- 路径：/2099/
+ 路径：不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAidHIxLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2MGRlNmZhMS0wYmFkLTQ2NDgtYjc0MS04YzNhMTEyZDNkMTIiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInRyMS5mcmVlMjIyMi54eXoiLA0KICAicGF0aCI6ICIvMjA5OS8iLA0KICAidGxzIjogInRscyINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMzIyNjMiLA0KICAiaWQiOiAiMjk1MGU0MzQtMDlkYi0xMWViLWFmODQtNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 **瑞士（WebSocket+TLS+Nginx）**:                                                        
 
