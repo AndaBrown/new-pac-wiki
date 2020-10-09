@@ -289,7 +289,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps5.jpg)
 
-**如果没有域名，可以搭建其它的协议，比如TCP、KCP。**
+**如果没有域名，可以搭建其它的协议，比如TCP、WebSocket、KCP。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps9.jpg)
 
