@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月9日更新新加坡、莫斯科、瑞士、洛杉矶账号，新增洛杉矶、加利福尼亚、韩国账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月10日更新瑞士账号。 禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -137,19 +137,19 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC40OC4yNTUiLA0KICAicG9ydCI6ICI1NjA4MiIsDQogICJpZCI6ICJiZmJiMmEwYS03NjAyLTQzODgtODk0Yy02MjlhODdjMTQ3ODQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**瑞士（TCP）**:                                                        
+**瑞士（WebSocket）**:                                                        
 
  Address(地址): 45.90.57.171
 
- Port（端口）:54943
+ Port（端口）:41825
 
- UUID（用户id）: dd118626-09dc-11eb-b1f6-525400500b76
+ UUID（用户id）: 40e5bc06-7ade-4e2c-a1b5-dafb1664d58b
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -159,7 +159,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIs
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiNTQ5NDMiLA0KICAiaWQiOiAiZGQxMTg2MjYtMDlkYy0xMWViLWIxZjYtNTI1NDAwNTAwYjc2IiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiNDE4MjUiLA0KICAiaWQiOiAiNDBlNWJjMDYtN2FkZS00ZTJjLWExYjUtZGFmYjE2NjRkNThiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **新加坡（TCP）**:                                                        
 
