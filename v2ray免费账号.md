@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月12日16点50分更新洛杉矶、瑞士、新加坡、韩国节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日17点00分更新洛杉矶、瑞士、新加坡、韩国、莫斯科节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -136,6 +136,30 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
  底层传输安全：tls
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAidHI4LmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlNmRlMDU0Ni0xYjJlLTRiNTktYjk3NS0wZTM3YWZhNmU0ZWQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+
+**莫斯科（WebSocket+TLS+Caddy）**:                                                        
+
+ Address(地址): tr9.free2222.xyz
+
+ Port（端口）:443
+
+ UUID（用户id）: 3c112160-7044-4639-b025-0dea9c5a23d6
+
+ alterId（额外ID）: 0
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径：/ray
+
+ 底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAidHI5LmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIzYzExMjE2MC03MDQ0LTQ2MzktYjAyNS0wZGVhOWM1YTIzZDYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 ***
 
