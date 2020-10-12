@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月12日9点28分更新洛杉矶1、日本1、日本2、瑞士、新加坡节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日19点38分增加aes-256-gcm加密方式节点，9点28分更新洛杉矶1、日本1、日本2、瑞士、新加坡节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -154,6 +154,42 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
+</tr>
+<tr>
+<td>德国</td>
+<td>89.163.245.185</td>
+<td>34567</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>加利福尼亚</td>
+<td>107.148.240.162</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>莫斯科</td>
+<td>85.117.235.151</td>
+<td>23456</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>洛杉矶</td>
+<td>45.66.156.162</td>
+<td>34567</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
