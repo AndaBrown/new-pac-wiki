@@ -34,26 +34,26 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月10日更新瑞士节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日15点26分更新洛杉矶1节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
 
-**洛杉矶1（TCP）**:                                                        
+**洛杉矶1（WebSocket）**:                                                        
 
  Address(地址): 45.66.156.199
 
- Port（端口）:24073
+ Port（端口）: 32247
 
- UUID（用户id）: 818bb0b8-0835-11eb-b020-00163c06ad53
+ UUID（用户id）: 9d914a47-2d1c-4b83-9d1a-b6210dcabe1f
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -63,7 +63,7 @@ VPS推荐：
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAiNDUuNjYuMTU2LjE5OSIsDQogICJwb3J0IjogIjI0MDczIiwNCiAgImlkIjogIjgxOGJiMGI4LTA4MzUtMTFlYi1iMDIwLTAwMTYzYzA2YWQ1MyIsDQogICJhaWQiOiAiMTYiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAiNDUuNjYuMTU2LjE5OSIsDQogICJwb3J0IjogIjMyMjQ3IiwNCiAgImlkIjogIjlkOTE0YTQ3LTJkMWMtNGI4My05ZDFhLWI2MjEwZGNhYmUxZiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 **洛杉矶2（TCP）**:                                                        
 
