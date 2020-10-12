@@ -41,29 +41,8 @@ VPS推荐：
 
 ***
 
-**洛杉矶1（WebSocket）**:                                                        
+端口被封的有点快，会继续更新。
 
- Address(地址): 45.66.156.199
-
- Port（端口）: 32247
-
- UUID（用户id）: 9d914a47-2d1c-4b83-9d1a-b6210dcabe1f
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAiNDUuNjYuMTU2LjE5OSIsDQogICJwb3J0IjogIjMyMjQ3IiwNCiAgImlkIjogIjlkOTE0YTQ3LTJkMWMtNGI4My05ZDFhLWI2MjEwZGNhYmUxZiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 **洛杉矶2（WebSocket）**:                                                        
 
