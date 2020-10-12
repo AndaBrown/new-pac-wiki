@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月12日16点02分更新所有节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日16点25分更新洛杉矶节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -44,37 +44,13 @@ VPS推荐：
 端口被封的有点快，会继续更新。
 
 
-**洛杉矶2（WebSocket）**:                                                        
+**洛杉矶1（WebSocket+TLS+Caddy）**:                                                        
 
- Address(地址): 195.123.241.117
+ Address(地址): tr1.free2222.xyz
 
- Port（端口）:32806
+ Port（端口）:443
 
- UUID（用户id）: 3c0f8bee-e75a-433b-a08f-e92a9db66501
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMzI4MDYiLA0KICAiaWQiOiAiM2MwZjhiZWUtZTc1YS00MzNiLWEwOGYtZTkyYTlkYjY2NTAxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
-**加利福尼亚（WebSocket）**:                                                        
-
- Address(地址): 107.148.240.161
-
- Port（端口）:34590
-
- UUID（用户id）: bcf23a78-8d16-4afa-bdcb-4f9ee79755d3
+ UUID（用户id）: 588784a8-e881-4db0-8c22-88788af984e8
 
  alterId（额外ID）: 0
 
@@ -86,107 +62,12 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 
  伪装域名（host）：不填
 
- 路径：不填
+ 路径：/ray
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA3LjE0OC4yNDAuMTYxIiwNCiAgInBvcnQiOiAiMzQ1OTAiLA0KICAiaWQiOiAiYmNmMjNhNzgtOGQxNi00YWZhLWJkY2ItNGY5ZWU3OTc1NWQzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAidHIxLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1ODg3ODRhOC1lODgxLTRkYjAtOGMyMi04ODc4OGFmOTg0ZTgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
-**韩国（WebSocket）**:                                                        
-
- Address(地址): 141.164.48.255
-
- Port（端口）:45709
-
- UUID（用户id）: 87b74f28-b110-49c1-a817-8e7f1c4e1b58
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC40OC4yNTUiLA0KICAicG9ydCI6ICI0NTcwOSIsDQogICJpZCI6ICI4N2I3NGYyOC1iMTEwLTQ5YzEtYTgxNy04ZTdmMWM0ZTFiNTgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-
-**瑞士（WebSocket）**:                                                        
-
- Address(地址): 45.90.57.171
-
- Port（端口）:25577
-
- UUID（用户id）: 1b3308bd-06fc-4f25-9ef4-8ab96e89ec72
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiMjU1NzciLA0KICAiaWQiOiAiMWIzMzA4YmQtMDZmYy00ZjI1LTllZjQtOGFiOTZlODllYzcyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
-**新加坡（WebSocket）**:                                                        
-
- Address(地址): 195.123.237.140
-
- Port（端口）:14862
-
- UUID（用户id）: 8b427105-4584-4941-8b25-1080c13ec7d3
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTQ4NjIiLA0KICAiaWQiOiAiOGI0MjcxMDUtNDU4NC00OTQxLThiMjUtMTA4MGMxM2VjN2QzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
-**莫斯科（WebSocket）**:                                                        
-
- Address(地址): 85.117.235.151
-
- Port（端口）:36175
-
- UUID（用户id）: a03b6494-7aeb-49d5-a19e-e6165c0ba940
-
- alterId（额外ID）:0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiODUuMTE3LjIzNS4xNTEiLA0KICAicG9ydCI6ICIzNjE3NSIsDQogICJpZCI6ICJhMDNiNjQ5NC03YWViLTQ5ZDUtYTE5ZS1lNjE2NWMwYmE5NDAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 ***
 
