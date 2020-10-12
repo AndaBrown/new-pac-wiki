@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月12日15点34分更新洛杉矶1、洛杉矶2节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日16点02分更新所有节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -89,19 +89,19 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieef
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMzI4MDYiLA0KICAiaWQiOiAiM2MwZjhiZWUtZTc1YS00MzNiLWEwOGYtZTkyYTlkYjY2NTAxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-**加利福尼亚（TCP）**:                                                        
+**加利福尼亚（WebSocket）**:                                                        
 
  Address(地址): 107.148.240.161
 
- Port（端口）:10318
+ Port（端口）:34590
 
- UUID（用户id）: e2410996-0a18-11eb-9c4d-00259078792c
+ UUID（用户id）: bcf23a78-8d16-4afa-bdcb-4f9ee79755d3
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -111,15 +111,15 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA3LjE0OC4yNDAuMTYxIiwNCiAgInBvcnQiOiAiMTAzMTgiLA0KICAiaWQiOiAiZTI0MTA5OTYtMGExOC0xMWViLTljNGQtMDAyNTkwNzg3OTJjIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA3LjE0OC4yNDAuMTYxIiwNCiAgInBvcnQiOiAiMzQ1OTAiLA0KICAiaWQiOiAiYmNmMjNhNzgtOGQxNi00YWZhLWJkY2ItNGY5ZWU3OTc1NWQzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **韩国（WebSocket）**:                                                        
 
  Address(地址): 141.164.48.255
 
- Port（端口）:56082
+ Port（端口）:45709
 
- UUID（用户id）: bfbb2a0a-7602-4388-894c-629a87c14784
+ UUID（用户id）: 87b74f28-b110-49c1-a817-8e7f1c4e1b58
 
  alterId（额外ID）: 0
 
@@ -135,15 +135,15 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOWKoOWIqeem
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC40OC4yNTUiLA0KICAicG9ydCI6ICI1NjA4MiIsDQogICJpZCI6ICJiZmJiMmEwYS03NjAyLTQzODgtODk0Yy02MjlhODdjMTQ3ODQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC40OC4yNTUiLA0KICAicG9ydCI6ICI0NTcwOSIsDQogICJpZCI6ICI4N2I3NGYyOC1iMTEwLTQ5YzEtYTgxNy04ZTdmMWM0ZTFiNTgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 **瑞士（WebSocket）**:                                                        
 
  Address(地址): 45.90.57.171
 
- Port（端口）:41825
+ Port（端口）:25577
 
- UUID（用户id）: 40e5bc06-7ade-4e2c-a1b5-dafb1664d58b
+ UUID（用户id）: 1b3308bd-06fc-4f25-9ef4-8ab96e89ec72
 
  alterId（额外ID）: 0
 
@@ -159,21 +159,21 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIs
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiNDE4MjUiLA0KICAiaWQiOiAiNDBlNWJjMDYtN2FkZS00ZTJjLWExYjUtZGFmYjE2NjRkNThiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAiNDUuOTAuNTcuMTcxIiwNCiAgInBvcnQiOiAiMjU1NzciLA0KICAiaWQiOiAiMWIzMzA4YmQtMDZmYy00ZjI1LTllZjQtOGFiOTZlODllYzcyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-**新加坡（TCP）**:                                                        
+**新加坡（WebSocket）**:                                                        
 
  Address(地址): 195.123.237.140
 
- Port（端口）:19594
+ Port（端口）:14862
 
- UUID（用户id）: 9b88bbbf-abdb-464c-8d3d-706baecd7ee3
+ UUID（用户id）: 8b427105-4584-4941-8b25-1080c13ec7d3
 
  alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -183,21 +183,21 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTk1OTQiLA0KICAiaWQiOiAiOWI4OGJiYmYtYWJkYi00NjRjLThkM2QtNzA2YmFlY2Q3ZWUzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAiMTk1LjEyMy4yMzcuMTQwIiwNCiAgInBvcnQiOiAiMTQ4NjIiLA0KICAiaWQiOiAiOGI0MjcxMDUtNDU4NC00OTQxLThiMjUtMTA4MGMxM2VjN2QzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-**莫斯科（TCP）**:                                                        
+**莫斯科（WebSocket）**:                                                        
 
  Address(地址): 85.117.235.151
 
- Port（端口）:14650
+ Port（端口）:36175
 
- UUID（用户id）: c438a1d2-17ed-4a90-8377-d20f21e0cfe1
+ UUID（用户id）: a03b6494-7aeb-49d5-a19e-e6165c0ba940
 
  alterId（额外ID）:0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -207,7 +207,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWd
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiODUuMTE3LjIzNS4xNTEiLA0KICAicG9ydCI6ICIxNDY1MCIsDQogICJpZCI6ICJjNDM4YTFkMi0xN2VkLTRhOTAtODM3Ny1kMjBmMjFlMGNmZTEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAiODUuMTE3LjIzNS4xNTEiLA0KICAicG9ydCI6ICIzNjE3NSIsDQogICJpZCI6ICJhMDNiNjQ5NC03YWViLTQ5ZDUtYTE5ZS1lNjE2NWMwYmE5NDAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 ***
 
