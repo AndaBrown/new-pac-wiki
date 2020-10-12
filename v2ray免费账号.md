@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月12日15点26分更新洛杉矶1节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日15点34分更新洛杉矶1、洛杉矶2节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -65,19 +65,19 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAiNDUuNjYuMTU2LjE5OSIsDQogICJwb3J0IjogIjMyMjQ3IiwNCiAgImlkIjogIjlkOTE0YTQ3LTJkMWMtNGI4My05ZDFhLWI2MjEwZGNhYmUxZiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
-**洛杉矶2（TCP）**:                                                        
+**洛杉矶2（WebSocket）**:                                                        
 
  Address(地址): 195.123.241.117
 
- Port（端口）:32263
+ Port（端口）:32806
 
- UUID（用户id）: 2950e434-09db-11eb-af84-52ac006718a2
+ UUID（用户id）: 3c0f8bee-e75a-433b-a08f-e92a9db66501
 
- alterId（额外ID）: 16
+ alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -87,7 +87,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieef
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMzIyNjMiLA0KICAiaWQiOiAiMjk1MGU0MzQtMDlkYi0xMWViLWFmODQtNTJhYzAwNjcxOGEyIiwNCiAgImFpZCI6ICIxNiIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAiMTk1LjEyMy4yNDEuMTE3IiwNCiAgInBvcnQiOiAiMzI4MDYiLA0KICAiaWQiOiAiM2MwZjhiZWUtZTc1YS00MzNiLWEwOGYtZTkyYTlkYjY2NTAxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 **加利福尼亚（TCP）**:                                                        
 
