@@ -34,15 +34,12 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月12日16点40分更新洛杉矶、瑞士、新加坡节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日16点50分更新洛杉矶、瑞士、新加坡、韩国节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
-
-端口被封的有点快，会继续更新。
-
 
 **洛杉矶1（WebSocket+TLS+Caddy）**:                                                        
 
@@ -116,6 +113,29 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIs
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOaWsOWKoOWdoSIsDQogICJhZGQiOiAidHIyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIyYjM0NTg0MC01Y2MxLTRmYzEtOTA0YS1mZDc4YjU5NzM1MDYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
+**韩国（WebSocket+TLS+Caddy）**:                                                        
+
+ Address(地址): tr8.free2222.xyz
+
+ Port（端口）:443
+
+ UUID（用户id）: e6de0546-1b2e-4b59-b975-0e37afa6e4ed
+
+ alterId（额外ID）: 0
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径：/ray
+
+ 底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAidHI4LmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlNmRlMDU0Ni0xYjJlLTRiNTktYjk3NS0wZTM3YWZhNmU0ZWQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 ***
 
