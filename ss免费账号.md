@@ -34,14 +34,14 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月11日23点38分更新日本1、日本2账号，18点25分新增韩国账号，6点22分更新韩国账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日9点28分更新洛杉矶1、日本1、日本2、瑞士、新加坡节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
 ***
 
-**以下账号密码都有一个空格。为了让每个人都能获得一定的带宽资源，账号进行了限速。aes-256-cfb加密方式的账号SSR和SS客户端都能用，RC4加密方式的账号用SSR客户端，aes-256-gcm加密方式的账号用SS客户端。**
+**以下节点密码都有一个空格。为了让每个人都能获得一定的带宽资源，节点进行了限速。**
 
 
 <table id="tablepress-1">
@@ -86,6 +86,14 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶1</td>
+<td>45.66.156.162</td>
+<td>23456</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-cfb</td>
+<td>origin</td>
+<td>plain</td>
+</tr> 
+<td>洛杉矶1</td>
 <td>195.123.240.241</td>
 <td>8888</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -112,20 +120,11 @@ VPS推荐：
 <td>plain</td>
 </tr> 
 <tr>
-<td>洛杉矶</td>
-<td>45.66.156.162</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
-<td>origin</td>
-<td>plain</td>
-</tr> 
-<tr>
 <td>日本1</td>
 <td>109.166.37.200</td>
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
@@ -134,7 +133,7 @@ VPS推荐：
 <td>45.88.43.37</td>
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>RC4</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
@@ -143,7 +142,7 @@ VPS推荐：
 <td>45.90.57.171</td>
 <td>12345</td>
 <td>ntdtv.com&nbsp;123abc</td>
-<td>RC4</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
@@ -152,7 +151,7 @@ VPS推荐：
 <td>195.123.237.12</td>
 <td>34567</td>
 <td>ntdtv.com&nbsp;123abc</td>
-<td>RC4</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
