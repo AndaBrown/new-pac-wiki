@@ -34,36 +34,12 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月13日10点30分新增加利福尼亚节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月12日17点00分更新洛杉矶、瑞士、新加坡、韩国、莫斯科节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
-
-**加利福尼亚（TCP）**:                                                        
-
- Address(地址): 107.148.240.161
-
- Port（端口）:49751
-
- UUID（用户id）: 64462429-3797-436b-91c3-5abe0d4ffba8
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: tcp
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWKoOWIqeemj+WwvOS6miIsDQogICJhZGQiOiAiMTA3LjE0OC4yNDAuMTYxIiwNCiAgInBvcnQiOiAiNDk3NTEiLA0KICAiaWQiOiAiNjQ0NjI0MjktMzc5Ny00MzZiLTkxYzMtNWFiZTBkNGZmYmE4IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 
 **洛杉矶（WebSocket+TLS+Caddy）**:                                                        
 
