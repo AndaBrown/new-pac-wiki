@@ -130,7 +130,7 @@ VPS推荐：
 <td>plain</td>
 </tr> 
 <tr>
-<td>[Vultr](https://www.vultr.com/?ref=7048874)韩国1</td>
+<td>韩国1</td>
 <td>141.164.35.93</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -139,7 +139,7 @@ VPS推荐：
 <td>plain</td>
 </tr> 
 <tr>
-<td>[Vultr](https://www.vultr.com/?ref=7048874)韩国2</td>
+<td>韩国2</td>
 <td>141.164.52.118</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
