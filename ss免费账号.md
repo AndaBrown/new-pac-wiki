@@ -93,7 +93,7 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr> 
-<td>洛杉矶1</td>
+<td>洛杉矶2</td>
 <td>195.123.240.241</td>
 <td>8888</td>
 <td>ntdtv.com&nbsp;123abc</td>
@@ -102,7 +102,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>洛杉矶2</td>
+<td>洛杉矶3</td>
 <td>67.21.68.252</td>
 <td>23456</td>
 <td>ntdtv.com&nbsp;123abc</td>
