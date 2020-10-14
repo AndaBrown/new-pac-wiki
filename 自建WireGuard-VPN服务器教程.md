@@ -369,8 +369,8 @@ TunSafe尚没有针对Linux，OSX或FreeBSD的图形用户界面。但是，您�
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/wire/wire-erwei2.jpg)
 
 
-安卓版：WireGuard_v0.0.20200206.xapk [国外云盘下载](http://tr1.freedown7.club/html/smallsoftware/WireGuard_v0.0.20200206.xapk)
-TunSafe VPN_v1.0.apk [国外云盘下载](http://tr1.freedown7.club/html/smallsoftware/TunSafeVPN_v1.0.apk)
+安卓版：WireGuard_v0.0.20200206.xapk [国外云盘下载](https://tr61.free4444.xyz/WireGuard_v0.0.20200206.xapk)
+TunSafe VPN_v1.0.apk [国外云盘下载](https://tr61.free4444.xyz/TunSafeVPN_v1.0.apk)
 
 安卓版安卓wireguard后，选择右下角的+号按钮进行配置，可以选择第一个将配置文件导入进去，也可以选择第二个扫描二维码。
 
