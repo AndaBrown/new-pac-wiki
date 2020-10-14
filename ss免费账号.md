@@ -184,7 +184,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>加利福尼亚</td>
+<td>加利福尼亚2</td>
 <td>107.148.240.162</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -193,7 +193,7 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶5</td>
 <td>45.66.156.162</td>
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -202,7 +202,7 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>日本</td>
+<td>日本3</td>
 <td>45.88.43.37</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -211,7 +211,7 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>韩国</td>
+<td>韩国3</td>
 <td>141.164.48.255</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
