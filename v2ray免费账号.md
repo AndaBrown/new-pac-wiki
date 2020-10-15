@@ -41,7 +41,7 @@ VPS推荐：
 
 ***
 
-**莫斯科（WebSocket+TLS+Caddy）**:                                                        
+**莫斯科**:                                                        
 
  Address(地址): tr12.free2222.xyz
 
@@ -65,7 +65,7 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIxMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMmVkNzM0ODUtZTE5NC00ODcyLWJjOGYtODA4MzQ5YmNjODYxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**韩国（WebSocket+TLS+Caddy）**:                                                        
+**韩国**:                                                        
 
  Address(地址): tr8.free2222.xyz
 
@@ -89,7 +89,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+en
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIsDQogICJhZGQiOiAidHI4LmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIzNDU3NTU2YS01MzM5LTQ4YjQtYmZjYi04NmI1YjQ4ZmU3ZjYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLA0KICAidGxzIjogInRscyINCn0=
 
-**莫斯科（WebSocket+TLS+Caddy）**:                                                        
+**莫斯科**:                                                        
 
  Address(地址): tr12.free2222.xyz
 
@@ -113,7 +113,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvSIs
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+enkSIsDQogICJhZGQiOiAidHIxMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMmVkNzM0ODUtZTE5NC00ODcyLWJjOGYtODA4MzQ5YmNjODYxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**洛杉矶（WebSocket+TLS+Caddy）**:                                                        
+**洛杉矶**:                                                        
 
  Address(地址): tr1.free2222.xyz
 
@@ -137,7 +137,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOiOq+aWr+en
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieeftiIsDQogICJhZGQiOiAidHIxLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1ODg3ODRhOC1lODgxLTRkYjAtOGMyMi04ODc4OGFmOTg0ZTgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
-**瑞士（WebSocket+TLS+Caddy）**:                                                        
+**瑞士**:                                                        
 
  Address(地址): tr24.free2222.xyz
 
@@ -161,7 +161,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOa0m+adieef
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMWRkZDc3OWQtNThmZi00ZGFlLTkzNTEtYjQ0Yjc5OTgzZjQ0IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**新加坡（WebSocket+TLS+Caddy）**:                                                        
+**新加坡**:                                                        
 
  Address(地址): tr2.free2222.xyz
 
