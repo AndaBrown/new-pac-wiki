@@ -34,12 +34,36 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月15日11点31分更新莫斯科节点，9点42分更新瑞士、新加坡节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月15日21点08分新增韩国节点，11点31分更新莫斯科节点，9点42分更新瑞士、新加坡节点。 禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
+
+**韩国**:                                                        
+
+ Address(地址): tr21.free3333.xyz
+
+ Port（端口）:443
+
+ UUID（用户id）: f9d65fc4-d70c-43e2-9217-ab40d2a06fc7
+
+ alterId（额外ID）: 0
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ 伪装域名（host）：不填
+
+ 路径：/dongtaiwang.com
+
+ 底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL0p2YWtaIOmfqeWbvTEiLA0KICAiYWRkIjogInRyMjEuZnJlZTMzMzMueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImY5ZDY1ZmM0LWQ3MGMtNDNlMi05MjE3LWFiNDBkMmEwNmZjNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 **莫斯科**:                                                        
 
