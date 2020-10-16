@@ -121,6 +121,15 @@ VPS推荐：
 <td>plain</td>
 </tr> 
 <tr>
+<td>洛杉矶4</td>
+<td>195.123.240.241</td>
+<td>8888</td>
+<td>ntdtv.com&nbsp;123abc</td>
+<td>aes-256-cfb</td>
+<td>origin</td>
+<td>plain</td>
+</tr> 
+<tr>
 <td>韩国1</td>
 <td>141.164.35.93</td>
 <td>12345</td>
