@@ -113,15 +113,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶3</td>
-<td>195.123.240.241</td>
-<td>8888</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
-<td>洛杉矶4</td>
 <td>67.21.68.252</td>
 <td>23456</td>
 <td>ntdtv.com&nbsp;123abc</td>
