@@ -76,7 +76,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>加利福尼亚1</td>
+<td>加利福尼亚</td>
 <td>107.148.240.162</td>
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
