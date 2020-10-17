@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月16日17点37分新增西雅图节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月17日8点06分更新日本1、日本2、日本3节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -159,7 +159,7 @@ VPS推荐：
 <tr>
 <td>日本1</td>
 <td>109.166.37.200</td>
-<td>34567</td>
+<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-cfb</td>
 <td>origin</td>
@@ -168,7 +168,7 @@ VPS推荐：
 <tr>
 <td>日本2</td>
 <td>45.88.43.37</td>
-<td>34567</td>
+<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-cfb</td>
 <td>origin</td>
@@ -213,7 +213,7 @@ VPS推荐：
 <tr>
 <td>日本3</td>
 <td>45.88.43.37</td>
-<td>23456</td>
+<td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-gcm</td>
 <td></td>
