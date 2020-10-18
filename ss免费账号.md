@@ -184,15 +184,6 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>新加坡</td>
-<td>195.123.237.12</td>
-<td>34567</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>加利福尼亚2</td>
 <td>107.148.240.162</td>
 <td>12345</td>
