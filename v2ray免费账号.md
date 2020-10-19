@@ -65,29 +65,7 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOa0m+adieeftiIsDQogICJhZGQiOiAidHIyNS5mcmVlMzMzMy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmE1NjJkODAtODIzYi00NmI1LTlmYmYtMDU5N2I2OTMwNzdlIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
-**韩国**:                                                        
 
- Address(地址): tr21.free3333.xyz
-
- Port（端口）:443
-
- UUID（用户id）: f9d65fc4-d70c-43e2-9217-ab40d2a06fc7
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：/dongtaiwang.com
-
- 底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAidHIyMS5mcmVlMzMzMy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZjlkNjVmYzQtZDcwYy00M2UyLTkyMTctYWI0MGQyYTA2ZmM3IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 **莫斯科**:                                                        
 
