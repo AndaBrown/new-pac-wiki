@@ -98,15 +98,6 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
-</tr>
-<tr>
-<td>洛杉矶1</td>
-<td>45.66.156.162</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
 </tr> 
 <tr>
 <td>洛杉矶2</td>
