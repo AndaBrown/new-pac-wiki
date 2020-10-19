@@ -8,13 +8,13 @@
 
 月付20元、年付A套餐168元、年付B套餐258元、年付C套餐338元，[套餐购买](https://v2free.org/)
 
+目前有8个节点，包括台湾、韩国、美国、德国等。3个高速倍率节点，5个无限流量节点。
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/1.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/2.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/5.jpg)
-
-**目前有8个节点，包括台湾、韩国、美国、德国等。3个高速倍率节点，5个无限流量节点。**
 
 
 ***
@@ -32,3 +32,7 @@
 **充值好后，打开“用户中心”，在“快速使用”这里可以看到订阅链接，也可以直接复制所有节点信息。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/6.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/7.jpg)
+
+有任何问题都可以发工单进行咨询。
