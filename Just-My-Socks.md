@@ -14,7 +14,7 @@
  	<li><a href="#user-content-just6">Just My Socks怎么用</a></li>
 </ol>
 <p class="keepp">
-Just My Socks是一个ss/ssr/v2ray服务商（机场），由搬瓦工官方推出，每个服务提供6条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。除了Just My Socks，还可以考虑<a rel="nofollow" href="https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA">v2fee机场</a>。
+Just My Socks是一个ss/ssr/v2ray服务商（机场），由搬瓦工官方推出，每个服务提供6条线路，包括最快的CN2 GIA线路。Just My Socks最大的优势是保证IP不被墙，如果IP被墙，会自动更换新的可用IP给用户。对于只是需要翻墙看看YouTube、ins或者谷歌以及谷歌学术的朋友，Just My Socks是一个非常合适的选择。除了Just My Socks，还可以考虑<a rel="nofollow" href="https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA">V2free机场</a>。
 </p>
 <h2 id="user-content-just1"><span id="just_my_socks">一、Just My Socks介绍</span></h2>
 <p class="keepp">
