@@ -12,6 +12,10 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/2.PNG)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/5.jpg)
+
+**目前有8个节点，包括台湾、韩国、美国、德国等。3个高速倍率节点，5个无限流量节点。**
+
 **购买流程**
 
 先充值，然后购买相应的套餐，获取节点信息，复制节点或者订阅节点地址即可。
@@ -19,7 +23,5 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/7.jpg)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/5.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/6.jpg)
