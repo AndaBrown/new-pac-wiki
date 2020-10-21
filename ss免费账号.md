@@ -82,7 +82,7 @@ VPS推荐：
 <td>plain</a></td>
 </tr>
 <tr>
-<td>莫斯科1</td>
+<td>莫斯科</td>
 <td>192.109.98.110</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -90,15 +90,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<td>莫斯科2</td>
-<td>192.109.98.109</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr> 
 <tr>
 <td>洛杉矶1</td>
 <td>67.21.68.252</td>
