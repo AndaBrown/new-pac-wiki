@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月20日22点25分新增韩国节点，20点24分更新洛杉矶节点，18点43分新增德国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月22日8点12分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -142,11 +142,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **韩国**:                                                        
 
- Address(地址): tr31.free3333.xyz
+ Address(地址): tr33.free3333.xyz
 
  Port（端口）:443
 
- UUID（用户id）: 4c87e8ec-cd7c-4b67-82e0-7dea6c5a2fa5
+ UUID（用户id）: 10fef7d5-0823-4323-b0b0-13cd75737a53
 
  alterId（额外ID）: 0
 
@@ -162,7 +162,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAidHIzMS5mcmVlMzMzMy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNGM4N2U4ZWMtY2Q3Yy00YjY3LTgyZTAtN2RlYTZjNWEyZmE1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInRyMzMuZnJlZTMzMzMueHl6IiwNCiAgImFkZCI6ICJ0cjMzLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxMGZlZjdkNS0wODIzLTQzMjMtYjBiMC0xM2NkNzU3MzdhNTMiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLA0KICAidGxzIjogInRscyINCn0=
 
 ***
 
