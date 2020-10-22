@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月22日8点12分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月22日17点13分更新瑞士节点，8点12分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -73,7 +73,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
  Port（端口）:443
 
- UUID（用户id）: 1ddd779d-58ff-4dae-9351-b44b79983f44
+ UUID（用户id）: e3c73ec9-e8e5-4fa9-b7af-ade2f027c3fa
 
  alterId（额外ID）: 0
 
@@ -89,7 +89,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMWRkZDc3OWQtNThmZi00ZGFlLTkzNTEtYjQ0Yjc5OTgzZjQ0IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOeRnuWjqyIsDQogICJhZGQiOiAidHIyNC5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTNjNzNlYzktZThlNS00ZmE5LWI3YWYtYWRlMmYwMjdjM2ZhIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
 **洛杉矶**:                                                        
