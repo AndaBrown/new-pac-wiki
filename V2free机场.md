@@ -6,6 +6,10 @@
 
 普通无限流量节点+高速倍率流量优质节点二者相配合，可很好的平衡用户的预算和高端需求。跟搬瓦工just-my-socks比较，性价比更高，节点也更多。
 
+目前有10个节点，包括台湾（三网优化）、韩国（三网优化）、美国CN2 GIA、日本、德国等。4个高速倍率节点，6个无限流量节点。根据使用情况，节点还会增加。
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/jd2.PNG)
+
 **价格**
 
 月付20元、年付A套餐168元、年付B套餐258元、年付C套餐338元，[套餐购买](https://v2free.org/auth/register?code=UsUP)
@@ -13,10 +17,6 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/1.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/2.PNG)
-
-目前有10个节点，包括台湾（三网优化）、韩国（三网优化）、美国CN2 GIA、日本、德国等。4个高速倍率节点，6个无限流量节点。根据使用情况，节点还会增加。
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/jd2.PNG)
 
 
 ***
