@@ -14,7 +14,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/2.PNG)
 
-目前有9个节点，包括台湾、韩国、日本、美国、德国等。3个高速倍率节点，6个无限流量节点。
+目前有10个节点，包括台湾（三网优化）、韩国（三网优化）、美国CN2 GIA、日本、德国等。4个高速倍率节点，6个无限流量节点。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/4.PNG)
 
