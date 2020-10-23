@@ -27,7 +27,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
 
-**打开商店——充值进行充值，充值方式有3种，分别是paypal、支付宝和数字货币。**
+**打开商店——充值进行充值，充值方式有3种，分别是支付宝、paypal和数字货币。**
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/zf2.PNG)
 
