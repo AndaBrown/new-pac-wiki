@@ -27,9 +27,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
 
-**打开商店——充值进行充值，充值方式有3种，分别是paypal、支付宝和数字货币。[paypal](https://www.paypal.com/c2/home)是国际知名的第三方支付服务商，注册一下账号，绑定银行卡即可购买国外商品。**
+**打开商店——充值进行充值，充值方式有3种，分别是paypal、支付宝和数字货币。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/7.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/zf2.PNG)
 
 **购买相应的套餐后，打开“用户中心”，在“快速使用”这里可以复制订阅链接以及所有节点信息，也可以在节点列表获取单个节点信息。**
 
