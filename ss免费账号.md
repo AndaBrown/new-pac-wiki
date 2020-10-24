@@ -55,15 +55,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>韩国</td>
-<td>141.164.55.46</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>西雅图</td>
 <td>173.0.55.66 </td>
 <td>12345</td>
@@ -117,6 +108,15 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr> 
+<tr>
+<td>韩国</td>
+<td>141.164.55.46</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-cfb</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
 <tr>
 <td>日本1</td>
 <td>109.166.37.200</td>
