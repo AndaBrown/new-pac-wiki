@@ -145,14 +145,6 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>日本</td>
-<td>45.88.43.37</td>
-<td>34567</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
