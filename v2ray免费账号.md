@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月25日去掉无效节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月25日19点42分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -42,10 +42,9 @@ VPS推荐：
 ***
 
 
-
 **洛杉矶**:                                                        
 
- Address(地址): tr25.free3333.xyz
+ Address(地址):ntdtv.kebi2014.workers.dev
 
  Port（端口）:443
 
@@ -65,7 +64,7 @@ VPS推荐：
 
  底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOa0m+adieeftiIsDQogICJhZGQiOiAidHIyNS5mcmVlMzMzMy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTEwOWVhNTAtMTc0OS00YjkyLTg5NDUtYjZjOWUwMzUxZDAyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOa0m+adieeftiIsDQogICJhZGQiOiAibnRkdHYua2ViaTIwMTQud29ya2Vycy5kZXYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTEwOWVhNTAtMTc0OS00YjkyLTg5NDUtYjZjOWUwMzUxZDAyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
 
