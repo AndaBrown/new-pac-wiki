@@ -56,7 +56,7 @@ VPS推荐：
 
  network（传输协议）: tcp
 
- headerType（伪装类型）: none
+ headerType（伪装类型）: http
 
  伪装域名（host）：不填
 
