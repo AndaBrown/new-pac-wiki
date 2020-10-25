@@ -99,15 +99,6 @@ VPS推荐：
 <td>plain</td>
 </tr> 
 <tr>
-<td>洛杉矶3</td>
-<td>195.123.240.241</td>
-<td>12345</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr> 
-<tr>
 <td>韩国</td>
 <td>141.164.55.46</td>
 <td>12345</td>
@@ -153,7 +144,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>洛杉矶4</td>
+<td>洛杉矶3</td>
 <td>88.218.92.127</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
