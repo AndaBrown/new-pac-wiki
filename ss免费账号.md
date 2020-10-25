@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月25日12点30分更新洛杉矶1、西雅图节点。以下节点密码都有一个空格。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月25日12点55分更新SSR节点。以下节点密码都有一个空格。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -55,7 +55,7 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>洛杉矶1</td>
+<td>洛杉矶</td>
 <td>88.218.92.127</td>
 <td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -74,50 +74,33 @@ VPS推荐：
 </tr>
 <tr>
 <td>德国</td>
-<td>89.163.245.185</td>
-<td>12345</td>
+<td>89.163.224.1425</td>
+<td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
+<td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
 <td>加利福尼亚</td>
 <td>107.148.240.162</td>
-<td>34567</td>
+<td>22222</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
+<td>rc4</td>
 <td>origin</td>
 <td>plain</a></td>
 </tr>
-<td>洛杉矶2</td>
-<td>67.21.68.252</td>
-<td>12345</td>
-<td>ntdtv.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr> 
 <tr>
 <td>韩国</td>
 <td>141.164.55.46</td>
-<td>12345</td>
+<td>22222</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
+<td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>日本1</td>
-<td>109.166.37.200</td>
-<td>11111</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
-<td>日本2</td>
+<td>日本</td>
 <td>45.88.43.37</td>
 <td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -144,7 +127,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>洛杉矶3</td>
+<td>洛杉矶</td>
 <td>88.218.92.127</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -162,7 +145,7 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>加利福尼亚2</td>
+<td>加利福尼亚</td>
 <td>107.148.240.162</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -171,7 +154,7 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>日本3</td>
+<td>日本</td>
 <td>45.88.43.37</td>
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
