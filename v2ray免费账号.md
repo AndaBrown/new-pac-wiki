@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月25日19点42分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月25日21点34分更新节点，今天封锁特别厉害。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -42,13 +42,13 @@ VPS推荐：
 ***
 
 
-**洛杉矶**:                                                        
+**韩国**:                                                        
 
- Address(地址):ntdtv.kebi2014.workers.dev
+ Address(地址):158.247.210.38
 
- Port（端口）:443
+ Port（端口）:80
 
- UUID（用户id）: e109ea50-1749-4b92-8945-b6c9e0351d02
+ UUID（用户id）: 654e7f55-e700-4872-88b8-182f87f6810a
 
  alterId（额外ID）: 0
 
@@ -60,12 +60,11 @@ VPS推荐：
 
  伪装域名（host）：不填
 
- 路径：/dongtaiwang.com
+ 路径：不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOa0m+adieeftiIsDQogICJhZGQiOiAibnRkdHYua2ViaTIwMTQud29ya2Vycy5kZXYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTEwOWVhNTAtMTc0OS00YjkyLTg5NDUtYjZjOWUwMzUxZDAyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTU4LjI0Ny4yMTAuMzgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI2NTRlN2Y1NS1lNzAwLTQ4NzItODhiOC0xODJmODdmNjgxMGEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 
 ***
