@@ -55,26 +55,8 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>洛杉矶</td>
-<td>88.218.92.127</td>
-<td>11111</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plain</td>
-</tr> 
-<tr>
-<td>西雅图</td>
-<td>173.0.55.66 </td>
-<td>11111</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>德国</td>
-<td>89.163.224.1425</td>
+<td>89.163.224.142</td>
 <td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
