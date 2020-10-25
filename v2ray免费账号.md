@@ -54,7 +54,7 @@ VPS推荐：
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
