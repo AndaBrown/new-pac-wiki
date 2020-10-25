@@ -102,7 +102,7 @@ VPS推荐：
 <tr>
 <td>新加坡</td>
 <td>195.123.237.140</td>
-<td>12345</td>
+<td>33333</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -111,7 +111,7 @@ VPS推荐：
 <tr>
 <td>莫斯科</td>
 <td>192.109.98.110</td>
-<td>12345</td>
+<td>33333</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -127,7 +127,7 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>西雅图2</td>
+<td>西雅图</td>
 <td>173.0.55.66</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
