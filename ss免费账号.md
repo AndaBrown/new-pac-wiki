@@ -118,15 +118,6 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>西雅图</td>
-<td>173.0.55.66</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>加利福尼亚</td>
 <td>107.148.240.162</td>
 <td>12345</td>
