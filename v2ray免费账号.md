@@ -34,14 +34,14 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月26日0点18分更新节点，今天封锁特别厉害。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月26日16点20分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
 
-**注意**：新节点伪装类型为http，如果不能手动填写，请用vmess地址直接导入节点。
+**注意**：伪装类型为http的节点，如果不能手动填写，请用vmess地址直接导入节点。
 
 **韩国**:                                                        
 
@@ -69,27 +69,27 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **韩国2**:                                                        
 
- Address(地址):158.247.198.53
+ Address(地址):tr52.free3333.xyz
 
- Port（端口）:80
+ Port（端口）:443
 
- UUID（用户id）: 15e283c2-e56e-4596-8118-e0b974565436
+ UUID（用户id）: cfd51b7d-45e5-48bf-a3a1-447b65918450
 
  alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
- headerType（伪装类型）: http
+ headerType（伪装类型）: none
 
  伪装域名（host）：不填
 
- 路径：不填
+ 路径：/ray
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvTIiLA0KICAiYWRkIjogIjE1OC4yNDcuMTk4LjUzIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMTVlMjgzYzItZTU2ZS00NTk2LTgxMTgtZTBiOTc0NTY1NDM2IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvUNETiIsDQogICJhZGQiOiAidHI1Mi5mcmVlMzMzMy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiY2ZkNTFiN2QtNDVlNS00OGJmLWEzYTEtNDQ3YjY1OTE4NDUwIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 
 ***
