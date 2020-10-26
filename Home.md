@@ -24,7 +24,7 @@
 
 ***
 
-**北京时间2020年10月26日16点40分：优先尝试SSR、SS、SS-Kcptun、Naiveproxy、Etgo、Goflyway、v2ray、trojan-go。最近封锁特别厉害，会持续更新。**
+**北京时间2020年10月26日19点56分：优先尝试Naiveproxy、Goflyway、v2ray、trojan-go。最近封锁特别厉害，会持续更新。**
 
 **提醒：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。**
 
