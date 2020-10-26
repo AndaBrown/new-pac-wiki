@@ -44,8 +44,8 @@ VPS推荐：
 <table id="tablepress-1">
 <thead>
 <tr>
-<th>服务器位置</th>
-<th>服务器地址</th>
+<th>位置</th>
+<th>地址</th>
 <th>端口</th>
 <th>密码</th>
 <th>加密方式</th>
