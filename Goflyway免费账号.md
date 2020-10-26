@@ -52,7 +52,7 @@ IP：tr302.free2222.xyz
 
 密码：dongtaiwang.com
 
-客户端协议：CDN
+客户端协议：CDN（HTTP协议）
 
 
 ***
@@ -76,9 +76,9 @@ Mac和Linux系统的电脑可以参考下面的**goflyway命令行**使用方法
 
 [下载命令行客户端](https://github.com/coyove/goflyway/releases)。
 
-**启动命令**：./goflyway -up="服务器地址:端口" -k="密码" -l=":8100"
+启动命令：./goflyway -up="cf://服务器地址:端口" -k="密码" -l=":8100"
 
-Mac：cloudflare 里面 SSL/TLS 菜单里面关闭成off。
+Mac：cloudflare 里面 SSL/TLS 菜单里面 选上 Flexible，不要关闭成off。
 
 **二、安卓版**
 
