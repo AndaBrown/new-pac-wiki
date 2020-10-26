@@ -67,31 +67,6 @@ VPS推荐：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTU4LjI0Ny4yMTAuMzgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI2NTRlN2Y1NS1lNzAwLTQ4NzItODhiOC0xODJmODdmNjgxMGEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-**韩国2**:                                                        
-
- Address(地址):tr52.free3333.xyz
-
- Port（端口）:443
-
- UUID（用户id）: cfd51b7d-45e5-48bf-a3a1-447b65918450
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: none
-
- 伪装域名（host）：不填
-
- 路径：/ray
-
- 底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvUNETiIsDQogICJhZGQiOiAidHI1Mi5mcmVlMzMzMy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiY2ZkNTFiN2QtNDVlNS00OGJmLWEzYTEtNDQ3YjY1OTE4NDUwIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
-
-
 ***
 
 如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。或者考虑付费v2ray服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。
