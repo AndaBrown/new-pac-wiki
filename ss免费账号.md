@@ -72,15 +72,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<td>洛杉矶</td>
-<td>88.218.92.127</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
