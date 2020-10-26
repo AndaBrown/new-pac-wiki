@@ -100,15 +100,6 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科</td>
-<td>192.109.98.110</td>
-<td>33333</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>洛杉矶</td>
 <td>88.218.92.127</td>
 <td>23456</td>
