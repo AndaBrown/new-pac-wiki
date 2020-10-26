@@ -55,15 +55,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>德国</td>
-<td>89.163.224.142</td>
-<td>11111</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>加利福尼亚</td>
 <td>107.148.240.162</td>
 <td>22222</td>
