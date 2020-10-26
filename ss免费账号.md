@@ -55,15 +55,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>洛杉矶</td>
-<td>140.82.23.16</td>
-<td>777</td>
-<td>dongtaiwang.com</td>
-<td>chacha20-ietf</td>
-<td>auth_aes128_sha1</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>新加坡</td>
 <td>195.123.237.140</td>
 <td>33333</td>
