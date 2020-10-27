@@ -102,7 +102,7 @@ VPS推荐：
 <td>http_post</td>
 </tr>
 <tr>
-<td>荷兰</td>
+<td>纽约</td>
 <td>198.199.121.47</td>
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
