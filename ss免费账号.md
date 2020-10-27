@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月27日15点38分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月27日16点47分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -77,6 +77,30 @@ VPS推荐：
 <tr>
 <td>荷兰</td>
 <td>209.250.253.180 </td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>salsa20</td>
+<td>auth_aes128_md5</td>
+<td>http_post</td>
+</tr>
+<td>旧金山1</td>
+<td>165.227.61.12</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>salsa20</td>
+<td>auth_aes128_md5</td>
+<td>http_post</td>
+</tr>
+<td>旧金山2</td>
+<td>164.90.147.50</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>salsa20</td>
+<td>auth_aes128_md5</td>
+<td>http_post</td>
+</tr>
+<td>荷兰</td>
+<td>198.199.121.47</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>salsa20</td>
