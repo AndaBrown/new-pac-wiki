@@ -83,6 +83,7 @@ VPS推荐：
 <td>auth_aes128_md5</td>
 <td>http_post</td>
 </tr>
+<tr>
 <td>旧金山1</td>
 <td>165.227.61.12</td>
 <td>12345</td>
@@ -91,6 +92,7 @@ VPS推荐：
 <td>auth_aes128_md5</td>
 <td>http_post</td>
 </tr>
+<tr>
 <td>旧金山2</td>
 <td>164.90.147.50</td>
 <td>12345</td>
@@ -99,6 +101,7 @@ VPS推荐：
 <td>auth_aes128_md5</td>
 <td>http_post</td>
 </tr>
+<tr>
 <td>荷兰</td>
 <td>198.199.121.47</td>
 <td>12345</td>
