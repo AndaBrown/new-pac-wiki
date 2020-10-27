@@ -77,7 +77,7 @@ VPS推荐：
 <td>45.144.176.220</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>dongtaiwang.com 123abc</td>
+<td>aes-256-gcm</td>
 <td></td>
 <td></td>
 </tr>
