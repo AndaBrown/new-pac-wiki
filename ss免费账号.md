@@ -57,15 +57,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>韩国</td>
-<td>141.164.42.176</td>
-<td>22222</td>
-<td>yxGY7A5MczQYg6UqSFx9u78V</td>
-<td>salsa20</td>
-<td>auth_aes128_md5</td>
-<td>http_post</td>
-</tr>
-<tr>
 <td>硅谷</td>
 <td>149.28.221.40</td>
 <td>12345</td>
