@@ -59,8 +59,8 @@ VPS推荐：
 <tr>
 <td>韩国</td>
 <td>141.164.42.176</td>
-<td>34567</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
+<td>22222</td>
+<td>yxGY7A5MczQYg6UqSFx9u78V</td>
 <td>salsa20</td>
 <td>auth_aes128_md5</td>
 <td>http_post</td>
