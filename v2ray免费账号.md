@@ -91,29 +91,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTU4LjI0Ny4yMTAuMzgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI2NTRlN2Y1NS1lNzAwLTQ4NzItODhiOC0xODJmODdmNjgxMGEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
-**加拿大**:                                                        
-
- Address(地址):v2-03.ssrsub.one
-
- Port（端口）:443
-
- UUID（用户id）: d0cfd824-8cac-180e-6f78-d4ac2cda6a25
-
- alterId（额外ID）: 0
-
- security（加密方式）: auto
-
- network（传输协议）: ws
-
- headerType（伪装类型）: 不填
-
- 伪装域名（host）：不填
-
- 路径：不填
-
- 底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOWKoOaLv+WkpyIsDQogICJhZGQiOiAidjItMDMuc3Nyc3ViLm9uZSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMGNmZDgyNC04Y2FjLTE4MGUtNmY3OC1kNGFjMmNkYTZhMjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
 ***
 
