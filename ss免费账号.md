@@ -58,7 +58,7 @@ VPS推荐：
 <tbody>
 <tr>
 <td>洛杉矶</td>
-<td>149.28.221.40</td>
+<td>45.76.78.125</td>
 <td>666</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>salsa20</td>
