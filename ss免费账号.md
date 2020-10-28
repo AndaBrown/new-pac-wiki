@@ -75,7 +75,7 @@ VPS推荐：
 <td>http_post</td>
 </tr>
 <tr>
-<td>旧金山1</td>
+<td>旧金山</td>
 <td>165.227.61.12</td>
 <td>55555</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
