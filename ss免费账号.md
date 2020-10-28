@@ -85,8 +85,8 @@ VPS推荐：
 </tr>
 <tr>
 <td>旧金山</td>
-<td>165.227.61.12</td>
-<td>55555</td>
+<td>206.189.223.1</td>
+<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>salsa20</td>
 <td>auth_aes128_md5</td>
