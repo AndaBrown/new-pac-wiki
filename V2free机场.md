@@ -8,7 +8,7 @@
 
 目前有12个v2ray节点，包括台湾（三网优化）、韩国（三网优化）、美国圣何塞四网CN2GIA、南非四网CN2GIA、美国洛杉矶电信CN2、日本（联通优化）、德国等。6个高速倍率节点，6个无限流量节点。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip3.PNG)
 
 **价格**
 
