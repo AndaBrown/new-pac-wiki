@@ -34,26 +34,26 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月28日20点55分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月28日23点27分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
 ***
 
-**日本**:                                                        
+**加拿大**:                                                        
 
- Address(地址):45.77.181.167
+ Address(地址):v2-07.ssrsub.one
 
- Port（端口）:59199
+ Port（端口）:443
 
- UUID（用户id）: 173da5c9-86af-492e-8812-6127b82fe8b0
+ UUID（用户id）: d0cfd824-8cac-180e-6f78-d4ac2cda6a25
 
  alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: tcp
+ network（传输协议）: ws
 
  headerType（伪装类型）: none
 
@@ -61,9 +61,9 @@ VPS推荐：
 
  路径：不填
 
- 底层传输安全：不填
+ 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOaXpeacrCIsDQogICJhZGQiOiAiNDUuNzcuMTgxLjE2NyIsDQogICJwb3J0IjogIjU5MTk5IiwNCiAgImlkIjogIjE3M2RhNWM5LTg2YWYtNDkyZS04ODEyLTYxMjdiODJmZThiMCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOWKoOaLv+WkpzIiLA0KICAiYWRkIjogInYyLTA3LnNzcnN1Yi5vbmUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZDBjZmQ4MjQtOGNhYy0xODBlLTZmNzgtZDRhYzJjZGE2YTI1IiwNCiAgImFpZCI6ICIzMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiDQp9
 
 **加拿大**:                                                        
 
