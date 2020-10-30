@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月30日16点18分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月30日16点22分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -67,30 +67,29 @@ VPS推荐：
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTU4LjI0Ny4yMTAuMzgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI2NTRlN2Y1NS1lNzAwLTQ4NzItODhiOC0xODJmODdmNjgxMGEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 
-**美国**:                                                        
+**日本**:                                                        
 
- Address(地址):172.67.199.187
+ Address(地址):45.77.181.167
 
- Port（端口）:443
+ Port（端口）:59199
 
- UUID（用户id）: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2
+ UUID（用户id）: 173da5c9-86af-492e-8812-6127b82fe8b0
 
- alterId（额外ID）: 64
+ alterId（额外ID）: 0
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
  headerType（伪装类型）: none
 
- 伪装域名（host）：llajv.rebldp.tech
+ 伪装域名（host）：不填
 
- 路径：/
+ 路径：不填
 
- 底层传输安全：tls
+ 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOW+t+WbvSIsDQogICJhZGQiOiAiMTcyLjY3LjE5OS4xODciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiM2I1ZTI1OGUtOGM1ZS00NWQzLWI3ZDItMDJjOGY1ZmMwYmIyIiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibGxhanYucmVibGRwLnRlY2giLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOaXpeacrCIsDQogICJhZGQiOiAiNDUuNzcuMTgxLjE2NyIsDQogICJwb3J0IjogIjU5MTk5IiwNCiAgImlkIjogIjE3M2RhNWM5LTg2YWYtNDkyZS04ODEyLTYxMjdiODJmZThiMCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
 ***
 
