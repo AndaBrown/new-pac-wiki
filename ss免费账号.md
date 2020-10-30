@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月30日10点22分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月31日6点18分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -58,21 +58,12 @@ VPS推荐：
 <tbody>
 <tr>
 <td>洛杉矶</td>
-<td>45.76.78.125</td>
-<td>666</td>
+<td>67.21.94.235</td>
+<td>22222</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>salsa20</td>
-<td>auth_aes128_sha1</td>
-<td>http_post</td>
-</tr>
-<tr>
-<td>硅谷</td>
-<td>149.28.221.40</td>
-<td>34567</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>salsa20</td>
-<td>auth_aes128_md5</td>
-<td>http_post</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plian</td>
 </tr>
 <tr>
 <td>荷兰</td>
