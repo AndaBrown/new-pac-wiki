@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月30日15点01分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月30日16点18分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -42,21 +42,21 @@ VPS推荐：
 ***
 
 
-**新加坡**:                                                        
+**韩国**:                                                        
 
- Address(地址):139.162.23.119
+ Address(地址):158.247.210.38
 
- Port（端口）:8088
+ Port（端口）:80
 
- UUID（用户id）: 76ca1a07-c3a7-4e37-81f6-47b6815a8d10
+ UUID（用户id）: 654e7f55-e700-4872-88b8-182f87f6810a
 
  alterId（额外ID）: 2
 
  security（加密方式）: auto
 
- network（传输协议）: ws
+ network（传输协议）: tcp
 
- headerType（伪装类型）: none
+ headerType（伪装类型）: http
 
  伪装域名（host）：不填
 
@@ -64,8 +64,7 @@ VPS推荐：
 
  底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOaWsOWKoOWdoTAxIiwNCiAgImFkZCI6ICIxMzkuMTYyLjIzLjExOSIsDQogICJwb3J0IjogIjgwODgiLA0KICAiaWQiOiAiNzZjYTFhMDctYzNhNy00ZTM3LTgxZjYtNDdiNjgxNWE4ZDEwIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTU4LjI0Ny4yMTAuMzgiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI2NTRlN2Y1NS1lNzAwLTQ4NzItODhiOC0xODJmODdmNjgxMGEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogImh0dHAiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 
 **美国**:                                                        
