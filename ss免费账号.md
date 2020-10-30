@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月30日8点40分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月30日9点17分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -86,11 +86,11 @@ VPS推荐：
 <tr>
 <td>旧金山</td>
 <td>206.189.223.1</td>
-<td>11111</td>
+<td>22222</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
+<td>salsa20</td>
+<td>auth_aes128_md5</td>
+<td>http_post</td>
 </tr>
 <tr>
 <td>英国</td>
@@ -102,14 +102,6 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>新加坡</td>
-<td>161.233.40.86</td>
-<td>15966</td>
-<td>yHftFbfZLPLi</td>
-<td>chacha20</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
