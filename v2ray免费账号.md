@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年10月31日15点05分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年10月31日19点19分增加节点2。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -42,7 +42,7 @@ VPS推荐：
 ***
 
                                                     
-**韩国:**
+**节点1**
 
 Address(地址):141.164.55.114
 
@@ -66,6 +66,30 @@ headerType（伪装类型）: none
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMSIsDQogICJhZGQiOiAiMTQxLjE2NC41NS4xMTQiLA0KICAicG9ydCI6ICI0MDMzMCIsDQogICJpZCI6ICI3NTg1YWNhYi1iMmU2LTQ4MTAtYjhjYi0xZGRjZDE0OGM1MDgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
+
+**节点2**
+
+Address(地址):18.162.147.210
+
+Port（端口）:40086
+
+UUID（用户id）: 8f47a763-f2d4-44cd-f67f-2f6beda5c902
+
+alterId（额外ID）: 2
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：不填
+
+路径：/dwn
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMiIsDQogICJhZGQiOiAiMTguMTYyLjE0Ny4yMTAiLA0KICAicG9ydCI6ICI0MDA4NiIsDQogICJpZCI6ICI4ZjQ3YTc2My1mMmQ0LTQ0Y2QtZjY3Zi0yZjZiZWRhNWM5MDIiLA0KICAiYWlkIjogIjIiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9kd24iLA0KICAidGxzIjogIiINCn0=
 
 ***
 
