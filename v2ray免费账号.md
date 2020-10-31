@@ -41,9 +41,28 @@ VPS推荐：
 
 ***
 
-**使用客户端URL导入vmess链接即可。**
+                                                    
+**韩国:**
 
-**节点1**:                                                        
+Address(地址):141.164.55.114
+
+Port（端口）:40330
+
+UUID（用户id）: 7585acab-b2e6-4810-b8cb-1ddcd148c508
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：不填
+
+路径：不填
+
+底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMSIsDQogICJhZGQiOiAiMTQxLjE2NC41NS4xMTQiLA0KICAicG9ydCI6ICI0MDMzMCIsDQogICJpZCI6ICI3NTg1YWNhYi1iMmU2LTQ4MTAtYjhjYi0xZGRjZDE0OGM1MDgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
