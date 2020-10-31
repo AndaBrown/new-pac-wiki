@@ -41,8 +41,6 @@ VPS推荐：
 
 ***
 
-**近期封锁特别严重，会持续更新。**
-
 <table id="tablepress-1">
 <thead>
 <tr>
