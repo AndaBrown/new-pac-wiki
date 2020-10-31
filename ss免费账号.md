@@ -129,6 +129,24 @@ VPS推荐：
 </tbody>
 </table>
 
+一键导入链接:
+
+ssr://ODkuMTYzLjIxNC45OjExMTExOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NWI2MzVadTkmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya3ZjM1BsaFkzb3RMbm90S2Jsajdj
+
+ssr://NjcuMjEuOTQuMjM1OjIyMjIyOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yJmdyb3VwPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmt2YzNQbGhZM290TG5vdEtibGo3Yw
+
+ssr://ODguMjE4LjkyLjE2MzoyMjIyMjpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMiZncm91cD1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrdmMzUGxoWTNvdExub3RLYmxqN2M
+
+ssr://MjA5LjI1MC4yNTMuMTgwOjEyMzQ1OmF1dGhfYWVzMTI4X21kNTpzYWxzYTIwOmh0dHBfcG9zdDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02STIzNVlXdyZncm91cD1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrdmMzUGxoWTNvdExub3RLYmxqN2M
+
+ssr://MjA2LjE4OS4yMjMuMToyMjIyMjphdXRoX2FlczEyOF9tZDU6c2Fsc2EyMDpodHRwX3Bvc3Q6Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXBlbjZZZVI1Ykd4Jmdyb3VwPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmt2YzNQbGhZM290TG5vdEtibGo3Yw
+
+ss://YWVzLTI1Ni1nY206eXhHWTdBNU1jelFZZzZVcVNGeDl1NzhW@185.44.76.188:34762/#https%3a%2f%2fgit.io%2fv9999+%e8%8b%b1%e5%9b%bd
+
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiYw@45.88.43.35:34567/#https%3a%2f%2fgit.io%2fv9999+%e6%97%a5%e6%9c%ac
+
+ss://YWVzLTEyOC1nY206eG1yMDNtZw@120.232.194.9:106/#https%3a%2f%2fgit.io%2fv9999+%e6%96%b0%e5%8a%a0%e5%9d%a1
+
 ***
 
 如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。
