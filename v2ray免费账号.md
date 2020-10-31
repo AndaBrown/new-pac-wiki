@@ -41,6 +41,8 @@ VPS推荐：
 
 ***
 
+**使用客户端URL导入vmess链接即可。**
+
 **节点1**:                                                        
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMSIsDQogICJhZGQiOiAiMTQxLjE2NC41NS4xMTQiLA0KICAicG9ydCI6ICI0MDMzMCIsDQogICJpZCI6ICI3NTg1YWNhYi1iMmU2LTQ4MTAtYjhjYi0xZGRjZDE0OGM1MDgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
