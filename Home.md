@@ -26,7 +26,7 @@
 
 **北京时间2020年10月31日10点41分：集合版大多数工具已恢复。Astar版部分节点恢复（France、Canada、Singapore）。FreeGate历史悠久、抗封锁性最强，无论是否使用都建议下载作为备用，以备不时之需。**
 
-**北京时间2020年11月1日23点24分：Mac、Linux可以使用Wine运行Windows软件，[教程](https://www.xiebruce.top/1077.html)。**
+**北京时间2020年11月1日23点24分：Mac、Linux可以[使用Wine运行Windows软件](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Mac%20linux%E4%BD%BF%E7%94%A8Wine%E8%BF%90%E8%A1%8CWindows%E8%BD%AF%E4%BB%B6&fenlei=256&rsv_pq=e2ed661b00000aa5&rsv_t=dc47t%2BV07TNIeowzPaDRlu%2FiYvG1gq55w7XRjzIylKL4E6qgpXtHzDfY9us&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_n=2&rsv_sug3=14&rsv_sug2=0&rsv_btype=i&inputT=9934&rsv_sug4=9935)。**
 
 **提醒：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。**
 
@@ -44,9 +44,9 @@
 
 [安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2020年10月30日更新自由门安卓版4.3、无界4.8）
 
-[Mac翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2019年12月18日更新）
+[Mac翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年11月1日增加Mac使用Wine运行Windows软件教程）
 
-[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2020年9月6日更新Linux使用ss图形客户端Shadowosocks-QT5教程）
+[Linux系统翻墙方法](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2020年11月1日增加Linux使用Wine运行Windows软件教程）
 
 [直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2020年10月16日更新）
 
