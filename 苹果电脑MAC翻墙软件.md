@@ -1,4 +1,4 @@
-2020年11月1日增加Linux使用Wine运行Windows软件教程。
+**2020年11月1日增加Mac使用Wine运行Windows软件教程。**
 
 ***
 
