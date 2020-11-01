@@ -97,7 +97,13 @@ sudo systemctl disable v2ray.service
 
 ### 第三种方法：Linux使用Wine运行Windows软件
 
-图文教程可参考：https://www.xiebruce.top/1077.html
+图文教程可参考：
+
+[Wine——在Linux上运行Windows软件](https://www.cnblogs.com/mo-wang/p/5183286.html)
+
+[https://jingyan.baidu.com/article/925f8cb8a1b813c0dde05698.html]( https://jingyan.baidu.com/article/925f8cb8a1b813c0dde05698.html)
+
+如果还有不清楚的地方，也可以自行搜素。当linux可以用windows软件的时候，这样可选择的空间就很大。
 
 ***
 
