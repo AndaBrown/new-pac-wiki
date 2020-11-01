@@ -1,4 +1,4 @@
-**2020年11月1日增加Linux使用Wine运行Windows软件。**
+**2020年11月1日增加Linux使用Wine运行Windows软件教程。**
 
 ### 第一种方法：使用SSR账号翻墙
 
