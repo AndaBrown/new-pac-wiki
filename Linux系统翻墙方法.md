@@ -1,4 +1,4 @@
-**2020年11月1日增加Mac使用Wine运行Windows软件。**
+**2020年11月1日增加Linux使用Wine运行Windows软件。**
 
 ### 第一种方法：使用SSR账号翻墙
 
@@ -95,7 +95,7 @@ sudo systemctl disable v2ray.service
 
 [点我获取最新v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
-### 第三种方法：Mac使用Wine运行Windows软件
+### 第三种方法：Linux使用Wine运行Windows软件
 
 图文教程可参考：https://www.xiebruce.top/1077.html
 
