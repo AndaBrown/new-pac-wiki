@@ -1,4 +1,4 @@
-**2020年9月6日更新Linux使用ss图形客户端Shadowosocks-QT5教程。**
+**2020年11月1日增加Mac使用Wine运行Windows软件。**
 
 ### 第一种方法：使用SSR账号翻墙
 
@@ -94,6 +94,10 @@ sudo systemctl disable v2ray.service
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/10.png)
 
 [点我获取最新v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+
+### 第三种方法：Mac使用Wine运行Windows软件
+
+图文教程可参考：https://www.xiebruce.top/1077.html
 
 ***
 
