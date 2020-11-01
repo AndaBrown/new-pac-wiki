@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年11月1日7点04分增加一键导入链接。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年11月2日7点38分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
@@ -82,17 +82,8 @@ VPS推荐：
 </tr>
 <tr>
 <td>荷兰</td>
-<td>209.250.253.180 </td>
+<td>209.250.253.180</td>
 <td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>salsa20</td>
-<td>auth_aes128_md5</td>
-<td>http_post</td>
-</tr>
-<tr>
-<td>旧金山</td>
-<td>206.189.223.1</td>
-<td>22222</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>salsa20</td>
 <td>auth_aes128_md5</td>
@@ -104,24 +95,6 @@ VPS推荐：
 <td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>英国</td>
-<td>185.44.76.188</td>
-<td>34762</td>
-<td>yxGY7A5MczQYg6UqSFx9u78V</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>新加坡</td>
-<td>120.232.194.9</td>
-<td>106</td>
-<td>xmr03mg</td>
-<td>aes-128-gcm</td>
 <td></td>
 <td></td>
 </tr>
@@ -143,9 +116,6 @@ ssr://MjA2LjE4OS4yMjMuMToyMjIyMjphdXRoX2FlczEyOF9tZDU6c2Fsc2EyMDpodHRwX3Bvc3Q6Wk
 
 ss://YWVzLTI1Ni1nY206eXhHWTdBNU1jelFZZzZVcVNGeDl1NzhW@185.44.76.188:34762/#https%3a%2f%2fgit.io%2fv9999+%e8%8b%b1%e5%9b%bd
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiYw@45.88.43.35:34567/#https%3a%2f%2fgit.io%2fv9999+%e6%97%a5%e6%9c%ac
-
-ss://YWVzLTEyOC1nY206eG1yMDNtZw@120.232.194.9:106/#https%3a%2f%2fgit.io%2fv9999+%e6%96%b0%e5%8a%a0%e5%9d%a1
 
 ***
 
