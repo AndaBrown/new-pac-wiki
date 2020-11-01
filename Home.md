@@ -24,7 +24,7 @@
 
 ***
 
-**北京时间2020年11月1日22点00分：集合版除trojan-go以外都已恢复。FreeGate历史悠久、抗封锁性最强，无论是否使用都建议下载作为备用，以备不时之需。**
+**北京时间2020年11月1日22点00分：集合版除trojan-go以外都已恢复。FreeGate历史悠久、抗封锁性最强，无论现在是否使用都建议下载作为备用，以备不时之需。**
 
 **北京时间2020年11月1日23点24分：Mac、Linux可以[使用Wine运行Windows软件](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=Mac%20linux%E4%BD%BF%E7%94%A8Wine%E8%BF%90%E8%A1%8CWindows%E8%BD%AF%E4%BB%B6&fenlei=256&rsv_pq=e2ed661b00000aa5&rsv_t=dc47t%2BV07TNIeowzPaDRlu%2FiYvG1gq55w7XRjzIylKL4E6qgpXtHzDfY9us&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_n=2&rsv_sug3=14&rsv_sug2=0&rsv_btype=i&inputT=9934&rsv_sug4=9935)。**
 
