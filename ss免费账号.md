@@ -55,15 +55,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<tr>
-<td>洛杉矶</td>
-<td>67.21.94.235</td>
-<td>22222</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plian</td>
-</tr>
 <td>洛杉矶</td>
 <td>88.218.92.163</td>
 <td>22222</td>
