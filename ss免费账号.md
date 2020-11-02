@@ -94,14 +94,6 @@ VPS推荐：
 </tbody>
 </table>
 
-一键导入链接:
-
-ssr://ODguMjE4LjkyLjE2MzoyMjIyMjpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMiZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
-
-ssr://MjA5LjI1MC4yNTMuMTgwOjEyMzQ1OmF1dGhfYWVzMTI4X21kNTpzYWxzYTIwOmh0dHBfcG9zdDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02STIzNVlXdyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
-
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiYw@45.88.43.35:34567/#https%3a%2f%2fgit.io%2fv9999+%e6%97%a5%e6%9c%ac
-
 ***
 
 如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks教程](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。
