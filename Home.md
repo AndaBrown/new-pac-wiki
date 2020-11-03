@@ -24,20 +24,19 @@
 
 ***
 
-**北京时间2020年11月1日22点00分：集合版除trojan-go以外都已恢复。FreeGate历史悠久、抗封锁性最强，即使现在不使用都建议下载作为备用，以备不时之需。**
-
 **北京时间2020年11月1日23点24分：Mac、Linux可以[使用Wine运行Windows软件](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=Mac+linux%E4%BD%BF%E7%94%A8Wine%E8%BF%90%E8%A1%8CWindows%E8%BD%AF%E4%BB%B6&rn=&fenlei=256&oq=&rsv_pq=a0b8c52f00019970&rsv_t=70aa8TYd62evbvi%2Fbvxke00YMMozsEh2XcF4NqUAd6YNae6p7AfzWeczo98&rqlang=cn)。**
 
+**北京时间2020年11月3日19点23分：更新集合版和FreeGate版，集合版主要更新内容为新增clash工具，FreeGate版本更新至7.91。**
 
 **提醒：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。**
 
 ***
 
-[谷歌翻墙浏览器86高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年10月28日发布SkyZip版和FreeGate版）
+[谷歌翻墙浏览器86高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月3日更新集合版和FreeGate版）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年10月28日发布SkyZip版和FreeGate版）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月3日更新集合版和FreeGate版）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年10月28日发布FreeGate版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年11月3日更新集合版和FreeGate版）
 
 [iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年7月19日更新v2ray翻墙教程）
 
