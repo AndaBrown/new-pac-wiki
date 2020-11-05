@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年1月2日14点54分新增节点2。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年1月5日11点10分更新节点2。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -69,27 +69,27 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
                                                     
 **节点2**
 
-Address(地址):67.21.94.235
+Address(地址):tr6.free5555.xyz
 
-Port（端口）:4950
+Port（端口）:80
 
-UUID（用户id）: 075cc660-1cd5-11eb-a253-00163c133f3d
+UUID（用户id）:250f94c4-1f11-11eb-aeae-00163c133f3d
 
 alterId（额外ID）: 0
 
 security（加密方式）: auto
 
-network（传输协议）: tcp
+network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）：不填
+伪装域名（host）：tr6.free5555.xyz
 
-路径：不填
+路径：/OYbiBlfy/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMiIsDQogICJhZGQiOiAiNjcuMjEuOTQuMjM1IiwNCiAgInBvcnQiOiAiNDk1MCIsDQogICJpZCI6ICIwNzVjYzY2MC0xY2Q1LTExZWItYTI1My0wMDE2M2MxMzNmM2QiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMua0m+adieeftjY3IiwNCiAgImFkZCI6ICJ0cjYuZnJlZTU1NTUueHl6IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMjUwZjk0YzQtMWYxMS0xMWViLWFlYWUtMDAxNjNjMTMzZjNkIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjYuZnJlZTU1NTUueHl6IiwNCiAgInBhdGgiOiAiL09ZYmlCbGZ5LyIsDQogICJ0bHMiOiAiIg0KfQ==
 
 ***
 
