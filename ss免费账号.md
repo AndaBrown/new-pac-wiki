@@ -64,15 +64,6 @@ VPS推荐：
 <td>plian</td>
 </tr>
 <tr>
-<td>加利福尼亚</td>
-<td>104.233.154.245</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>西雅图</td>
 <td>173.0.55.66</td>
 <td>11111</td>
