@@ -24,8 +24,6 @@
 
 ***
 
-**北京时间2020年11月1日23点24分：Mac、Linux可以[使用Wine运行Windows软件](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=Mac+linux%E4%BD%BF%E7%94%A8Wine%E8%BF%90%E8%A1%8CWindows%E8%BD%AF%E4%BB%B6&rn=&fenlei=256&oq=&rsv_pq=a0b8c52f00019970&rsv_t=70aa8TYd62evbvi%2Fbvxke00YMMozsEh2XcF4NqUAd6YNae6p7AfzWeczo98&rqlang=cn)。**
-
 **北京时间2020年11月3日19点23分：更新集合版和FreeGate版，集合版主要更新内容为新增clash工具，FreeGate版本更新至7.91。**
 
 **北京时间2020年11月12日12点12分：更新[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)，无需国外ID下载免费FairVPN。**
