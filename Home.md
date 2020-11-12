@@ -28,6 +28,9 @@
 
 **北京时间2020年11月3日19点23分：更新集合版和FreeGate版，集合版主要更新内容为新增clash工具，FreeGate版本更新至7.91。**
 
+**北京时间2020年11月12日12点12分：更新[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)，无需国外ID下载免费FairVPN。**
+
+
 **提醒：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。集合版中Etgo工具使用时可能会触发windows defender，允许即可。**
 
 ***
@@ -38,7 +41,7 @@
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年11月3日更新集合版和FreeGate版）
 
-[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年11月11日更新）
+[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年11月12日更新）
 
 [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) (2020年3月14日发布)
 
