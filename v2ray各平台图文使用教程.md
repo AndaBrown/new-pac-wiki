@@ -52,11 +52,7 @@
 
 **3、iOS系统的图文使用方法**
 
-大陆app商店无法下载Kitsunebi，用美区账号在app商店里面下载Kitsunebi，美区账号可以淘宝购买或者自己申请，[iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B)
-
-Kitsunebi，使用方法如下：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray5.png)
+iOS：[没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
 
 **4、安卓系统的图文使用方法**
 
