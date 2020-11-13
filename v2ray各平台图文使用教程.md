@@ -1,4 +1,4 @@
-**2020年7月17日更新iOS使用v2ray方法。**
+**2020年11月13日更新iOS使用v2ray方法。**
 
 [点我获取更多免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 
 
