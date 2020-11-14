@@ -8,11 +8,11 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：Goflyway、clash、v2ray、SSR、SS、SS-Kcptun、Naiveproxy、Brook、Etgo、FreeGate，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：Goflyway、clash、v2ray、SSR、SS、SS-Kcptun、Naiveproxy、Brook、Etgo、FreeGate、iNinja，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系！可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)，它们都是免费的，而且不会干扰电脑运行。
 
-**选择指南**：Goflyway、clash、v2ray、SSR、SS、SS-Kcptun、Naiveproxy、Brook、Etgo、FreeGate可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
+**选择指南**：Goflyway、clash、v2ray、SSR、SS、SS-Kcptun、Naiveproxy、Brook、Etgo、FreeGate、iNinja可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
 
 **YouTube频道推荐**： [新闻拍案惊奇](https://www.youtube.com/user/NTDEducation/videos) [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos) [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [大纪元-新闻看点](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [新闻最嘲点Mr.姜光宇](https://www.youtube.com/channel/UC83_OQeEhmLZYsvJ7aTG3Bg/videos) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)   [薇羽看世間](https://www.youtube.com/c/%E8%96%87%E7%BE%BD%E7%9C%8B%E4%B8%96%E9%96%93/videos) [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos)  [石濤TV-聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos) [世界的十字路口](https://www.youtube.com/channel/UC-A9OzmRcS-SlXIQmvwMf8w/videos) [第三隻眼睛](https://www.youtube.com/c/%E7%AC%AC%E4%B8%89%E9%9A%BB%E7%9C%BC%E7%9D%9B/videos) [财经冷眼](https://www.youtube.com/c/%E8%B4%A2%E7%BB%8F%E5%86%B7%E7%9C%BC/videos) [老高与小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/videos) 
  
@@ -33,7 +33,7 @@
 
 ***
 
-[谷歌翻墙浏览器86高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月3日更新集合版和FreeGate版）
+[谷歌翻墙浏览器86高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月14日发布iNinja版；2020年11月3日更新集合版和FreeGate版）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月3日更新集合版和FreeGate版）
 
