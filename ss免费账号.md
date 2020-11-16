@@ -73,15 +73,6 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>法国</td>
-<td>51.159.52.5</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>auth_aes128_md5</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>瑞士</td>
 <td>45.90.57.171</td>
 <td>12345</td>
@@ -109,7 +100,7 @@ ssr://ODkuMTYzLjIyNC4xNDI6NjY2Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOX
 
 ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZLV182WnVGNVp1LSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://NTEuMTU5LjUyLjU6MTIzNDU6YXV0aF9hZXMxMjhfbWQ1OnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01ck9WNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+
 
 SS节点一键导入地址：
 
