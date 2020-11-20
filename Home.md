@@ -34,7 +34,7 @@
 
 ***
 
-[谷歌翻墙浏览器87高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月18日更新浏览器内核至87）
+[谷歌翻墙浏览器87高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月20日修复集合版32位软件中的SSR工具；2020年11月18日更新浏览器内核至87）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月3日更新集合版和FreeGate版）
 
