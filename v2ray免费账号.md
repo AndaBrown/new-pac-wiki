@@ -34,7 +34,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年11月15日20点35分更新节点1。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年11月20日8点33分更新节点1。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -44,11 +44,11 @@ VPS推荐：
                                                     
 **节点1**
 
-Address(地址):tr11.free5555.xyz
+Address(地址):45.139.179.132
 
-Port（端口）:443
+Port（端口）:37717
 
-UUID（用户id）: 689f64bc-361f-425a-a709-a6860c4e69e7
+UUID（用户id）: cdd5d9f7-296d-469f-b4d4-f70089b39f10
 
 alterId（额外ID）: 0
 
@@ -58,14 +58,13 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）：tr11.free5555.xyz
+伪装域名（host）：不填
 
-路径：/dongtaiwang.com
+路径：不填
 
-底层传输安全：tls
+底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMV8xOTMiLA0KICAiYWRkIjogInRyMTEuZnJlZTU1NTUueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjY4OWY2NGJjLTM2MWYtNDI1YS1hNzA5LWE2ODYwYzRlNjllNyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidHIxMS5mcmVlNTU1NS54eXoiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMV80NSIsDQogICJhZGQiOiAiNDUuMTM5LjE3OS4xMzIiLA0KICAicG9ydCI6ICIzNzcxNyIsDQogICJpZCI6ICJjZGQ1ZDlmNy0yOTZkLTQ2OWYtYjRkNC1mNzAwODliMzlmMTAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
                                                     
 **节点2**
 
