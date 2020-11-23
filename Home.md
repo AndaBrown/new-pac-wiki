@@ -24,7 +24,7 @@
 
 ***
 
-**北京时间2020年11月12日12点12分：更新[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)，无需国外ID下载免费FairVPN。**
+**北京时间2020年11月12日12点12分：更新[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)，无需国外ID免费下载FairVPN。**
 
 **北京时间2020年11月18日15点02分：更新高内核谷歌浏览器内核至87。**
 
