@@ -1,4 +1,4 @@
-[V2free.org](https://v2free.org/auth/register?code=UsUP)是海外人士运营，致力于为广大网友提供安全稳定的翻墙服务。
+[V2free.org](https://v2free.org/auth/register?code=UsUP)由海外人士运营，不存在关站风险，安全、可靠、稳定。
 
 ***
 
