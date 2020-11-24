@@ -27,7 +27,7 @@
 
 **打开商店——充值进行充值，充值方式：微信、支付宝、paypal和数字货币。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-002.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-003.PNG)
 
 **购买相应的套餐后，打开“用户中心”，在“快速使用”这里可以复制订阅链接以及所有节点信息，也可以在节点列表获取单个节点信息。**
 
