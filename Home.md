@@ -24,21 +24,21 @@
 
 ***
 
-**北京时间2020年11月12日12点12分：更新[iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)，无需国外ID免费下载FairVPN。**
-
 **北京时间2020年11月18日15点02分：更新高内核谷歌浏览器内核至87。**
 
 **北京时间2020年11月23日8点00分：更新高内核Astar版。**
+
+**北京时间2020年11月28日13点00分：更新谷歌高内核、低内核、火狐集合版。**
 
 **提醒：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。集合版中Etgo工具使用时可能会触发windows defender，允许即可。如果无法自动启动谷歌浏览器，打开电脑任务管理器，将“Google Chrome”后台进程结束，重新启动代理工具即可。**
 
 ***
 
-[谷歌翻墙浏览器87高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月23日更新Astar版本；2020年11月20日修复集合版32位软件中的SSR工具；2020年11月18日更新浏览器内核至87）
+[谷歌翻墙浏览器87高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月28日更新集合版）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月3日更新集合版和FreeGate版）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2020年11月28日更新集合版）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年11月3日更新集合版和FreeGate版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2020年11月28日更新集合版）
 
 [iOS翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年11月22日更新）
 
