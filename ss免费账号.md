@@ -81,15 +81,6 @@ VPS推荐：
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>洛杉矶</td>
-<td>158.51.96.16</td>
-<td>23456</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-<tr>
 </tr>
 </tbody>
 </table>
@@ -105,7 +96,6 @@ SS节点一键导入地址：
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0A0NS45MC41Ny4xNzE6MjM0NTY=#https%3a%2f%2fgit.io%2fv9999+%e7%91%9e%e5%a3%ab
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiYw@158.51.96.16:23456/#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 ***
 
