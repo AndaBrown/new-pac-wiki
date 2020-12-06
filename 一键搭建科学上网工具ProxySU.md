@@ -1,4 +1,4 @@
-**2020年10月15日增加域名购买教程。**
+**2020年12月6日更新。**
 
 ***
 
@@ -309,6 +309,14 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps7.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/ps8.jpg)
+
+**有个vmess地址，把它复制下来，然后右键“v2rayN”图标，选择“从剪切板批量导入url”，如下图**
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/111.jpg)
+
+**如果忘记了vmes地址，在文件夹中有url的txt文档。**
+
+***
 
 **除了这个工具，还可以使用SSH工具连接vps后使用一键脚本来搭建。参考以下教程**：
 
