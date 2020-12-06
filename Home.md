@@ -66,7 +66,7 @@
 
 [自建WireGuard服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAWireGuard-VPN%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) （2020年3月8日更新创建多账号方法）
 
-[一键搭建科学上网工具ProxySU](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU) （2020年9月24日发布）
+[一键搭建科学上网工具ProxySU](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU) （2020年12月6日更新）
 
 [路由器翻墙](https://github.com/Alvin9999/new-pac/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8%E7%BF%BB%E5%A2%99) （2019年9月29日发布）
 
