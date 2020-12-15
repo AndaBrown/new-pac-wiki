@@ -35,15 +35,38 @@ VPS推荐：
 
 ***
 
-**北京时间2020年12月8日10点30分更新节点1。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年12月16日0点15分新增韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
 
 ***
 
+**韩国**
+
+Address(地址):141.164.43.201
+
+Port（端口）:46599
+
+UUID（用户id）: 61f40f78-9e12-448c-b08c-3dc3baca602c
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：不填
+
+路径：不填
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC40My4yMDEiLA0KICAicG9ydCI6ICI0NjU5OSIsDQogICJpZCI6ICI2MWY0MGY3OC05ZTEyLTQ0OGMtYjA4Yy0zZGMzYmFjYTYwMmMiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
                                                     
-**节点1**
+**莫斯科**
 
 Address(地址):45.139.179.132
 
@@ -65,9 +88,9 @@ headerType（伪装类型）: none
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMeiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTM5LjE3OS4xMzIiLA0KICAicG9ydCI6ICIyNjg1OCIsDQogICJpZCI6ICJmZTA5YzAwMS0xNDU2LTQwZmQtYmVjOS1lNGVhZjQ4MTJjZjgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTM5LjE3OS4xMzIiLA0KICAicG9ydCI6ICIyNjg1OCIsDQogICJpZCI6ICJmZTA5YzAwMS0xNDU2LTQwZmQtYmVjOS1lNGVhZjQ4MTJjZjgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
                                                     
-**节点2**
+**洛杉矶**
 
 Address(地址):67.21.68.252
 
@@ -89,7 +112,7 @@ headerType（伪装类型）: none
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IGlwMua0m+adieeftjY3IiwNCiAgImFkZCI6ICI2Ny4yMS42OC4yNTIiLA0KICAicG9ydCI6ICIyMDYzNiIsDQogICJpZCI6ICJiNjFhMGRlNC0wOTY3LTQ4YTQtODViYy0zNGVmMDY3ZWExNmMiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOa0m+adieeftiIsDQogICJhZGQiOiAiNjcuMjEuNjguMjUyIiwNCiAgInBvcnQiOiAiMjA2MzYiLA0KICAiaWQiOiAiYjYxYTBkZTQtMDk2Ny00OGE0LTg1YmMtMzRlZjA2N2VhMTZjIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 
 ***
 
