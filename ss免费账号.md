@@ -35,7 +35,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年12月2日16点50分更新德国、瑞士节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年12月15日21点40分新增韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -56,6 +56,15 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
+<td>韩国</td>
+<td>158.247.196.24</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plian</td>
+</tr>
+<tr>
 <td>德国</td>
 <td>89.163.224.142</td>
 <td>22222</td>
@@ -72,6 +81,16 @@ VPS推荐：
 <td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
+</tr>
+<tr>
+<td>韩国</td>
+<td>141.164.43.201</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
 </tr>
 <tr>
 <td>瑞士</td>
