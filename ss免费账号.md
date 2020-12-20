@@ -35,7 +35,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年12月15日21点40分新增韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年12月20日10点34分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -57,7 +57,7 @@ VPS推荐：
 <tbody>
 <tr>
 <td>韩国</td>
-<td>158.247.196.24</td>
+<td>158.247.219.148</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
@@ -84,7 +84,7 @@ VPS推荐：
 </tr>
 <tr>
 <td>韩国</td>
-<td>141.164.43.201</td>
+<td>141.164.36.39</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-gcm</td>
@@ -107,7 +107,7 @@ VPS推荐：
 
 SSR节点一键导入地址：
 
-ssr://MTU4LjI0Ny4xOTYuMjQ6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02Wi1wNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://MTU4LjI0Ny4yMTkuMTQ4OjEyMzQ1Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NlotcDVadTkmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ssr://ODkuMTYzLjIyNC4xNDI6MjIyMjI6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
@@ -116,8 +116,9 @@ ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaG
 
 SS节点一键导入地址：
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0A0NS45MC41Ny4xNzE6MjM0NTY=#https%3a%2f%2fgit.io%2fv9999+%e7%91%9e%e5%a3%ab
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNDEuMTY0LjM2LjM5OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e9%9f%a9%e5%9b%bd
 
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0A0NS45MC41Ny4xNzE6MjM0NTY=#https%3a%2f%2fgit.io%2fv9999+%e7%91%9e%e5%a3%ab
 
 ***
 
