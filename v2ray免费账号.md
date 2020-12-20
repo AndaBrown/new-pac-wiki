@@ -35,7 +35,7 @@ VPS推荐：
 
 ***
 
-**北京时间2020年12月16日0点15分新增韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2020年12月20日10点35分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -44,11 +44,11 @@ VPS推荐：
 
 **韩国**
 
-Address(地址):141.164.43.201
+Address(地址):141.164.36.39
 
-Port（端口）:46599
+Port（端口）:14623
 
-UUID（用户id）: 61f40f78-9e12-448c-b08c-3dc3baca602c
+UUID（用户id）: 11e79825-4c9a-49bf-8703-559c42cc231b
 
 alterId（额外ID）: 0
 
@@ -64,7 +64,7 @@ headerType（伪装类型）: none
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC40My4yMDEiLA0KICAicG9ydCI6ICI0NjU5OSIsDQogICJpZCI6ICI2MWY0MGY3OC05ZTEyLTQ0OGMtYjA4Yy0zZGMzYmFjYTYwMmMiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpL3YycmF55YWN6LS56LSm5Y+3IOmfqeWbvSIsDQogICJhZGQiOiAiMTQxLjE2NC4zNi4zOSIsDQogICJwb3J0IjogIjE0NjIzIiwNCiAgImlkIjogIjExZTc5ODI1LTRjOWEtNDliZi04NzAzLTU1OWM0MmNjMjMxYiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
                                                     
 **莫斯科**
 
