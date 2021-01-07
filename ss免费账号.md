@@ -37,7 +37,7 @@ VPS推荐：
 
 **北京时间2020年12月31日22点42分：祝所有网友新年快乐！2021年平平安安！**
 
-**北京时间2021年1月4日23点38分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年1月7日17点25分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -86,7 +86,7 @@ VPS推荐：
 </tr>
 <tr>
 <td>韩国</td>
-<td>158.247.221.164</td>
+<td>158.247.210.70</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-gcm</td>
@@ -107,7 +107,7 @@ ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaG
 
 SS节点一键导入地址：
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNTguMjQ3LjIyMS4xNjQ6MTIzNDU=#https%3a%2f%2fgit.io%2fv9999+%e9%9f%a9%e5%9b%bd
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNTguMjQ3LjIxMC43MDoxMjM0NQ==#https%3a%2f%2fgit.io%2fv9999+%e9%9f%a9%e5%9b%bd
 
 ***
 
