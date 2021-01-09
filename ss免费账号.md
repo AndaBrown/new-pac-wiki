@@ -37,7 +37,7 @@ VPS推荐：
 
 **北京时间2020年12月31日22点42分：祝所有网友新年快乐！2021年平平安安！**
 
-**北京时间2021年1月7日17点25分更新韩国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年1月9日11点00分新增节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -85,6 +85,60 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
+<td>圣何塞</td>
+<td>107.148.215.140</td>
+<td>8240</td>
+<td>passinfo123</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>台湾</td>
+<td>117.28.243.164</td>
+<td>9111</td>
+<td>passinfo123</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>日本</td>
+<td>137.220.236.22</td>
+<td>8022</td>
+<td>passinfo123</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>台湾</td>
+<td>59.125.11.158</td>
+<td>8158</td>
+<td>passinfo123</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>德国</td>
+<td>117.28.243.166</td>
+<td>8249</td>
+<td>passinfo123</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>台湾</td>
+<td>183.232.228.122</td>
+<td>0593</td>
+<td>passinfo123</td>
+<td>chacha20-ietf</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
 <td>韩国</td>
 <td>158.247.210.70</td>
 <td>12345</td>
@@ -92,7 +146,6 @@ VPS推荐：
 <td>aes-256-gcm</td>
 <td></td>
 <td></td>
-</tr>
 </tr>
 </tbody>
 </table>
