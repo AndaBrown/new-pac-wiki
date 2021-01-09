@@ -132,8 +132,8 @@ VPS推荐：
 <tr>
 <td>台湾</td>
 <td>183.232.228.122</td>
+<td>17231</td>
 <td>0593</td>
-<td>passinfo123</td>
 <td>chacha20-ietf</td>
 <td>origin</td>
 <td>plain</td>
