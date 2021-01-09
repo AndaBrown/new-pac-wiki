@@ -35,8 +35,6 @@ VPS推荐：
 
 ***
 
-**北京时间2020年12月31日22点42分：祝所有网友新年快乐！2021年平平安安！**
-
 **北京时间2021年1月9日11点00分新增节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
@@ -58,7 +56,7 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>韩国</td>
+<td>节点1-韩国</td>
 <td>158.247.221.128</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -67,7 +65,7 @@ VPS推荐：
 <td>plian</td>
 </tr>
 <tr>
-<td>德国</td>
+<td>节点2-德国</td>
 <td>89.163.224.142</td>
 <td>22222</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -76,7 +74,7 @@ VPS推荐：
 <td>plian</td>
 </tr>
 <tr>
-<td>西雅图</td>
+<td>节点3-西雅图</td>
 <td>173.0.55.66</td>
 <td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -85,7 +83,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>圣何塞</td>
+<td>节点4-圣何塞</td>
 <td>107.148.215.140</td>
 <td>8240</td>
 <td>passinfo123</td>
@@ -94,7 +92,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>台湾</td>
+<td>节点5-台湾</td>
 <td>117.28.243.164</td>
 <td>9111</td>
 <td>passinfo123</td>
@@ -103,7 +101,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>日本</td>
+<td>节点6-日本</td>
 <td>137.220.236.22</td>
 <td>8022</td>
 <td>passinfo123</td>
@@ -112,7 +110,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>台湾</td>
+<td>节点7-台湾</td>
 <td>59.125.11.158</td>
 <td>8158</td>
 <td>passinfo123</td>
@@ -121,7 +119,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>德国</td>
+<td>节点8-德国</td>
 <td>117.28.243.166</td>
 <td>8249</td>
 <td>passinfo123</td>
@@ -130,7 +128,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>台湾</td>
+<td>节点9-台湾</td>
 <td>183.232.228.122</td>
 <td>17231</td>
 <td>0593</td>
@@ -139,7 +137,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>韩国</td>
+<td>节点10-韩国</td>
 <td>158.247.210.70</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
