@@ -93,15 +93,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>节点5-台湾</td>
-<td>117.28.243.164</td>
-<td>9111</td>
-<td>passinfo123</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
-<td>节点7-台湾</td>
 <td>59.125.11.158</td>
 <td>8158</td>
 <td>passinfo123</td>
@@ -110,7 +101,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点8-德国</td>
+<td>节点6-德国</td>
 <td>117.28.243.166</td>
 <td>8249</td>
 <td>passinfo123</td>
@@ -119,7 +110,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点9-台湾</td>
+<td>节点7-台湾</td>
 <td>183.232.228.122</td>
 <td>17231</td>
 <td>0593</td>
@@ -128,7 +119,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点10-韩国</td>
+<td>节点8-韩国</td>
 <td>158.247.210.70</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
