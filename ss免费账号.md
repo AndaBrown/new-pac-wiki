@@ -101,15 +101,6 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点6-日本</td>
-<td>137.220.236.22</td>
-<td>8022</td>
-<td>passinfo123</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>节点7-台湾</td>
 <td>59.125.11.158</td>
 <td>8158</td>
