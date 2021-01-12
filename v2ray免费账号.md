@@ -91,7 +91,7 @@ headerType（伪装类型）: none
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDUuMTM5LjE3OS4xMzIiLA0KICAicG9ydCI6ICIyNjg1OCIsDQogICJpZCI6ICJmZTA5YzAwMS0xNDU2LTQwZmQtYmVjOS1lNGVhZjQ4MTJjZjgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 
-**以下节点来自互联网，整理后发布。感谢原分享者！请珍惜免费资源，切勿用于BT下载，BT下载容易导致服务器被投诉版权而被封。**
+**以下节点来自互联网，整理后发布。感谢原分享者！请珍惜免费资源，切勿用于BT下载，BT下载容易导致服务器被投诉版权而被封。右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点。**
 
 美国节点：
 
