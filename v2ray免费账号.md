@@ -42,6 +42,8 @@ VPS推荐：
 
 ***
 
+**复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点。**
+
 美国节点：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvTYiLA0KICAiYWRkIjogIjQ1Ljc5LjY3LjIxNyIsDQogICJwb3J0IjogIjExMDEyIiwNCiAgImlkIjogIjY4OWVmZmNmLTI4NzgtNDVkMy1mYzM2LTdmZDk4ZWVmMTg1ZSIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9jY3R2IiwNCiAgInRscyI6ICIiDQp9
