@@ -35,7 +35,7 @@ VPS推荐：
 
 ***
 
-**北京时间2021年1月12日20点00分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年1月12日22点11分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -108,6 +108,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvTEw
 
 
 韩国节点：
+
+台湾节点：
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWPsOa5viIsDQogICJhZGQiOiAiMjEwLjY1LjQ3Ljk0IiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiOTg3MjdhNjgtOWIwOS0zMjk2LWI4M2YtNGQ3NzJlYzA2MTVmIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIyMTAuNjUuNDcuOTQiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiDQp9
 
 
 日本节点：
