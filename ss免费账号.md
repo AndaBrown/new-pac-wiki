@@ -127,15 +127,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<td>节点9-韩国</td>
-<td>158.247.210.70</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -147,9 +138,6 @@ ssr://ODkuMTYzLjIyNC4xNDI6MjIyMjI6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WT
 
 ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZLV182WnVGNVp1LSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-SS节点一键导入地址：
-
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNTguMjQ3LjIxMC43MDoxMjM0NQ==#https%3a%2f%2fgit.io%2fv9999+%e9%9f%a9%e5%9b%bd
 
 ***
 
