@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**北京时间2021年1月11日9点35分更新节点1-韩国。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年1月17日11点25分更新节点1-韩国。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -55,7 +55,7 @@ VPS推荐：
 <tbody>
 <tr>
 <td>节点1-韩国</td>
-<td>141.164.55.29</td>
+<td>158.247.221.64</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
@@ -131,7 +131,7 @@ VPS推荐：
 
 SSR节点一键导入地址：
 
-ssr://MTQxLjE2NC41NS4yOToxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZaLXA1WnU5Jmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://MTU4LjI0Ny4yMjEuNjQ6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02Wi1wNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://ODkuMTYzLjIyNC4xNDI6MjIyMjI6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
