@@ -117,15 +117,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<td>节点8-台湾</td>
-<td>183.232.228.122</td>
-<td>17231</td>
-<td>0593</td>
-<td>chacha20-ietf</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
 </tbody>
 </table>
 
