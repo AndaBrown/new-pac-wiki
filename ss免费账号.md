@@ -108,15 +108,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<td>节点7-德国</td>
-<td>117.28.243.166</td>
-<td>8249</td>
-<td>passinfo123</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
 </tbody>
 </table>
 
