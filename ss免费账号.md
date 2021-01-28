@@ -98,25 +98,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<tr>
-<td>节点6-台湾</td>
-<td>117.28.243.164</td>
-<td>9111</td>
-<td>passinfo123</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
-<td>节点7-台湾</td>
-<td>117.28.243.166</td>
-<td>8249</td>
-<td>passinfo123</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
 </tbody>
 </table>
 
