@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**北京时间2021年1月28日11点30分更新节点2-德国。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年1月29日14点16分更新节点3-西雅图。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -74,9 +74,9 @@ VPS推荐：
 <tr>
 <td>节点3-西雅图</td>
 <td>173.0.55.66</td>
-<td>11111</td>
+<td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-cfb</td>
+<td>rc4-md5</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
@@ -107,11 +107,11 @@ ssr://MTA5LjE2Ni4zNy4yMToxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMj
 
 ssr://ODkuMTYzLjIyNC4xNDI6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZLV182WnVGNVp1LSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://MTczLjAuNTUuNjY6MTIzNDU6b3JpZ2luOnJjNC1tZDU6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NktXXzZadUY1WnUtJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 SS节点一键导入地址：
 
-ss://YWVzLTI1Ni1jZmI6ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNzMuMC41NS42NjoxMTExMQ==#https%3a%2f%2fgit.io%2fv9999+%e8%a5%bf%e9%9b%85%e5%9b%be
+ss://cmM0LW1kNTpkb25ndGFpd2FuZy5jb20gMTIzYWJjQDE3My4wLjU1LjY2OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e8%a5%bf%e9%9b%85%e5%9b%be
 
 ***
 
