@@ -33,7 +33,7 @@ VPS推荐：
 
 ***
 
-**北京时间2021年2月2日17点38分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年2月6日10点04分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
@@ -56,7 +56,7 @@ VPS推荐：
 <tr>
 <td>节点1-日本</td>
 <td>109.166.37.21</td>
-<td>23456</td>
+<td>34567</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -121,7 +121,7 @@ VPS推荐：
 
 SSR节点一键导入地址：
 
-ssr://MTA5LjE2Ni4zNy4yMToxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://MTA5LjE2Ni4zNy4yMTozNDU2NzpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 ssr://ODkuMTYzLjIyNC4xNDI6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
