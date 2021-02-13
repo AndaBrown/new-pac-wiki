@@ -80,15 +80,6 @@ VPS推荐：
 <td>origin</td>
 <td>plain</td>
 </tr>
-<tr>
-<td>节点4-香港</td>
-<td>117.28.243.241</td>
-<td>8333</td>
-<td>passfw2xs4e!</td>
-<td>rc4-md5</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
 </tbody>
 </table>
 
