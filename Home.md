@@ -24,7 +24,7 @@
 
 ***
 
-**北京时间2021年2月13日20点28分：最近封锁严重，可以优先尝试clash，v2ray ip1、ip3，ssrot ，ssr，ss-kcptun。**
+**北京时间2021年2月20日8点48分：最近封锁严重，可以优先尝试clash ip1 ip2，v2ray ip1、ip2、ip3、ip4，ssrot ，ssr ip1 ip2，ss-kcptun ip1 ip2。**
 
 **提醒：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。集合版中Etgo工具使用时可能会触发windows defender，允许即可。如果无法自动启动谷歌浏览器，打开电脑任务管理器，将“Google Chrome”后台进程结束，重新启动代理工具即可。**
 
