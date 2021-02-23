@@ -34,6 +34,10 @@ VPS推荐：
  
 ***
 
+**北京时间2021年2月23日21点00分：元宵节期间，新唐人将独家播出“神韵艺术团2021年演出”，是最新的神韵晚会节目，仅限中国大陆地区收看。请通过卫星天线或翻墙软件(自由门,无界,爱博电视)观看。2月26日(周五) 首播：20:00 回放：23:00 [低频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150)  [中频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800)**
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)
+
 **北京时间2021年1月23日11点03分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：http://tr1.freeair888.club/Goflyway免费账号 
