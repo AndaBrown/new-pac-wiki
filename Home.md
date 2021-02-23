@@ -24,7 +24,7 @@
 
 ***
 
-**北京时间2021年2月22日12点12分：最近封锁严重，可以优先尝试clash ip1、ip2，v2ray ip1、ip2、ip3、ip4，ssrot ，ssr ip1、ip2，ss-kcptun ip1、ip2。**
+**北京时间2021年2月22日12点12分：最近封锁加重，可以优先尝试clash ip1、ip2，v2ray ip1、ip2、ip3、ip4，ssrot ，ssr ip1、ip2，ss-kcptun ip1、ip2。**
 
 **北京时间2021年2月23日10点00分：云端更新集合版Goflyway ip1、ip2，brook、Naiveproxy、etgo。**
 
