@@ -26,7 +26,7 @@
 
 **北京时间2021年2月23日21点00分：元宵节期间，新唐人将独家播出“神韵艺术团2021年演出”，是最新的神韵晚会节目，仅限中国大陆地区收看。请通过卫星天线或翻墙软件(自由门,无界,爱博电视)观看。2月26日(周五) 首播：20:00 回放：23:00 [低频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150)  [中频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](http://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800)**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/shenyun/2020shenyun2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/master/2.JPG)
 
 **北京时间2021年2月23日11点20分：云端更新集合版Goflyway ip1、ip2、ip3、ip4，brook、Naiveproxy、etgo。**
 
