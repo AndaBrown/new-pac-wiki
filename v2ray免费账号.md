@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年3月4日8点42分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年3月4日12点55分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -46,34 +46,9 @@ VPS推荐：
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray和SS节点。**
 
 
-**亚洲节点**:
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYyMDc1YTk4LWY5YzgtNGVhZS04MWRjLTdjMGQ1ZmMxZGZlZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANDUuODUuMy4xNTM6ODAz#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANDUuODUuMy4xNTM6ODA1#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjEyOC4yNC4zNDo4MDU=#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjEyOC4yNC4zNDo4MTA=#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AODEuOTAuMTg5LjIyOTo4MDg=#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMjE3LjE5Ny4xNjAuMTA5OjgwNQ==#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1
-
-
-
 **美国节点**:
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYyMDc1YTk4LWY5YzgtNGVhZS04MWRjLTdjMGQ1ZmMxZGZlZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
-
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE5OC4xNDcuMjIuODc6Mzk3NzI=#https%3A%2F%2Fgit.io%2Fv999+%E7%BE%8E%E5%9B%BD
-
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xODEuMTY2LjU1OjMzOTky#https%3A%2F%2Fgit.io%2Fv999+%E7%BE%8E%E5%9B%BD
-
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDc0LjExOS4xNDYuMTMxOjQwMDkz#https%3A%2F%2Fgit.io%2Fv999+%E7%BE%8E%E5%9B%BD
-
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
