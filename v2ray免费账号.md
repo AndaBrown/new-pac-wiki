@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年3月4日12点55分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年3月4日13点19分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -46,11 +46,80 @@ VPS推荐：
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray和SS节点。**
 
 
-**美国节点**:
+帐号1（洛杉矶，Websocket+tls+cdn）:
+
+Address(地址): us103.free2222.xyz
+
+Port（端口）:443
+
+UUID（用户id）: f2075a98-f9c8-4eae-81dc-7c0d5fc1dfed
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：us103.free2222.xyz
+
+路径： /ray
+
+底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYyMDc1YTk4LWY5YzgtNGVhZS04MWRjLTdjMGQ1ZmMxZGZlZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
+
+帐号2（洛杉矶，Websocket+tls+cdn）:
+
+Address(地址): cloudflare.com
+
+Port（端口）:443
+
+UUID（用户id）: f2075a98-f9c8-4eae-81dc-7c0d5fc1dfed
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：us103.free2222.xyz
+
+路径： /ray
+
+底层传输安全：tls
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftjIiLA0KICAiYWRkIjogImNsb3VkZmxhcmUuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYyMDc1YTk4LWY5YzgtNGVhZS04MWRjLTdjMGQ1ZmMxZGZlZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftiIsDQogICJhZGQiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYyMDc1YTk4LWY5YzgtNGVhZS04MWRjLTdjMGQ1ZmMxZGZlZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMxMDMuZnJlZTIyMjIueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
+帐号3（洛杉矶，Websocket+tls+cdn）:
+
+Address(地址): 104.19.32.100
+
+Port（端口）:443
+
+UUID（用户id）: f2075a98-f9c8-4eae-81dc-7c0d5fc1dfed
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）：us103.free2222.xyz
+
+路径： /ray
+
+底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOa0m+adieeftjMiLA0KICAiYWRkIjogIjEwNC4xOS4zMi4xMDAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZjIwNzVhOTgtZjljOC00ZWFlLTgxZGMtN2MwZDVmYzFkZmVkIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1czEwMy5mcmVlMjIyMi54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiDQp9
+
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
