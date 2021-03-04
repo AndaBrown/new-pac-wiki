@@ -39,7 +39,9 @@ VPS推荐：
 
 ***
 
-**最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以也可以下载最新的自由门，抗封锁性更强** [下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
+**最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以也可以下载最新的自由门，抗封锁性更强** 
+
+[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
 <table id="tablepress-1">
 <thead>
