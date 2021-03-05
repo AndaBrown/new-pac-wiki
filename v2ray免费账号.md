@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年3月5日11点46分更新节点1和节点2。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年3月5日21点55分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -46,54 +46,14 @@ VPS推荐：
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray和SS节点。**
 
 
-**节点1**
-
-Address(地址): 104.19.0.100
-
-Port（端口）:443
-
-UUID（用户id）: 55139eb8-f598-4cdd-90e5-def733e8f999
-
-alterId（额外ID）: 0
-
-security（加密方式）: auto
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-伪装域名（host）：ge001.free2222.xyz
-
-路径： /ray
-
-底层传输安全：tls
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOW+t+WbvTEiLA0KICAiYWRkIjogIjEwNC4xOS4wLjEwMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1NTEzOWViOC1mNTk4LTRjZGQtOTBlNS1kZWY3MzNlOGY5OTkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdlMDAxLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
 
 
-**节点2**
-
-Address(地址): www.cloudflare.com
-
-Port（端口）:443
-
-UUID（用户id）: 55139eb8-f598-4cdd-90e5-def733e8f999
-
-alterId（额外ID）: 0
-
-security（加密方式）: auto
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-伪装域名（host）：ge001.free2222.xyz
-
-路径： /ray
-
-底层传输安全：tls
-
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IGNsYXNoIOW+t+WbvTIiLA0KICAiYWRkIjogInd3dy5jbG91ZGZsYXJlLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1NTEzOWViOC1mNTk4LTRjZGQtOTBlNS1kZWY3MzNlOGY5OTkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdlMDAxLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyINCn0=
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IGNsYXNoIGlwMSIsDQogICJhZGQiOiAiNTQuMTgwLjEwMi4yMzAiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI2NDI1Y2JlYi0wNWI1LTQ3NjEtZmY2Mi04Mzc5NjJjNDBkNTciLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFjcy5tLnRhb2Jhby5jb20iLA0KICAicGF0aCI6ICIvZHduIiwNCiAgInRscyI6ICIiDQp9
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IGNsYXNoIGlwMSIsDQogICJhZGQiOiAidjIubGlubi5pbmsiLA0KICAicG9ydCI6ICIyMjYwMCIsDQogICJpZCI6ICJjZTI3MjQyNC1mZTE1LTQyY2QtODkwMy0zNTVkZDMzYjA0NTEiLA0KICAiYWlkIjogIjEwMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiINCn0=
 
 
 
