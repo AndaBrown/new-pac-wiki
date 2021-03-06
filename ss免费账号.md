@@ -40,6 +40,8 @@ VPS推荐：
 
 ***
 
+**有人使用洛杉矶节点进行BT下载文件导致服务器被封！**
+
 <table id="tablepress-1">
 <thead>
 <tr>
