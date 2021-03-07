@@ -40,7 +40,7 @@ VPS推荐：
 
 ***
 
-**有人使用洛杉矶节点进行BT下载文件导致服务器被封！**
+**洛杉矶节点由于BT下载文件导致服务器被封！**
 
 <table id="tablepress-1">
 <thead>
@@ -77,6 +77,8 @@ VPS推荐：
 </table>
 
 SSR节点一键导入地址：
+
+ssr://MTczLjAuNTUuNjc6Mzc4MDE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02S1dfNlp1RjVadS0mZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ssr://ODkuMTYzLjIyNC4xNDI6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
