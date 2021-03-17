@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年3月17日8点50分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年3月17日10点08分增加vless协议节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -45,7 +45,11 @@ VPS推荐：
 
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点。**
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHYycmF55b635Zu9ZnJlZSIsDQogICJhZGQiOiAiZ2VmcmVlMDAyLmZyZWUyMjIyLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmZDZhMDFiYS1lMWQ4LTQwODgtYTU0MC1hZTdlYmVkNWRlMmYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdlZnJlZTAwMi5mcmVlMjIyMi54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+vless协议：
+
+vless://86561fae-3bd0-4c0d-8b96-0bca31f411f7@gefree003.free2222.xyz:443?encryption=none&security=tls&type=ws&host=gefree003.free2222.xyz&path=%2fray#https%3a%2f%2fgit.io%2fv9999+v2ray%e5%be%b7%e5%9b%bdfree
+
+vmess协议：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IHYycmF5IiwNCiAgImFkZCI6ICIxMTYuMTkyLjE2NS4yMDciLA0KICAicG9ydCI6ICI1MjAwMCIsDQogICJpZCI6ICJlYjg2Mjc3Ny0yMzdjLTRjZDMtYTI3OC1hMmEzNThmMmVhNDAiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
