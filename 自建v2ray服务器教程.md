@@ -333,6 +333,28 @@ service ntpd start
 
 ***
 
+**高阶篇**
+
+当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以搭建VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS，甚至搭建好后还可以套CDN(套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活)。套CDN的方法可以自行网络搜索。提前准备好域名，将域名指定vps的ip，然后根据脚本来搭建就好了。第一次购买域名，可以参考这个[域名购买教程](https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B) 。
+
+**（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan/Trojan-Go WS）+伪装站点、七合一共存脚本，支持多内核安装，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
+
+***
+
+wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+
+***
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+
 
 **第三步：一键加速VPS服务器**
 
@@ -447,30 +469,7 @@ service ntpd start
 
 如果ip能ping，xshell能直接连接vps服务器，说明ip没有被墙，多半是端口被封了，优先换端口。
 
-**4、高阶篇**
 
-当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以尝试下**WebSocket+Tls+Nginx+Web**的方式，甚至搭建好后还可以套CDN，套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活。套CDN的方法可以自行网络搜索。提前准备好域名，将域名指定vps的ip，然后根据脚本来搭建就好了。第一次购买域名，可以参考这个[域名购买教程](https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B) 。
-
-**一键部署WebSocket+Tls+Nginx+Web，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
-
-***
-
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
-
-***
-
-![v2ray](https://user-images.githubusercontent.com/12132898/74119025-c22e2c80-4bf8-11ea-81fe-614133dcc713.PNG)
-
-注意：ws+tls和http/2只能安装1个，不能同时安装。比如ws+tls安装后不好用，那么你可以卸载后安装http/2。
-
-启动 V2ray：systemctl start v2ray
-
-启动 Nginx：systemctl start nginx
-
-安装完成后会得到v2ray账号信息，然后把账号信息填写到客户端里面，推荐用v2rayN客户端，参考[v2ray各平台图文使用教程
-](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
-
-浏览器代理设置成Socks(5) 127.0.0.1 和1080
 
 ***
 
