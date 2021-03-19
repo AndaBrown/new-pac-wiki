@@ -268,13 +268,6 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 > 安装完成后，输入v2ray可进入管理页面。脚本来自[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)。
 
-> 脚本功能介绍：
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun1.PNG)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun2.PNG)
-
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-fun3.PNG)
 
 ***
 
