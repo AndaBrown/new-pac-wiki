@@ -335,9 +335,9 @@ service ntpd start
 
 **高阶篇**
 
-当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以搭建VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS，甚至搭建好后还可以套CDN(套CDN不是一个必须的步骤，但套CDN可以有效保护IP，甚至被墙的ip也能复活)。套CDN的方法可以自行网络搜索。提前准备好域名，将域名指定vps的ip，然后根据脚本来搭建就好了。第一次购买域名，可以参考这个[域名购买教程](https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B) 。
+当封锁特别厉害的时候，常规的v2ray配置可能已经无法满足需求，这个时候我们可以搭建VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS，搭建脚本需要购买域名，可以参考这个[域名购买教程](https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B) 。
 
-**（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan/Trojan-Go WS）+伪装站点、七合一共存脚本，支持多内核安装，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**：
+**（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan/Trojan-Go WS）+伪装站点、七合一共存脚本，支持多内核安装，支持系统Debian 8+ / Ubuntu 16.04+ / Centos7**
 
 ***
 
