@@ -1,4 +1,4 @@
-**2020年10月15日增加域名购买教程。**
+**2021年3月19日更新高阶篇教程。**
 
 **如果无法查看图片，可以访问http://tr1.freeair888.club/自建v2ray服务器教程**
 
@@ -347,14 +347,17 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-a
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless2.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless3.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless4.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless5.PNG)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless6.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vless/vless7.PNG)
 
 **第三步：一键加速VPS服务器**
 
