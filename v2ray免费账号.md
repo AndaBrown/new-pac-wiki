@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年3月18日21点01分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年3月19日12点30分更新vless节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -47,11 +47,11 @@ VPS推荐：
 
 **vless节点**：
 
-vless://86561fae-3bd0-4c0d-8b96-0bca31f411f7@gefree003.free2222.xyz:443?encryption=none&security=tls&type=ws&host=gefree003.free2222.xyz&path=%2fray#https%3a%2f%2fgit.io%2fv9999+v2ray%e5%be%b7%e5%9b%bdfree
+vless://86561fae-3bd0-4c0d-8b96-0bca31f411f7@domain08.mqcjuc.ml:443?encryption=none&security=tls&type=ws&host=gefree003.free2222.xyz&path=%2fray#https%3a%2f%2fgit.io%2fv9999+v2ray%e5%be%b7%e5%9b%bdfreeCDN
 
 **注**：v2rayN客户端可以直接复制vless节点导入到客户端中，而其它客户端可能需要选择vless节点类型后手动填写信息。vless节点信息如下：
 
-Address(地址): gefree003.free2222.xyz
+Address(地址): domain08.mqcjuc.ml
 
 Port（端口）:443
 
