@@ -47,7 +47,7 @@ VPS推荐：
 
 **vless节点**：
 
-vless://86561fae-3bd0-4c0d-8b96-0bca31f411f7@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=gefree003.free2222.xyz&path=%2fray#https%3a%2f%2fgit.io%2fv9999+v2ray%e5%be%b7%e5%9b%bdfreeCDN
+vless://86561fae-3bd0-4c0d-8b96-0bca31f411f7@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=gefree003.free2222.xyz&path=%2fray#https%3a%2f%2fgit.io%2fv9999+vless%e5%be%b7%e5%9b%bdCDN
 
 **注**：v2rayN客户端可以直接复制vless节点导入到客户端中，而其它客户端可能需要选择vless节点类型后手动填写信息。vless节点信息如下：
 
