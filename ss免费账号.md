@@ -60,7 +60,7 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
-<td>plian</td>
+<td>plain</td>
 </tr>
 <tr>
 <td>节点2-德国</td>
@@ -69,7 +69,7 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
-<td>plian</td>
+<td>plain</td>
 </tr>
 </tbody>
 </table>
