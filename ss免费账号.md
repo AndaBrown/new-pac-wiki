@@ -54,18 +54,18 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>节点1-西雅图</td>
-<td>173.0.55.67</td>
-<td>37801</td>
+<td>节点1-德国</td>
+<td>89.163.224.142</td>
+<td>25016</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>节点2-德国</td>
-<td>89.163.224.142</td>
-<td>25016</td>
+<td>节点2-西雅图</td>
+<td>173.0.55.67</td>
+<td>37801</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -76,9 +76,9 @@ VPS推荐：
 
 SSR节点一键导入地址：
 
-ssr://MTczLjAuNTUuNjc6Mzc4MDE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02S1dfNlp1RjVadS0mZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
-
 ssr://ODkuMTYzLjIyNC4xNDI6MjUwMTY6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+
+ssr://MTczLjAuNTUuNjc6Mzc4MDE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02S1dfNlp1RjVadS0mZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
