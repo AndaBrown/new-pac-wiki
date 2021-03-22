@@ -1,4 +1,4 @@
-**2020年8月16日增加多用户一键脚本,支持流量限制等，更新五合一的TCP网络加速脚本。**
+**2021年3月22日增加高阶篇教程。**
 
 **如果无法查看图片，可以访问http://tr1.freeair888.club/自建ss服务器教程**
 
@@ -375,6 +375,14 @@ chmod +x tcp.sh
 
 ./tcp.sh
 
+
+***
+
+**高阶篇**
+
+当封锁特别厉害的时候，常规的SS/SSR配置可能已经无法满足需求，这个时候我们可以搭建SSR+TLS+Caddy，搭建需要购买域名，可以参考这个[域名购买及设置教程](https://github.com/Alvin9999/new-pac/wiki/%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0%E6%95%99%E7%A8%8B) 。
+
+用一键搭建工具ProxySU(https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU)来搭建即可，傻瓜式，很方便，[一键搭建工具ProxySU使用教程](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU)
 
 ***
 
