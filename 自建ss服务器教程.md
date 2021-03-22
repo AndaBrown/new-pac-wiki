@@ -369,6 +369,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 用一键搭建工具ProxySU来搭建即可，傻瓜式，很方便，[一键搭建工具ProxySU使用教程](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU)
 
+示意图:
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/ssimage/ssrtls.PNG)
+
 ***
 
 **第三步：一键加速VPS服务器**
