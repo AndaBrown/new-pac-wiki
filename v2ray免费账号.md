@@ -54,7 +54,7 @@ vless://f82b5622-3d18-4318-b3c6-c6367baa2167@198.41.208.0:443?encryption=none&se
 
 Address(地址): 198.41.208.0
 
-Port（端口）:443
+Port（端口）: 443
 
 UUID（用户id）: f82b5622-3d18-4318-b3c6-c6367baa2167
 
