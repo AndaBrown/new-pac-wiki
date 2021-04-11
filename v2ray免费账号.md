@@ -91,8 +91,8 @@ Mac客户端[v2rayX](https://github.com/insisttech/v2rayX-copy/releases) 或 [v2
 
 Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 
 
-安卓客户端v2ray vpn:[下载1](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
-[下载2](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
+安卓客户端v2ray vpn:[下载1](https://d1.w2rss.tk/ssvpn-universal.apk) 
+[下载2](https://d2.w2rss.tk/ssvpn-universal.apk) 
 
 iOS：[没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
 
