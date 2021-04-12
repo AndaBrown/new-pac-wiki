@@ -34,7 +34,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年4月1日22点13分更新西雅图节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年4月12日10点06分增加洛杉矶节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
 
@@ -54,7 +54,16 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>节点1-德国</td>
+<td>节点1-洛杉矶</td>
+<td>ssr10.free3333.xyz</td>
+<td>443</td>
+<td>dongtaiwang.com</td>
+<td>none</td>
+<td>auth_chain_a</td>
+<td>tls1.2_ticket_auth</td>
+</tr>
+<tr>
+<td>节点2-德国</td>
 <td>89.163.224.142</td>
 <td>40121</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -63,7 +72,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点2-西雅图</td>
+<td>节点3-西雅图</td>
 <td>173.0.55.67</td>
 <td>50102</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -75,6 +84,8 @@ VPS推荐：
 </table>
 
 SSR节点一键导入地址：
+
+ssr://c3NyMTAuZnJlZTMzMzMueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1VMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
 
 ssr://ODkuMTYzLjIyNC4xNDI6NDAxMjE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
