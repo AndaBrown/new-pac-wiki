@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年4月14日15点19分更新VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年4月17日8点30分更新VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -97,33 +97,13 @@ headerType（伪装类型）: none
 
 **VMESS节点**：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS4reWbveW5v+S4nOa3seWcsyIsDQogICJhZGQiOiAiaW4xLXJlbGF5LmtlamliZWFybm9kZS5jZiIsDQogICJwb3J0IjogIjEwMDE1IiwNCiAgImlkIjogIjM2NDdlYmRiLWZhMjUtMzg1Zi1hNzhiLWYxMzc4MTFlNTg2ZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZpZGVvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSAgMyIsDQogICJhZGQiOiAiYWdhLXVzLmRkbnMuY2RudGlwLnRvcCIsDQogICJwb3J0IjogIjUwODA5IiwNCiAgImlkIjogImE2Y2ExYjkxLWRkYjQtNDFlMy1kMGMwLWJjOTdlNTVmNjU3ZCIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9wYW5lbCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS4reWbveW5v+S4nOW5v+W3niIsDQogICJhZGQiOiAic2c2LXJlbGF5LmtlamliZWFybm9kZS5jZiIsDQogICJwb3J0IjogIjEwMDI1IiwNCiAgImlkIjogIjM2NDdlYmRiLWZhMjUtMzg1Zi1hNzhiLWYxMzc4MTFlNTg2ZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZpZGVvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS4reWbveW5v+S4nOW5v+W3niIsDQogICJhZGQiOiAianAyLXJlbGF5LmtlamliZWFybm9kZS5jZiIsDQogICJwb3J0IjogIjEyNjc1IiwNCiAgImlkIjogIjM2NDdlYmRiLWZhMjUtMzg1Zi1hNzhiLWYxMzc4MTFlNTg2ZiIsDQogICJhaWQiOiAiMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3ZpZGVvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-trojan://fastssh.com@sg1.vless.co:443#https%3a%2f%2fgit.io%2fv9999+%e6%96%b0%e5%8a%a0%e5%9d%a1NewMedia%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83+27
-
-trojan://ssrsub@t09.ssrsub.one:443#https%3a%2f%2fgit.io%2fv9999+%e7%be%8e%e5%9b%bd%e7%ba%bd%e7%ba%a6%e5%b7%9e%e7%ba%bd%e7%ba%a6BuyVM+45
-
-trojan://ssrsub@t08.ssrsub.one:443#https%3a%2f%2fgit.io%2fv9999+%e7%be%8e%e5%9b%bd%e5%86%85%e5%8d%8e%e8%be%be%e5%b7%9e%e6%8b%89%e6%96%af%e7%bb%b4%e5%8a%a0%e6%96%afBuyVM+30
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSIsDQogICJhZGQiOiAiZnJlZS5taWxhZ3JvcGV0cy50ZWNoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZmU0YjA5ZDYtOGFmNi0zM2EyLTgzNDAtZDM1MzlmOGM4YTRjIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 trojan://ssrsub@t03.ssrsub.one:443#https%3a%2f%2fgit.io%2fv9999+%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%ae%89%e5%a4%a7%e7%95%a5%e7%9c%81%e5%9f%ba%e5%a5%87%e7%ba%b3DataCity%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83+26
 
-trojan://ssrsub@t04.ssrsub.one:443#https%3a%2f%2fgit.io%2fv9999+%e5%8a%a0%e6%8b%bf%e5%a4%a7++21
-
-trojan://ssrsub@t02.ssrsub.one:443#https%3a%2f%2fgit.io%2fv9999+%e5%8a%a0%e6%8b%bf%e5%a4%a7++15
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS/hOe9l+aWr+aWsOilv+S8r+WIqeS6mmp1c3Rob3N0IDU1IiwNCiAgImFkZCI6ICJ2Mi0wNi5zc3JzdWIub25lIiwNCiAgInBvcnQiOiAiMTUzIiwNCiAgImlkIjogImU4NDQ0ZjBkLTIxMGEtNGYyMC05ZWE3LTY4ZWUzZDU0NzIwNSIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm40NmhtNTI3NzMubGFvd2FueGlhbmcuY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-trojan://ssrsub@t11.ssrsub.one:443#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%af++60
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS/hOe9l+aWryAgNTMiLA0KICAiYWRkIjogInYyLTExLnNzcnN1Yi5vbmUiLA0KICAicG9ydCI6ICIxNTMiLA0KICAiaWQiOiAiZTg0NDRmMGQtMjEwYS00ZjIwLTllYTctNjhlZTNkNTQ3MjA1IiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibjQ2aG01Mjc3My5sYW93YW54aWFuZy5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS/hOe9l+aWryIsDQogICJhZGQiOiAidjItMDcuc3Nyc3ViLm9uZSIsDQogICJwb3J0IjogIjE1MyIsDQogICJpZCI6ICJlODQ0NGYwZC0yMTBhLTRmMjAtOWVhNy02OGVlM2Q1NDcyMDUiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJuNDZobTUyNzczLmxhb3dhbnhpYW5nLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOS/hOe9l+aWryIsDQogICJhZGQiOiAidjItMTEuc3Nyc3ViLm9uZSIsDQogICJwb3J0IjogIjE1MyIsDQogICJpZCI6ICJlODQ0NGYwZC0yMTBhLTRmMjAtOWVhNy02OGVlM2Q1NDcyMDUiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJuNDZobTUyNzczLmxhb3dhbnhpYW5nLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://fastssh.com@sg1.vless.co:443#https%3a%2f%2fgit.io%2fv9999+%e6%96%b0%e5%8a%a0%e5%9d%a1NewMedia%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83+27
 
 
 
