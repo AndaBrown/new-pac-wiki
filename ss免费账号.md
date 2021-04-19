@@ -58,7 +58,7 @@ VPS推荐：
 <td>lg2.free3333.xyz</td>
 <td>443</td>
 <td>tuidang.org</td>
-<td>none</td>
+<td>chacha20</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
