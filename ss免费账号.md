@@ -54,7 +54,7 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>节点1-洛杉矶</td>
+<td>洛杉矶</td>
 <td>lg2.free3333.xyz</td>
 <td>443</td>
 <td>tuidang.org</td>
@@ -63,7 +63,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点2-莫斯科</td>
+<td>莫斯科</td>
 <td>ssr11.free3333.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
@@ -72,7 +72,7 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>节点3-洛杉矶</td>
+<td>洛杉矶</td>
 <td>la.free3333.xyz</td>
 <td>443</td>
 <td>tuidang.org</td>
@@ -81,7 +81,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点4-日本</td>
+<td>日本</td>
 <td>ssr-jp1.free3333.xyz</td>
 <td>443</td>
 <td>tuidang.org</td>
@@ -90,7 +90,7 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>节点5-德国</td>
+<td>德国</td>
 <td>89.163.224.142</td>
 <td>40121</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
