@@ -34,7 +34,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年4月19日22点10分增加日本节点，21点49分更新西雅图节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年4月20日7点02分更新2个洛杉矶节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -55,12 +55,12 @@ VPS推荐：
 <tbody>
 <tr>
 <td>节点1-洛杉矶</td>
-<td>ssr101.free3333.xyz</td>
+<td>lg2.free3333.xyz</td>
 <td>443</td>
-<td>dongtaiwang.com</td>
+<td>tuidang.org</td>
 <td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
+<td>origin</td>
+<td>plain</td>
 </tr>
 <tr>
 <td>节点2-莫斯科</td>
@@ -73,12 +73,12 @@ VPS推荐：
 </tr>
 <tr>
 <td>节点3-洛杉矶</td>
-<td>ssr13.free3333.xyz</td>
+<td>la.free3333.xyz</td>
 <td>443</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
+<td>tuidang.org</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
 </tr>
 <tr>
 <td>节点4-日本</td>
@@ -112,11 +112,11 @@ VPS推荐：
 
 SSR节点一键导入地址：
 
-ssr://c3NyMTAxLmZyZWUzMzMzLnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmsmdW90PTE
+ssr://bGEyLmZyZWUzMzMzLnh5ejo0NDM6b3JpZ2luOmNoYWNoYTIwOnBsYWluOmRIVnBaR0Z1Wnk1dmNtYy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMk1sTlRVaXRVVEZNclEyRmtaSGsmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
 
 ssr://c3NyMTEuZnJlZTMzMzMueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
 
-ssr://c3NyMTIuZnJlZTMzMzMueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
+ssr://bGEuZnJlZTMzMzMueHl6OjQ0MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpkSFZwWkdGdVp5NXZjbWMvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
 
 ssr://c3NyLWpwMS5mcmVlMzMzMy54eXo6NDQzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpkSFZwWkdGdVp5NXZjbWMvP29iZnNwYXJhbT0mcmVtYXJrcz01cGVsNXB5c1UxTlNLMVJNVXl0RFlXUmtlUSZncm91cD1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrJnVvdD0x
 
