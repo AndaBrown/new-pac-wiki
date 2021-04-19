@@ -99,7 +99,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>节点6-西雅图</td>
+<td>西雅图</td>
 <td>173.0.55.67</td>
 <td>13011</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
