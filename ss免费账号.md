@@ -81,7 +81,7 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>节点4-日本</td>
+<td>节点-日本</td>
 <td>ssr-jp1.free3333.xyz</td>
 <td>443</td>
 <td>tuidang.org</td>
