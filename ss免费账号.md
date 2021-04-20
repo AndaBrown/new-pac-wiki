@@ -34,7 +34,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年4月20日7点02分更新2个洛杉矶节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年4月20日9点37分更新第2个洛杉矶节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -73,10 +73,10 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>la.free3333.xyz</td>
-<td>443</td>
+<td>45.66.156.190</td>
+<td>12001</td>
 <td>tuidang.org</td>
-<td>rc4-md5</td>
+<td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
@@ -116,7 +116,7 @@ ssr://bGEyLmZyZWUzMzMzLnh5ejo0NDM6b3JpZ2luOmNoYWNoYTIwOnBsYWluOmRIVnBaR0Z1Wnk1dm
 
 ssr://c3NyMTEuZnJlZTMzMzMueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
 
-ssr://bGEuZnJlZTMzMzMueHl6OjQ0MzpvcmlnaW46cmM0LW1kNTpwbGFpbjpkSFZwWkdGdVp5NXZjbWMvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
+ssr://NDUuNjYuMTU2LjE5MDoxMjAwMTpvcmlnaW46cmM0OnBsYWluOmRIVnBaR0Z1Wnk1dmNtYy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
 
 ssr://c3NyLWpwMS5mcmVlMzMzMy54eXo6NDQzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpkSFZwWkdGdVp5NXZjbWMvP29iZnNwYXJhbT0mcmVtYXJrcz01cGVsNXB5c1UxTlNLMVJNVXl0RFlXUmtlUSZncm91cD1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrJnVvdD0x
 
