@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年4月28日22点46分更新VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年5月1日8点46分更新VMESS和VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -47,9 +47,10 @@ VPS推荐：
 
 **VLESS节点**：
 
-vless://f82b5622-3d18-4318-b3c6-c6367baa2167@162.159.36.100:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
+vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.200:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
 
-vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.100:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
+vless://f82b5622-3d18-4318-b3c6-c6367baa2167@172.64.64.10:443?
+encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
 
 
 **注**：v2rayN客户端可以直接复制vless节点导入到客户端中，而其它客户端可能需要选择vless节点类型后手动填写信息。vless节点信息如下：
@@ -57,7 +58,7 @@ vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.100:443?encryption=none&s
 
 **VLESS节点1**：
 
-Address(地址): 162.159.36.100
+Address(地址): 104.19.96.200
 
 Port（端口）: 443
 
@@ -77,7 +78,7 @@ headerType（伪装类型）: none
 
 **VLESS节点2**：
 
-Address(地址): 104.19.96.100
+Address(地址): 172.64.64.10
 
 Port（端口）: 443
 
@@ -97,7 +98,10 @@ headerType（伪装类型）: none
 
 **VMESS节点**：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaXpeacrCIsDQogICJhZGQiOiAiMTMuMjA4LjI0OC4yMDgiLA0KICAicG9ydCI6ICIzNTEwNSIsDQogICJpZCI6ICI2OTE0ZjRjYy1mYTRiLTRkNWUtOWE3Ny1kNmY4ZWE1ZTJmMzQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSIsDQogICJhZGQiOiAiMS4wLjAuMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NWYxMWJlNS1hYzcxLTRmMGMtODc0Yi1kOTNjNjEwYzY2ZWYiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ1cy1hLmZyZWVwcm94eTEud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSIsDQogICJhZGQiOiAiMTA0LjE2LjIwNy4xOTYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTljZDEyNmEtN2MwNS00MWFmLWFkMGUtYTE4NWVhYmM4OWM4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2aW5jZW50LWphY2tzb24uY2YiLA0KICAicGF0aCI6ICIvVGhlLUdyZWF0LUF3YWtlbmluZ192d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
