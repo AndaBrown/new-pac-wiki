@@ -72,15 +72,6 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>日本</td>
-<td>ssr-jp1.free3333.xyz</td>
-<td>443</td>
-<td>tuidang.org</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>德国</td>
 <td>89.163.224.142</td>
 <td>40121</td>
@@ -106,8 +97,6 @@ SSR节点一键导入地址：
 ssr://c3NyMTAzLmZyZWUzMzMzLnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmsmdW90PTE
 
 ssr://c3NyMTEuZnJlZTMzMzMueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEyayZ1b3Q9MQ
-
-ssr://c3NyLWpwMS5mcmVlMzMzMy54eXo6NDQzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpkSFZwWkdGdVp5NXZjbWMvP29iZnNwYXJhbT0mcmVtYXJrcz01cGVsNXB5c1UxTlNLMVJNVXl0RFlXUmtlUSZncm91cD1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrJnVvdD0x
 
 ssr://ODkuMTYzLjIyNC4xNDI6NDAxMjE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
