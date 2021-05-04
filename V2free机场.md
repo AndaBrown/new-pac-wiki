@@ -1,4 +1,4 @@
-[v2rss.ga](https://w1.v2free.net/auth/register?code=UsUP)由海外人士运营，不存在关站风险，安全、可靠、稳定。
+[w1.v2free.net](https://w1.v2free.net/auth/register?code=UsUP)由海外人士运营，不存在关站风险，安全、可靠、稳定。
 
 ***
 
