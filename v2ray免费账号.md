@@ -36,7 +36,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
 
-**北京时间2021年5月1日8点46分更新VMESS和VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年5月7日7点31分更新VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -47,7 +47,7 @@ VPS推荐：
 
 **VLESS节点**：
 
-vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.200:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
+vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.202:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
 
 vless://f82b5622-3d18-4318-b3c6-c6367baa2167@172.64.64.10:443?
 encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
@@ -58,7 +58,7 @@ encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%
 
 **VLESS节点1**：
 
-Address(地址): 104.19.96.200
+Address(地址): 104.19.96.202
 
 Port（端口）: 443
 
