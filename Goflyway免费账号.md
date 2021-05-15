@@ -31,6 +31,8 @@ VPS推荐：
 
 **YouTube频道推荐**：   [新闻拍案惊奇-大宇](https://www.youtube.com/user/NTDEducation/videos)   [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)  [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured) [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [新闻看点-李沐阳](https://www.youtube.com/channel/UCPMqbkR35zZV1ysWGXJPW-w/videos) [石濤TV-聚焦/NEWS](https://www.youtube.com/channel/UC6zxZTv5ZbMmEg5GqBmXAUQ/videos)  [阿波罗新闻网-热点直击](https://www.youtube.com/user/aboluowang/videos) [薇羽看世間](https://www.youtube.com/c/%E8%96%87%E7%BE%BD%E7%9C%8B%E4%B8%96%E9%96%93/videos)  [睿眼看世界](https://www.youtube.com/channel/UCcWBxfaO69GPOFHSArNET2Q/videos)  [真观点voices](https://www.youtube.com/c/%E7%9C%9F%E8%A7%82%E7%82%B9voices/videos)   [财经冷眼](https://www.youtube.com/c/%E8%B4%A2%E7%BB%8F%E5%86%B7%E7%9C%BC/videos) [文昭思绪飞扬](https://www.youtube.com/channel/UCTu_hTaVf3DJMpMIyOAq2Ew/videos) [老高与小茉](https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ/videos) [NTD(中文)](https://www.youtube.com/user/NTDCHINESE/videos)  [NTD(英文)](https://www.youtube.com/c/ntdtv/videos)
 
+**真相视频推荐**：[天安门自焚事件真相——《伪火》](http://cn.ntdtv.com/gb/2014/01/07/a24016.html)
+
 ***
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门，抗封锁性更强。 自由门7.95版**[下载地址1](https://tr101.free4444.xyz/fg795p.zip) [下载地址2](https://tr71.free4444.xyz/fg795p.zip)
