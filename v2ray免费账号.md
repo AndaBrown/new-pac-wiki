@@ -49,10 +49,9 @@ VPS推荐：
 
 **VLESS节点**：
 
-vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.202:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
+vless://f82b5622-3d18-4318-b3c6-c6367baa2167@gamer.com.tw:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e8%8d%b7%e5%85%b0CDN
 
-vless://f82b5622-3d18-4318-b3c6-c6367baa2167@172.64.64.10:443?
-encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+VLESS%e8%8d%b7%e5%85%b0CDN
+vless://f82b5622-3d18-4318-b3c6-c6367baa2167@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e8%8d%b7%e5%85%b0CDN
 
 
 **注**：v2rayN客户端可以直接复制vless节点导入到客户端中，而其它客户端可能需要选择vless节点类型后手动填写信息。vless节点信息如下：
@@ -60,7 +59,7 @@ encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%
 
 **VLESS节点1**：
 
-Address(地址): 104.19.96.202
+Address(地址): gamer.com.tw
 
 Port（端口）: 443
 
@@ -80,7 +79,7 @@ headerType（伪装类型）: none
 
 **VLESS节点2**：
 
-Address(地址): 172.64.64.10
+Address(地址): www.digitalocean.com
 
 Port（端口）: 443
 
@@ -100,9 +99,7 @@ headerType（伪装类型）: none
 
 **VMESS节点**：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSIsDQogICJhZGQiOiAiMTA0LjE2LjIwNy4xOTYiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTljZDEyNmEtN2MwNS00MWFmLWFkMGUtYTE4NWVhYmM4OWM4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2aW5jZW50LWphY2tzb24uY2YiLA0KICAicGF0aCI6ICIvVGhlLUdyZWF0LUF3YWtlbmluZ192d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSIsDQogICJhZGQiOiAidmluY2VudC1qYWNrc29uMjAyMS5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxYTU0ZTc1Ni1kNDU0LTQ1YTAtYWVmYS1lOTUxNGUxZGExZjEiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInZpbmNlbnQtamFja3NvbjIwMjEuY2YiLA0KICAicGF0aCI6ICIvVGhlLUdyZWF0LUF3YWtlbmluZ192d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSIsDQogICJhZGQiOiAiMTA0LjE2LjE2Ny4xMzgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTljZDEyNmEtN2MwNS00MWFmLWFkMGUtYTE4NWVhYmM4OWM4IiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2aW5jZW50LWphY2tzb24uY2YiLA0KICAicGF0aCI6ICIvVGhlLUdyZWF0LUF3YWtlbmluZ192d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
 
 
 
