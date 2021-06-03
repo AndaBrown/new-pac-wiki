@@ -38,7 +38,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年5月25日18点24分更新VMESS和VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年6月3日10点28分更新VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -49,9 +49,9 @@ VPS推荐：
 
 **VLESS节点**：
 
-vless://bdc07b5f-dd93-4c29-8fcf-25327ac2a55a@v2rayge1.free3333.xyz:443?encryption=none&security=tls&type=ws&host=v2rayge1.free3333.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e5%be%b7%e5%9b%bd
+vless://56f88531-8d52-484c-a6be-3a78385d054a@104.17.32.100:443?encryption=none&security=tls&type=ws&host=nl2.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e8%8d%b7%e5%85%b0CDN
 
-vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.1:443?encryption=none&security=tls&type=ws&host=nl1.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e8%8d%b7%e5%85%b0CDN
+vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@104.17.32.10:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e5%be%b7%e5%9b%bd
 
 
 **注**：v2rayN客户端可以直接复制vless节点导入到客户端中，而其它客户端可能需要选择vless节点类型后手动填写信息。vless节点信息如下：
@@ -59,11 +59,11 @@ vless://f82b5622-3d18-4318-b3c6-c6367baa2167@104.19.96.1:443?encryption=none&sec
 
 **VLESS节点1**：
 
-Address(地址): v2rayge1.free3333.xyz
+Address(地址): 104.17.32.100
 
 Port（端口）: 443
 
-UUID（用户id）: bdc07b5f-dd93-4c29-8fcf-25327ac2a55a
+UUID（用户id）: 56f88531-8d52-484c-a6be-3a78385d054a
 
 security（加密方式）: none
 
@@ -71,7 +71,7 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）：v2rayge1.free3333.xyz
+伪装域名（host）：nl2.free2222.xyz
 
 路径：/ray
 
@@ -79,11 +79,11 @@ headerType（伪装类型）: none
 
 **VLESS节点2**：
 
-Address(地址): 104.19.96.1
+Address(地址): 104.17.32.10
 
 Port（端口）: 443
 
-UUID（用户id）: f82b5622-3d18-4318-b3c6-c6367baa2167
+UUID（用户id）: 3ead7294-b782-42e4-968c-f93ce3bfbdd6
 
 security（加密方式）: none
 
@@ -91,7 +91,7 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）：nl1.free2222.xyz
+伪装域名（host）：v2rayge2.free3333.xyz
 
 路径：/ray
 
