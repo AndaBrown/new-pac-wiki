@@ -38,7 +38,7 @@ VPS推荐：
 
 **最近封锁明显加重，大量ip失效，会持续更新。windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年6月3日10点28分更新VLESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年6月3日10点28分更新VLESS节点和VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -99,7 +99,7 @@ headerType（伪装类型）: none
 
 **VMESS节点**：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOW+t+WbvSIsDQogICJhZGQiOiAiMTA0LjE5Ljk2LjExMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2YjdjNjRjYS00Yjc3LTQ3OTYtYmRjNi0yNTRlZDUyYTRjNTMiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdlZnJlZTEuZnJlZTMzMzMueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOW+t+WbvSIsDQogICJhZGQiOiAiMTA0LjE3LjMyLjEwIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZiN2M2NGNhLTRiNzctNDc5Ni1iZGM2LTI1NGVkNTJhNGM1MyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ2VmcmVlMS5mcmVlMzMzMy54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
