@@ -38,7 +38,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年6月11日8点48分更新VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年6月12日10点18分更新VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -99,6 +99,8 @@ headerType（伪装类型）: none
 
 **VMESS节点**：
 
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOmmmea4r0FtYXpvbuaVsOaNruS4reW/gyA3IiwNCiAgImFkZCI6ICJoazEueHl0dGsudmlwIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJiYjEzNTc0Ny1hMjYwLTQyOWItODI2Yy1kNjg2ZDczOWVhYTgiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhrMS54eXR0ay52aXAiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaXpeacrOS4nOS6rE0yNDfnvZHnu5wgMTIiLA0KICAiYWRkIjogIjUuMTgzLjE3Ni4xMTciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjgwNDgyNDk1Lnh5eiIsDQogICJwYXRoIjogIi9mb290ZXJzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbveWKoOWIqeemj+WwvOS6muW3nua0m+adieeftuW4gkNvcGVyYXRpb24gQ29sb2N0aW9u5pWw5o2u5Lit5b+DIDciLA0KICAiYWRkIjogIjE3Mi4yNDcuMTguNjkiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LjMwMzcwNTc0Lnh5eiIsDQogICJwYXRoIjogIi9mb290ZXJzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
@@ -117,7 +119,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWKoOaLv+Wk
 
 trojan://upfdQ5t4@t1.ssrsub.one:8443#https%3a%2f%2fgit.io%2fv9999+%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%ae%89%e5%a4%a7%e7%95%a5%e7%9c%81%e5%9f%ba%e5%a5%87%e7%ba%b3DataCity%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83+19
 
-trojan://CNd95TWH@t2.ssrsub.one:8443#https%3a%2f%2fgit.io%2fv9999+%e5%8a%a0%e6%8b%bf%e5%a4%a7%e5%ae%89%e5%a4%a7%e7%95%a5%e7%9c%81%e5%9f%ba%e5%a5%87%e7%ba%b3DataCity%e6%95%b0%e6%8d%ae%e4%b8%ad%e5%bf%83+18
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
