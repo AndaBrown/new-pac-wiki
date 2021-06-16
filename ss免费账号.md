@@ -56,15 +56,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>洛杉矶</td>
-<td>ssr-la1.free3333.xyz</td>
-<td>443</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>莫斯科</td>
 <td>ru001.free3333.xyz</td>
 <td>443</td>
