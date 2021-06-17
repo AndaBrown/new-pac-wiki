@@ -21,7 +21,7 @@
 ***
 
 
-**备用网址：https://tr1.freeair888.club**
+**备用网址：http://tr1.freeair888.club**
 
 ***
 
