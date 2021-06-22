@@ -74,7 +74,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科1</td>
+<td>莫斯科</td>
 <td>ru001.free3333.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
@@ -83,7 +83,7 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>莫斯科2</td>
+<td>莫斯科</td>
 <td>46.17.40.201</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
@@ -92,7 +92,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科3</td>
+<td>莫斯科</td>
 <td>46.17.41.61</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
