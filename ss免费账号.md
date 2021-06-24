@@ -84,15 +84,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>莫斯科</td>
-<td>46.17.40.201</td>
-<td>12345</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
-<td>莫斯科</td>
 <td>46.17.41.61</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
@@ -110,8 +101,6 @@ ssr://ODkuMTYzLjIyNC4xNDI6MTEyMDg6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WT
 ssr://MTczLjAuNTUuNjg6MjIwMDM6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02S1dfNlp1RjVadS1VMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9UayZ1b3Q9MQ
 
 ssr://cnUwMDEuZnJlZTMzMzMueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x
-
-ssr://NDYuMTcuNDAuMjAxOjEyMzQ1Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZJNnI1cGF2NTZlUlUxTXZVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9UayZ1b3Q9MQ
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ2LjE3LjQxLjYxOjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91SS
 
