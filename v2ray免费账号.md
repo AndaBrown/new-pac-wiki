@@ -38,7 +38,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年6月29日9点55分更新VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年6月29日12点46分更新VMESS节点列表1。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -47,23 +47,19 @@ VPS推荐：
 
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点。**
 
-**VLESS节点**：
+**VMESS节点列表1**：
 
-vless://56f88531-8d52-484c-a6be-3a78385d054a@104.18.0.50:443?encryption=none&security=tls&type=ws&host=nl2.free2222.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e8%8d%b7%e5%85%b0CDN
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOiNt+WFsCIsDQogICJhZGQiOiAiMTYzLjE3Mi4yMTQuMTE4IiwNCiAgInBvcnQiOiAiNTE0MDAiLA0KICAiaWQiOiAiNjlhMTdiODgtNjgwMC00YzZiLWFlMjgtYWJmMGNmZDVkYjNiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
-vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=%2fray#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki%2bVLESS%e5%be%b7%e5%9b%bd
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOW+t+WbvSIsDQogICJhZGQiOiAiMjE3Ljc5LjE4MS4xMTEiLA0KICAicG9ydCI6ICI0MDUxMyIsDQogICJpZCI6ICI1NmVlNGRjMC0xZGMxLTRlM2QtOGYyZC1iZTM3ZmZiODJmYjkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
+**VMESS节点1**：
 
-**注**：v2rayN客户端可以直接复制vless节点导入到客户端中，而其它客户端可能需要选择vless节点类型后手动填写信息。vless节点信息如下：
+Address(地址): 217.79.181.111
 
+Port（端口）: 40513
 
-**VLESS节点1**：
-
-Address(地址): 104.18.0.50
-
-Port（端口）: 443
-
-UUID（用户id）: 56f88531-8d52-484c-a6be-3a78385d054a
+UUID（用户id）: 56ee4dc0-1dc1-4e3d-8f2d-be37ffb82fb9
 
 security（加密方式）: none
 
@@ -71,33 +67,33 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）：nl2.free2222.xyz
+伪装域名（host）：不填
 
-路径：/ray
+路径：不填
 
-底层传输安全：tls
+底层传输安全：不填
 
-**VLESS节点2**：
+**VMESS节点2**：
 
-Address(地址): 1.1.1.0
+Address(地址): 163.172.214.118
 
-Port（端口）: 443
+Port（端口）: 51400
 
-UUID（用户id）: 3ead7294-b782-42e4-968c-f93ce3bfbdd6
+UUID（用户id）: 69a17b88-6800-4c6b-ae28-abf0cfd5db3b
 
 security（加密方式）: none
 
-network（传输协议）: ws
+network（传输协议）: tcp
 
 headerType（伪装类型）: none
 
-伪装域名（host）：v2rayge2.free3333.xyz
+伪装域名（host）：不填
 
-路径：/ray
+路径：不填
 
-底层传输安全：tls
+底层传输安全：不填
 
-**VMESS节点**：
+**VMESS节点列表2**：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaXpeacrOS4nOS6rEFtYXpvbuaVsOaNruS4reW/gyA1IiwNCiAgImFkZCI6ICJ2Mi5saW5uLmluayIsDQogICJwb3J0IjogIjMwMDcwIiwNCiAgImlkIjogIjM5MzQxZmU3LWI4YjctNDYwNS1hODExLWFmMWYxZDQ2ZDRmYiIsDQogICJhaWQiOiAiMTAwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
