@@ -47,53 +47,6 @@ VPS推荐：
 
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点。**
 
-**VMESS节点列表1**：
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOiNt+WFsCIsDQogICJhZGQiOiAiMTYzLjE3Mi4yMTQuMTE4IiwNCiAgInBvcnQiOiAiNTE0MDAiLA0KICAiaWQiOiAiNjlhMTdiODgtNjgwMC00YzZiLWFlMjgtYWJmMGNmZDVkYjNiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOW+t+WbvSIsDQogICJhZGQiOiAiMjE3Ljc5LjE4MS4xMTEiLA0KICAicG9ydCI6ICI0MDUxMyIsDQogICJpZCI6ICI1NmVlNGRjMC0xZGMxLTRlM2QtOGYyZC1iZTM3ZmZiODJmYjkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
-**VMESS节点1**：
-
-Address(地址): 217.79.181.111
-
-Port（端口）: 40513
-
-UUID（用户id）: 56ee4dc0-1dc1-4e3d-8f2d-be37ffb82fb9
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-伪装域名（host）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-**VMESS节点2**：
-
-Address(地址): 163.172.214.118
-
-Port（端口）: 51400
-
-UUID（用户id）: 69a17b88-6800-4c6b-ae28-abf0cfd5db3b
-
-security（加密方式）: none
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-伪装域名（host）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-**VMESS节点列表2**：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaXpeacrOS4nOS6rEFtYXpvbuaVsOaNruS4reW/gyA1IiwNCiAgImFkZCI6ICJ2Mi5saW5uLmluayIsDQogICJwb3J0IjogIjMwMDcwIiwNCiAgImlkIjogIjM5MzQxZmU3LWI4YjctNDYwNS1hODExLWFmMWYxZDQ2ZDRmYiIsDQogICJhaWQiOiAiMTAwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
