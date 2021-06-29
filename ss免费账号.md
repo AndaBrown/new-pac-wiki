@@ -59,7 +59,7 @@ VPS推荐：
 <td>洛杉矶1</td>
 <td>104.207.154.109</td>
 <td>12345</td>
-<td>dongtaiwang.com&nbsp123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>aes-256-ctr</td>
 <td>auth_chain_a</td>
 <td>random_head</td>
@@ -68,7 +68,7 @@ VPS推荐：
 <td>洛杉矶2</td>
 <td>45.76.173.58 </td>
 <td>23456</td>
-<td>dongtaiwang.com&nbsp123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>salsa20</td>
 <td>auth_chain_a</td>
 <td>http_simple</td>
