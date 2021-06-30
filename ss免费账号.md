@@ -32,7 +32,7 @@ VPS推荐：
  
 **真相视频推荐**：第51届哥伦布国际电影电视节荣誉奖——天安门自焚事件真相《伪火》[在线观看](http://cn.ntdtv.com/gb/2014/01/07/a24016.html) [本地观看&下载](http://video1.freeair777.club/%E4%BC%AA%E7%81%AB.mp4) 
 
-《九评》系列纪录片&文字版[在线观看](https://www.tuidang.org/9ping/)
+《九评》历史系列纪录片&文字版[在线观看](https://www.tuidang.org/9ping/)
 
 ***
 
