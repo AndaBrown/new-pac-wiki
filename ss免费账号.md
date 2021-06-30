@@ -59,7 +59,7 @@ VPS推荐：
 <tbody>
 <tr>
 <td>新加坡</td>
-<td>45.32.99.543</td>
+<td>45.32.99.54</td>
 <td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
