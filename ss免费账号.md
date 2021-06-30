@@ -38,7 +38,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年6月30日23点45近期封锁加重，更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月1日0点38近期封锁加重，更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
 
@@ -60,10 +60,10 @@ VPS推荐：
 <tr>
 <td>新加坡</td>
 <td>45.32.99.543</td>
-<td>12345</td>
+<td>23456</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
-<td>auth_chain_a</td>
+<td>auth_sha1_v4</td>
 <td>http_simple</td>
 </tr>
 <tr>
@@ -91,6 +91,24 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
 <td>origin</td>
+<td>http_simple</td>
+</tr>
+<tr>
+<td>莫斯科</td>
+<td>45.136.245.180</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>chacha20-ietf</td>
+<td>auth_aes128_sha1</td>
+<td>tls1.2_ticket_auth</td>
+</tr>
+<tr>
+<td>莫斯科</td>
+<td>45.89.230.9</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>chacha20-ietf</td>
+<td>auth_chain_a</td>
 <td>http_simple</td>
 </tr>
 </tbody>
