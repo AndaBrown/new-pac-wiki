@@ -100,7 +100,7 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
 <td>auth_aes128_sha1</td>
-<td>tls1.2_ticket_auth</td>
+<td>http_simple</td>
 </tr>
 <tr>
 <td>莫斯科</td>
