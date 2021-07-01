@@ -38,7 +38,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年7月1日7点56近更新SSR3节点，近期封锁加重，会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月1日8点19分更新SSR1、SSR2、SSR4、SSR5、SSR6节点，近期封锁加重，会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
 
@@ -59,12 +59,12 @@ VPS推荐：
 <tbody>
 <tr>
 <td>SSR1</td>
-<td>45.32.99.54</td>
-<td>23456</td>
+<td>45.77.123.11</td>
+<td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
-<td>auth_sha1_v4</td>
-<td>http_simple</td>
+<td>origin</td>
+<td>plain</td>
 </tr>
 <tr>
 <td>SSR2</td>
@@ -86,30 +86,30 @@ VPS推荐：
 </tr>
 <tr>
 <td>SSR4</td>
-<td>149.28.76.189</td>
-<td>23456</td>
+<td>149.28.69.114</td>
+<td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
-<td>origin</td>
-<td>http_simple</td>
+<td>auth_sha1_v4</td>
+<td>plain</td>
 </tr>
 <tr>
 <td>SSR5</td>
-<td>45.136.245.180</td>
-<td>12345</td>
+<td>45.136.244.183</td>
+<td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
-<td>auth_aes128_sha1</td>
-<td>http_simple</td>
+<td>origin</td>
+<td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
 <td>SSR6</td>
-<td>45.89.230.9</td>
-<td>12345</td>
+<td>45.135.135.229</td>
+<td>11111</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
-<td>auth_chain_a</td>
-<td>http_simple</td>
+<td>auth_sha1_v4</td>
+<td>plain</td>
 </tr>
 </tbody>
 </table>
