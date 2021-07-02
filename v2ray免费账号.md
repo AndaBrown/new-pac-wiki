@@ -40,7 +40,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年7月2日0点1分更新。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月2日0点9分更新。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -54,6 +54,9 @@ VLESS节点：
 vless://71ef6b32-6d00-4ff0-8bc1-e642b072f716@vless4.free3333.xyz:2005?encryption=none&security=none&type=kcp&headerType=none&seed=dongtaiwang.com#https%3a%2f%2fgit.io%2fv9999+%e5%be%b7%e5%9b%bdmkcp
 
 VMESS节点：
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDYuMTcuNDMuMTc5IiwNCiAgInBvcnQiOiAiNDAwNDIiLA0KICAiaWQiOiAiOTk5MWZjMWQtNjRjNS00MDU2LTliNTMtYmQ3ZDRlM2JlMzBiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJrY3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiZDY1OTBlZWMtNjJkMS00YjZmLWFlMmQtZjE4OTc3ZGRiOWFkIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvSAgNiIsDQogICJhZGQiOiAiMTM1LjEyNS4yMDcuMzQiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJlMjgxNjE1Mi02MzI2LTRjZjktYWE5NS0zNGIwZjlhOGM2NjYiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvc3Nob2NlYW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
