@@ -76,6 +76,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
+<td>SSR3</td>
 <td>45.63.50.142</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
