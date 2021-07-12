@@ -38,7 +38,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年7月12日8点07分更新洛杉矶1节点，近期封锁加重，会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月12日9点08分更新莫斯科2节点，近期封锁加重，会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
 
@@ -67,15 +67,6 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科</td>
-<td>45.135.135.229</td>
-<td>45111</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>chacha20-ietf</td>
-<td>auth_sha1_v4</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>洛杉矶2</td>
 <td>144.202.119.210</td>
 <td>11111</td>
@@ -85,12 +76,21 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>洛杉矶3</td>
-<td>140.82.21.18</td>
+<td>莫斯科1</td>
+<td>45.135.135.229</td>
+<td>45111</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>chacha20-ietf</td>
+<td>auth_sha1_v4</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>莫斯科2</td>
+<td>85.117.234.184</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
+<td>chacha20-ietf</td>
+<td>auth_sha1_v4</td>
 <td>plain</td>
 </tr>
 </tbody>
