@@ -38,7 +38,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年7月17日8点44分更新莫斯科2节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月18日8点10分更新莫斯科1、莫斯科2节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：http://tr1.freeair888.club/ss免费账号 
 
@@ -78,7 +78,7 @@ VPS推荐：
 <tr>
 <td>莫斯科1</td>
 <td>45.135.135.229</td>
-<td>10011</td>
+<td>20033</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
 <td>auth_sha1_v4</td>
@@ -87,7 +87,7 @@ VPS推荐：
 <tr>
 <td>莫斯科2</td>
 <td>85.117.234.184</td>
-<td>10099</td>
+<td>20033</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20-ietf</td>
 <td>auth_sha1_v4</td>
@@ -102,9 +102,9 @@ ssr://ODguMjE4LjkyLjE2OjMzMjIxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOX
 
 ssr://ODkuMTYzLjI0NS4xODU6MjA5MDE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
-ssr://NDUuMTM1LjEzNS4yMjk6MTAwMTE6YXV0aF9zaGExX3Y0OmNoYWNoYTIwLWlldGY6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSTVZOVFVnJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://NDUuMTM1LjEzNS4yMjk6MjAwMzM6YXV0aF9zaGExX3Y0OmNoYWNoYTIwLWlldGY6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSTVZOVFVnJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
-ssr://ODUuMTE3LjIzNC4xODQ6MTAwOTk6YXV0aF9zaGExX3Y0OmNoYWNoYTIwLWlldGY6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSTWxOVFVnJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://ODUuMTE3LjIzNC4xODQ6MjAwMzM6YXV0aF9zaGExX3Y0OmNoYWNoYTIwLWlldGY6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSTWxOVFVnJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
