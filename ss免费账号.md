@@ -78,11 +78,11 @@ VPS推荐：
 </tr>
 <tr>
 <td>莫斯科1</td>
-<td>45.135.135.229</td>
+<td>45.147.200.9</td>
 <td>666</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
-<td>chacha20-ietf</td>
-<td>auth_sha1_v4</td>
+<td>rc4</td>
+<td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ ssr://ODguMjE4LjkyLjE2OjY2NjpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SU
 
 ssr://ODkuMTYzLjI0NS4xODU6NjY2Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NWI2MzVadTlVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
-ssr://NDUuMTM1LjEzNS4yMjk6NjY2OmF1dGhfc2hhMV92NDpjaGFjaGEyMC1pZXRmOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZJNnI1cGF2NTZlUk1WTlRVZyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://NDUuMTQ3LjIwMC45OjY2NjpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZJNnI1cGF2NTZlUk1WTlRVZyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://NDUuMTQwLjE2OC4xNTI6NjY2Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSTWxOVFVnJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
