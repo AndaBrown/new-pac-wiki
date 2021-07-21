@@ -40,7 +40,7 @@ VPS推荐：
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.96版[下载地址1](https://tr101.free4444.xyz/fg796p.zip) [下载地址2](https://tr71.free4444.xyz/fg796p.zip) 无界21.20版[下载地址1](https://tr101.free4444.xyz/2120/u.zip) [下载地址2](https://tr71.free4444.xyz/2120/u.zip)**
 
-**北京时间2021年7月19日22点02分更新VMESS节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月21日13点00分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -51,15 +51,18 @@ VPS推荐：
 
 **VLESS节点**：
 
+vless://5f4b2e42-ff2b-6666-86fc-b7ba1b5361e8@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=567567.cf&path=%2fThe-Great-Awakening_ws%3fed%3d2048#https%3a%2f%2fgit.io%2fv9999+VLESS+US4
+
+vless://5f4b2e42-ff2b-6666-86fc-b7ba1b5361e8@104.16.160.114:443?encryption=none&security=tls&type=ws&host=567567.cf&path=%2fThe-Great-Awakening_ws%3fed%3d2048#https%3a%2f%2fgit.io%2fv9999+VLESS+US3
+
+vless://5f4b2e42-ff2b-4342-86fc-b7ba1b5361e8@104.20.130.175:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#https%3a%2f%2fgit.io%2fv9999+VLESS+US2
+
+vless://e9f8559d-5732-4c43-9c6c-c1a2ea6c5f6f@104.17.36.178:443?encryption=none&security=tls&sni=vincent-jackson2021.ml&type=ws&host=vincent-jackson2021.ml&path=%2fThe-Great-Awakeningws#https%3a%2f%2fgit.io%2fv9999+VLESS+US1
+
+
 **VMESS节点**：
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWMiOeJmeWIqSAgNDYiLA0KICAiYWRkIjogIjE4NS4yMjUuNjkuMTM0IiwNCiAgInBvcnQiOiAiNDUwODEiLA0KICAiaWQiOiAiM2MzYmZkNzUtZGMzMC00ZTc2LTg5NDAtNDdlMTEzN2UyMWY5IiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOmmmea4r0FtYXpvbuaVsOaNruS4reW/gyAzIiwNCiAgImFkZCI6ICIxOC4xNjYuMjE0LjMzIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiY2M4YjQ5YTYtNTc3Yy00NjZlLWFhNmYtZDk0MWE0YzM3ZTcwIiwNCiAgImFpZCI6ICIxIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWPsOa5vuecgeS4reWNjueUteS/oShIaU5ldCnmlbDmja7kuK3lv4MgNCIsDQogICJhZGQiOiAiMjExLjIzLjEzMi4xMjQiLA0KICAicG9ydCI6ICI5MjMzIiwNCiAgImlkIjogImJlNThmNGU0LTg5NGEtNDdlZS04ODM2LWNmNzVlNzRmYTljOSIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOaXpeacrOS4nOS6rExpbm9kZeaVsOaNruS4reW/gyA0IiwNCiAgImFkZCI6ICJhdXRvLmZyZWV2Mi50b3AiLA0KICAicG9ydCI6ICIyMzgyNyIsDQogICJpZCI6ICI4NDNhMDM5MS03YzZiLTRlYmUtOGY0NC01MWE0MTM3MDFjY2MiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDYuMTcuNDMuMTc5IiwNCiAgInBvcnQiOiAiMzEyMzEiLA0KICAiaWQiOiAiOWMxMDYxN2MtNDY0ZC00YmIxLThiOTctYmJkZWM2ZWJjN2QxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJxdWljIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgInBhdGgiOiAiZTI1ZDNmMmQtZWQ0Yi00ODZkLTljZGUtMzEzMjJhMGFmMWZjIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
