@@ -41,7 +41,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年7月21日13点00分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年7月21日14点28分更新节点。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：http://tr1.freeair888.club/v2ray免费账号 
@@ -50,26 +50,54 @@ VPS推荐：
 
 **复制节点后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点。**
 
-**VLESS节点**：
+账号1:
 
-vless://5f4b2e42-ff2b-6666-86fc-b7ba1b5361e8@www.digitalocean.com:443?encryption=none&security=tls&type=ws&host=567567.cf&path=%2fThe-Great-Awakening_ws%3fed%3d2048#https%3a%2f%2fgit.io%2fv9999+VLESS+US4
+Address(地址): 46.17.43.179
 
-vless://5f4b2e42-ff2b-6666-86fc-b7ba1b5361e8@104.16.160.114:443?encryption=none&security=tls&type=ws&host=567567.cf&path=%2fThe-Great-Awakening_ws%3fed%3d2048#https%3a%2f%2fgit.io%2fv9999+VLESS+US3
+Port（端口）: 31231
 
-vless://5f4b2e42-ff2b-4342-86fc-b7ba1b5361e8@104.20.130.175:443?encryption=none&security=tls&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws%3fed%3d2048#https%3a%2f%2fgit.io%2fv9999+VLESS+US2
+UUID（用户id）: 9c10617c-464d-4bb1-8b97-bbdec6ebc7d1
 
-vless://e9f8559d-5732-4c43-9c6c-c1a2ea6c5f6f@104.17.36.178:443?encryption=none&security=tls&sni=vincent-jackson2021.ml&type=ws&host=vincent-jackson2021.ml&path=%2fThe-Great-Awakeningws#https%3a%2f%2fgit.io%2fv9999+VLESS+US1
+alterId（额外ID）: 0
 
+security（加密方式）: none
 
-**VMESS节点**：
+network（传输协议）: quic
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWMiOeJmeWIqSAgNDYiLA0KICAiYWRkIjogIjE4NS4yMjUuNjkuMTM0IiwNCiAgInBvcnQiOiAiNDUwODEiLA0KICAiaWQiOiAiM2MzYmZkNzUtZGMzMC00ZTc2LTg5NDAtNDdlMTEzN2UyMWY5IiwNCiAgImFpZCI6ICI2NCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+headerType（伪装类型）: none
+
+host（伪装域名）：chacha20-poly1305
+
+路径： e25d3f2d-ed4b-486d-9cde-31322a0af1fc
+
+底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDYuMTcuNDMuMTc5IiwNCiAgInBvcnQiOiAiMzEyMzEiLA0KICAiaWQiOiAiOWMxMDYxN2MtNDY0ZC00YmIxLThiOTctYmJkZWM2ZWJjN2QxIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJxdWljIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgInBhdGgiOiAiZTI1ZDNmMmQtZWQ0Yi00ODZkLTljZGUtMzEzMjJhMGFmMWZjIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOe+juWbvUNsb3VkRmxhcmXoioLngrkgNDEiLA0KICAiYWRkIjogImV1c2VydjlwLmV6ZGRucy50ayIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogImNhODcwNDgzLWZhN2QtNGY2NC05ODNhLTZlZDQ1NTE0M2FjYSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2xpdmUiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+账号2:
+
+Address(地址): 163.172.214.118
+
+Port（端口）: 33749
+
+UUID（用户id）: 5d3e6e14-5828-4e88-a946-bad5c700b4d5
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: quic
+
+headerType（伪装类型）: none
+
+host（伪装域名）：chacha20-poly1305
+
+路径： 2f109b50-c52f-498a-86b0-b233d1f2f5a7
+
+底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiNt+WFsCIsDQogICJhZGQiOiAiMTYzLjE3Mi4yMTQuMTE4IiwNCiAgInBvcnQiOiAiMzM3NDkiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJxdWljIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNoYWNoYTIwLXBvbHkxMzA1IiwNCiAgInBhdGgiOiAiMmYxMDliNTAtYzUyZi00OThhLTg2YjAtYjIzM2QxZjJmNWE3IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
