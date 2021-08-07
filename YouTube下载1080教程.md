@@ -1,10 +1,16 @@
-**2020年2月29日更新。**
+**2021年8月7日更新。**
 
-原理是利用在线视频转换网站来解析YouTube视频地址，从而实现下载1080p视频的目的。
+原理是利用在线视频转换网站来解析YouTube视频地址，从而实现下载YouTube视频的目的。
 
 ***
 
-翻墙打开网址：https://www.y2mate.com/zh-cn2
+翻墙打开网址：https://www.y2mate.com/zh-cn2 （该地址已失效）
+
+新地址1：https://savieo.com/zh/
+
+新地址2：https://yout.com/
+
+新地址3：https://www.youtubemy.com/
 
 图文教程如下：
 
