@@ -4,17 +4,17 @@
 
 ***
 
-翻墙打开网址：https://www.y2mate.com/zh-cn2 （该地址已失效）
+翻墙打开视频转换网站：https://savieo.com/zh
 
-新地址1：https://savieo.com/zh
+其它网站：https://yout.com
 
-新地址2：https://yout.com
-
-新地址3：https://www.youtubemy.com
+其它网站：https://www.youtubemy.com
 
 图文教程如下：
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/download/youtube下载5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo1.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo2.jpg)
 
 ***
 
