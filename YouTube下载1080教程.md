@@ -6,11 +6,11 @@
 
 翻墙打开网址：https://www.y2mate.com/zh-cn2 （该地址已失效）
 
-新地址1：https://savieo.com/zh/
+新地址1：https://savieo.com/zh
 
-新地址2：https://yout.com/
+新地址2：https://yout.com
 
-新地址3：https://www.youtubemy.com/
+新地址3：https://www.youtubemy.com
 
 图文教程如下：
 
