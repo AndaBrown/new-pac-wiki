@@ -12,7 +12,13 @@
 
 图文教程如下：
 
+以这个视频为例https://www.youtube.com/watch?v=zCLOJ9j1k2Y&ab_channel=Armadas
+
+复制视频URL地址，粘贴到转换栏里
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo1.jpg)
+
+选择视频清晰度后点击下载
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo2.jpg)
 
