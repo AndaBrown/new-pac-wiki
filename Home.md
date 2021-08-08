@@ -8,7 +8,7 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：clash、v2ray、SSR、SS-plugin、SSROT、FreeGate、无界，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：clash、v2ray、SSR、SS-plugin、Brook、FreeGate、无界，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系！可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，清理软件[wisecare365](http://downloads.wisecleaner.com/soft/WiseCare365.exe)，它们都是免费的，而且不会干扰电脑运行。
 
@@ -29,15 +29,13 @@
 
 **近期重要更新提示**：
 
-**北京时间2021年7月15日13点00分：更新无界版本21.32。**
-
-**北京时间2021年7月18日9点15分：更新自由门版本7.97。**
+**北京时间2021年8月8日：更新高内核版浏览器内核到92，集合版Brook工具替换SSROT工具。**
 
 **提醒**：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。集合版中Etgo工具使用时可能会触发windows defender，允许即可。如果无法自动启动谷歌浏览器，打开电脑任务管理器，将“Google Chrome”后台进程结束，重新启动代理工具即可。
 
 ***
 
-[谷歌翻墙浏览器91高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2021年7月18日更新自由门版本7.97；2021年7月15日更新无界版21.32，2021年7月10日更新所有版本）
+[谷歌翻墙浏览器92高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2021年8月8日更新浏览器内核到92，集合版Brook工具替换SSROT工具）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2021年7月18日更新自由门版本7.97；2021年7月15日更新集合版和无界版21.32）
 
