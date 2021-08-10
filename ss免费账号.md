@@ -96,7 +96,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶2</td>
 <td>149.28.72.174</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
