@@ -1,10 +1,10 @@
-[w1.v2free.net](https://w1.v2free.net/auth/register?code=UsUP)由海外人士运营，不存在关站风险，安全、可靠、稳定。
+[w1.v2free.net](https://w1.v2free.net/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。普通无限流量节点+高速倍率流量优质节点二者相配合，可很好的平衡用户的预算和高端需求。时间就是金钱，花一点小钱，[提升翻墙体验](https://w1.v2free.net/auth/register?code=UsUP)非常划算，也可节省大把时间。注册也可获得免费SS/V2ray/vmess翻墙节点。
 
 ***
 
-**介绍**
+值此七夕情人节之际V2free翻墙服务推出专属9折优惠码:qixi ,有效期至2021-08-24 13:13:56。您在充值后购买套餐时输入此优惠码即可获得9折优惠。
 
-超低延迟、4k视频秒开、解锁流媒体。目前有38个v2ray节点，包括台湾、香港、韩国、日本、美国等。32个高速倍率节点，6个无限流量节点。
+目前有38个v2ray节点，包括台湾、香港、韩国、日本、美国等。32个高速倍率节点，6个无限流量节点。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-001.PNG)
 
