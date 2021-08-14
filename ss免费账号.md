@@ -104,33 +104,6 @@ VPS推荐：
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>中转1</td>
-<td>162.14.11.142</td>
-<td>33099</td>
-<td>HdsrwE</td>
-<td>rc4-md5</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>中转2</td>
-<td>162.14.11.175</td>
-<td>37387</td>
-<td>qbpJjZ</td>
-<td>rc4-md5</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>中转3</td>
-<td>162.14.11.18</td>
-<td>37387</td>
-<td>qbpJjZ</td>
-<td>rc4-md5</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -147,11 +120,7 @@ ssr://ODguMjE4LjkyLjE2OjE3NzcxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOX
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNDkuMjguNzIuMTc0OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
 
-ss://cmM0LW1kNTpIZHNyd0VAMTYyLjE0LjExLjE0MjozMzA5OQ==#https%3a%2f%2fgit.io%2fv9999+%e4%b8%ad%e8%bd%ac1
 
-ss://cmM0LW1kNTpxYnBKalpAMTYyLjE0LjExLjE3NTozNzM4Nw==#https%3a%2f%2fgit.io%2fv9999+%e4%b8%ad%e8%bd%ac2
-
-ss://cmM0LW1kNTpxYnBKalpAMTYyLjE0LjExLjE4OjM3Mzg3#https%3a%2f%2fgit.io%2fv9999+%e4%b8%ad%e8%bd%ac3
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
