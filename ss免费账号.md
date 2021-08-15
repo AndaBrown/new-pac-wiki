@@ -40,7 +40,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年8月15日12点45分更新莫斯科3节点。为了让每个人都能获得一定的带宽资源，节点进行了限速100~200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年8月15日19点03分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速100~200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -62,34 +62,25 @@ VPS推荐：
 <tr>
 <td>德国</td>
 <td>89.163.245.185</td>
-<td>42181</td>
+<td>20321</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科1</td>
+<td>莫斯科</td>
 <td>45.147.200.9</td>
-<td>42181</td>
+<td>20321</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科2</td>
-<td>45.140.168.152</td>
-<td>22000</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
-<td>洛杉矶1</td>
+<td>洛杉矶</td>
 <td>88.218.92.16</td>
-<td>17771</td>
+<td>20321</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -110,13 +101,11 @@ VPS推荐：
 SSR链接：
 
 
-ssr://ODkuMTYzLjI0NS4xODU6NDIxODE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://ODkuMTYzLjI0NS4xODU6MjAzMjE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
-ssr://NDUuMTQ3LjIwMC45OjQyMTgxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSTVZOVFVnJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://NDUuMTQ3LjIwMC45OjIwMzIxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://NDUuMTQwLjE2OC4xNTI6MjIwMDA6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJNbE5UVWcmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
-
-ssr://ODguMjE4LjkyLjE2OjE3NzcxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://ODguMjE4LjkyLjE2OjIwMzIxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91
 
