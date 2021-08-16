@@ -60,7 +60,7 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>德国/td>
+<td>德国</td>
 <td>45.147.200.9</td>
 <td>20321</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
