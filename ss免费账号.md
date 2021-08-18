@@ -40,7 +40,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年8月17日13点54分增加圣何塞账号。为了让每个人都能获得一定的带宽资源，节点进行了限速300kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年8月18日14点07分增加圣何塞账号。为了让每个人都能获得一定的带宽资源，节点进行了限速300kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -64,6 +64,15 @@ VPS推荐：
 <td>89.163.214.9</td>
 <td>20321</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>圣何塞</td>
+<td>sv1.free3333.xyz</td>
+<td>12345</td>
+<td>dongtaiwang.com</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
@@ -119,6 +128,8 @@ VPS推荐：
 SSR链接：
 
 ssr://ODkuMTYzLjIxNC45OjIwMzIxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NWI2MzVadTlVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+
+ssr://c3YxLmZyZWUzMzMzLnh5ejoxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NVp5ajVMMlY1YUdlVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://NDYuMTcuNDMuMTc5OjIwMzIxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
