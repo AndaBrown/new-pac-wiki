@@ -42,7 +42,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年8月19日17点30分增加圣何塞账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年8月22日15点01分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -55,7 +55,7 @@ VPS推荐：
 
 Address(地址): sv2.free3333.xyz
 
-Port（端口）: 51388
+Port（端口）: 26707
 
 UUID（用户id）: 8f7a28a6-002a-11ec-b64a-00163cf00cd9
 
@@ -73,14 +73,14 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWco+S9leWhnnN2MiIsDQogICJhZGQiOiAic3YyLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjUxMzg4IiwNCiAgImlkIjogIjhmN2EyOGE2LTAwMmEtMTFlYy1iNjRhLTAwMTYzY2YwMGNkOSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWco+S9leWhnnN2MiIsDQogICJhZGQiOiAic3YyLmZyZWUzMzMzLnh5eiIsDQogICJwb3J0IjogIjI2NzA3IiwNCiAgImlkIjogIjhmN2EyOGE2LTAwMmEtMTFlYy1iNjRhLTAwMTYzY2YwMGNkOSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 
 **莫斯科账号**:
 
 Address(地址): 46.17.43.179
 
-Port（端口）: 36914
+Port（端口）: 31472
 
 UUID（用户id）: 5d3e6e14-5828-4e88-a946-bad5c700b4d5
 
@@ -98,13 +98,14 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDYuMTcuNDMuMTc5IiwNCiAgInBvcnQiOiAiMzY5MTQiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDYuMTcuNDMuMTc5IiwNCiAgInBvcnQiOiAiMzE0NzIiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
 
 **荷兰账号**:
 
 Address(地址): 163.172.214.118
 
-Port（端口）: 41261
+Port（端口）: 18770
 
 UUID（用户id）: 5d3e6e14-5828-4e88-a946-bad5c700b4d5
 
@@ -122,8 +123,7 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiNt+WFsCIsDQogICJhZGQiOiAiMTYzLjE3Mi4yMTQuMTE4IiwNCiAgInBvcnQiOiAiNDEyNjEiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiNt+WFsCIsDQogICJhZGQiOiAiMTYzLjE3Mi4yMTQuMTE4IiwNCiAgInBvcnQiOiAiMTg3NzAiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
