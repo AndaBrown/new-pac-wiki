@@ -1,4 +1,4 @@
-**2021年8月7日更新。**
+**2021年8月24日更新。**
 
 原理是利用在线视频转换网站来解析YouTube视频地址，从而实现下载YouTube视频的目的。
 
@@ -9,6 +9,8 @@
 其它网站：https://yout.com
 
 其它网站：https://www.youtubemy.com
+
+其它网站：https://yt1s.com/zh-cn7
 
 图文教程如下：
 
