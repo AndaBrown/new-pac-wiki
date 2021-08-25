@@ -104,15 +104,6 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>圣何塞</td>
-<td>107.148.200.42</td>
-<td>31131</td>
-<td>dongtaiwang.com</td>
-<td>rc4</td>
-<td>origin</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>莫斯科3</td>
 <td>45.147.200.214</td>
 <td>31131</td>
@@ -136,7 +127,6 @@ ssr://NDUuMTQ3LjIwMC45OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOX
 
 ssr://ODguMjE4LjkyLjE2OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://MTA3LjE0OC4yMDAuNDI6MzExMzE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVaeWo1TDJWNWFHZVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjMxMTMx#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91
 
