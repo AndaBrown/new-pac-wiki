@@ -101,30 +101,6 @@ host（伪装域名）：不填
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkSIsDQogICJhZGQiOiAiNDYuMTcuNDMuMTc5IiwNCiAgInBvcnQiOiAiMzE0NzIiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
-**荷兰账号**:
-
-Address(地址): 163.172.214.118
-
-Port（端口）: 18770
-
-UUID（用户id）: 5d3e6e14-5828-4e88-a946-bad5c700b4d5
-
-alterId（额外ID）: 0
-
-security（加密方式）: auto
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径： 不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiNt+WFsCIsDQogICJhZGQiOiAiMTYzLjE3Mi4yMTQuMTE4IiwNCiAgInBvcnQiOiAiMTg3NzAiLA0KICAiaWQiOiAiNWQzZTZlMTQtNTgyOC00ZTg4LWE5NDYtYmFkNWM3MDBiNGQ1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
