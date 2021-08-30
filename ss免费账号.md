@@ -59,6 +59,15 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
+<td>洛杉矶</td>
+<td>23.19.26.206</td>
+<td>12345</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
 <td>圣何塞</td>
 <td>sv1.free3333.xyz</td>
 <td>50019</td>
@@ -116,6 +125,8 @@ VPS推荐：
 </table>
 
 SSR链接：
+
+ssr://MjMuMTkuMjYuMjA2OjEyMzQ1Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://c3YxLmZyZWUzMzMzLnh5ejo1MDAxOTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NVp5ajVMMlY1YUdlVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
