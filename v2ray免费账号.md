@@ -42,7 +42,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年8月31日7点38分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年9月2日21点36分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -53,17 +53,17 @@ VPS推荐：
 
 **圣何塞账号**:
 
-Address(地址): 107.148.200.229
+Address(地址): 198.200.51.37
 
-Port（端口）: 53891
+Port（端口）: 53273
 
-UUID（用户id）: 8f7a28a6-002a-11ec-b64a-00163cf00cd9
+UUID（用户id）: b92a7868-0bf1-11ec-b252-00163cdca817
 
 alterId（额外ID）: 0
 
 security（加密方式）: none
 
-network（传输协议）: ws
+network（传输协议）: tcp
 
 headerType（伪装类型）: none
 
@@ -73,22 +73,22 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWco+S9leWhnmciLA0KICAiYWRkIjogIjEwNy4xNDguMjAwLjIyOSIsDQogICJwb3J0IjogIjUzODkxIiwNCiAgImlkIjogIjhmN2EyOGE2LTAwMmEtMTFlYy1iNjRhLTAwMTYzY2YwMGNkOSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWco+S9leWhnmciLA0KICAiYWRkIjogIjE5OC4yMDAuNTEuMzciLA0KICAicG9ydCI6ICI1MzI3MyIsDQogICJpZCI6ICJiOTJhNzg2OC0wYmYxLTExZWMtYjI1Mi0wMDE2M2NkY2E4MTciLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
 **莫斯科账号**:
 
 Address(地址): 46.17.43.179
 
-Port（端口）: 34964
+Port（端口）: 26010
 
-UUID（用户id）: 5d3e6e14-5828-4e88-a946-bad5c700b4d5
+UUID（用户id）: 6d201803-0972-472b-b2a8-0667340281a3
 
 alterId（额外ID）: 0
 
 security（加密方式）: none
 
-network（传输协议）: ws
+network（传输协议）: tcp
 
 headerType（伪装类型）: none
 
@@ -98,7 +98,8 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkWciLA0KICAiYWRkIjogIjQ2LjE3LjQzLjE3OSIsDQogICJwb3J0IjogIjM0OTY0IiwNCiAgImlkIjogIjVkM2U2ZTE0LTU4MjgtNGU4OC1hOTQ2LWJhZDVjNzAwYjRkNSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkWciLA0KICAiYWRkIjogIjQ2LjE3LjQzLjE3OSIsDQogICJwb3J0IjogIjI2MDEwIiwNCiAgImlkIjogIjZkMjAxODAzLTA5NzItNDcyYi1iMmE4LTA2NjczNDAyODFhMyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
 
 
 
