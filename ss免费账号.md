@@ -60,7 +60,7 @@ VPS推荐：
 <tbody>
 <tr>
 <td>莫斯科1</td>
-<td>45.147.200.9</td>
+<td>45.140.168.200</td>
 <td>20022</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
@@ -69,6 +69,15 @@ VPS推荐：
 </tr>
 <tr>
 <td>莫斯科2</td>
+<td>45.147.200.9</td>
+<td>20022</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>莫斯科3</td>
 <td>46.17.43.179</td>
 <td>20022</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
@@ -116,6 +125,8 @@ VPS推荐：
 </table>
 
 SSR链接：
+
+ssr://NDUuMTQwLjE2OC4yMDA6MjAwMjI6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 ssr://NDUuMTQ3LjIwMC45OjIwMDIyOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
