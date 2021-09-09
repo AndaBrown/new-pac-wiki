@@ -51,30 +51,6 @@ VPS推荐：
 
 **复制账号后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray账号。**
 
-**圣何塞账号**:
-
-Address(地址): 198.200.51.37
-
-Port（端口）: 53273
-
-UUID（用户id）: b92a7868-0bf1-11ec-b252-00163cdca817
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWco+S9leWhnmciLA0KICAiYWRkIjogIjE5OC4yMDAuNTEuMzciLA0KICAicG9ydCI6ICI1MzI3MyIsDQogICJpZCI6ICJiOTJhNzg2OC0wYmYxLTExZWMtYjI1Mi0wMDE2M2NkY2E4MTciLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
 
 **莫斯科账号**:
 
@@ -100,6 +76,29 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOiOq+aWr+enkWciLA0KICAiYWRkIjogIjQ2LjE3LjQzLjE3OSIsDQogICJwb3J0IjogIjI2MDEwIiwNCiAgImlkIjogIjZkMjAxODAzLTA5NzItNDcyYi1iMmE4LTA2NjczNDAyODFhMyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
+**圣何塞账号**:
+
+Address(地址): 198.200.51.37
+
+Port（端口）: 53273
+
+UUID（用户id）: b92a7868-0bf1-11ec-b252-00163cdca817
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: tcp
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：不填
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5IOWco+S9leWhnmciLA0KICAiYWRkIjogIjE5OC4yMDAuNTEuMzciLA0KICAicG9ydCI6ICI1MzI3MyIsDQogICJpZCI6ICJiOTJhNzg2OC0wYmYxLTExZWMtYjI1Mi0wMDE2M2NkY2E4MTciLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
 
