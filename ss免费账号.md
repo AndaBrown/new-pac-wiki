@@ -104,7 +104,7 @@ VPS推荐：
 <td>plain</td>
 </tr>
 <tr>
-<td>俄罗斯2</td>
+<td>俄罗斯</td>
 <td>45.147.200.214</td>
 <td>16688</td>
 <td>dongtaiwang.com</td>
