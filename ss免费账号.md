@@ -39,7 +39,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年9月9日10点04分增加德国节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年9月14日18点31分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速1000kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -59,27 +59,27 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>莫斯科1</td>
-<td>45.140.168.200</td>
-<td>16688</td>
+<td>俄罗斯1</td>
+<td>194.87.48.146</td>
+<td>31188</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科2</td>
-<td>45.147.200.9</td>
-<td>16688</td>
+<td>俄罗斯2</td>
+<td>45.8.159.194</td>
+<td>31188</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科3</td>
-<td>185.22.152.24</td>
-<td>16688</td>
+<td>俄罗斯3</td>
+<td>185.143.221.240</td>
+<td>31188</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -87,8 +87,8 @@ VPS推荐：
 </tr>
 <tr>
 <td>德国</td>
-<td>89.163.224.92</td>
-<td>12345</td>
+<td>89.163.128.132</td>
+<td>31188</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
@@ -114,15 +114,15 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>88.218.92.16</td>
-<td>16688</td>
+<td>88.218.92.163</td>
+<td>31188</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>origin</td>
 <td>plain</td>
 </tr>
 <tr>
-<td>莫斯科4</td>
+<td>俄罗斯4</td>
 <td>45.147.200.214</td>
 <td>16688</td>
 <td>dongtaiwang.com</td>
@@ -135,20 +135,19 @@ VPS推荐：
 
 SSR链接：
 
-ssr://NDUuMTQwLjE2OC4yMDA6MTY2ODg6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02STZyNXBhdjU2ZVJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://MTk0Ljg3LjQ4LjE0NjozMTE4ODpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZJNnI1cGF2NTZlUlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
-ssr://NDUuMTQ3LjIwMC45OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://NDUuOC4xNTkuMTk0OjMxMTg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://MTg1LjIyLjE1Mi4yNDoxNjY4ODpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZJNnI1cGF2NTZlUlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://MTg1LjE0My4yMjEuMjQwOjMxMTg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://ODkuMTYzLjIyNC45MjoxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTViNjM1WnU5VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
-
+ssr://ODkuMTYzLjEyOC4xMzI6MzExODg6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ssr://MjMuMTkuMjYuMjA2OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://c3YxLmZyZWUzMzMzLnh5ejoxNjY4ODpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NVp5ajVMMlY1YUdlVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://ODguMjE4LjkyLjE2OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://ODguMjE4LjkyLjE2MzozMTE4ODpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjE2Njg4#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91
 
