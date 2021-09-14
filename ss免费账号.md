@@ -39,7 +39,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年9月14日20点20分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年9月14日20点42分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -60,10 +60,10 @@ VPS推荐：
 <tbody>
 <tr>
 <td>俄罗斯1</td>
-<td>185.143.221.247</td>
+<td>185.143.221.250</td>
 <td>16688</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
+<td>dongtaiwang.com</td>
+<td>aes-256-cfb</td>
 <td>origin</td>
 <td>plain</td>
 </tr
@@ -99,7 +99,7 @@ VPS推荐：
 
 SSR链接：
 
-ssr://MTg1LjE0My4yMjEuMjQ3OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9Nkk2cjVwYXY1NmVSVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://MTg1LjE0My4yMjEuMjUwOjE2Njg4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdk1WTlRVZyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://MjMuMTkuMjYuMjA2OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
