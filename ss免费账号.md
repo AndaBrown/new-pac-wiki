@@ -59,15 +59,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>俄罗斯1</td>
-<td>185.143.221.250</td>
-<td>16688</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-cfb</td>
-<td>origin</td>
-<td>plain</td>
-</tr
-<tr>
 <td>洛杉矶</td>
 <td>23.19.26.206</td>
 <td>16688</td>
@@ -98,8 +89,6 @@ VPS推荐：
 </table>
 
 SSR链接：
-
-ssr://MTg1LjE0My4yMjEuMjUwOjE2Njg4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdk1WTlRVZyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://MjMuMTkuMjYuMjA2OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
