@@ -39,7 +39,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年9月14日20点42分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年9月14日22点15分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -58,6 +58,15 @@ VPS推荐：
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>俄罗斯</td>
+<td>91.206.93.251</td>
+<td>12345</td>
+<td>tr1.freeair888.club</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
 <tr>
 <td>洛杉矶</td>
 <td>23.19.26.206</td>
@@ -89,6 +98,8 @@ VPS推荐：
 </table>
 
 SSR链接：
+
+ssr://OTEuMjA2LjkzLjI1MToxMjM0NTpvcmlnaW46cmM0OnBsYWluOmRISXhMbVp5WldWaGFYSTRPRGd1WTJ4MVlnLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://MjMuMTkuMjYuMjA2OjE2Njg4Om9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
