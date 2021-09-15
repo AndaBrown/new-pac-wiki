@@ -59,15 +59,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>洛杉矶</td>
-<td>91.206.93.251</td>
-<td>12345</td>
-<td>tr1.freeair888.club&nbsp;123abc</td>
-<td>rc4</td>
-<td>auth_sha1_v4</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>俄罗斯</td>
 <td>45.8.158.78</td>
 <td>12345</td>
@@ -116,8 +107,6 @@ VPS推荐：
 </table>
 
 SSR链接：
-
-ssr://MjA3LjI0Ni4xMDUuNzM6MTIzNDU6YXV0aF9zaGExX3Y0OnJjNDp0bHMxLjJfdGlja2V0X2F1dGg6ZEhJeExtWnlaV1ZoYVhJNE9EZ3VZMngxWWlBeE1qTmhZbU0vP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 ssr://NDUuOC4xNTguNzg6MTIzNDU6YXV0aF9zaGExX3Y0OnJjNDp0bHMxLjJfdGlja2V0X2F1dGg6ZEhJeExtWnlaV1ZoYVhJNE9EZ3VZMngxWWlBeE1qTmhZbU0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
