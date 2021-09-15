@@ -62,7 +62,7 @@ VPS推荐：
 <td>俄罗斯</td>
 <td>185.22.152.100</td>
 <td>12345</td>
-<td>tr1.freeair888.club&nbsp;123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>rc4</td>
 <td>auth_sha1_v4</td>
 <td>tls1.2_ticket_auth</td>
