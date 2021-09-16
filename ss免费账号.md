@@ -59,15 +59,6 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
-<td>洛杉矶</td>
-<td>45.32.131.16</td>
-<td>12345</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>rc4</td>
-<td>auth_sha1_v4</td>
-<td>plain</td>
-</tr>
-<tr>
 <td>俄罗斯</td>
 <td>185.22.152.100</td>
 <td>12345</td>
@@ -144,7 +135,6 @@ VPS推荐：
 
 SSR链接：
 
-ssr://NDUuMzIuMTMxLjE2OjEyMzQ1OmF1dGhfc2hhMV92NDpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://MTg1LjIyLjE1Mi4xMDA6MTIzNDU6YXV0aF9zaGExX3Y0OnJjNDp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
