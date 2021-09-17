@@ -60,7 +60,7 @@ VPS推荐：
 <tbody>
 <tr>
 <td>洛杉矶test</td>
-<td>185.22.152.100</td>
+<td>149.248.3.211</td>
 <td>12345</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>none</td>
