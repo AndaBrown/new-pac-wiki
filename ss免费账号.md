@@ -65,7 +65,7 @@ VPS推荐：
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>none</td>
 <td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
+<td>plain</td>
 </tr>
 <tr>
 <td>俄罗斯</td>
