@@ -77,15 +77,6 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>俄罗斯</td>
-<td>185.22.153.55</td>
-<td>22222</td>
-<td>tr1.freeair888.club&nbsp;123abc</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>洛杉矶</td>
 <td>23.19.26.206</td>
 <td>23456</td>
@@ -129,8 +120,6 @@ SSR链接：
 ssr://MTg1LjIyLjE1Mi4xMDA6MTIzNDU6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ssr://NDUuMTM2LjI0NC41MTozMzMzMzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6ZEhJeExtWnlaV1ZoYVhJNE9EZ3VZMngxWWlBeE1qTmhZbU0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
-
-ssr://MTg1LjIyLjE1My41NToyMjIyMjphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6ZEhJeExtWnlaV1ZoYVhJNE9EZ3VZMngxWWlBeE1qTmhZbU0vP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 
 ssr://MjMuMTkuMjYuMjA2OjIzNDU2OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
