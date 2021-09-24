@@ -59,6 +59,15 @@ VPS推荐：
 </thead>
 <tbody>
 <tr>
+<td>洛杉矶</td>
+<td>67.21.68.252</td>
+<td>11111</td>
+<td>dongtaiwang.com</td>
+<td>none</td>
+<td>auth_chain_a</td>
+<td>tls1.2_ticket_auth</td>
+</tr>
+<tr>
 <td>俄罗斯</td>
 <td>45.144.178.89</td>
 <td>11111</td>
@@ -70,15 +79,6 @@ VPS推荐：
 <tr>
 <td>俄罗斯</td>
 <td>185.22.153.181</td>
-<td>11111</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
-<td>洛杉矶</td>
-<td>67.21.68.252</td>
 <td>11111</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
@@ -126,11 +126,11 @@ VPS推荐：
 
 SSR链接：
 
+ssr://NjcuMjEuNjguMjUyOjExMTExOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+
 ssr://NDUuMTQ0LjE3OC44OToxMTExMTphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 ssr://MTg1LjIyLjE1My4xODE6MTExMTE6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
-
-ssr://NjcuMjEuNjguMjUyOjExMTExOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ssr://ODguMjE4LjkyLjQ5OjMzMzMzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
