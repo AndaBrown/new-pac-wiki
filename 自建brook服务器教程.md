@@ -47,6 +47,7 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 
 **[vultr](https://www.vultr.com/?ref=7048874)17个服务器位置官方测试地址：**
 
+
 <table id="tablepress-1">
 <thead>
 <tr>
@@ -58,22 +59,10 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 </thead>
 <tbody>
 <tr>
-<td>韩国汉城</td>
-<td>141.164.34.61</td>
-<td><a rel="nofollow" href="https://sel-kor-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
-<td><a rel="nofollow" href="https://sel-kor-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
-</tr>
-<tr>
-<td>新加坡</td>
-<td>45.32.100.168</td>
-<td><a rel="nofollow" href="https://sgp-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
-<td><a rel="nofollow" href="https://sgp-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
-</tr>
-<tr>
-<td>日本东京</td>
-<td>108.61.201.151</td>
-<td><a rel="nofollow" href="https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
-<td><a rel="nofollow" href="https://hnd-jp-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
+<td>美国洛杉矶</td>
+<td>108.61.219.200</td>
+<td><a rel="nofollow" href="https://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
+<td><a rel="nofollow" href="https://lax-ca-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国硅谷</td>
@@ -82,16 +71,10 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 <td><a rel="nofollow" href="https://sjo-ca-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
-<td>美国洛杉矶</td>
-<td>108.61.219.200</td>
-<td><a rel="nofollow" href="https://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
-<td><a rel="nofollow" href="https://lax-ca-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
-</tr>
-<tr>
-<td>德国法兰克福</td>
-<td>108.61.210.117</td>
-<td><a rel="nofollow" href="https://fra-de-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
-<td><a rel="nofollow" href="https://fra-de-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
+<td>美国达拉斯</td>
+<td>108.61.224.175</td>
+<td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
+<td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>美国纽约</td>
@@ -124,16 +107,34 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 <td><a rel="nofollow" href="https://fl-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
-<td>美国达拉斯</td>
-<td>108.61.224.175</td>
-<td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
-<td><a rel="nofollow" href="https://tx-us-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
+<td>韩国汉城</td>
+<td>141.164.34.61</td>
+<td><a rel="nofollow" href="https://sel-kor-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
+<td><a rel="nofollow" href="https://sel-kor-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
+</tr>
+<tr>
+<td>日本东京</td>
+<td>108.61.201.151</td>
+<td><a rel="nofollow" href="https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
+<td><a rel="nofollow" href="https://hnd-jp-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>加拿大多伦多</td>
 <td>149.248.50.81</td>
 <td><a rel="nofollow" href="https://tor-ca-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
 <td><a rel="nofollow" href="https://tor-ca-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
+</tr>
+<tr>
+<td>新加坡</td>
+<td>45.32.100.168</td>
+<td><a rel="nofollow" href="https://sgp-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
+<td><a rel="nofollow" href="https://sgp-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
+</tr>
+<tr>
+<td>德国法兰克福</td>
+<td>108.61.210.117</td>
+<td><a rel="nofollow" href="https://fra-de-ping.vultr.com/vultr.com.100MB.bin">100MB</a></td>
+<td><a rel="nofollow" href="https://fra-de-ping.vultr.com/vultr.com.1000MB.bin">1GB</a></td>
 </tr>
 <tr>
 <td>澳大利亚悉尼</td>
@@ -161,6 +162,7 @@ vultr注册地址：https://www.vultr.com/?ref=7048874 （vps最低2.5美元/月
 </tr>
 </tbody>
 </table>
+
 
 ***
 
