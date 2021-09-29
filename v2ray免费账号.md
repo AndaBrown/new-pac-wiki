@@ -51,32 +51,6 @@ VPS推荐：
 
 **复制账号后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray账号。**
 
-
-**洛杉矶账号**:
-
-Address(地址): 85.209.158.199
-
-Port（端口）: 55712
-
-UUID（用户id）: de8e7bf2-1ff8-11ec-80eb-00163cbc5df2
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjg1LjIwOS4xNTguMTk5IiwNCiAgInBvcnQiOiAiNTU3MTIiLA0KICAiaWQiOiAiZGU4ZTdiZjItMWZmOC0xMWVjLTgwZWItMDAxNjNjYmM1ZGYyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-
 **俄罗斯账号**:
 
 Address(地址): 45.144.179.215
