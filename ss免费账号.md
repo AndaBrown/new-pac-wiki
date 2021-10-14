@@ -43,6 +43,8 @@ VPS推荐：
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
+备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/ss免费账号 
+
 ***
 
 <table id="tablepress-1">
