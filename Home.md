@@ -25,6 +25,8 @@
 
 **备用网址：https://tr1.freeair888.club**
 
+**备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki**
+
 ***
 
 **近期重要更新提示**：
