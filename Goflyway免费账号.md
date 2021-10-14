@@ -45,6 +45,8 @@ VPS推荐：
 
 备用网址：https://tr1.freeair888.club/Goflyway免费账号 
 
+备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/Goflyway免费账号 
+
 ***
 
 IP：45.77.68.232
