@@ -47,6 +47,8 @@ VPS推荐：
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
 
+备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/v2ray免费账号
+
 ***
 
 **复制账号后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray账号。**
