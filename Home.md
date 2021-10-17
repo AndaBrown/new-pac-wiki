@@ -22,6 +22,7 @@
 
 ***
 
+**北京时间2021年10月17日：云端更新集合版clash工具ip1、ip2、ip3、ip4、ip5、ip6，v2ray工具ip4配置信息，按照使用说明更新ip即可同步。**
 
 **备用网址：https://tr1.freeair888.club**
 
