@@ -114,15 +114,6 @@ VPS推荐：
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>日本</td>
-<td>151.248.68.187</td>
-<td>12345</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -140,8 +131,6 @@ ssr://NjcuMjEuNjguMjUyOjg4ODg6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOl
 ssr://MTQyLjQuMTIzLjE5ODo4ODg4OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01WnlqNUwyVjVhR2VVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0NC4xNzguMTc3OjExMTEx#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
-
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE1MS4yNDguNjguMTg3OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e6%97%a5%e6%9c%acSS
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
