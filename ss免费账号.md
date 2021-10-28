@@ -109,7 +109,7 @@ VPS推荐：
 <td>圣何塞</td>
 <td>142.4.123.198</td>
 <td>1116</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
+<td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
