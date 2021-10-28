@@ -80,8 +80,8 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶</td>
+<td>88.218.92.49</td>
 <td>1113</td>
-<td>9999</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
