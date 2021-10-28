@@ -39,7 +39,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年10月27日9点02分更新账号。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年10月28日23点09分更新账号。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -63,7 +63,7 @@ VPS推荐：
 <tr>
 <td>洛杉矶</td>
 <td>216.105.168.140</td>
-<td>12345</td>
+<td>1111</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -72,7 +72,7 @@ VPS推荐：
 <tr>
 <td>俄罗斯</td>
 <td>45.144.178.89</td>
-<td>8888</td>
+<td>1112</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -80,9 +80,9 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>88.218.92.49</td>
+<td>1113</td>
 <td>9999</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
+<td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
@@ -90,7 +90,7 @@ VPS推荐：
 <tr>
 <td>洛杉矶</td>
 <td>85.209.158.199</td>
-<td>123</td>
+<td>1114</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -99,7 +99,7 @@ VPS推荐：
 <tr>
 <td>洛杉矶</td>
 <td>67.21.68.252</td>
-<td>9999</td>
+<td>1115</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -108,7 +108,7 @@ VPS推荐：
 <tr>
 <td>圣何塞</td>
 <td>142.4.123.198</td>
-<td>8888</td>
+<td>1116</td>
 <td>dongtaiwang.com&nbsp;123abc</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -117,7 +117,7 @@ VPS推荐：
 <tr>
 <td>俄罗斯</td>
 <td>45.144.178.177</td>
-<td>11111</td>
+<td>2222</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
@@ -128,19 +128,19 @@ VPS推荐：
 
 SSR链接：
 
-ssr://MjE2LjEwNS4xNjguMTQwOjEyMzQ1OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://MjE2LjEwNS4xNjguMTQwOjExMTE6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://NDUuMTQ0LjE3OC44OTo4ODg4OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://NDUuMTQ0LjE3OC44OToxMTEyOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
-ssr://ODguMjE4LjkyLjQ5Ojk5OTk6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://ODguMjE4LjkyLjQ5OjExMTM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://ODUuMjA5LjE1OC4xOTk6MTIzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://ODUuMjA5LjE1OC4xOTk6MTExNDphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
-ssr://NjcuMjEuNjguMjUyOjk5OTk6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://NjcuMjEuNjguMjUyOjExMTU6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://MTQyLjQuMTIzLjE5ODo4ODg4OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01WnlqNUwyVjVhR2VVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
+ssr://MTQyLjQuMTIzLjE5ODoxMTE2OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVaeWo1TDJWNWFHZVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0NC4xNzguMTc3OjExMTEx#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0NC4xNzguMTc3OjIyMjI=#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
