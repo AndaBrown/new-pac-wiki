@@ -48,7 +48,7 @@
 
 [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) (2020年3月14日发布)
 
-[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2021年5月25日新增自由门VPN1.0，更新自由门5.0，无界一点通5.0）
+[安卓手机版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)（2021年11月4日更新SpeedUpVPNv5.1.1、V2ray VPN v6.1、神州明见App、聚缘阁Appj603、自由门VPN1.3）
 
 [Mac翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年11月1日增加Mac使用Wine运行Windows软件教程）
 
