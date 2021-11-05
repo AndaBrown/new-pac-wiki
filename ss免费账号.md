@@ -74,9 +74,9 @@ VPS推荐：
 <td>207.246.103.245</td>
 <td>1334</td>
 <td>dongtaiwang.com h2</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
+<td>rc4</td>
+<td>origin</td>
+<td>plain</td>
 </tr>
 </tbody>
 </table>
