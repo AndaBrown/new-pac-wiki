@@ -39,13 +39,15 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月6日8点46分更新账号，封锁加重，但会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速300kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年11月6日9点17分更新账号，封锁加重，但会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速300kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
 备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/ss免费账号 
 
 ***
+
+有协议和混淆内容的账号是SSR账号，需要使用SSR客户端。有aes-256-gcm加密方式的账号是SS账号，需要使用SS客户端。
 
 <table id="tablepress-1">
 <thead>
@@ -70,13 +72,40 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
-<td>149.28.85.185</td>
-<td>23456</td>
-<td>dongtaiwang.com</td>
-<td>chacha20</td>
-<td>auth_aes128_sha1</td>
-<td>tls1.2_ticket_auth</td>
+<td>香港</td>
+<td>118.107.244.112</td>
+<td>8080</td>
+<td>KixLvKzwjekG00rm</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>美国</td>
+<td>38.107.226.146</td>
+<td>3306</td>
+<td>Y6R9pAtvxxzmGC</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>美国</td>
+<td>156.146.33.74</td>
+<td>49719</td>
+<td>2SjT9vBF6ma9eFF3URaJpQ4</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>美国</td>
+<td>172.99.190.149</td>
+<td>2375</td>
+<td>faBAoD54k87UJG7</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +114,11 @@ SSR链接：
 
 ssr://NDUuNjMuNjEuMjEyOjEyMzQ1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ssr://MTQ5LjI4Ljg1LjE4NToyMzQ1NjphdXRoX2FlczEyOF9zaGExOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMTguMTA3LjI0NC4xMTI6ODA4MA==#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e9%a6%99%e6%b8%af
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguMTA3LjIyNi4xNDY6MzMwNg==#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
+ss://YWVzLTI1Ni1nY206NDJTalQ5dkJGNm1hOWVGRjNVUmFKcFE0QDE1Ni4xNDYuMzMuNzQ6NDk3MTk=#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuMTQ5OjIzNzU=#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
+
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
