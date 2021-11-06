@@ -78,7 +78,7 @@ VPS推荐：
 <td>dongtaiwang.com</td>
 <td>chacha20</td>
 <td>origin</td>
-<td>tls1.2_ticket_fastauth</td>
+<td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
 <td>俄罗斯</td>
