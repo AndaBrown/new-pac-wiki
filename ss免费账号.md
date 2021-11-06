@@ -79,7 +79,7 @@ VPS推荐：
 <td>none</td>
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
-</tr
+</tr>
 <tr>
 <td>洛杉矶</td>
 <td>ssrfree1.free4444.xyz</td>
