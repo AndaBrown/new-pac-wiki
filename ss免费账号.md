@@ -81,15 +81,6 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>香港</td>
-<td>118.107.244.112</td>
-<td>8080</td>
-<td>KixLvKzwjekG00rm</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>美国</td>
 <td>172.99.190.149</td>
 <td>2375</td>
@@ -106,8 +97,6 @@ SSR链接：
 ssr://MTA4LjYxLjIxNy43NzoxMjM0NTpvcmlnaW46cmM0LW1kNTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOC42MS4yMTcuMTg1OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e6%b4%9b%e6%9d%89%e7%9f%b6
-
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMTguMTA3LjI0NC4xMTI6ODA4MA==#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e9%a6%99%e6%b8%af
 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuMTQ5OjIzNzU=#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
 
