@@ -82,15 +82,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>美国</td>
-<td>38.107.226.146</td>
-<td>3306</td>
-<td>Y6R9pAtvxxzmGC</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>美国</td>
 <td>156.146.33.74</td>
 <td>49719</td>
 <td>2SjT9vBF6ma9eFF3URaJpQ4</td>
@@ -115,8 +106,6 @@ SSR链接：
 ssr://NDUuNjMuNjEuMjEyOjEyMzQ1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMTguMTA3LjI0NC4xMTI6ODA4MA==#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e9%a6%99%e6%b8%af
-
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguMTA3LjIyNi4xNDY6MzMwNg==#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
 
 ss://YWVzLTI1Ni1nY206NDJTalQ5dkJGNm1hOWVGRjNVUmFKcFE0QDE1Ni4xNDYuMzMuNzQ6NDk3MTk=#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
 
