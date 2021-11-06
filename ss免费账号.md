@@ -72,8 +72,8 @@ VPS推荐：
 <td>tls1.2_ticket_fastauth</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
-<td>108.61.217.185</td>
+<td>俄罗斯</td>
+<td>2.59.214.40</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
@@ -81,8 +81,8 @@ VPS推荐：
 <td></td>
 </tr>
 <tr>
-<td>俄罗斯</td>
-<td>2.59.214.40</td>
+<td>洛杉矶</td>
+<td>108.61.217.185</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
@@ -105,9 +105,9 @@ SSR链接：
 
 ssr://MTQ0LjIwMi4xMTYuMTYzOjEyMzQ1Om9yaWdpbjpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2Zhc3RhdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOC42MS4yMTcuMTg1OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e6%b4%9b%e6%9d%89%e7%9f%b6
-
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTkuMjE0LjQwOjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e4%bf%84%e7%bd%97%e6%96%af
+
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOC42MS4yMTcuMTg1OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuMTQ5OjIzNzU=#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e7%be%8e%e5%9b%bd
 
