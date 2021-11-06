@@ -66,7 +66,7 @@ VPS推荐：
 <td>洛杉矶</td>
 <td>144.202.116.92</td>
 <td>12345</td>
-<td>dongtaiwang.com&nbsp123abc</td>
+<td>dongtaiwang.com&nbsp;123abc</td>
 <td>chacha20</td>
 <td>origin</td>
 <td>tls1.2_ticket_auth</td>
