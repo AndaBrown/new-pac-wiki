@@ -64,15 +64,6 @@ VPS推荐：
 <tbody>
 <tr>
 <td>洛杉矶</td>
-<td>144.202.116.163</td>
-<td>12345</td>
-<td>dongtaiwang.com</td>
-<td>chacha20</td>
-<td>origin</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
-<td>洛杉矶</td>
 <td>108.61.220.219</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
@@ -102,8 +93,6 @@ VPS推荐：
 </table>
 
 SSR链接：
-
-ssr://MTQ0LjIwMi4xMTYuMTYzOjEyMzQ1Om9yaWdpbjpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2Zhc3RhdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://MTA4LjYxLjIyMC4yMTk6MTIzNDU6b3JpZ2luOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfZmFzdGF1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
