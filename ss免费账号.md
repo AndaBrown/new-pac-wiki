@@ -39,7 +39,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月6日9点17分更新账号，封锁加重，但会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速300kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年11月6日10点45分更新账号，封锁加重，但会持续更新。为了让每个人都能获得一定的带宽资源，节点进行了限速100kb/s。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -64,12 +64,21 @@ VPS推荐：
 <tbody>
 <tr>
 <td>洛杉矶</td>
-<td>45.63.61.212</td>
+<td>108.61.217.77</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
-<td>chacha20</td>
-<td>auth_aes128_sha1</td>
-<td>tls1.2_ticket_auth</td>
+<td>rc4-md5</td>
+<td>origin</td>
+<td>plain</td>
+</tr>
+<tr>
+<td>洛杉矶</td>
+<td>108.61.217.185</td>
+<td>12345</td>
+<td>dongtaiwang.com</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>香港</td>
@@ -94,7 +103,9 @@ VPS推荐：
 
 SSR链接：
 
-ssr://NDUuNjMuNjEuMjEyOjEyMzQ1OmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjA6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
+ssr://MTA4LjYxLjIxNy43NzoxMjM0NTpvcmlnaW46cmM0LW1kNTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOC42MS4yMTcuMTg1OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMTguMTA3LjI0NC4xMTI6ODA4MA==#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e9%a6%99%e6%b8%af
 
