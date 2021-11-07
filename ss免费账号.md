@@ -116,15 +116,6 @@ VPS推荐：
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>洛杉矶</td>
-<td>108.61.217.185</td>
-<td>23456</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -142,7 +133,6 @@ ssr://c3NyZnJlZTcuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTkuMjE0LjQwOjIzNDU2#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e4%bf%84%e7%bd%97%e6%96%af
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDEwOC42MS4yMTcuMTg1OjIzNDU2#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑搬瓦工官方付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks) 或[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
