@@ -82,15 +82,6 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>ssrfree1.free4444.xyz</td>
-<td>443</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
-<td>洛杉矶</td>
 <td>ssrfree5.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
@@ -133,8 +124,6 @@ SSR链接：
 ssr://MTQ5LjI4Ljc4Ljk5OjEyMzQ1Om9yaWdpbjpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x
-
-ssr://c3NyZnJlZTEuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x
 
 ssr://c3NyZnJlZTUuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x
 
