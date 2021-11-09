@@ -99,15 +99,6 @@ VPS推荐：
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
-<td>85.209.158.29</td>
-<td>20008</td>
-<td>dongtaiwang.com&nbsp;123abc</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>俄罗斯</td>
 <td>2.59.214.40</td>
 <td>12345</td>
@@ -128,8 +119,6 @@ ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2
 ssr://c3NyZnJlZTUuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x
 
 ssr://c3NyZnJlZTcuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x
-
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0A4NS4yMDkuMTU4LjI5OjIwMDA4#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTkuMjE0LjQwOjIzNDU2#https%3a%2f%2fgit.io%2fv9999+%e5%85%8d%e8%b4%b9SS+%e4%bf%84%e7%bd%97%e6%96%af
 
