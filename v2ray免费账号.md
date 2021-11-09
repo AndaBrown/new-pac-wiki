@@ -42,7 +42,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月9日19点10分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年11月9日23点30分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -53,13 +53,13 @@ VPS推荐：
 
 **复制账号后，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray账号。**
 
-**洛杉矶账号**:
+**美国CDN账号**:
 
-Address(地址): 149.248.18.72
+Address(地址): 1.1.1.1
 
-Port（端口）: 24686
+Port（端口）: 443
 
-UUID（用户id）: 88261df4-8707-4d71-9615-ee22cf967da6
+UUID（用户id）: 658aebbd-92d1-4c40-8275-2c8a782eea5e
 
 alterId（额外ID）: 0
 
@@ -69,13 +69,14 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-host（伪装域名）：不填
+host（伪装域名）：2.v2rayfree1.xyz
 
-路径：不填
+路径：/ray
 
-底层传输安全：不填
+底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjE0OS4yNDguMTguNzIiLA0KICAicG9ydCI6ICIyNDY4NiIsDQogICJpZCI6ICI4ODI2MWRmNC04NzA3LTRkNzEtOTYxNS1lZTIyY2Y5NjdkYTYiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOe+juWbvUNETiIsDQogICJhZGQiOiAiMS4xLjEuMSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2NThhZWJiZC05MmQxLTRjNDAtODI3NS0yYzhhNzgyZWVhNWUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjIudjJyYXlmcmVlMS54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
