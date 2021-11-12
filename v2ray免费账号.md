@@ -42,7 +42,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月12日18点01分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年11月12日22点53分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -53,7 +53,7 @@ VPS推荐：
 
 **美国账号**:
 
-Address(地址): 104.27.19.109
+Address(地址): 104.16.111.50
 
 Port（端口）: 443
 
@@ -73,8 +73,7 @@ host（伪装域名）：5.v2rayfree1.xyz
 
 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOe+juWbvTEiLA0KICAiYWRkIjogIjEwNC4yNy4xOS4xMDkiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNWRhZDA5M2MtNjk3Zi00NzkxLWFhN2UtMTZhNWViNTU4N2FkIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMS52MnJheWZyZWUxLnh5eiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOe+juWbvTEiLA0KICAiYWRkIjogIjEwNC4xNi4xMTEuNTAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNWRhZDA5M2MtNjk3Zi00NzkxLWFhN2UtMTZhNWViNTU4N2FkIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMS52MnJheWZyZWUxLnh5eiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
 
 **美国账号**:
 
