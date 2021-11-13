@@ -4,6 +4,8 @@
 
 节点位置有台湾、香港、韩国、日本、美国、新加坡等，包含无线流量节点、CN2中转节点和专线节点等。
 
+节点如下（2021年11月13日截图）：
+
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip11.PNG)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip14.PNG)
