@@ -2,11 +2,13 @@
 
 ***
 
-V2free开业一周年，继9折优惠码活动结束后，推出充值送现金活动，无论新老用户，从 2021-10-31 11:05:00 到 2021-11-06 23:00:00 止，充值金额大于等于100元，即赠送充值金额的10%到账户余额。
+节点包括台湾、香港、韩国、日本、美国等。32个高速倍率节点，6个无限流量节点。
 
-目前有38个v2ray节点，包括台湾、香港、韩国、日本、美国等。32个高速倍率节点，6个无限流量节点。
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip11.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-001.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip12.PNG)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip13.PNG)
 
 **价格**
 
