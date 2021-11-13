@@ -51,30 +51,6 @@ VPS推荐：
 
 ***
 
-**洛杉矶账号**:
-
-Address(地址): 13.v2rayfree1.xyz
-
-Port（端口）: 443
-
-UUID（用户id）: 13f487be-0dce-4d4e-b923-9ac9916f4b32
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：13.v2rayfree1.xyz
-
-路径：/ray
-
-底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftiIsDQogICJhZGQiOiAiMTMudjJyYXlmcmVlMS54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTNmNDg3YmUtMGRjZS00ZDRlLWI5MjMtOWFjOTkxNmY0YjMyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMy52MnJheWZyZWUxLnh5eiIsDQogICJwYXRoIjogIi9yYXkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
-
 **美国账号**:
 
 Address(地址): 104.16.111.50
