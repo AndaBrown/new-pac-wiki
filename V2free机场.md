@@ -1,4 +1,4 @@
-[w1.v2free.net](https://w1.v2free.net/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。普通无限流量节点+高速倍率流量优质节点二者相配合，可很好的平衡用户的预算和高端需求。时间就是金钱，花一点小钱，[提升翻墙体验](https://w1.v2free.net/auth/register?code=UsUP)非常划算，也可节省大把时间。注册也可获得免费SS/V2ray/vmess翻墙节点。
+[w1.v2free.net](https://w1.v2free.net/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。普通无限流量节点+高速倍率流量优质节点二者相配合，很好的平衡了预算和高端需求。时间就是金钱，花一点小钱，[提升翻墙体验](https://w1.v2free.net/auth/register?code=UsUP)非常划算，也可节省大把时间。注册也可获得免费SS/V2ray/vmess翻墙节点。
 
 ***
 
