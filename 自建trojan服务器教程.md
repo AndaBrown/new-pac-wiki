@@ -249,3 +249,7 @@ systemctl restart trojan
 ![](https://www.atrandys.com/wp-content/uploads/2019/10/clipboard.png)
 
 如果你的同一个域名申请了很多此证书，这个处理方法可能有用：更换二级域名，例如原来使用的域名是www.abc.com或abc.com或xyz.abc.com，那么现在你添加一个二级域名解析例如xxx.abc.com，安装时使用这个域名即可。
+
+5、其它vps服务商推荐
+
+[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，支持支付宝和paypal付款。）
