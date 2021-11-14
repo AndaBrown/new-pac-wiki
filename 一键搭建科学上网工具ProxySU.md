@@ -202,11 +202,6 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ***
 
-其它vps服务商推荐：[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，支持支付宝和paypal付款。）
-
-
-***
-
 **除了这个工具，还可以使用SSH工具连接vps后使用一键脚本来搭建。参考以下教程**：
 
 [自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 
