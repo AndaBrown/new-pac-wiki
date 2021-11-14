@@ -22,7 +22,7 @@ VPS推荐：
 
 [Vultr](https://www.vultr.com/?ref=7048874) （vps最低2.5美元/月，vultr全球17个服务器位置可选，包括日本、韩国、新加坡、洛杉矶、德国、荷兰等。支持支付宝和paypal付款。）
 
-[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis）
+[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，工单支持中文回复，支持支付宝和paypal付款。）
 
 ***
 
