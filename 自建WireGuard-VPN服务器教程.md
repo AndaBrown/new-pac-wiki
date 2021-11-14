@@ -281,7 +281,6 @@ iOS安装tunsafe后，打开配置设置。
 
 其它vps服务商推荐：[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，支持支付宝和paypal付款。）
 
-[BudgetVM](https://www.budgetvm.com?affid=21785) （首选洛杉矶服务器，电信去程和回程CN2，支持支付宝和paypal付款。）
 
 ***
 
