@@ -391,7 +391,6 @@ vultr和其他的国外商家一样，都是使用工单的形式与客服联系
 
 [Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，支持支付宝和paypal付款。）
 
-[BudgetVM](https://www.budgetvm.com?affid=21785) （首选洛杉矶服务器，电信去程和回程CN2，支持支付宝和paypal付款。）
 
 ***
 
