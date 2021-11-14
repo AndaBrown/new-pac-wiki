@@ -310,10 +310,6 @@ Brook Tools客户端有2种代理方式，默认的是**http代理**，如果把
 
 如果ip能ping，xshell能直接连接vps服务器，说明ip没有被墙，多半是端口被封了，优先换端口。
 
-5、其它vps服务商推荐
-
-[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，支持支付宝和paypal付款。）
-
 
 ***
 
