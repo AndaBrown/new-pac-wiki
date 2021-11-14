@@ -276,6 +276,12 @@ iOS安装tunsafe后，打开配置设置。
 
 同样可以选择第一个将文件导入进去，或者第二个扫描配置文件的二维码。
 
+
+***
+
+其它vps服务商推荐：[Raksmart](https://billing.raksmart.com/whmcs/aff.php?aff=3204) （回程CN2线路，vps11月7折优惠码VPS-TP-30%dis，支持支付宝和paypal付款。）
+
+
 ***
 
 有问题可以发邮件至海外邮箱kebi2014@gmail.com
