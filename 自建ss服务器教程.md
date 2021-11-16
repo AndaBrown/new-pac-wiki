@@ -204,9 +204,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 **注意：混淆选择plain意思是不混淆，有的时期增加混淆有利于突破封锁，有的时期不混淆有利用突破封锁，需要自己来尝试。** 
 
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/demo/33.png)
-
-
 进行混淆插件的设置后，会依次提示你对设备数、单线程限速和端口总限速进行设置，默认值是不进行限制，个人使用的话，选择默认即可，即直接敲回车键。
 
 注意：关于限制设备数，这个协议必须是非原版且不兼容原版才有效，也就是必须使用SSR协议的情况下，才有效！
