@@ -41,7 +41,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月17日12点22分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年11月17日19点13分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -52,37 +52,11 @@ VPS推荐：
 
 **洛杉矶账号**:
 
-Address(地址): 45.32.74.58
+Address(地址): 207.246.109.151
 
-Port（端口）: 43320
+Port（端口）: 45490
 
-UUID（用户id）: 207f01a0-4621-11ec-8b00-560003ae8b46
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/hZqt4s9f/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjQ1LjMyLjc0LjU4IiwNCiAgInBvcnQiOiAiNDMzMjAiLA0KICAiaWQiOiAiMjA3ZjAxYTAtNDYyMS0xMWVjLThiMDAtNTYwMDAzYWU4YjQ2IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvaFpxdDRzOWYvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-
-
-**德国账号**:
-
-Address(地址): 89.163.220.82
-
-Port（端口）: 11016
-
-UUID（用户id）: 842fcd78-475d-11ec-aa20-9cb6548b0ccc
+UUID（用户id）: 02c14a34-4797-11ec-80ea-560003af8f78
 
 alterId（额外ID）: 0
 
@@ -94,11 +68,37 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/cOhjRn2G/
+路径：/XdrGaNCe/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOW+t+WbvWciLA0KICAiYWRkIjogIjg5LjE2My4yMjAuODIiLA0KICAicG9ydCI6ICIxMTAxNiIsDQogICJpZCI6ICI4NDJmY2Q3OC00NzVkLTExZWMtYWEyMC05Y2I2NTQ4YjBjY2MiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9jT2hqUm4yRy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjEwOS4xNTEiLA0KICAicG9ydCI6ICI0NTQ5MCIsDQogICJpZCI6ICIwMmMxNGEzNC00Nzk3LTExZWMtODBlYS01NjAwMDNhZjhmNzgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9YZHJHYU5DZS8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+
+
+**洛杉矶账号**:
+
+Address(地址): 207.246.109.151
+
+Port（端口）: 31940
+
+UUID（用户id）: 101a6576-4797-11ec-80ea-560003af8f78
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：/eWEfAPtR/
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjEwOS4xNTEiLA0KICAicG9ydCI6ICIzMTk0MCIsDQogICJpZCI6ICIxMDFhNjU3Ni00Nzk3LTExZWMtODBlYS01NjAwMDNhZjhmNzgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9lV0VmQVB0Ui8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+
 
 
 
