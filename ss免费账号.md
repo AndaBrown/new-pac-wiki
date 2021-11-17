@@ -72,7 +72,7 @@ VPS推荐：
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>ssrfree15.free4444.xyz</td>
+<td>ssrfree18.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
