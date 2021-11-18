@@ -41,7 +41,7 @@ VPS推荐：
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月17日19点13分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年11月18日20点05分更新账号。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -52,11 +52,11 @@ VPS推荐：
 
 **洛杉矶账号**:
 
-Address(地址): 207.246.109.151
+Address(地址): 149.248.11.253
 
-Port（端口）: 45490
+Port（端口）: 44963
 
-UUID（用户id）: 02c14a34-4797-11ec-80ea-560003af8f78
+UUID（用户id）: 51a34956-4867-11ec-abf9-560003b0214a
 
 alterId（额外ID）: 0
 
@@ -68,20 +68,21 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/XdrGaNCe/
+路径：/lnPFjTta/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjEwOS4xNTEiLA0KICAicG9ydCI6ICI0NTQ5MCIsDQogICJpZCI6ICIwMmMxNGEzNC00Nzk3LTExZWMtODBlYS01NjAwMDNhZjhmNzgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9YZHJHYU5DZS8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjQ4LjExLjI1MyIsDQogICJwb3J0IjogIjQ0OTYzIiwNCiAgImlkIjogIjUxYTM0OTU2LTQ4NjctMTFlYy1hYmY5LTU2MDAwM2IwMjE0YSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2xuUEZqVHRhLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
 
 
 **洛杉矶账号**:
 
-Address(地址): 207.246.109.151
+Address(地址): 149.248.11.253
 
-Port（端口）: 31940
+Port（端口）: 23833
 
-UUID（用户id）: 101a6576-4797-11ec-80ea-560003af8f78
+UUID（用户id）: 5783251c-4867-11ec-abf9-560003b0214a
 
 alterId（额外ID）: 0
 
@@ -93,13 +94,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/eWEfAPtR/
+路径：/I1tedbKq/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjEwOS4xNTEiLA0KICAicG9ydCI6ICIzMTk0MCIsDQogICJpZCI6ICIxMDFhNjU3Ni00Nzk3LTExZWMtODBlYS01NjAwMDNhZjhmNzgiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9lV0VmQVB0Ui8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIxNDkuMjQ4LjExLjI1MyIsDQogICJwb3J0IjogIjIzODMzIiwNCiAgImlkIjogIjU3ODMyNTFjLTQ4NjctMTFlYy1hYmY5LTU2MDAwM2IwMjE0YSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0kxdGVkYktxLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
