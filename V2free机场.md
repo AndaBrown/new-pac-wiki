@@ -14,7 +14,7 @@
 
 **价格**
 
-试用套餐3元、月付20元、年付经济套餐110元、年付A套餐168元、年付B套餐258元、年付C套餐338元，[套餐购买](https://w1.v2free.net/auth/register?code=UsUP)
+试用套餐3元、月付20元、年付经济套餐110元、年付A套餐168元、年付B套餐258元、年付C套餐338元等，[套餐购买](https://w1.v2free.net/auth/register?code=UsUP)
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/price01.PNG)
 
