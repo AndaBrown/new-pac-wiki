@@ -148,7 +148,7 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) -k
 
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
-> 如果输入安装命令没反应，那是因为服务器系统没有自带curl命令，安装一下curl。CentOS系统安装curl命令:yum install -y curl   Debian/Ubuntu系统安装curl命令:apt-get install -y curl
+> 如果输入安装命令没反应，那是因为服务器系统没有自带curl命令，安装一下curl。CentOS系统安装curl命令：yum install -y curl   Debian/Ubuntu系统安装curl命令：apt-get install -y curl
 
 > 安装完成后，输入v2ray可进入管理页面。脚本来自[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)。
 
