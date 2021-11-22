@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>23.19.26.239</td>
+<td>23.19.26.244</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
