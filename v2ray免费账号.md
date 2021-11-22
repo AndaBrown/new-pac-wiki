@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月20日21点23分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年11月22日8点10分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **洛杉矶账号**:
 
-Address(地址): 66.42.105.136
+Address(地址): 45.77.85.75
 
-Port（端口）: 64771
+Port（端口）: 12456
 
-UUID（用户id）: a96b3538-4a04-11ec-a8eb-560003b123dd
+UUID（用户id）: 524e5b2a-4b28-11ec-8092-560003b1be26
 
 alterId（额外ID）: 0
 
@@ -48,22 +48,20 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/kMLn2X9J/
+路径：/Zo560ciL/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI2Ni40Mi4xMDUuMTM2IiwNCiAgInBvcnQiOiAiNjQ3NzEiLA0KICAiaWQiOiAiYTk2YjM1MzgtNGEwNC0xMWVjLWE4ZWItNTYwMDAzYjEyM2RkIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIva01MbjJYOUovIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI0NS43Ny44NS43NSIsDQogICJwb3J0IjogIjEyNDU2IiwNCiAgImlkIjogIjUyNGU1YjJhLTRiMjgtMTFlYy04MDkyLTU2MDAwM2IxYmUyNiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1pvNTYwY2lMLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 
 **洛杉矶账号**:
 
-Address(地址): 66.42.105.136
+Address(地址): 45.77.85.75
 
-Port（端口）: 2907
+Port（端口）: 35480
 
-UUID（用户id）: a4dbb36c-4a04-11ec-a8eb-560003b123dd
+UUID（用户id）: 56a85a68-4b28-11ec-8092-560003b1be26
 
 alterId（额外ID）: 0
 
@@ -75,11 +73,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/YAKv1Hu8/
+路径：/0mH2QfWP/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICI2Ni40Mi4xMDUuMTM2IiwNCiAgInBvcnQiOiAiMjkwNyIsDQogICJpZCI6ICJhNGRiYjM2Yy00YTA0LTExZWMtYThlYi01NjAwMDNiMTIzZGQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9ZQUt2MUh1OC8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICI0NS43Ny44NS43NSIsDQogICJwb3J0IjogIjM1NDgwIiwNCiAgImlkIjogIjU2YTg1YTY4LTRiMjgtMTFlYy04MDkyLTU2MDAwM2IxYmUyNiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzBtSDJRZldQLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 
 
