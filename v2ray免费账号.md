@@ -54,31 +54,6 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjE0OS4yNDguMTEuMTIxIiwNCiAgInBvcnQiOiAiMjA1MTMiLA0KICAiaWQiOiAiZGM1ODA2NTQtNGJmZi0xMWVjLWJiODctNTYwMDAzYjI0MDM3IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvSVJ6YjdEMFgvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
-**洛杉矶账号**:
-
-Address(地址): v1.free4444.xyz
-
-Port（端口）: 443
-
-UUID（用户id）: 6a591913-761b-4fd1-99bf-1b51b99e8e16
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：v1.free4444.xyz
-
-路径：/ray
-
-底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICJ2MS5mcmVlNDQ0NC54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmE1OTE5MTMtNzYxYi00ZmQxLTk5YmYtMWI1MWI5OWU4ZTE2IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2MS5mcmVlNDQ0NC54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
-
-
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
