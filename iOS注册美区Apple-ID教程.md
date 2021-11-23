@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><strong>2021年11月23日更新，增加注册港区ID方法（无需翻墙） 。 </strong></p>
+<p><strong>2021年11月23日更新，增加注册港区ID方法（无需翻墙）。 </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
