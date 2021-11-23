@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月23日9点52分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年11月23日10点07分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -53,6 +53,30 @@ host（伪装域名）：不填
 底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjE0OS4yNDguMTEuMTIxIiwNCiAgInBvcnQiOiAiMjA1MTMiLA0KICAiaWQiOiAiZGM1ODA2NTQtNGJmZi0xMWVjLWJiODctNTYwMDAzYjI0MDM3IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvSVJ6YjdEMFgvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
+**洛杉矶账号**:
+
+Address(地址): v1.free4444.xyz
+
+Port（端口）: 443
+
+UUID（用户id）: 6a591913-761b-4fd1-99bf-1b51b99e8e16
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+host（伪装域名）：v1.free4444.xyz
+
+路径：/ray
+
+底层传输安全：tls
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICJ2MS5mcmVlNDQ0NC54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNmE1OTE5MTMtNzYxYi00ZmQxLTk5YmYtMWI1MWI5OWU4ZTE2IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2MS5mcmVlNDQ0NC54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 
 
 
