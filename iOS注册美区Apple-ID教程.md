@@ -105,7 +105,8 @@
 以下注册流程较繁琐，你也可以到第三方平台如：https://taohao.me/product/ 、https://fk.appledi.com/product/ 购买Apple ID。
 
 步骤一(浏览器操作)：
-1.使用浏览器访问 https://appleid.apple.com, 点击右上角创建您的 Apple ID链接，打开注册页面
+
+1.使用浏览器访问 https://appleid.apple.com , 点击右上角创建您的 Apple ID链接，打开注册页面
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid1.png)
 
@@ -130,21 +131,22 @@
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid6.png)
 
 步骤二(手机AppStore操作)：
+
 1.手机打开AppStore，使用新注册的AppleId登陆
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid7.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid13.PNG)
 
 2.输入手机验证码验证
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid8.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid14.PNG)
 
 3.在弹出来的弹框中，选择检查
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid9.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid15.PNG)
 
 4.在下一个页面中，打开同意条款与条件选项开关
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid10.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid16.PNG)
 
 5.注意在该页面中，如果没有付款的需求，千万不要选择付款方式，否则会无法消除选项，需要退出再登录才能消除。
 
@@ -152,10 +154,10 @@
 
 填完后点击右上角的下一页。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid11.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid17.PNG)
 
 6.注册完成。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid12.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid18.PNG)
 
 原文地址：https://oneclick.earth/help/appleid.html
