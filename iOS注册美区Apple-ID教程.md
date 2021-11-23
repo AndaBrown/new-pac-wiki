@@ -10,6 +10,8 @@
 <p><strong>前言</strong>：注册美区id成功后你可以下载很多的翻墙app， 一劳永逸 ， 虽然需要花费一些时间和精力来注册，但很值得。</p>
 <!-- /wp:paragraph -->
 
+第一种方法：
+
 <!-- wp:paragraph -->
 <p><strong> 注册网址</strong>：<a href="http://appleid.apple.com ">appleid.apple.com </a></p>
 <!-- /wp:paragraph -->
@@ -95,3 +97,6 @@
 <!-- wp:paragraph -->
 <p><strong>温馨提示：</strong><br>碰到问题的朋友建议再重新试一遍，梳理一下操作逻辑。每一步操作的目的是什么先搞明白，再去分析可能是哪个环节出问题了。<br>一般来说都是网络环境的问题（必须全程翻墙模式）。</p>
 <!-- /wp:paragraph -->
+
+***
+
