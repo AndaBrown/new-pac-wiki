@@ -53,7 +53,7 @@
 <td>tls1.2_ticket_auth</td>
 <tr>
 <td>洛杉矶</td>
-<td>13.free4444.xyz</td>
+<td>lg1.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td>洛杉矶</td>
-<td>lg1.free4444.xyz</td>
+<td>3.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
