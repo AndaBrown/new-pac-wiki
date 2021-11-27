@@ -31,31 +31,6 @@
 
 **洛杉矶账号**:
 
-Address(地址): 149.28.72.171
-
-Port（端口）: 47337
-
-UUID（用户id）: 23263574-4de0-11ec-ad4e-560003b39a5c
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/3ICBPofZ/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjguNzIuMTcxIiwNCiAgInBvcnQiOiAiNDczMzciLA0KICAiaWQiOiAiMjMyNjM1NzQtNGRlMC0xMWVjLWFkNGUtNTYwMDAzYjM5YTVjIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvM0lDQlBvZlovIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-
-**洛杉矶账号**:
-
 Address(地址): 66.42.106.69
 
 Port（端口）: 56375
