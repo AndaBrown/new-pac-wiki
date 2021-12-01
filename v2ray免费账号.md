@@ -20,7 +20,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月28日9点12分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月1日8点20分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -31,11 +31,11 @@
 
 **洛杉矶账号**:
 
-Address(地址): 207.246.96.11
+Address(地址): 45.32.92.32
 
-Port（端口）: 41422
+Port（端口）: 28085
 
-UUID（用户id）: 0ad0f34c-4fe8-11ec-be1f-560003b4cf60
+UUID（用户id）: 34e75a3a-523c-11ec-958f-560003b6456a
 
 alterId（额外ID）: 0
 
@@ -47,11 +47,12 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/8OHC2XiU/
+路径：/fR9iUNuI/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjIwNy4yNDYuOTYuMTEiLA0KICAicG9ydCI6ICI0MTQyMiIsDQogICJpZCI6ICIwYWQwZjM0Yy00ZmU4LTExZWMtYmUxZi01NjAwMDNiNGNmNjAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi84T0hDMlhpVS8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjQ1LjMyLjkyLjMyIiwNCiAgInBvcnQiOiAiMjgwODUiLA0KICAiaWQiOiAiMzRlNzVhM2EtNTIzYy0xMWVjLTk1OGYtNTYwMDAzYjY0NTZhIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZlI5aVVOdUkvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
