@@ -19,7 +19,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年11月28日22点17分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2021年12月2日9点22分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -45,9 +45,9 @@
 <tr>
 <tr>
 <td>洛杉矶</td>
-<td>14.free4444.xyz</td>
+<td>16.free4444.xyz</td>
 <td>443</td>
-<td>dongtaiwang.com</td>
+<td>ntdtv.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
@@ -83,7 +83,7 @@
 
 SSR链接：
 
-ssr://MTQuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TSzFSTVV5dERZV1JrZVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
+ssr://MTYuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Ym5Sa2RIWXVZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
