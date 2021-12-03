@@ -20,7 +20,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月1日8点20分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月3日16点00分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -31,11 +31,11 @@
 
 **洛杉矶账号**:
 
-Address(地址): 45.32.92.32
+Address(地址): 45.77.126.232
 
-Port（端口）: 28085
+Port（端口）: 35984
 
-UUID（用户id）: 34e75a3a-523c-11ec-958f-560003b6456a
+UUID（用户id）: cf3690a0-540e-11ec-8e2e-560003b77882
 
 alterId（额外ID）: 0
 
@@ -47,12 +47,35 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/fR9iUNuI/
+路径：/j9HOWvCJ/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjQ1LjMyLjkyLjMyIiwNCiAgInBvcnQiOiAiMjgwODUiLA0KICAiaWQiOiAiMzRlNzVhM2EtNTIzYy0xMWVjLTk1OGYtNTYwMDAzYjY0NTZhIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZlI5aVVOdUkvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI0NS43Ny4xMjYuMjMyIiwNCiAgInBvcnQiOiAiMzU5ODQiLA0KICAiaWQiOiAiY2YzNjkwYTAtNTQwZS0xMWVjLThlMmUtNTYwMDAzYjc3ODgyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvajlIT1d2Q0ovIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
+**洛杉矶账号**:
+
+Address(地址): 149.28.81.198
+
+Port（端口）: 18342
+
+UUID（用户id）: c6863410-540e-11ec-af6d-560003b77886
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：/s1M65ZKW/
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIxNDkuMjguODEuMTk4IiwNCiAgInBvcnQiOiAiMTgzNDIiLA0KICAiaWQiOiAiYzY4NjM0MTAtNTQwZS0xMWVjLWFmNmQtNTYwMDAzYjc3ODg2IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvczFNNjVaS1cvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
