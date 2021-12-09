@@ -55,7 +55,7 @@ host（伪装域名）：不填
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxMDguNjEuMjIwLjE0OSIsDQogICJwb3J0IjogIjQ2ODkiLA0KICAiaWQiOiAiYWMxMDRkOTItNTgwOS0xMWVjLWExYTMtNTYwMDAzYjliNWMyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvblc1VVNnamUvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
-**莫斯科账号**:
+**俄罗斯账号**:
 
 Address(地址): 194.135.32.208
 
@@ -77,7 +77,8 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOiOq+aWr+enkWciLA0KICAiYWRkIjogIjE5NC4xMzUuMzIuMjA4IiwNCiAgInBvcnQiOiAiMzI1NTEiLA0KICAiaWQiOiAiOWQ0MGFlZmMtNTRkOS0xMWVjLWFmMmQtZjJjMTU3MzYwYjFlIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvVzlzMjhrMWkvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjIwOCIsDQogICJwb3J0IjogIjMyNTUxIiwNCiAgImlkIjogIjlkNDBhZWZjLTU0ZDktMTFlYy1hZjJkLWYyYzE1NzM2MGIxZSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1c5czI4azFpLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
