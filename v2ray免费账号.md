@@ -79,30 +79,6 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjIwOCIsDQogICJwb3J0IjogIjMyNTUxIiwNCiAgImlkIjogIjlkNDBhZWZjLTU0ZDktMTFlYy1hZjJkLWYyYzE1NzM2MGIxZSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1c5czI4azFpLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯账号**:
-
-Address(地址): 194.87.70.151
-
-Port（端口）: 41709
-
-UUID（用户id）: afb1e44e-588e-11ec-8c53-4aee85755798
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTQuODcuNzAuMTUxIiwNCiAgInBvcnQiOiAiNDE3MDkiLA0KICAiaWQiOiAiYWZiMWU0NGUtNTg4ZS0xMWVjLThjNTMtNGFlZTg1NzU1Nzk4IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
