@@ -30,7 +30,7 @@
 
 ***
 
-**洛杉矶1**:
+**洛杉矶1**：
 
 Address(地址): 45.77.86.202
 
@@ -54,7 +54,7 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI0NS43Ny44Ni4yMDIiLA0KICAicG9ydCI6ICI1MjQ1OSIsDQogICJpZCI6ICIxNDNmMTYwNC01YTlhLTExZWMtODhlZS01NjAwMDNiYjRlNjkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9rS2xUbXJHYy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
-**洛杉矶2**:
+**洛杉矶2**：
 
 Address(地址): 207.246.111.160
 
@@ -79,7 +79,7 @@ host（伪装域名）：不填
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjExMS4xNjAiLA0KICAicG9ydCI6ICI2NTA2MCIsDQogICJpZCI6ICI0YWI1MGZiOC01YTlhLTExZWMtOGEyNi01NjAwMDNiYjRlYjQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9xSTIzNVB4Ny8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
-**俄罗斯1**:
+**俄罗斯1**：
 
 Address(地址): 194.135.32.208
 
@@ -103,7 +103,7 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjIwOCIsDQogICJwb3J0IjogIjMyNTUxIiwNCiAgImlkIjogIjlkNDBhZWZjLTU0ZDktMTFlYy1hZjJkLWYyYzE1NzM2MGIxZSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1c5czI4azFpLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯2**:
+**俄罗斯2**：
 
 Address(地址): 194.87.106.166
 
@@ -127,7 +127,7 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTQuODcuMTA2LjE2NiIsDQogICJwb3J0IjogIjQ5NTAzIiwNCiAgImlkIjogIjVjODNiZTg4LTU5YWYtMTFlYy05MDcyLTg2ZjQxMTVlNGY5ZiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1FORExaNjEzLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯3**:
+**俄罗斯3**：
 
 Address(地址): 188.119.64.210
 
