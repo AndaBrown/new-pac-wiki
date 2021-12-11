@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月10日23点33分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月11日23点55分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **洛杉矶账号**:
 
-Address(地址): 108.61.220.149
+Address(地址): 45.77.86.202
 
-Port（端口）: 4689
+Port（端口）: 52459
 
-UUID（用户id）: ac104d92-5809-11ec-a1a3-560003b9b5c2
+UUID（用户id）: 143f1604-5a9a-11ec-88ee-560003bb4e69
 
 alterId（额外ID）: 0
 
@@ -48,11 +48,35 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/nW5USgje/
+路径：/kKlTmrGc/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxMDguNjEuMjIwLjE0OSIsDQogICJwb3J0IjogIjQ2ODkiLA0KICAiaWQiOiAiYWMxMDRkOTItNTgwOS0xMWVjLWExYTMtNTYwMDAzYjliNWMyIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvblc1VVNnamUvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI0NS43Ny44Ni4yMDIiLA0KICAicG9ydCI6ICI1MjQ1OSIsDQogICJpZCI6ICIxNDNmMTYwNC01YTlhLTExZWMtODhlZS01NjAwMDNiYjRlNjkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9rS2xUbXJHYy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+
+**洛杉矶账号**:
+
+Address(地址): 207.246.111.160
+
+Port（端口）: 65060
+
+UUID（用户id）: 4ab50fb8-5a9a-11ec-8a26-560003bb4eb4
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：/qI235Px7/
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjExMS4xNjAiLA0KICAicG9ydCI6ICI2NTA2MCIsDQogICJpZCI6ICI0YWI1MGZiOC01YTlhLTExZWMtOGEyNi01NjAwMDNiYjRlYjQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9xSTIzNVB4Ny8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
 **俄罗斯账号**:
