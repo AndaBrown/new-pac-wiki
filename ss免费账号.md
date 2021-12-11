@@ -44,7 +44,7 @@
 <tbody>
 <tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶1</td>
 <td>85.209.158.210</td>
 <td>30033</td>
 <td>dongtaiwang.com</td>
@@ -52,7 +52,7 @@
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶2</td>
 <td>lg1.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
@@ -61,7 +61,7 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶3</td>
 <td>3.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
@@ -70,7 +70,7 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>俄罗斯</td>
+<td>俄罗斯1</td>
 <td>2.56.240.246</td>
 <td>30088</td>
 <td>dongtaiwang.com</td>
@@ -79,7 +79,7 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶4</td>
 <td>23.19.26.246</td>
 <td>10515</td>
 <td>dongtaiwang.com</td>
@@ -88,7 +88,7 @@
 <td></td>
 </tr>
 <tr>
-<td>俄罗斯</td>
+<td>俄罗斯2</td>
 <td>45.140.169.176</td>
 <td>10055</td>
 <td>dongtaiwang.com</td>
@@ -97,7 +97,7 @@
 <td></td>
 </tr>
 <tr>
-<td>俄罗斯</td>
+<td>俄罗斯3</td>
 <td>45.137.154.208</td>
 <td>10033</td>
 <td>dongtaiwang.com</td>
