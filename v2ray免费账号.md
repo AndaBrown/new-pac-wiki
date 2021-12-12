@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月11日23点55分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月12日22点21分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **洛杉矶1**：
 
-Address(地址): 45.77.86.202
+Address(地址): 149.248.0.165
 
-Port（端口）: 52459
+Port（端口）: 61903
 
-UUID（用户id）: 143f1604-5a9a-11ec-88ee-560003bb4e69
+UUID（用户id）: 491e1048-5b56-11ec-89b1-560003bbaee4
 
 alterId（额外ID）: 0
 
@@ -48,19 +48,19 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/kKlTmrGc/
+路径：/kAHqFdEy/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI0NS43Ny44Ni4yMDIiLA0KICAicG9ydCI6ICI1MjQ1OSIsDQogICJpZCI6ICIxNDNmMTYwNC01YTlhLTExZWMtODhlZS01NjAwMDNiYjRlNjkiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9rS2xUbXJHYy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjQ4LjAuMTY1IiwNCiAgInBvcnQiOiAiNjE5MDMiLA0KICAiaWQiOiAiNDkxZTEwNDgtNWI1Ni0xMWVjLTg5YjEtNTYwMDAzYmJhZWU0IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIva0FIcUZkRXkvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 **洛杉矶2**：
 
-Address(地址): 207.246.111.160
+Address(地址): 149.28.72.127
 
-Port（端口）: 65060
+Port（端口）: 50893
 
-UUID（用户id）: 4ab50fb8-5a9a-11ec-8a26-560003bb4eb4
+UUID（用户id）: 44281138-5b56-11ec-9d31-560003bbb04b
 
 alterId（额外ID）: 0
 
@@ -72,11 +72,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/qI235Px7/
+路径：/ihwlVSmC/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjExMS4xNjAiLA0KICAicG9ydCI6ICI2NTA2MCIsDQogICJpZCI6ICI0YWI1MGZiOC01YTlhLTExZWMtOGEyNi01NjAwMDNiYjRlYjQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9xSTIzNVB4Ny8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIxNDkuMjguNzIuMTI3IiwNCiAgInBvcnQiOiAiNTA4OTMiLA0KICAiaWQiOiAiNDQyODExMzgtNWI1Ni0xMWVjLTlkMzEtNTYwMDAzYmJiMDRiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvaWh3bFZTbUMvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
 **俄罗斯1**：
@@ -103,53 +103,6 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjIwOCIsDQogICJwb3J0IjogIjMyNTUxIiwNCiAgImlkIjogIjlkNDBhZWZjLTU0ZDktMTFlYy1hZjJkLWYyYzE1NzM2MGIxZSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1c5czI4azFpLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯2**：
-
-Address(地址): 194.87.106.166
-
-Port（端口）: 49503
-
-UUID（用户id）: 5c83be88-59af-11ec-9072-86f4115e4f9f
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/QNDLZ613/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTQuODcuMTA2LjE2NiIsDQogICJwb3J0IjogIjQ5NTAzIiwNCiAgImlkIjogIjVjODNiZTg4LTU5YWYtMTFlYy05MDcyLTg2ZjQxMTVlNGY5ZiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1FORExaNjEzLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
-**俄罗斯3**：
-
-Address(地址): 188.119.64.210
-
-Port（端口）: 51618
-
-UUID（用户id）: e6a974d0-1991-4a77-b8f6-c2782a7e7ab0
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxODguMTE5LjY0LjIxMCIsDQogICJwb3J0IjogIjUxNjE4IiwNCiAgImlkIjogImU2YTk3NGQwLTE5OTEtNGE3Ny1iOGY2LWMyNzgyYTdlN2FiMCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
 
