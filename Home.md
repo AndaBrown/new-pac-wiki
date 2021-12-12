@@ -31,8 +31,6 @@
 
 **近期重要更新提示**：
 
-**北京时间2021年12月7日：发布自由门iOS版1.0测试4。**
-
 **北京时间2021年11月28日：更新谷歌高内核、谷歌低内核和火狐浏览器所有版本。**
 
 **提醒**：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看如果无法自动启动谷歌浏览器，打开电脑任务管理器，将“Google Chrome”后台进程结束，重新启动代理工具即可。
@@ -45,7 +43,7 @@
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2021年11月28日更新所有版本）
 
-[iOS翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2021年12月7日发布自由门iOS版1.0测试4）
+[iOS翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2021年12月12日更新）
 
 [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) (2021年11月23日更新，增加注册港区ID方法（无需翻墙）)
 
