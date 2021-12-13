@@ -30,7 +30,7 @@
 
 ***
 
-**洛杉矶1**：
+**洛杉矶1(websocket)**：
 
 Address(地址): 207.246.102.135
 
@@ -55,7 +55,7 @@ host（伪装域名）：不填
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjEwMi4xMzUiLA0KICAicG9ydCI6ICI2Mjc3NCIsDQogICJpZCI6ICJhNThiZTYzYS01YmI0LTExZWMtODY5MC01NjAwMDNiYmRiNGUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9sdXIzOEVRai8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
-**俄罗斯1**：
+**俄罗斯1(websocket)**：
 
 Address(地址): 194.135.32.208
 
@@ -79,7 +79,7 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjIwOCIsDQogICJwb3J0IjogIjMyNTUxIiwNCiAgImlkIjogIjlkNDBhZWZjLTU0ZDktMTFlYy1hZjJkLWYyYzE1NzM2MGIxZSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1c5czI4azFpLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯2**：
+**俄罗斯2(kcp+strp)**：
 
 Address(地址): 46.29.163.68
 
