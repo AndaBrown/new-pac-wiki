@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr71.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr71.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月12日22点21分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月13日9点36分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,35 +32,11 @@
 
 **洛杉矶1**：
 
-Address(地址): 149.248.0.165
+Address(地址): 207.246.102.135
 
-Port（端口）: 61903
+Port（端口）: 62774
 
-UUID（用户id）: 491e1048-5b56-11ec-89b1-560003bbaee4
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/kAHqFdEy/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjQ4LjAuMTY1IiwNCiAgInBvcnQiOiAiNjE5MDMiLA0KICAiaWQiOiAiNDkxZTEwNDgtNWI1Ni0xMWVjLTg5YjEtNTYwMDAzYmJhZWU0IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIva0FIcUZkRXkvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-**洛杉矶2**：
-
-Address(地址): 149.28.72.127
-
-Port（端口）: 50893
-
-UUID（用户id）: 44281138-5b56-11ec-9d31-560003bbb04b
+UUID（用户id）: a58be63a-5bb4-11ec-8690-560003bbdb4e
 
 alterId（额外ID）: 0
 
@@ -72,11 +48,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/ihwlVSmC/
+路径：/lur38EQj/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcyIiwNCiAgImFkZCI6ICIxNDkuMjguNzIuMTI3IiwNCiAgInBvcnQiOiAiNTA4OTMiLA0KICAiaWQiOiAiNDQyODExMzgtNWI1Ni0xMWVjLTlkMzEtNTYwMDAzYmJiMDRiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvaWh3bFZTbUMvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2LjEwMi4xMzUiLA0KICAicG9ydCI6ICI2Mjc3NCIsDQogICJpZCI6ICJhNThiZTYzYS01YmI0LTExZWMtODY5MC01NjAwMDNiYmRiNGUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9sdXIzOEVRai8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
 **俄罗斯1**：
