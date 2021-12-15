@@ -123,24 +123,6 @@
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>德国</td>
-<td>139.162.236.79</td>
-<td>8099</td>
-<td>eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
-<td>aes-256-cfb</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>新加坡</td>
-<td>139.162.41.174</td>
-<td>8099</td>
-<td>eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
-<td>aes-256-cfb</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -163,10 +145,6 @@ ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0MC4xNjkuMTc2OjEwMDU1#https%3a%2
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjEzNy4xNTQuMjA4OjEwMDMz#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
 
 ss://cmM0LW1kNTpwYXNzaW5mbzEyM0A1OS4xMjUuMTEuMTU4OjgxNTg=#https%3a%2f%2fgit.io%2fv9999+%e5%8f%b0%e6%b9%beSS
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4yMzYuNzk6ODA5OQ==#https%3a%2f%2fgit.io%2fv9999+%e5%be%b7%e5%9b%bdSS
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi40MS4xNzQ6ODA5OQ==#https%3a%2f%2fgit.io%2fv9999+%e6%96%b0%e5%8a%a0%e5%9d%a1SS
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
