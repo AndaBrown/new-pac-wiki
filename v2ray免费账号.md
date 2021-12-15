@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月14日22点58分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月15日8点14分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -56,36 +56,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **洛杉矶1(websocket)**：
 
-Address(地址): 149.28.80.84
+Address(地址): 149.28.79.47
 
-Port（端口）: 42049
+Port（端口）: 63744
 
-UUID（用户id）: 1a8934f8-5cee-11ec-a23f-560003bcb5ca
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/j6vKUEkd/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjguODAuODQiLA0KICAicG9ydCI6ICI0MjA0OSIsDQogICJpZCI6ICIxYTg5MzRmOC01Y2VlLTExZWMtYTIzZi01NjAwMDNiY2I1Y2EiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9qNnZLVUVrZC8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
-
-**俄罗斯2(websocket)**：
-
-Address(地址): 185.22.153.144
-
-Port（端口）: 39187
-
-UUID（用户id）: 67832698-5ce3-11ec-bffd-fa9d027c894d
+UUID（用户id）: 5c7b78ca-5d3a-11ec-be5c-560003bcd9c1
 
 alterId（额外ID）: 0
 
@@ -97,11 +72,12 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/UZH2GdE6/
+路径：/reCRBW6w/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxODUuMjIuMTUzLjE0NCIsDQogICJwb3J0IjogIjM5MTg3IiwNCiAgImlkIjogIjY3ODMyNjk4LTVjZTMtMTFlYy1iZmZkLWZhOWQwMjdjODk0ZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1VaSDJHZEU2LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjguNzkuNDciLA0KICAicG9ydCI6ICI2Mzc0NCIsDQogICJpZCI6ICI1YzdiNzhjYS01ZDNhLTExZWMtYmU1Yy01NjAwMDNiY2Q5YzEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yZUNSQlc2dy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+
 
 
 **俄罗斯3(tcp)**：
@@ -127,56 +103,6 @@ host（伪装域名）：不填
 底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTQuMTU2LjEyMC41MiIsDQogICJwb3J0IjogIjQxMDAyIiwNCiAgImlkIjogImViYjkzZTg0LTViYjctMTFlYy04YmM2LTZhNWM2ZTA1NGU0ZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
-**俄罗斯4(websocket)**：
-
-Address(地址): 193.53.127.128
-
-Port（端口）: 22871
-
-UUID（用户id）: 7c79ab30-5ce3-11ec-8df9-0ad680052231
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/AWN7SrFB/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c0IiwNCiAgImFkZCI6ICIxOTMuNTMuMTI3LjEyOCIsDQogICJwb3J0IjogIjIyODcxIiwNCiAgImlkIjogIjdjNzlhYjMwLTVjZTMtMTFlYy04ZGY5LTBhZDY4MDA1MjIzMSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0FXTjdTckZCLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
-
-**俄罗斯5(websocket)**：
-
-Address(地址): 194.5.79.32
-
-Port（端口）: 64240
-
-UUID（用户id）: 1a7479f8-5ce6-11ec-a3c5-d22c8cd6f0c4
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/AQXR3H8O/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c1IiwNCiAgImFkZCI6ICIxOTQuNS43OS4zMiIsDQogICJwb3J0IjogIjY0MjQwIiwNCiAgImlkIjogIjFhNzQ3OWY4LTVjZTYtMTFlYy1hM2M1LWQyMmM4Y2Q2ZjBjNCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0FRWFIzSDhPLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
 
 
 
