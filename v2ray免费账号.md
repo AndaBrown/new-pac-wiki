@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月15日13点22分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月16日0点22分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -56,11 +56,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **洛杉矶1(websocket)**：
 
-Address(地址): 149.28.79.47
+Address(地址): 66.42.103.120
 
-Port（端口）: 63744
+Port（端口）: 13168
 
-UUID（用户id）: 5c7b78ca-5d3a-11ec-be5c-560003bcd9c1
+UUID（用户id）: 11313864-5dc1-11ec-bf54-560003bd2e14
 
 alterId（额外ID）: 0
 
@@ -72,12 +72,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/reCRBW6w/
+路径：/eiIRSHuL/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjguNzkuNDciLA0KICAicG9ydCI6ICI2Mzc0NCIsDQogICJpZCI6ICI1YzdiNzhjYS01ZDNhLTExZWMtYmU1Yy01NjAwMDNiY2Q5YzEiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9yZUNSQlc2dy8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI2Ni40Mi4xMDMuMTIwIiwNCiAgInBvcnQiOiAiMTMxNjgiLA0KICAiaWQiOiAiMTEzMTM4NjQtNWRjMS0xMWVjLWJmNTQtNTYwMDAzYmQyZTE0IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZWlJUlNIdUwvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
 **俄罗斯3(tcp)**：
@@ -104,54 +103,54 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTQuMTU2LjEyMC41MiIsDQogICJwb3J0IjogIjQxMDAyIiwNCiAgImlkIjogImViYjkzZTg0LTViYjctMTFlYy04YmM2LTZhNWM2ZTA1NGU0ZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯4(websocket)**：
+**俄罗斯4(tcp)**：
 
-Address(地址): 194.135.32.100
+Address(地址): 193.233.85.231
 
-Port（端口）: 17736
+Port（端口）: 37886
 
-UUID（用户id）: f0b94cb8-5d64-11ec-9f3f-1637e7a279b2
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/QoETN87w/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c0IiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjEwMCIsDQogICJwb3J0IjogIjE3NzM2IiwNCiAgImlkIjogImYwYjk0Y2I4LTVkNjQtMTFlYy05ZjNmLTE2MzdlN2EyNzliMiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1FvRVROODd3LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
-**俄罗斯5(websocket)**：
-
-Address(地址): 193.233.85.226
-
-Port（端口）: 24758
-
-UUID（用户id）: ec4e35ee-5d64-11ec-a957-7e88ef32b81a
+UUID（用户id）: b68fb196-5dc1-11ec-8499-eef33ecf39ba
 
 alterId（额外ID）: 0
 
 security（加密方式）: none
 
-network（传输协议）: ws
+network（传输协议）: tcp
 
 headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/uPe7SYWz/
+路径：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c1IiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjIyNiIsDQogICJwb3J0IjogIjI0NzU4IiwNCiAgImlkIjogImVjNGUzNWVlLTVkNjQtMTFlYy1hOTU3LTdlODhlZjMyYjgxYSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3VQZTdTWVd6LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c0IiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjIzMSIsDQogICJwb3J0IjogIjM3ODg2IiwNCiAgImlkIjogImI2OGZiMTk2LTVkYzEtMTFlYy04NDk5LWVlZjMzZWNmMzliYSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
+
+**俄罗斯5(tcp)**：
+
+Address(地址): 193.233.85.3
+
+Port（端口）: 45174
+
+UUID（用户id）: 14823120-5dc2-11ec-b398-3a571dcc9720
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: tcp
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：不填
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c1IiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjMiLA0KICAicG9ydCI6ICI0NTE3NCIsDQogICJpZCI6ICIxNDgyMzEyMC01ZGMyLTExZWMtYjM5OC0zYTU3MWRjYzk3MjAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 
 
