@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月15日8点14分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月15日13点22分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -103,6 +103,55 @@ host（伪装域名）：不填
 底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTQuMTU2LjEyMC41MiIsDQogICJwb3J0IjogIjQxMDAyIiwNCiAgImlkIjogImViYjkzZTg0LTViYjctMTFlYy04YmM2LTZhNWM2ZTA1NGU0ZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
+**俄罗斯4(websocket)**：
+
+Address(地址): 194.135.32.100
+
+Port（端口）: 17736
+
+UUID（用户id）: f0b94cb8-5d64-11ec-9f3f-1637e7a279b2
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：/QoETN87w/
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c0IiwNCiAgImFkZCI6ICIxOTQuMTM1LjMyLjEwMCIsDQogICJwb3J0IjogIjE3NzM2IiwNCiAgImlkIjogImYwYjk0Y2I4LTVkNjQtMTFlYy05ZjNmLTE2MzdlN2EyNzliMiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1FvRVROODd3LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
+**俄罗斯5(websocket)**：
+
+Address(地址): 193.233.85.226
+
+Port（端口）: 24758
+
+UUID（用户id）: ec4e35ee-5d64-11ec-a957-7e88ef32b81a
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：/uPe7SYWz/
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c1IiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjIyNiIsDQogICJwb3J0IjogIjI0NzU4IiwNCiAgImlkIjogImVjNGUzNWVlLTVkNjQtMTFlYy1hOTU3LTdlODhlZjMyYjgxYSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3VQZTdTWVd6LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
 
 
 
