@@ -103,30 +103,6 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTQuMTU2LjEyMC41MiIsDQogICJwb3J0IjogIjQxMDAyIiwNCiAgImlkIjogImViYjkzZTg0LTViYjctMTFlYy04YmM2LTZhNWM2ZTA1NGU0ZCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯4(websocket+TLS+Caddy)**：
-
-Address(地址): 100.v2rayfree1.xyz
-
-Port（端口）: 443
-
-UUID（用户id）: 0378bd47-edb1-4005-a827-cc356bbbdcb5
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：100.v2rayfree1.xyz
-
-路径：/ray
-
-底层传输安全：tls
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c0IiwNCiAgImFkZCI6ICIxMDAudjJyYXlmcmVlMS54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDM3OGJkNDctZWRiMS00MDA1LWE4MjctY2MzNTZiYmJkY2I1IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMDAudjJyYXlmcmVlMS54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
-
 
 **俄罗斯5(tcp)**：
 
