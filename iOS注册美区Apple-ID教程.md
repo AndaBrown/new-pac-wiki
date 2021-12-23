@@ -12,7 +12,11 @@
 
 **第一种方法：注册美区ID（无需翻墙）**
 
-[视频详细教程](https://www.youtube.com/watch?v=0hphAq3_yL8&ab_channel=%E6%B3%A2%E4%BB%94%E5%88%86%E4%BA%AB)（YouTube或[本地观看&下载1](https://tr201.free4444.xyz/freeAppleID.mp4) [本地观看&下载2](https://tr101.free4444.xyz/freeAppleID.mp4)） 
+视频详细教程：
+
+[YouTube](https://www.youtube.com/watch?v=0hphAq3_yL8&ab_channel=%E6%B3%A2%E4%BB%94%E5%88%86%E4%BA%AB)
+
+[本地观看&下载1](https://tr201.free4444.xyz/freeAppleID.mp4) [本地观看&下载2](https://tr101.free4444.xyz/freeAppleID.mp4)） 
 
 
 ***
