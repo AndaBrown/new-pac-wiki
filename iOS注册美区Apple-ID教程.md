@@ -22,7 +22,7 @@
 
 美国人地址生成器：https://www.meiguodizhi.com
 
-AppleID软件兑换码：https://store.appleid8.com
+AppleID软件兑换码：https://store.appleid8.com （网友提供）
 
 ***
 
