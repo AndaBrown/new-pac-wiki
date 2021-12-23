@@ -7,7 +7,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><strong>前言</strong>：注册美区/港区id成功后你可以下载很多的翻墙app， 一劳永逸 ， 虽然需要花费一些时间和精力来注册，但很值得。</p>
+<p><strong>前言</strong>：注册美区/港区id成功后你可以下载很多的翻墙app，比如Fair VPN（免费）、无界vpn（免费）、Shadowrocket、Potatso Lite、Potatso、wingy、Kitsunebi等，一劳永逸，虽然需要花费一些时间和精力来注册，但很值得。</p>
 <!-- /wp:paragraph -->
 
 
