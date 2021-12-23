@@ -101,7 +101,11 @@ AppleID软件兑换码：https://store.appleid8.com （网友提供）
 <p><strong>美国人信息生成器</strong>：<a href="http://www.shenfendaquan.com/" target="_blank" rel="noreferrer noopener" aria-label="http://www.shenfendaquan.com/（在新窗口打开）">http://www.shenfendaquan.com/</a></p>
 <!-- /wp:paragraph -->
 
-[视频教程](https://www.youtube.com/watch?v=nmdd-MFEu6k)（YouTube或[本地观看&下载1](https://tr101.free4444.xyz/Us-Apple-ID-registration-method.mp4) [本地观看&下载2](https://tr201.free4444.xyz/Us-Apple-ID-registration-method.mp4)） 
+[YouTube视频教程](https://www.youtube.com/watch?v=nmdd-MFEu6k) （需翻墙观看）
+
+[本地观看视频教程](https://tr101.free4444.xyz/Us-Apple-ID-registration-method.mp4) （无需翻墙观看，打开后右键选择“视频另存为”可下载视频）
+
+[本地观看视频教程](https://tr201.free4444.xyz/Us-Apple-ID-registration-method.mp4)（无需翻墙观看，打开后右键选择“视频另存为”可下载视频）
 
 <!-- wp:separator -->
 <hr class="wp-block-separator"/>
