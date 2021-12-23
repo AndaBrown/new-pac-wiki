@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><strong>2021年11月23日更新，增加注册港区ID方法（无需翻墙）。 </strong></p>
+<p><strong>2021年11月23日更新，增加注册美区ID方法（无需信用卡、无需翻墙）。 </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -10,9 +10,11 @@
 <p><strong>前言</strong>：注册美区/港区id成功后你可以下载很多的翻墙app，比如Fair VPN（免费）、无界vpn（免费）、Shadowrocket、Potatso Lite、Potatso、wingy、Kitsunebi等，一劳永逸，虽然需要花费一些时间和精力来注册，但很值得。</p>
 <!-- /wp:paragraph -->
 
+**第一种方法：注册美区ID（无需翻墙）**
 
+[视频详细教程](https://www.youtube.com/watch?v=0hphAq3_yL8&ab_channel=%E6%B3%A2%E4%BB%94%E5%88%86%E4%BA%AB)（YouTube或[本地观看&下载1](https://tr201.free4444.xyz/freeAppleID.mp4) [本地观看&下载2](https://tr101.free4444.xyz/freeAppleID.mp4)） 
 
-**第一种方法：注册港区ID（无需翻墙）**
+**第二种方法：注册港区ID（无需翻墙）**
 
 以下注册流程较繁琐，你也可以到第三方平台如：https://taohao.me/product/ 、https://fk.appledi.com/product/ 购买Apple ID。
 
@@ -77,7 +79,7 @@
 
 ***
 
-**第二种方法：注册美区ID（需翻墙）**
+**第三种方法：注册美区ID（需翻墙）**
 
 <!-- wp:paragraph -->
 <p><strong> 注册网址</strong>：<a href="http://appleid.apple.com ">appleid.apple.com </a></p>
