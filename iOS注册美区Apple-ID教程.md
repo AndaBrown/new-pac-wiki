@@ -20,6 +20,9 @@
 
 [本地观看视频教程](https://tr101.free4444.xyz/freeAppleID.mp4)（无需翻墙观看，打开后右键选择“视频另存为”可下载视频）
 
+美国人地址生成器：https://www.meiguodizhi.com
+
+AppleID软件兑换码：https://store.appleid8.com
 
 ***
 
