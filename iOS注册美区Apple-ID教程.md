@@ -24,13 +24,13 @@
 
 美国人地址生成器：https://www.meiguodizhi.com
 
-AppleID软件兑换码：https://store.appleid8.com （网友提供）
+AppleID软件兑换码：https://store.appleid8.com （网友分享网址）
 
 ***
 
 **第二种方法：注册港区ID（无需翻墙）**
 
-以下注册流程较繁琐，你也可以到第三方平台如：https://taohao.me/product/ 、https://fk.appledi.com/product/ 购买Apple ID。
+以下注册流程较繁琐，你也可以到第三方平台如：https://taohao.me/product （网友分享网址） 、https://fk.appledi.com/product （网友分享网址） 购买Apple ID。
 
 步骤一(浏览器操作)：
 
