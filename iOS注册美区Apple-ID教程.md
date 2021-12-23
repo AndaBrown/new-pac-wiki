@@ -18,7 +18,7 @@
 
 [本地观看视频教程](https://tr201.free4444.xyz/freeAppleID.mp4) （无需翻墙观看）
 
-[本地观看&下载2视频教程](https://tr101.free4444.xyz/freeAppleID.mp4)）（无需翻墙观看）
+[本地观看&下载2视频教程](https://tr101.free4444.xyz/freeAppleID.mp4)（无需翻墙观看）
 
 
 ***
