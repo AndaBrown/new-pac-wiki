@@ -80,30 +80,6 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTUuMTMzLjUzLjE5MiIsDQogICJwb3J0IjogIjI3MTgyIiwNCiAgImlkIjogImEyMmRmMmVjLTYyMDAtMTFlYy05MDcwLWZlY2NjYzIzMzNkYyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0FtclRDdGJrLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**洛杉矶1(websocket)**：
-
-Address(地址): 144.202.115.63
-
-Port（端口）: 22801
-
-UUID（用户id）: f3a190d8-647c-11ec-aac0-560003c12361
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/HoWDtc4B/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDQuMjAyLjExNS42MyIsDQogICJwb3J0IjogIjIyODAxIiwNCiAgImlkIjogImYzYTE5MGQ4LTY0N2MtMTFlYy1hYWMwLTU2MDAwM2MxMjM2MSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0hvV0R0YzRCLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
 
 **俄罗斯3(tcp)**：
 
