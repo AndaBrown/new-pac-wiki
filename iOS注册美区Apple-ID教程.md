@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><strong>2021年11月26日更新注册美区ID方法图文教程。 </strong></p>
+<p><strong>2021年11月26日更新注册美区ID图文教程。 </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
