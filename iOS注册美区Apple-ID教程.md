@@ -93,3 +93,5 @@ AppleID软件兑换码：https://store.appleid8.com （网友分享网址）
 原文地址：https://oneclick.earth/help/appleid.html
 
 ***
+
+如果有更好的注册苹果国外ID教程，欢迎投稿至海外邮箱kebi2014@gmail.com
