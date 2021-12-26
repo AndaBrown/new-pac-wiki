@@ -10,7 +10,7 @@
 <p><strong>前言</strong>：注册美区/港区id成功后你可以下载很多的翻墙app，比如Fair VPN（免费）、无界vpn（免费）、Shadowrocket、Potatso Lite、Potatso、wingy、Kitsunebi等，一劳永逸，虽然需要花费一些时间和精力来注册，但很值得。</p>
 <!-- /wp:paragraph -->
 
-**第一种方法：注册美区ID（无需翻墙）**
+**第一种方法：注册美区ID（无需翻墙、无需信用卡）**
 
 视频详细教程：
 
@@ -30,7 +30,7 @@ AppleID软件兑换码：https://store.appleid8.com （网友分享网址）
 
 ***
 
-**第二种方法：注册港区ID（无需翻墙）**
+**第二种方法：注册港区ID（无需翻墙、无需信用卡）**
 
 以下注册流程较繁琐，你也可以到第三方平台如：https://taohao.me/product （网友分享网址） 、https://fk.appledi.com/product （网友分享网址） 购买Apple ID。
 
