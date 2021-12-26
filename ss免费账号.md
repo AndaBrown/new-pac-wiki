@@ -132,15 +132,6 @@
 <td></td>
 <td></td>
 </tr>
-<tr>
-<td>香港</td>
-<td>117.28.242.137</td>
-<td>9359</td>
-<td>73117962</td>
-<td>aes-256-cfb</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -166,7 +157,6 @@ ss://cmM0LW1kNTpwYXNzaW5mbzEyM0A1OS4xMjUuMTEuMTU4OjgxNTg=#https%3a%2f%2fgit.io%2
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE0Mi40LjEyMy4xNzE6MTAwMjI=#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b66+SS
 
-ss://YWVzLTI1Ni1jZmI6NzMxMTc5NjJAMTE3LjI4LjI0Mi4xMzc6OTM1OQ==#https%3a%2f%2fgit.io%2fv9999+%e9%a6%99%e6%b8%af
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
