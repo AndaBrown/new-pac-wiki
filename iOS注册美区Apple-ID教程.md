@@ -20,7 +20,7 @@
 
 [本地观看视频教程](https://tr101.free4444.xyz/freeAppleID.mp4)（无需翻墙观看，打开后右键选择“视频另存为”可下载视频）
 
-图文教程：https://iyuantiao.com/fenxiangfuli/jiaocheng/tiktok-3.html
+**图文教程**：https://iyuantiao.com/fenxiangfuli/jiaocheng/tiktok-3.html
 
 注册网址：https://appleid.apple.com
 
