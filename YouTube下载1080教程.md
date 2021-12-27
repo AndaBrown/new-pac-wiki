@@ -8,8 +8,6 @@
 
 其它网站：https://yout.com
 
-其它网站：https://www.youtubemy.com
-
 其它网站：https://yt1s.com/zh-cn7
 
 其它网站：https://v.hi.sy
