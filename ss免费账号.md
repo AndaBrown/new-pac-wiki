@@ -44,15 +44,6 @@
 <tbody>
 <tr>
 <tr>
-<td>韩国</td>
-<td>141.164.35.54</td>
-<td>12345</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>洛杉矶1</td>
 <td>85.209.158.210</td>
 <td>30033</td>
@@ -164,8 +155,6 @@
 </table>
 
 SSR链接：
-
-ssr://MTQxLjE2NC4zNS41NDoxMjM0NTphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz02Wi1wNVp1OVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr
 
 ssr://ODUuMjA5LjE1OC4yMTA6MzAwMzM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
