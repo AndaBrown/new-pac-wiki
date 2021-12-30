@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2021年12月30日13点20分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2021年12月30日14点18分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -54,13 +54,13 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTUuMTMzLjUzLjE5MiIsDQogICJwb3J0IjogIjI3MTgyIiwNCiAgImlkIjogImEyMmRmMmVjLTYyMDAtMTFlYy05MDcwLWZlY2NjYzIzMzNkYyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0FtclRDdGJrLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**韩国1(websocket)**：
+**洛杉矶1(websocket)**：
 
-Address(地址): 158.247.207.38
+Address(地址): 66.42.103.1
 
-Port（端口）: 13957
+Port（端口）: 50890
 
-UUID（用户id）: c56f30da-692c-11ec-a0fb-560003c3f4db
+UUID（用户id）: 11365a2e-6938-11ec-9b3d-560003c3fd49
 
 alterId（额外ID）: 0
 
@@ -72,12 +72,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/cmSbJ3d0/
+路径：/5YpZGAg8/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOmfqeWbvWcxIiwNCiAgImFkZCI6ICIxNTguMjQ3LjIwNy4zOCIsDQogICJwb3J0IjogIjEzOTU3IiwNCiAgImlkIjogImM1NmYzMGRhLTY5MmMtMTFlYy1hMGZiLTU2MDAwM2MzZjRkYiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2NtU2JKM2QwLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICI2Ni40Mi4xMDMuMSIsDQogICJwb3J0IjogIjUwODkwIiwNCiAgImlkIjogIjExMzY1YTJlLTY5MzgtMTFlYy05YjNkLTU2MDAwM2MzZmQ0OSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzVZcFpHQWc4LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 **俄罗斯3(tcp)**：
 
