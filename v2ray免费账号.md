@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月5日9点22分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月75日9点24分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **俄罗斯1(websocket)**：
 
-Address(地址): 2.59.214.31
+Address(地址): 193.53.127.130
 
-Port（端口）: 19728
+Port（端口）: 41466
 
-UUID（用户id）: 89deac92-6dc5-11ec-ba49-e2280b6e96c4
+UUID（用户id）: 2c0845da-6f58-11ec-9e36-3a2f2f7ff3bb
 
 alterId（额外ID）: 0
 
@@ -48,11 +48,12 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/gALSk8KH/
+路径：/1T269M5v/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIyLjU5LjIxNC4zMSIsDQogICJwb3J0IjogIjE5NzI4IiwNCiAgImlkIjogIjg5ZGVhYzkyLTZkYzUtMTFlYy1iYTQ5LWUyMjgwYjZlOTZjNCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2dBTFNrOEtILyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTMuNTMuMTI3LjEzMCIsDQogICJwb3J0IjogIjQxNDY2IiwNCiAgImlkIjogIjJjMDg0NWRhLTZmNTgtMTFlYy05ZTM2LTNhMmYyZjdmZjNiYiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzFUMjY5TTV2LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
 
 
 **洛杉矶1(websocket)**：
