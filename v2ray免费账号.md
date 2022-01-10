@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月8日8点33分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月10日9点53分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **俄罗斯1(websocket)**：
 
-Address(地址): 193.38.50.176
+Address(地址): 193.53.127.192
 
-Port（端口）: 11014
+Port（端口）: 46406
 
-UUID（用户id）: 48272da2-7017-11ec-a093-ba74f0b557b9
+UUID（用户id）: a3a6aa9e-71b7-11ec-92b7-929dfdf06baa
 
 alterId（额外ID）: 0
 
@@ -48,20 +48,20 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/h4e3ElaB/
+路径：/1qn4wIWp/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTMuMzguNTAuMTc2IiwNCiAgInBvcnQiOiAiMTEwMTQiLA0KICAiaWQiOiAiNDgyNzJkYTItNzAxNy0xMWVjLWEwOTMtYmE3NGYwYjU1N2I5IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvaDRlM0VsYUIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTMuNTMuMTI3LjE5MiIsDQogICJwb3J0IjogIjQ2NDA2IiwNCiAgImlkIjogImEzYTZhYTllLTcxYjctMTFlYy05MmI3LTkyOWRmZGYwNmJhYSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzFxbjR3SVdwLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 
 **洛杉矶1(websocket)**：
 
-Address(地址): 149.28.92.168
+Address(地址): 207.246.96.45
 
-Port（端口）: 62319
+Port（端口）: 35305
 
-UUID（用户id）: 82c412e6-7016-11ec-a0cd-560003c7f514
+UUID（用户id）: eeb0f7ac-71b6-11ec-8333-560003c929d9
 
 alterId（额外ID）: 0
 
@@ -73,11 +73,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/p9O2NbAH/
+路径：/Y7wFIOps/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIxNDkuMjguOTIuMTY4IiwNCiAgInBvcnQiOiAiNjIzMTkiLA0KICAiaWQiOiAiODJjNDEyZTYtNzAxNi0xMWVjLWEwY2QtNTYwMDAzYzdmNTE0IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcDlPMk5iQUgvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2Ljk2LjQ1IiwNCiAgInBvcnQiOiAiMzUzMDUiLA0KICAiaWQiOiAiZWViMGY3YWMtNzFiNi0xMWVjLTgzMzMtNTYwMDAzYzkyOWQ5IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvWTd3RklPcHMvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
 **俄罗斯3(tcp)**：
