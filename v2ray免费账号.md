@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月10日9点53分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月10日16点53分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -80,30 +80,29 @@ host（伪装域名）：不填
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2Ljk2LjQ1IiwNCiAgInBvcnQiOiAiMzUzMDUiLA0KICAiaWQiOiAiZWViMGY3YWMtNzFiNi0xMWVjLTgzMzMtNTYwMDAzYzkyOWQ5IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvWTd3RklPcHMvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
-**俄罗斯3(tcp)**：
+**俄罗斯3(websocket)**：
 
-Address(地址): 2.56.241.51
+Address(地址): 2.56.241.149
 
-Port（端口）: 15962
+Port（端口）: 58537
 
-UUID（用户id）: e3efeede-7019-11ec-b7c6-aaaf27d81b24
+UUID（用户id）: 5e59fae6-71f2-11ec-9215-7a6e5511646d
 
 alterId（额外ID）: 0
 
 security（加密方式）: none
 
-network（传输协议）: tcp
+network（传输协议）: ws
 
 headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：不填
+路径：/4pbJ0IoA/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIyLjU2LjI0MS41MSIsDQogICJwb3J0IjogIjE1OTYyIiwNCiAgImlkIjogImUzZWZlZWRlLTcwMTktMTFlYy1iN2M2LWFhYWYyN2Q4MWIyNCIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIyLjU2LjI0MS4xNDkiLA0KICAicG9ydCI6ICI1ODUzNyIsDQogICJpZCI6ICI1ZTU5ZmFlNi03MWYyLTExZWMtOTIxNS03YTZlNTUxMTY0NmQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi80cGJKMElvQS8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 
 **俄罗斯5(tcp)**：
 
