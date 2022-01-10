@@ -57,7 +57,7 @@
 <td>2.56.240.246</td>
 <td>56789</td>
 <td>dongtaiwang.com</td>
-<td>none</td>
+<td>rc4</td>
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
 </tr>
