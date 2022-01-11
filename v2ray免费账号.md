@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月10日16点53分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月11日10点40分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **俄罗斯1(websocket)**：
 
-Address(地址): 193.53.127.192
+Address(地址): 193.42.114.222
 
-Port（端口）: 46406
+Port（端口）: 48186
 
-UUID（用户id）: a3a6aa9e-71b7-11ec-92b7-929dfdf06baa
+UUID（用户id）: 29c30ab2-7287-11ec-9c16-ce1d3620cfe6
 
 alterId（额外ID）: 0
 
@@ -48,11 +48,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/1qn4wIWp/
+路径：/hjX8I1VS/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTMuNTMuMTI3LjE5MiIsDQogICJwb3J0IjogIjQ2NDA2IiwNCiAgImlkIjogImEzYTZhYTllLTcxYjctMTFlYy05MmI3LTkyOWRmZGYwNmJhYSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzFxbjR3SVdwLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cxIiwNCiAgImFkZCI6ICIxOTMuNDIuMTE0LjIyMiIsDQogICJwb3J0IjogIjQ4MTg2IiwNCiAgImlkIjogIjI5YzMwYWIyLTcyODctMTFlYy05YzE2LWNlMWQzNjIwY2ZlNiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2hqWDhJMVZTLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
 
 **洛杉矶1(websocket)**：
@@ -80,31 +80,31 @@ host（伪装域名）：不填
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmcxIiwNCiAgImFkZCI6ICIyMDcuMjQ2Ljk2LjQ1IiwNCiAgInBvcnQiOiAiMzUzMDUiLA0KICAiaWQiOiAiZWViMGY3YWMtNzFiNi0xMWVjLTgzMzMtNTYwMDAzYzkyOWQ5IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvWTd3RklPcHMvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 
 
-**俄罗斯3(websocket)**：
+**俄罗斯2(tcp)**：
 
-Address(地址): 2.56.241.149
+Address(地址): 194.147.33.186
 
-Port（端口）: 58537
+Port（端口）: 29078
 
-UUID（用户id）: 5e59fae6-71f2-11ec-9215-7a6e5511646d
+UUID（用户id）: 37c3b288-7287-11ec-ab53-62ada0aaad7c
 
 alterId（额外ID）: 0
 
 security（加密方式）: none
 
-network（传输协议）: ws
+network（传输协议）: tcp
 
 headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/4pbJ0IoA/
+路径：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIyLjU2LjI0MS4xNDkiLA0KICAicG9ydCI6ICI1ODUzNyIsDQogICJpZCI6ICI1ZTU5ZmFlNi03MWYyLTExZWMtOTIxNS03YTZlNTUxMTY0NmQiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi80cGJKMElvQS8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTQuMTQ3LjMzLjE4NiIsDQogICJwb3J0IjogIjI5MDc4IiwNCiAgImlkIjogIjM3YzNiMjg4LTcyODctMTFlYy1hYjUzLTYyYWRhMGFhYWQ3YyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 
-**俄罗斯5(tcp)**：
+**俄罗斯3(tcp)**：
 
 Address(地址): 193.233.85.3
 
@@ -126,7 +126,8 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2c1IiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjMiLA0KICAicG9ydCI6ICI0NTE3NCIsDQogICJpZCI6ICIxNDgyMzEyMC01ZGMyLTExZWMtYjM5OC0zYTU3MWRjYzk3MjAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjMiLA0KICAicG9ydCI6ICI0NTE3NCIsDQogICJpZCI6ICIxNDgyMzEyMC01ZGMyLTExZWMtYjM5OC0zYTU3MWRjYzk3MjAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
