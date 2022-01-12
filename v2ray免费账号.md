@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月12日8点23分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月12日8点42分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -82,11 +82,11 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **俄罗斯2(tcp)**：
 
-Address(地址): 194.147.33.186
+Address(地址): 91.206.92.172
 
-Port（端口）: 29078
+Port（端口）: 24969
 
-UUID（用户id）: 37c3b288-7287-11ec-ab53-62ada0aaad7c
+UUID（用户id）: 0df78254-7340-11ec-8445-a22ea1e26978
 
 alterId（额外ID）: 0
 
@@ -102,15 +102,16 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTQuMTQ3LjMzLjE4NiIsDQogICJwb3J0IjogIjI5MDc4IiwNCiAgImlkIjogIjM3YzNiMjg4LTcyODctMTFlYy1hYjUzLTYyYWRhMGFhYWQ3YyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICI5MS4yMDYuOTIuMTcyIiwNCiAgInBvcnQiOiAiMjQ5NjkiLA0KICAiaWQiOiAiMGRmNzgyNTQtNzM0MC0xMWVjLTg0NDUtYTIyZWExZTI2OTc4IiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+
 
 **俄罗斯3(tcp)**：
 
-Address(地址): 193.233.85.3
+Address(地址): 193.233.85.160
 
-Port（端口）: 45174
+Port（端口）: 16860
 
-UUID（用户id）: 14823120-5dc2-11ec-b398-3a571dcc9720
+UUID（用户id）: fd7fed0a-733d-11ec-b8d7-7edf30cc9d51
 
 alterId（额外ID）: 0
 
@@ -126,7 +127,8 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjMiLA0KICAicG9ydCI6ICI0NTE3NCIsDQogICJpZCI6ICIxNDgyMzEyMC01ZGMyLTExZWMtYjM5OC0zYTU3MWRjYzk3MjAiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2czIiwNCiAgImFkZCI6ICIxOTMuMjMzLjg1LjE2MCIsDQogICJwb3J0IjogIjE2ODYwIiwNCiAgImlkIjogImZkN2ZlZDBhLTczM2QtMTFlYy1iOGQ3LTdlZGYzMGNjOWQ1MSIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+
 
 
 
