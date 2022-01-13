@@ -72,8 +72,8 @@
 </tr>
 <tr>
 <td>俄罗斯2</td>
-<td>2.56.240.110</td>
-<td>12345</td>
+<td>2.56.241.234 </td>
+<td>10022</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
