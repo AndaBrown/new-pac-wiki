@@ -116,15 +116,6 @@
 <td></td>
 </tr>
 <tr>
-<td>俄罗斯4</td>
-<td>45.140.169.176</td>
-<td>10055</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>俄罗斯5</td>
 <td>45.137.154.208</td>
 <td>10033</td>
