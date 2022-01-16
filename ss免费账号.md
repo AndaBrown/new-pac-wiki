@@ -89,15 +89,6 @@
 <td></td>
 </tr>
 <tr>
-<td>俄罗斯3</td>
-<td>193.53.126.182</td>
-<td>10022</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>洛杉矶4</td>
 <td>23.19.26.246</td>
 <td>10515</td>
@@ -138,8 +129,6 @@ ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIwOS4yMDkuMTEyLjY6MTIzNDU=#https%3a%2f%2fgit.io%2fv9999+%e8%be%be%e6%8b%89%e6%96%afSS
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTYuMjQxLjIzNDoxMDAyMg==#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
-
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My41My4xMjYuMTgyOjEwMDIy#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0NjoxMDUxNQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
 
