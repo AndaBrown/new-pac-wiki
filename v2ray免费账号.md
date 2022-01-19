@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月18日9点02分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月19日10点36分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 
@@ -32,11 +32,11 @@
 
 **韩国(websocket)**：
 
-Address(地址): 141.164.63.10
+Address(地址): 141.164.48.78
 
-Port（端口）: 63208
+Port（端口）: 25121
 
-UUID（用户id）: 339e05e6-766f-11ec-9967-560003cc0251
+UUID（用户id）: 45151852-78cf-11ec-bdbf-560003cde138
 
 alterId（额外ID）: 0
 
@@ -48,11 +48,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/ENw1qcSp/
+路径：/2DvQoEnR/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOmfqeWbvWciLA0KICAiYWRkIjogIjE0MS4xNjQuNjMuMTAiLA0KICAicG9ydCI6ICI2MzIwOCIsDQogICJpZCI6ICIzMzllMDVlNi03NjZmLTExZWMtOTk2Ny01NjAwMDNjYzAyNTEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9FTncxcWNTcC8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOmfqeWbvWciLA0KICAiYWRkIjogIjE0MS4xNjQuNDguNzgiLA0KICAicG9ydCI6ICIyNTEyMSIsDQogICJpZCI6ICI0NTE1MTg1Mi03OGNmLTExZWMtYmRiZi01NjAwMDNjZGUxMzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8yRHZRb0VuUi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 
 
 **俄罗斯(tcp)**：
@@ -83,9 +83,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 Address(地址): 209.209.112.124
 
-Port（端口）: 59655
+Port（端口）: 37921
 
-UUID（用户id）: a3a71684-766f-11ec-9bdf-621da891c0e2
+UUID（用户id）: 340bcd22-78ce-11ec-8e03-621da891c0e2
 
 alterId（额外ID）: 0
 
@@ -101,7 +101,7 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjIwOS4yMDkuMTEyLjEyNCIsDQogICJwb3J0IjogIjU5NjU1IiwNCiAgImlkIjogImEzYTcxNjg0LTc2NmYtMTFlYy05YmRmLTYyMWRhODkxYzBlMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjIwOS4yMDkuMTEyLjEyNCIsDQogICJwb3J0IjogIjM3OTIxIiwNCiAgImlkIjogIjM0MGJjZDIyLTc4Y2UtMTFlYy04ZTAzLTYyMWRhODkxYzBlMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
