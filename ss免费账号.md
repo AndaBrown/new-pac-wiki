@@ -19,7 +19,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年1月20日11点30分账号维护，所有账号都正常。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年1月20日12点22分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 
 
@@ -82,7 +82,7 @@
 <tr>
 <td>俄罗斯2</td>
 <td>2.56.241.234 </td>
-<td>10022</td>
+<td>10088</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
@@ -91,7 +91,7 @@
 <tr>
 <td>洛杉矶4</td>
 <td>23.19.26.246</td>
-<td>10515</td>
+<td>20088</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
@@ -100,7 +100,7 @@
 <tr>
 <td>俄罗斯5</td>
 <td>45.137.154.208</td>
-<td>10033</td>
+<td>10088</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
@@ -119,11 +119,11 @@ ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIwOS4yMDkuMTEyLjY6MTIzNDU=#https%3a%2f%2fgit.io%2fv9999+%e8%be%be%e6%8b%89%e6%96%afSS
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTYuMjQxLjIzNDoxMDAyMg==#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTYuMjQxLjIzNDoxMDA4OA==#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0NjoxMDUxNQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0NjoyMDA4OA==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjEzNy4xNTQuMjA4OjEwMDMz#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjEzNy4xNTQuMjA4OjEwMDg4#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS
 
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
