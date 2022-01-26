@@ -20,7 +20,7 @@
 
 **北京时间2022年1月13日21点23分更新账号。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
-备用网址：https://tr1.freeair888.club/Goflyway免费账号 
+备用网址：https://tr1.freeair888.club/Goflyway免费账号 （记得前面加https）
 
 备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/Goflyway免费账号 
 
