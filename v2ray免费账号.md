@@ -22,7 +22,7 @@
 
 **祝所有网友新年快乐！牛年大吉！平平安安！**
 
-**北京时间2022年1月26日15点09分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月29日19点27分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
@@ -30,30 +30,6 @@
 备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/v2ray免费账号
 
 ***
-
-**韩国(websocket)**：
-
-Address(地址): 158.247.196.49
-
-Port（端口）: 29532
-
-UUID（用户id）: 5142ba42-7e76-11ec-94ed-560003d1cab5
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/3sy6pAIJ/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOmfqeWbvWciLA0KICAiYWRkIjogIjE1OC4yNDcuMTk2LjQ5IiwNCiAgInBvcnQiOiAiMjk1MzIiLA0KICAiaWQiOiAiNTE0MmJhNDItN2U3Ni0xMWVjLTk0ZWQtNTYwMDAzZDFjYWI1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvM3N5NnBBSUovIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 
 **俄罗斯(tcp)**：
