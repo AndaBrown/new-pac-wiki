@@ -31,13 +31,7 @@
 
 **祝所有网友新年快乐！牛年大吉！平平安安！**
 
-**北京时间2022年1月29日：云端更新集合版浏览器clash工具ip1、ip5，按照使用说明运行ip更新文件即可同步。**
-
-......
-
-**北京时间2022年1月17日：云端更新集合版浏览器clash工具ip1、ip5，v2ray工具ip1、ip2，按照使用说明运行ip更新文件即可同步。**
-
-**北京时间2022年1月16日：云端更新集合版浏览器v2ray工具ip1、ip3、ip4，SS-plugin工具ip1、ip2，clash工具ip2、ip3、ip4，按照使用说明运行ip更新文件即可同步。**
+**预告：2022年中国新年期间，新唐人电视台将于大年三十（1月31日）晚上开始独家播出“新唐人全球华人新年晚会——神韵晚会”。大陆用户请通过卫星天线或翻墙软件(自由门,无界,爱博电视)观看。每年都是全新的节目。[低频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150) [中频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800) [神韵2022预告片](https://www.youtube.com/watch?v=hm1OG6bCz9E&ab_channel=ShenYunOfficialAccount) [神韵官网](https://zh-cn.shenyun.org/) **
 
 **提醒**：win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看如果无法自动启动谷歌浏览器，打开电脑任务管理器，将“Google Chrome”后台进程结束，重新启动代理工具即可。
 
