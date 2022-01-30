@@ -24,7 +24,7 @@
 
 **最新预告：2022年中国新年期间，新唐人电视台将于大年三十（1月31日）晚上开始独家播出“新唐人全球华人新年晚会——神韵晚会”。北京时间1月31日首播20:00-23:00,2月1日重播9:00-14:00。大陆用户请通过翻墙软件(自由门,无界,爱博电视)观看。每年都是全新的节目** [低频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150) [中频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800) （注:大陆用户看神韵晚会必须通过自由门或无界或爱博电视软件才能观看，国外用户需要购票到现场观看）[神韵2022预告片](https://www.youtube.com/watch?v=hm1OG6bCz9E&ab_channel=ShenYunOfficialAccount) [神韵官网](https://zh-cn.shenyun.org/) 
 
-**北京时间2022年1月29日19点27分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年1月30日10点57分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
@@ -57,6 +57,31 @@ host（伪装域名）：不填
 底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTUuMTMzLjUzLjg4IiwNCiAgInBvcnQiOiAiMjU5NjQiLA0KICAiaWQiOiAiYmE5M2U1NmMtNzdmOS0xMWVjLWFmNDMtZDJlOGI0YzNhNzVhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+
+
+**韩国(kcp)**：
+
+Address(地址): 158.247.217.172
+
+Port（端口）: 15952
+
+UUID（用户id）: b7444f96-8177-11ec-a5dc-560003d35125
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: kcp
+
+headerType（伪装类型）: wechat-video
+
+host（伪装域名）：不填
+
+路径：不填
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOmfqeWbvWciLA0KICAiYWRkIjogIjE1OC4yNDcuMjE3LjE3MiIsDQogICJwb3J0IjogIjE1OTUyIiwNCiAgImlkIjogImI3NDQ0Zjk2LTgxNzctMTFlYy1hNWRjLTU2MDAwM2QzNTEyNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAia2NwIiwNCiAgInR5cGUiOiAid2VjaGF0LXZpZGVvIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 **达拉斯(websocket)**：
 
