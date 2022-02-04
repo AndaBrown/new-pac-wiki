@@ -25,8 +25,6 @@
 
 备用网址：https://tr1.freeair888.club/ss免费账号 （记得前面加https）
 
-备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/ss免费账号 
-
 ***
 
 有协议和混淆内容的账号是SSR账号，需要使用SSR客户端。有aes-256-gcm加密方式的账号是SS账号，需要使用SS客户端。
