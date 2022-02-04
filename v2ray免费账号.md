@@ -27,8 +27,6 @@
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
 
-备用网址：https://hub.fastgit.org/Alvin9999/new-pac/wiki/v2ray免费账号
-
 ***
 
 
