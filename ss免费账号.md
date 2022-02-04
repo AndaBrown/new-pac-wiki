@@ -21,7 +21,7 @@
 
 **祝所有网友新年快乐！牛年大吉！平平安安！**
 
-**北京时间2022年1月29日19点15分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年2月4日19点52分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 （记得前面加https）
 
@@ -64,15 +64,6 @@
 <tr>
 <td>洛杉矶2</td>
 <td>lg1.free4444.xyz</td>
-<td>443</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
-<td>韩国</td>
-<td>kr4.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
@@ -125,8 +116,6 @@ ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 ssr://cnUxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
-
-ssr://a3I0LmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrZzZaLXA1WnU5VTFOUw
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIwOS4yMDkuMTEyLjY6MTIzNDU=#https%3a%2f%2fgit.io%2fv9999+%e8%be%be%e6%8b%89%e6%96%afSS
 
