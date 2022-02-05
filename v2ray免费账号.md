@@ -22,7 +22,7 @@
 
 **祝所有网友新年快乐！虎年大吉！平平安安！**
 
-**北京时间2022年2月5日18点20分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年2月5日19点21分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
@@ -54,30 +54,6 @@ host（伪装域名）：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjIwOS4yMDkuMTEyLjEyNCIsDQogICJwb3J0IjogIjMwMDIyIiwNCiAgImlkIjogIjBhZDFlOTRhLTc5OTctMTFlYy1hYmIzLTYyMWRhODkxYzBlMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL25xRU43OVJkLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
-
-**洛杉矶(websocket)**：
-
-Address(地址): 45.77.126.253
-
-Port（端口）: 10011
-
-UUID（用户id）: bb2d83d6-85c1-11ec-a73c-560003d60384
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: ws
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：/lKiGR3tx/
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjQ1Ljc3LjEyNi4yNTMiLA0KICAicG9ydCI6ICIxMDAxMSIsDQogICJpZCI6ICJiYjJkODNkNi04NWMxLTExZWMtYTczYy01NjAwMDNkNjAzODQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9sS2lHUjN0eC8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 
 
 
