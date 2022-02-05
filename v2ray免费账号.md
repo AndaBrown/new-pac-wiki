@@ -22,37 +22,12 @@
 
 **祝所有网友新年快乐！牛年大吉！平平安安！**
 
-**北京时间2022年2月4日21点55分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年2月5日18点20分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
 
 ***
-
-
-**俄罗斯(tcp)**：
-
-Address(地址): 195.133.53.88
-
-Port（端口）: 30022
-
-UUID（用户id）: ba93e56c-77f9-11ec-af43-d2e8b4c3a75a
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOS/hOe9l+aWr2cyIiwNCiAgImFkZCI6ICIxOTUuMTMzLjUzLjg4IiwNCiAgInBvcnQiOiAiMzAwMjIiLA0KICAiaWQiOiAiYmE5M2U1NmMtNzdmOS0xMWVjLWFmNDMtZDJlOGI0YzNhNzVhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 
 **达拉斯(websocket)**：
@@ -84,7 +59,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 Address(地址): 45.77.126.253
 
-Port（端口）: 37063
+Port（端口）: 10011
 
 UUID（用户id）: bb2d83d6-85c1-11ec-a73c-560003d60384
 
@@ -102,7 +77,8 @@ host（伪装域名）：不填
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftiIsDQogICJhZGQiOiAiNDUuNzcuMTI2LjI1MyIsDQogICJwb3J0IjogIjM3MDYzIiwNCiAgImlkIjogImJiMmQ4M2Q2LTg1YzEtMTFlYy1hNzNjLTU2MDAwM2Q2MDM4NCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2xLaUdSM3R4LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa0m+adieeftmciLA0KICAiYWRkIjogIjQ1Ljc3LjEyNi4yNTMiLA0KICAicG9ydCI6ICIxMDAxMSIsDQogICJpZCI6ICJiYjJkODNkNi04NWMxLTExZWMtYTczYy01NjAwMDNkNjAzODQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi9sS2lHUjN0eC8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
