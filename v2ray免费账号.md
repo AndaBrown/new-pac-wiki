@@ -22,7 +22,7 @@
 
 **祝所有网友新年快乐！虎年大吉！平平安安！**
 
-**北京时间2022年2月5日19点21分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年2月6日7点56分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
@@ -32,11 +32,11 @@
 
 **达拉斯(websocket)**：
 
-Address(地址): 209.209.112.124
+Address(地址): 193.233.207.120
 
-Port（端口）: 30022
+Port（端口）: 37003
 
-UUID（用户id）: 0ad1e94a-7997-11ec-abb3-621da891c0e2
+UUID（用户id）: 82dff090-86de-11ec-a27c-06bd3938fac9
 
 alterId（额外ID）: 0
 
@@ -48,12 +48,11 @@ headerType（伪装类型）: none
 
 host（伪装域名）：不填
 
-路径：/nqEN79Rd/
+路径：/LgayWte8/
 
 底层传输安全：不填
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjIwOS4yMDkuMTEyLjEyNCIsDQogICJwb3J0IjogIjMwMDIyIiwNCiAgImlkIjogIjBhZDFlOTRhLTc5OTctMTFlYy1hYmIzLTYyMWRhODkxYzBlMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL25xRU43OVJkLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjE5My4yMzMuMjA3LjEyMCIsDQogICJwb3J0IjogIjM3MDAzIiwNCiAgImlkIjogIjgyZGZmMDkwLTg2ZGUtMTFlYy1hMjdjLTA2YmQzOTM4ZmFjOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL0xnYXlXdGU4LyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
 
 
