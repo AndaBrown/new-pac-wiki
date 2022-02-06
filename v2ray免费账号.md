@@ -29,8 +29,6 @@
 
 ***
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My4yMzMuMjA3LjEyMDoxMjM0NQ==#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e4%bf%84%e7%bd%97%e6%96%afg
-
 **达拉斯**：
 
 Address(地址): 193.233.207.120
@@ -54,6 +52,8 @@ host（伪装域名）：不填
 底层传输安全：不填
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjE5My4yMzMuMjA3LjEyMCIsDQogICJwb3J0IjogIjMwODc5IiwNCiAgImlkIjogIjZhNGNmMWI0LTg2ZWMtMTFlYy1hNGIyLTA2YmQzOTM4ZmFjOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My4yMzMuMjA3LjEyMDoxMjM0NQ==#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e4%bf%84%e7%bd%97%e6%96%afg
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
