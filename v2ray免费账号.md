@@ -22,7 +22,7 @@
 
 **祝所有网友新年快乐！虎年大吉！平平安安！**
 
-**北京时间2022年2月6日9点32分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2022年2月6日10点15分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号 （记得前面加https）
@@ -30,6 +30,30 @@
 ***
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My4yMzMuMjA3LjEyMDoxMjM0NQ==#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e4%bf%84%e7%bd%97%e6%96%afg
+
+**达拉斯**：
+
+Address(地址): 193.233.207.120
+
+Port（端口）: 30879
+
+UUID（用户id）: 6a4cf1b4-86ec-11ec-a4b2-06bd3938fac9
+
+alterId（额外ID）: 0
+
+security（加密方式）: none
+
+network（传输协议）: tcp
+
+headerType（伪装类型）: none
+
+host（伪装域名）：不填
+
+路径：不填
+
+底层传输安全：不填
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjE5My4yMzMuMjA3LjEyMCIsDQogICJwb3J0IjogIjMwODc5IiwNCiAgImlkIjogIjZhNGNmMWI0LTg2ZWMtMTFlYy1hNGIyLTA2YmQzOTM4ZmFjOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
