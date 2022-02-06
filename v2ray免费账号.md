@@ -29,30 +29,6 @@
 
 ***
 
-**达拉斯**：
-
-Address(地址): 193.233.207.120
-
-Port（端口）: 30879
-
-UUID（用户id）: 6a4cf1b4-86ec-11ec-a4b2-06bd3938fac9
-
-alterId（额外ID）: 0
-
-security（加密方式）: none
-
-network（传输协议）: tcp
-
-headerType（伪装类型）: none
-
-host（伪装域名）：不填
-
-路径：不填
-
-底层传输安全：不填
-
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOi+vuaLieaWr2ciLA0KICAiYWRkIjogIjE5My4yMzMuMjA3LjEyMCIsDQogICJwb3J0IjogIjMwODc5IiwNCiAgImlkIjogIjZhNGNmMWI0LTg2ZWMtMTFlYy1hNGIyLTA2YmQzOTM4ZmFjOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
-
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My4yMzMuMjA3LjEyMDoxMjM0NQ==#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e4%bf%84%e7%bd%97%e6%96%afg
 
 
