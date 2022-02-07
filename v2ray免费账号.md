@@ -45,11 +45,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOe+juWbvWciLA0KICAiYWRkIjogIjE5Mi45Ni4yMDQuMjUwIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsDQogICJhaWQiOiAiNCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXNhLXdhc2hpbmd0b24ubHZ1ZnQuY29tIiwNCiAgInBhdGgiOiAiL3dzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My4yMzMuMjA3LjEyMDoxMjM0NQ==#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e4%bf%84%e7%bd%97%e6%96%afg
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIOa+s+Wkp+WIqeS6mmciLA0KICAiYWRkIjogInljZ3lnLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLA0KICAiYWlkIjogIjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInljZ3lnLmNvbSIsDQogICJwYXRoIjogIi93cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5My4yMzMuMjA3LjEyMDoxMjM0NQ==#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e4%bf%84%e7%bd%97%e6%96%afg
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
