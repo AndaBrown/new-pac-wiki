@@ -1,4 +1,4 @@
-**2020年11月13日更新iOS使用v2ray方法。**
+**2022年2月7日更新。以下方法为账号信息逐个填入，现在客户端很多都支持URL直接导入vmess链接。**
 
 [点我获取更多免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 
 
