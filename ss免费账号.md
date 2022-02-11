@@ -21,7 +21,7 @@
 
 **祝所有网友新年快乐！虎年大吉！平平安安！**
 
-**北京时间2022年2月10日12点38分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年2月11日10点19分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 （记得前面加https）
 
@@ -53,15 +53,6 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>俄罗斯1</td>
-<td>ru1.free4444.xyz</td>
-<td>443</td>
-<td>dongtaiwang.com</td>
-<td>none</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>洛杉矶2</td>
 <td>lg1.free4444.xyz</td>
 <td>443</td>
@@ -82,7 +73,7 @@
 <tr>
 <td>俄罗斯2</td>
 <td>194.135.32.137</td>
-<td>123456</td>
+<td>12345</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
@@ -94,8 +85,6 @@
 SSR链接：
 
 ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrZzVyU2I1cDJKNTUtMlUxTlM
-
-ssr://cnUxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs
 
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
