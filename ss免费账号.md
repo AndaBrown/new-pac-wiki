@@ -19,7 +19,8 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr101.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr101.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**祝所有网友新年快乐！虎年大吉！平平安安！**
+**最新预告：2022年元宵节期间，新唐人电视台将于2月15日（周二）晚上20:00-23:00开始独家播出“新唐人全球华人新年晚会——神韵晚会”。大陆用户请通过翻墙软件(自由门,无界,爱博电视)观看。每年都是全新的节目** [低频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150) [中频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800) （注:大陆用户看神韵晚会必须通过自由门或无界或爱博电视软件才能观看，国外用户需要购票到现场观看）[神韵2022预告片](https://www.youtube.com/watch?v=hm1OG6bCz9E&ab_channel=ShenYunOfficialAccount) [神韵官网](https://zh-cn.shenyun.org/)
+
 
 **北京时间2022年2月11日10点19分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
