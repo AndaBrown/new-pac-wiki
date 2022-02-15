@@ -22,7 +22,7 @@
 **最新预告：2022年元宵节期间，新唐人电视台将于2月15日（周二）晚上20:00-23:00开始独家播出“新唐人全球华人新年晚会——神韵晚会”。大陆用户请通过翻墙软件(自由门,无界,爱博电视)观看。每年都是全新的节目** [低频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=150) [中频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=400) [高频宽](https://dongtaiwang.com/loc/fgtv/ntdhls.php?rate=800) （注:大陆用户看神韵晚会必须通过自由门或无界或爱博电视软件才能观看，国外用户需要购票到现场观看）[神韵2022预告片](https://www.youtube.com/watch?v=hm1OG6bCz9E&ab_channel=ShenYunOfficialAccount) [神韵官网](https://zh-cn.shenyun.org/)
 
 
-**北京时间2022年2月11日10点19分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年2月15日9点12分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号 （记得前面加https）
 
@@ -65,7 +65,7 @@
 <tr>
 <td>洛杉矶3</td>
 <td>23.19.26.246</td>
-<td>60011</td>
+<td>50055</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td></td>
@@ -89,7 +89,7 @@ ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0Njo2MDAxMQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b63SS
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0Njo1MDA1NQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b63SS
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5NC4xMzUuMzIuMTM3OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%af2SS
 
