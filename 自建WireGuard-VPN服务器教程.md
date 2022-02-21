@@ -252,7 +252,7 @@ TunSafe尚没有针对Linux，OSX或FreeBSD的图形用户界面。但是，您�
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/wire/wire-erwei2.jpg)
 
 
-安卓版：WireGuard.apk [国外云盘下载](https://f-droid.org/repo/com.wireguard.android_491.apk) [国外云盘2下载](https://tr201.free4444.xyz/com.wireguard.android_491.apk)
+安卓版：WireGuard.apk [国外云盘下载](https://f-droid.org/repo/com.wireguard.android_491.apk) [国外云盘2下载](https://tr601.free4444.xyz/com.wireguard.android_491.apk)
 
 安卓版安卓wireguard后，选择右下角的+号按钮进行配置，可以选择第一个将配置文件导入进去，也可以选择第二个扫描二维码。
 
