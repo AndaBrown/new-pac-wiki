@@ -60,15 +60,6 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>达拉斯</td>
-<td>209.209.115.192</td>
-<td>22233</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>洛杉矶</td>
 <td>23.19.10.134</td>
 <td>12345</td>
@@ -86,7 +77,6 @@ ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@209.209.115.192:22233#https%3a%2f%2fgit.io%2fv9999+%e8%be%be%e6%8b%89%e6%96%afSS
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@23.19.10.134:12345#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
 
