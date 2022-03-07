@@ -180,6 +180,9 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 **禁止firewall开机启动命令**：systemctl disable firewalld.service
 
+
+***
+
 **注意：账号无法使用，可能原因：客户端与服务端的设备系统时间相差过大。解决方法如下：**
 
 **1、一般国外的VPS的镜像都是默认的国外时区，使用起来不是很方便。可以把它修改成北京时间，就会方便很多。**
