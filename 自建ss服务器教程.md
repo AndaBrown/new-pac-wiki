@@ -57,32 +57,32 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **开通服务器步骤如图**：
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new1.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new1.PNG)
 
 选择“Cloud Compute”。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new2.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new2.PNG)
 
 选择“Regular Performance”。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new3.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new3.PNG)
 
 选择服务器位置。不同的服务器位置速度会有所不同，有的服务器的最低价格会不同，一般纽约等位置的价格最低，有3.5美元/月的，可根据自己的需求来选择。
 
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new4.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new4.PNG)
 
 **点击图中的系统名字，会弹出具体系统版本，推荐Debain10或者 CentOS7 （不要选默认的CentOS8，脚本不支持CentOS8！）**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new5.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new5.PNG)
 
 选择服务器套餐。根据自己的需求来选择，如果服务器位置定了，套餐不影响速度，影响流量和配置，一般用的人数少，选择低配置就够了。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new6.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new6.PNG)
 
 关闭自动备份，这个是收费的，可以关闭它。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/vultr/new7.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/new7.PNG)
 
 最后点击“Deploy Now”开始部署，等3~5分钟就差不多了。
 
