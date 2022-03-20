@@ -32,11 +32,9 @@
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf6aaZ5rivXzYiLA0KICAiYWRkIjogIjM0Ljk2LjE3My4yMTYiLA0KICAicG9ydCI6ICI1MzAwNCIsDQogICJpZCI6ICI0YTI3MjQ3NS00NzgzLTQxZTMtZWI2Yi0zMWI5N2QzMWMwZjYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIzNC45Ni4xNzMuMjE2IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
-trojan://5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d@us2.tcpbbr.net:443?
-security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd_12
+trojan://5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d@us2.tcpbbr.net:443?security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd_12
 
-trojan://283695dc-fcc8-11ea-8684-f23c913c8d2b@us2.tcpbbr.net:443?
-security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd_11
+trojan://283695dc-fcc8-11ea-8684-f23c913c8d2b@us2.tcpbbr.net:443?security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd_11
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.68:7306#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e5%8a%a0%e6%8b%bf%e5%a4%a7_55
 
