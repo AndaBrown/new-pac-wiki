@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年3月21日18点12分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
+**北京时间2022年3月22日9点28分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号/ （记得前面加https）
@@ -32,15 +32,17 @@
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf5rSb5p2J55+2IiwNCiAgImFkZCI6ICI0NS42My42Mi40OSIsDQogICJwb3J0IjogIjUyNzk1IiwNCiAgImlkIjogIjI4MTNjOThjLWE4ZmYtMTFlYy1hMTY5LTU2MDAwM2VhM2IzZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3hFV2lVc2VMLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf5pel5pysIiwNCiAgImFkZCI6ICJ2cy5tdW1pLmJpZCIsDQogICJwb3J0IjogIjEwMTI0IiwNCiAgImlkIjogIjA3NDhhNTY3LWNhOTctNGZjOC05ZDljLTljYTE4ZjJiOWZmNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf5Lit6L2sIiwNCiAgImFkZCI6ICJzaDEudXV2Mi5jby51ayIsDQogICJwb3J0IjogIjMxNjA2IiwNCiAgImlkIjogIjEzNDU5NzQ2LTE1NTMtNDE3Zi04ZTE3LWJiMTFlZDAwYWVlZSIsDQogICJhaWQiOiAiMSIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAia3J6Mi5mdXRpLm9ubGluZSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 
-trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@jgwdb4.gaox.ml:443?security=tls&sni=jgwdb4.gaox.ml&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e6%97%a5%e6%9c%ac
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf6Z+p5Zu9IiwNCiAgImFkZCI6ICJrcjMudXV2Mi5jby51ayIsDQogICJwb3J0IjogIjIwNTMiLA0KICAiaWQiOiAiYmVmNDg3MWEtYTNlZC00Y2NhLTgzMWYtODgzODJjNDM4MmZhIiwNCiAgImFpZCI6ICIxIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJrcjMuZnV0aS5vbmxpbmUiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+
+trojan://e8553fc5-f3a0-409c-ac06-1cd93b026cf4@jgwdj1.gaox.ml:443?security=tls&sni=jgwdj1.gaox.ml&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e6%97%a5%e6%9c%ac_21
+
+trojan://2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d@us2.tcpbbr.net:443?security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd_25
 
 trojan://283695dc-fcc8-11ea-8684-f23c913c8d2b@us2.tcpbbr.net:443?security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd_11
 
 trojan://5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d@us2.tcpbbr.net:443?security=tls&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd
-
-trojan://2bbee0bf-d920-4572-b87b-eac67ba69736@ca1.qingyun123.xyz:10050?security=tls&sni=ca1.qingyun123.xyz&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e5%8a%a0%e6%8b%bf%e5%a4%a7
 
 
 
