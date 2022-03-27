@@ -60,7 +60,7 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶3</td>
 <td>88.218.92.162</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
@@ -69,7 +69,7 @@
 <td></td>
 </tr>
 <tr>
-<td>洛杉矶</td>
+<td>洛杉矶4</td>
 <td>85.209.158.76</td>
 <td>23456</td>
 <td>dongtaiwang.com</td>
