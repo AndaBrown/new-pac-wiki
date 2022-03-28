@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年3月27日18点32分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
+**北京时间2022年3月28日10点38分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
 
 
 备用网址：https://tr1.freeair888.club/v2ray免费账号/ （记得前面加https）
@@ -30,7 +30,7 @@
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf5rSb5p2J55+2IiwNCiAgImFkZCI6ICIxNDkuMjguNjUuMTA4IiwNCiAgInBvcnQiOiAiNDUwMzMiLA0KICAiaWQiOiAiZGQ0NmU3YmUtYWNhNC0xMWVjLWJjYTQtNTYwMDAzZWJlZTkwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvUFpiUzdvaEkvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdfdnVsdHLmtJvmnYnnn7YiLA0KICAiYWRkIjogIjE0OS4yOC45Mi4yMDkiLA0KICAicG9ydCI6ICIzMjIyIiwNCiAgImlkIjogImMzOTIwOGYyLWFlM2YtMTFlYy1hNTgzLTU2MDAwM2VjODM0MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL1VUVndPYjhCLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 
 trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-us02.yiyodns.xyz:443?security=tls&type=tcp&headerType=none#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+g_%e7%be%8e%e5%9b%bd
 
