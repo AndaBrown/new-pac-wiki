@@ -46,7 +46,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <tbody>
 <tr>
 <td>Just My Socks LA 100</td>
-<td>1 GB</td>
+<td>1 GBbps</td>
 <td>100 GB /月</td>
 <td>$2.88 / 月</td>
 <td>最多3个设备同时在线(当前断货)</td>
@@ -54,7 +54,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks LA 500</td>
-<td>2.5 GB</td>
+<td>2.5 GBbps</td>
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
 <td>最多5个设备同时在线</td>
@@ -62,7 +62,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks LA 1000</td>
-<td>5 GB</td>
+<td>5 GBbps</td>
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
 <td>不限制设备数量</td>
@@ -70,7 +70,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks LA 5000</td>
-<td>5 GB</td>
+<td>5 GBbps</td>
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
@@ -78,7 +78,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks Tokyo 100</td>
-<td>100M</td>
+<td>100Mbps</td>
 <td>100GB / 月</td>
 <td>$29.99 / 月</td>
 <td>最多3个设备同时在线</td>
@@ -86,7 +86,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks Tokyo 500</td>
-<td>200M</td>
+<td>200Mbps</td>
 <td>500GB / 月</td>
 <td>$135.99 / 月</td>
 <td>最多5个设备同时在线</td>
@@ -94,7 +94,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks HongKong 100</td>
-<td>100M</td>
+<td>100Mbps</td>
 <td>100GB / 月</td>
 <td>$34.99 / 月</td>
 <td>最多3个设备同时在线</td>
@@ -102,7 +102,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks HongKong 500</td>
-<td>500M</td>
+<td>500Mbps</td>
 <td>500GB / 月</td>
 <td>$149.99 / 月</td>
 <td>最多5个设备同时在线</td>
@@ -110,7 +110,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </tr>
 <tr>
 <td>Just My Socks HongKong 1000</td>
-<td>1G</td>
+<td>1Gbps</td>
 <td>1000GB / 月</td>
 <td>$279.99 / 月</td>
 <td>不限制设备数量</td>
