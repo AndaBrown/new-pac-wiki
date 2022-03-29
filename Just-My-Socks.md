@@ -1,6 +1,6 @@
 <h1>Just My Socks：搬瓦工官方翻墙服务，多条线路，IP不怕被墙</h1>
 
-如果无法查看教程中的图片，可访问https://tr1.freeair888.club/just-my-socks
+如果无法查看教程中的图片，可访问https://tr1.freeair888.club/just-my-socks/
 
 ***
 
@@ -45,7 +45,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 </thead>
 <tbody>
 <tr>
-<td>Just My Socks 100</td>
+<td>Just My Socks LA 100（洛杉矶）</td>
 <td>1 GB</td>
 <td>100 GB /月</td>
 <td>$2.88 / 月</td>
@@ -53,7 +53,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=1">立即购买</a></td>
 </tr>
 <tr>
-<td>Just My Socks 500</td>
+<td>Just My Socks LA 500（洛杉矶）</td>
 <td>2.5 GB</td>
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
@@ -61,7 +61,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=2">立即购买</a></td>
 </tr>
 <tr>
-<td>Just My Socks 1000</td>
+<td>Just My Socks LA 1000（洛杉矶）</td>
 <td>5 GB</td>
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
@@ -69,12 +69,52 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=3">立即购买</a></td>
 </tr>
 <tr>
-<td>Just My Socks 5000</td>
+<td>Just My Socks LA 5000（洛杉矶）</td>
 <td>5 GB</td>
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
 <td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=4">立即购买</a></td>
+</tr>
+<tr>
+<td>Just My Socks Tokyo 100（日本东京）</td>
+<td>100M</td>
+<td>100GB / 月</td>
+<td>$29.99 / 月</td>
+<td>最多3个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=5">立即购买</a></td>
+</tr>
+<tr>
+<td>Just My Socks Tokyo 500（日本东京）</td>
+<td>200M</td>
+<td>500GB / 月</td>
+<td>$135.99 / 月</td>
+<td>最多5个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=6">立即购买</a></td>
+</tr>
+<tr>
+<td>Just My Socks HongKong 100（香港）</td>
+<td>100M</td>
+<td>100GB / 月</td>
+<td>$34.99 / 月</td>
+<td>最多3个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=7">立即购买</a></td>
+</tr>
+<tr>
+<td>Just My Socks HongKong 500（香港）</td>
+<td>500M</td>
+<td>500GB / 月</td>
+<td>$149.99 / 月</td>
+<td>最多5个设备同时在线</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=8">立即购买</a></td>
+</tr>
+<tr>
+<td>Just My Socks HongKong 1000（香港）</td>
+<td>1G</td>
+<td>1000GB / 月</td>
+<td>$279.99 / 月</td>
+<td>不限制设备数量</td>
+<td><a rel="nofollow" href="https://justmysocks3.net/members/aff.php?aff=8225&pid=9">立即购买</a></td>
 </tr>
 </tbody>
 </table>
