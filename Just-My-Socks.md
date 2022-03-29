@@ -31,7 +31,7 @@ Just My Socks是一个ss/ssr/v2ray服务商（机场），由搬瓦工官方推�
 Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使用YouTube等大多数流媒体服务。从Just My Socks 500开始的所有套餐均支持TCP和UDP协议（请参阅下面的注释）。语音协议（如WhatsApp和某些VOIP实现）可能需要UDP协议。如果您的套餐是Just My Socks 100，并且您想使用UDP协议，那么您将需要升级到Just My Socks 500套餐。
 </p>
 <h2 id="user-content-just2"><span id="just_my_socks-2">二、Just My Socks购买</span></h2>
-<p class="keepp">目前，Just My Socks一共有4种方案：</p>
+<p class="keepp">目前，Just My Socks一共有9种方案：</p>
 <table id="tablepress-1">
 <thead>
 <tr>
