@@ -29,6 +29,8 @@
 
 **近期重要更新提醒**：
 
+**北京时间2022年4月5日：更新火狐集合版和谷歌低内核集合版。**
+
 **北京时间2022年4月5日：云端更新集合版clash工具ip1，v2ray工具ip1、ip2配置信息，按照使用说明运行ip更新文件即可同步。**
 
 **北京时间2022年4月4日：更新谷歌高内核所有版本，主要包括升级内核至100，更新集合版clash、v2ray工具至最新版。**
@@ -42,9 +44,9 @@
 
 [谷歌翻墙浏览器100高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2022年4月4日更新所有版本）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2022年2月18日更新谷歌低内核集合版）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2022年4月4日更新谷歌低内核集合版）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2022年2月18日更新火狐集合版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2022年4月5日更新火狐集合版）
 
 [iOS翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2022年3月6日更新）
 
