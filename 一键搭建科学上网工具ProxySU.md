@@ -9,7 +9,7 @@ ProxySU是一款windows科学上网搭建软件，支持一键搭建V2ray，Troj
 
 **使用提醒**：
 
-ProxySU的安装流程，是假设在全新系统下，没有装过以上代理软件，如果已经安装过，最好将系统重装一下，会减少很多的麻烦。ProxySU在开发过程中，一般都是在[vultr](https://www.vultr.com/?ref=7048874)的vps中测试，测试系统版本为：Centos7/8 Debian9/10 Ubuntu18.04/20.04(推荐Debian10)。[ProxySU官网](https://github.com/proxysu/windows/tree/v2.2.2)。
+ProxySU的安装流程，是假设在全新系统下，没有装过以上代理软件，如果已经安装过，最好将系统重装一下，会减少很多的麻烦。ProxySU在开发过程中，一般都是在[vultr](https://www.vultr.com/?ref=7048874)的vps中测试，测试系统版本为：Centos7/8 Debian9/10 Ubuntu18.04/20.04(推荐Debian10)。[ProxySU官网](https://github.com/proxysu/ProxySU/tree/master)。
 
 **ProxySU-v2.2.2功能如下:**
 
@@ -162,7 +162,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 **第二步:ProxySU下载及搭建**
 
-当前提供下载的版本为ProxySU-v2.5.4,文件很小,大小为778kb.注意：ProxySU官网的最新版已经去掉了很多款工具的搭建模块，如果想按照教程那样搭建SSR等工具，可以下载旧版.
+当前提供下载的版本为ProxySU-v2.5.4,文件很小,大小为778kb.注意：ProxySU官网的最新版已经去掉了很多款工具的搭建模块，如果想按照教程那样搭建SSR等工具，可以下载旧版。旧版如果多次出现域名解析失败，请在官网下载新版，[ProxySU官网下载](https://github.com/proxysu/ProxySU/releases)
 
 [国外云盘下载1](https://tr601.free4444.xyz/ProxySU-v2.5.4.zip)  [国外云盘下载2](https://tr201.free4444.xyz/ProxySU-v2.5.4.zip)  
 
