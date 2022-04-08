@@ -46,7 +46,7 @@
 <td>85.209.158.31</td>
 <td>30033</td>
 <td>dongtaiwang.com</td>
-<td>none</td>
+<td>rc4-md5</td>
 <td>auth_aes128_sha1</td>
 <td>tls1.2_ticket_auth</td>
 </tr>
