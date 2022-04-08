@@ -19,7 +19,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年4月8日19点27分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年4月9日7点35分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号/ （记得前面加https）
 
@@ -42,16 +42,7 @@
 <tbody>
 <tr>
 <tr>
-<td>洛杉矶2</td>
-<td>149.28.71.229</td>
-<td>34567</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-cfb</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
-<td>洛杉矶3</td>
+<td>洛杉矶1</td>
 <td>88.218.92.49</td>
 <td>20022</td>
 <td>dongtaiwang.com</td>
@@ -60,7 +51,7 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <tr>
-<td>洛杉矶4</td>
+<td>洛杉矶2</td>
 <td>88.218.92.176</td>
 <td>22334</td>
 <td>dongtaiwang.com</td>
@@ -72,8 +63,6 @@
 </table>
 
 SSR链接：
-
-ssr://MTQ5LjI4LjcxLjIyOTozNDU2NzphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2c1clNiNXAySjU1LTJNbE5UVWc
 
 ssr://ODguMjE4LjkyLjQ5OjIwMDIyOmF1dGhfY2hhaW5fYTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk0xTlRVZw
 
