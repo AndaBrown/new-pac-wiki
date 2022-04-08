@@ -42,15 +42,6 @@
 <tbody>
 <tr>
 <tr>
-<td>洛杉矶1</td>
-<td>45.32.74.208</td>
-<td>34567</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-cfb</td>
-<td>auth_chain_a</td>
-<td>tls1.2_ticket_auth</td>
-</tr>
-<tr>
 <td>洛杉矶2</td>
 <td>149.28.71.229</td>
 <td>23456</td>
@@ -81,8 +72,6 @@
 </table>
 
 SSR链接：
-
-ssr://NDUuMzIuNzQuMjA4OjM0NTY3OmF1dGhfY2hhaW5fYTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1WTlRVZw
 
 ssr://MTQ5LjI4LjcxLjIyOToyMzQ1NjphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2c1clNiNXAySjU1LTJNbE5UVWc
 
