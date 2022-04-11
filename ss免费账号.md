@@ -19,7 +19,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年4月11日19点07分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年4月11日21点18分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号/ （记得前面加https）
 
@@ -68,6 +68,15 @@
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>洛杉矶4</td>
+<td>88.218.92.139</td>
+<td>30033</td>
+<td>dongtaiwang.com</td>
+<td>aes-256-gcm</td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -79,6 +88,7 @@ ssr://NDUuNjYuMTU5LjEyOjIyMjIyOmF1dGhfY2hhaW5fYTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@88.218.92.176:22334#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e6%b4%9b%e6%9d%89%e7%9f%b63+SS
 
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@88.218.92.139:30033#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e6%b4%9b%e6%9d%89%e7%9f%b64+SS
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
