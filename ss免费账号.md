@@ -19,7 +19,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年4月18日10点27分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年4月18日22点13分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr1.freeair888.club/ss免费账号/ （记得前面加https）
 
@@ -53,7 +53,7 @@
 <tr>
 <td>洛杉矶2</td>
 <td>45.66.159.12</td>
-<td>22222</td>
+<td>40044</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-cfb</td>
 <td>auth_chain_a</td>
@@ -75,7 +75,7 @@ SSR链接：
 
 ssr://ODguMjE4LjkyLjQ5OjMwMDMzOmF1dGhfY2hhaW5fYTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1WTlRVZw
 
-ssr://NDUuNjYuMTU5LjEyOjIyMjIyOmF1dGhfY2hhaW5fYTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1sTlRVZw
+ssr://NDUuNjYuMTU5LjEyOjQwMDQ0OmF1dGhfY2hhaW5fYTphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1sTlRVZw
 
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@88.218.92.177:28866#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e6%b4%9b%e6%9d%89%e7%9f%b63+SS
 
