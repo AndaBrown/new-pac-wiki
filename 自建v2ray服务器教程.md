@@ -186,6 +186,8 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2ray-2-4.PNG)
 
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2ray-cs.png)
+
 **如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
 
 **查看防火墙状态命令**：firewall-cmd --state
