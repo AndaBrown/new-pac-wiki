@@ -14,7 +14,7 @@
 
 **选择指南**：clash、v2ray、SSR、SS-plugin、FreeGate、无界可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
 
-**YouTube频道推荐**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)  [薇羽看世间](https://www.youtube.com/c/%E8%96%87%E7%BE%BD%E7%9C%8B%E4%B8%96%E9%96%93/videos)  [Leonard](https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg/videos)  [探索时分周子定](https://www.youtube.com/c/%E6%8E%A2%E7%B4%A2%E6%99%82%E5%88%86-%E5%91%A8%E5%AD%90%E5%AE%9A/videos) [文昭思绪飞扬](https://www.youtube.com/channel/UCTu_hTaVf3DJMpMIyOAq2Ew/videos) [未解之谜扶搖](https://www.youtube.com/c/%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%AC%8E%E6%89%B6%E6%90%96/videos)
+**YouTube频道推荐**： [文昭谈古论今](https://www.youtube.com/channel/UCtAIPjABiQD3qjlEl1T5VpA/featured)  [天亮时分](https://www.youtube.com/channel/UCjvjNeHndz4PGs9JXhzdHqw/videos)  [江峰时刻](https://www.youtube.com/channel/UCa6ERCDt3GzkvLye32ar89w/videos)  [Leonard](https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg/videos)  [探索时分周子定](https://www.youtube.com/c/%E6%8E%A2%E7%B4%A2%E6%99%82%E5%88%86-%E5%91%A8%E5%AD%90%E5%AE%9A/videos) [文昭思绪飞扬](https://www.youtube.com/channel/UCTu_hTaVf3DJMpMIyOAq2Ew/videos) [未解之谜扶搖](https://www.youtube.com/c/%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%AC%8E%E6%89%B6%E6%90%96/videos)
 
 
 **真相视频推荐**：第51届哥伦布国际电影电视节荣誉奖——《伪火》  [在线观看](http://cn.ntdtv.com/gb/2014/01/07/a24016.html) 
