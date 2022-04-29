@@ -51,7 +51,7 @@
 <td>tls1.2_ticket_auth</td>
 </tr>
 <td>洛杉矶2</td>
-<td>88.218.92.49</td>
+<td>lg8.free4444.xyz</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
