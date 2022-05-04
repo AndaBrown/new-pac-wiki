@@ -58,15 +58,6 @@
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
 </tr>
-<tr>
-<td>洛杉矶3</td>
-<td>161.8.149.8</td>
-<td>30033</td>
-<td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
@@ -76,7 +67,6 @@ ssr://c3NyZnJlZTIuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2
 
 ssr://bGc4LmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2c1clNiNXAySjU1LTJNbE5UVWc
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@161.8.149.8:30033#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+SS
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
