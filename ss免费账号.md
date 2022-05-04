@@ -25,7 +25,7 @@
 
 ***
 
-SSR节点：
+**SSR节点：**
 
 <table id="tablepress-1">
 <thead>
@@ -61,20 +61,42 @@ SSR节点：
 </tbody>
 </table>
 
-SSR链接：
+**SSR链接：**
 
 ssr://c3NyZnJlZTIuZnJlZTQ0NDQueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1WTlRVZw
 
 ssr://bGc4LmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2c1clNiNXAySjU1LTJNbE5UVWc
 
 
-SS节点：
+**SS节点：**
 
 普通的SS节点容易被封，需要套v2ray-plugin插件来使用以下节点。
 
 v2ray-plugin插件下载地址：https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1 按照电脑系统下载对应的版本，下载后解压，将解压后的程序放在Shadowsocks客户端同级目录，并更改名字为 v2ray-plugin ，打开Shadowsocks客户端填写下方账号信息，记得插件程序一栏填写v2ray-plugin
 
-洛杉矶3 ：149.28.88.240  端口：39594 密码： dongtaiwang.com   加密方式： chacha20-ietf-poly1305 插件：v2ray-plugin
+<table id="tablepress-1">
+<thead>
+<tr>
+<th>位置</th>
+<th>地址</th>
+<th>端口</th>
+<th>密码</th>
+<th>加密方式</th>
+<th>插件程序</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<tr>
+<td>洛杉矶3</td>
+<td>149.28.88.240</td>
+<td>39594</td>
+<td>dongtaiwang.com</td>
+<td>chacha20-ietf-poly1305</td>
+<td>v2ray-plugin</td>
+</tr>
+</tbody>
+</table>
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
