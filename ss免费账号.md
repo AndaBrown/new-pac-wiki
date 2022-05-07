@@ -70,7 +70,7 @@
 </tbody>
 </table>
 
-**SSR链接：**
+**SSR/SS链接：**
 
 ssr://NjcuMjEuNjQuNjc6NDQzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmtnNXJTYjVwMko1NS0yTVZOVFVn
 
