@@ -58,7 +58,7 @@
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
 </tr>
-</tr>
+<tr>
 <td>美国</td>
 <td>169.197.142.99</td>
 <td>9101</td>
