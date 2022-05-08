@@ -81,7 +81,7 @@ ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@161.8.149.8:16622#https%3a%2f%2fgithub
 
 **SS-v2ray节点：**
 
-普通的SS节点容易被封，需要套v2ray-plugin插件来使用以下节点。v2ray-plugin插件下载地址：https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1 按照电脑系统下载对应的版本，下载后解压，将解压后的程序放在Shadowsocks客户端同级目录，并更改名字为 v2ray-plugin ，打开Shadowsocks客户端填写下方账号信息，记得插件程序一栏填写v2ray-plugin。
+SS-v2ray节点需要套v2ray-plugin插件来使用以下节点。v2ray-plugin插件下载地址：https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1 按照电脑系统下载对应的版本，下载后解压，将解压后的程序放在Shadowsocks客户端同级目录，并更改名字为 v2ray-plugin ，打开Shadowsocks客户端填写下方账号信息，记得插件程序一栏填写v2ray-plugin。
 
 windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下载地址1](https://tr201.free4444.xyz/SS-v2ray-plugin-v1.7z) [下载地址2](https://tr601.free4444.xyz/SS-v2ray-plugin-v1.7z) 下载后解压，启动文件夹中的Shadowsocks.exe，填写以下SS节点信息即可。
 
