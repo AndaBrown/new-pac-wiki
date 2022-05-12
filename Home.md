@@ -23,7 +23,7 @@
 
 ***
 
-**备用网址：https://tr1.freeair888.club （记得前面加https）**
+**备用网址：https://tr2.freeair888.club （记得前面加https）**
 
 ***
 
