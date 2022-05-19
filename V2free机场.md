@@ -6,19 +6,19 @@
 
 节点如下（2021年11月13日截图）：
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip11.PNG)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip11.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip14.PNG)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip14.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip13.PNG)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip13.PNG)
 
 **价格**
 
 试用套餐3元、月付20元、年付经济套餐110元、年付A套餐168元、年付B套餐258元、年付C套餐338元等，[套餐购买](https://w1.v2free.net/auth/register?code=UsUP)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/price01.PNG)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/price01.PNG)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/price02.PNG)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/price02.PNG)
 
 
 ***
@@ -27,16 +27,16 @@
 
 **先充值，然后购买相应的套餐，获取节点信息，复制节点或者订阅节点地址即可。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
 
 **打开商店——充值进行充值，充值方式：微信、支付宝、paypal和数字货币。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-003.PNG)
+![](https://cfastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-003.PNG)
 
 **购买相应的套餐后，打开“用户中心”，在“快速使用”这里可以复制订阅链接以及所有节点信息，也可以在节点列表获取单个节点信息。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/6.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/6.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/8.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/8.jpg)
 
 有任何问题都可以发工单进行咨询。
