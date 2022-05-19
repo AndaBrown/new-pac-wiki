@@ -21,15 +21,15 @@
 
 编辑config.json配置文件，略。。。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/1.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/1.png)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/2.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/2.png)
 
 **2、配置**
 
 将v2ray文件夹移动到 /usr/local/目录下，然后进入该目录
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/3.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/3.png)
 
   sudo mv /home/jacen/Downloads/v2ray /usr/local/v2ray
 
@@ -45,7 +45,7 @@
 
   sudo ./v2ray --config=/etc/v2ray/config.json
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/4.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/4.png)
 
 **3、设置开机启动**
 
@@ -55,15 +55,15 @@
 
   sudo vi v2ray.service
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/5.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/5.png)
 
 将里面的ExecStart键值改为下面的 /usr/local/v2ray/v2ray -config /etc/v2ray/config.json
 
 保存退出。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2linux/a1.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2linux/a1.png)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/a2.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/a2.png)
 
 将文件复制到服务目录。 sudo cp v2ray.service /lib/systemd/system/
 
@@ -85,13 +85,13 @@ sudo systemctl disable v2ray.service
 
 代理设置应该和配置文件中保持一致
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/6.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/6.png)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/7.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/7.png)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/9.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/9.png)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/linux/10.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/linux/10.png)
 
 [点我获取最新v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
