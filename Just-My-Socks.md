@@ -152,13 +152,13 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks3.net/members/
 
 **注意：默认的SS/SSR加密方式为aes-256-gcm，aes-256-gcm加密方式必须使用 SS 客户端，SSR客户端不支持aes-256-gcm。如果想用SSR客户端，在界面上操作一下就可以自动把aes-256-gcm加密方式改为SSR客户端支持的aes-256-cfb。**
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just1.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/just1.jpg)
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just5.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/just5.jpg)
 
 加密方式修改如下图：
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just6.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/just6.jpg)
 
 除了更改加密方式以外，还可以选择更改帐号密码和端口。
 
@@ -218,7 +218,7 @@ v2ray帐号可以参考这个教程来使用[v2ray各平台图文使用教程](h
 
 点击进去之后，在左侧找到 Request Refund ，即是申请退款选项！如果你要退款，那就点击它！！！备注，你可能需要再点击一下类似 Request full refund for this service 的按钮。
 
-![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/just3.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/just3.jpg)
 
 
 退款方式是原路退回的，比如说你是使用了支付宝付款的，那么到时候也是退款到支付宝的。
