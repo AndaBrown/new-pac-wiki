@@ -58,7 +58,7 @@
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
 </tr>
-</tr>
+<tr>
 <td>洛杉矶</td>
 <td>85.209.157.54</td>
 <td>20088</td>
