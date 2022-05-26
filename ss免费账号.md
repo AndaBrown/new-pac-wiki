@@ -25,7 +25,7 @@
 
 ***
 
-**SSR/SS节点：**
+**SSR节点：**
 
 <table id="tablepress-1">
 <thead>
@@ -61,7 +61,7 @@
 </tbody>
 </table>
 
-**SSR/SS链接：**
+**SSR链接：**
 
 ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjIwMDIyOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmtnNXJTYjVwMko1NS0yTVZOVFVn
 
