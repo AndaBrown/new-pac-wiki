@@ -7,7 +7,11 @@
 
 https://ineo6.github.io/hosts  
 
-备用地址：https://gitlab.com/ineo6/hosts  https://github.com/ineo6/hosts  
+备用地址：
+
+https://gitlab.com/ineo6/hosts  
+
+https://github.com/ineo6/hosts  
 
 最新DNS新方案（定时更新）：https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts
 
