@@ -30,6 +30,26 @@
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
 
+Address(地址): vus2.0bad.com
+
+Port（端口）: 443
+
+UUID（用户id）: 927094d3-d678-4763-8591-e240d0bcae87
+
+alterId（额外ID）: 0
+
+security（加密方式）: auto
+
+network（传输协议）: ws
+
+headerType（伪装类型）: none
+
+伪装域名（host）: vus2.0bad.com
+
+路径（不要落下/）：/chat
+
+底层传输安全：tls
+
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf576O5Zu9IiwNCiAgImFkZCI6ICJ2dXMyLjBiYWQuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidnVzMi4wYmFkLmNvbSIsDQogICJwYXRoIjogIi9jaGF0IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 
