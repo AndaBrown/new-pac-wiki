@@ -19,7 +19,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年6月14日13点40分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年6月18日22点40分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr2.freeair888.club/ss免费账号/ （记得前面加https） [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
 
@@ -79,7 +79,7 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <tr>
 <td>洛杉矶3</td>
 <td>107.167.12.135</td>
-<td>23092</td>
+<td>53092</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td>v2ray-plugin</td>
@@ -89,7 +89,7 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 
 **SS链接：**
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@107.167.12.135:23092/?plugin=v2ray-plugin#www.dongtaiwang.com%2bSS%2bWebsocket
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@107.167.12.135:53092/?plugin=v2ray-plugin#www.dongtaiwang.com+SS%2bWebsocket
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
