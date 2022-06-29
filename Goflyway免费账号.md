@@ -21,7 +21,8 @@
 
 **北京时间2022年6月24日10点30分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
-备用网址：https://tr2.freeair888.club/Goflyway免费账号/ （记得前面加https） github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/Goflyway%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
+备用网址：https://tr2.freeair888.club/Goflyway免费账号/ （记得前面加https） github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/Goflyway免费账号 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
+
 ***
 
 IP：45.66.157.162
