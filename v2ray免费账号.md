@@ -21,7 +21,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年7月1日14点00分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
+**北京时间2022年7月2日13点00分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
 
 
 备用网址：https://tr2.freeair888.club/v2ray免费账号/ （记得前面加https） 
@@ -34,11 +34,11 @@ github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/v2ray免费�
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
 
-Address(地址): 119.36.161.40
+Address(地址): 104.17.20.119
 
 Port（端口）: 443
 
-UUID（用户id）: 5e38275e-f168-11ec-a6d0-42010a800003
+UUID（用户id）: 6dd416ed-b07e-4b12-934a-520e22f3a6f5
 
 alterId（额外ID）: 0
 
@@ -48,13 +48,14 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）: us.batcloud.bond
+伪装域名（host）: m2.v2rayfree1.xyz
 
-路径（不要落下/）：/HbedXBnw/
+路径（不要落下/）：/ray
 
 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf576O5Zu9IiwNCiAgImFkZCI6ICIxMTkuMzYuMTYxLjQwIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjVlMzgyNzVlLWYxNjgtMTFlYy1hNmQwLTQyMDEwYTgwMDAwMyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMuYmF0Y2xvdWQuYm9uZCIsDQogICJwYXRoIjogIi9IYmVkWEJudy8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf576O5Zu9IiwNCiAgImFkZCI6ICIxMDQuMTcuMjAuMTE5IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjZkZDQxNmVkLWIwN2UtNGIxMi05MzRhLTUyMGUyMmYzYTZmNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibTIudjJyYXlmcmVlMS54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+
 
 
 
