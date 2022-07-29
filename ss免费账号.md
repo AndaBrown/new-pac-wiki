@@ -81,7 +81,7 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <tbody>
 <tr>
 <tr>
-<td>洛杉矶3</td>
+<td>洛杉矶2</td>
 <td>107.167.12.135</td>
 <td>33228</td>
 <td>dongtaiwang.com</td>
