@@ -4,13 +4,6 @@
 
 节点位置有台湾、香港、韩国、日本、美国、新加坡等，大多数节点为v2ray节点，游戏节点为SS节点。
 
-节点如下（2021年11月13日截图）：
-
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip11.PNG)
-
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip14.PNG)
-
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/vip13.PNG)
 
 **价格**
 
