@@ -1,4 +1,4 @@
-[w1.v2free.net](https://w1.v2free.net/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。注册也可获得免费节点。
+[w1.ddnsgo.xyz](https://w1.ddnsgo.xyz/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。注册也可获得免费节点。
 
 ***
 
@@ -7,7 +7,7 @@
 
 **价格**
 
-试用套餐3元、月付20元、年付经济套餐110元、年付A套餐168元、年付B套餐258元、年付C套餐338元等，[套餐购买](https://w1.v2free.net/auth/register?code=UsUP)
+试用套餐3元、月付20元、年付经济套餐110元、年付A套餐168元、年付B套餐258元、年付C套餐338元等，[套餐购买](https://w1.ddnsgo.xyz/auth/register?code=UsUP)
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/price01.PNG)
 
