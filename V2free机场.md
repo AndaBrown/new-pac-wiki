@@ -28,7 +28,7 @@
 
 **购买相应的套餐后，打开“用户中心”，在“快速使用”这里可以复制订阅链接以及所有节点信息，也可以在节点列表获取单个节点信息。**
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/6.jpg)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/start.png)
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/8.jpg)
 
