@@ -24,12 +24,9 @@
 
 **近期重要更新提醒**：
 
+**北京时间2022年8月5日：更新谷歌高内核所有版本，升级浏览器内核到104，更新集合版clash版本至1.11.4，更新v2rayN版本至5.29，更新hysteria版本至1.1.0。**
+
 **北京时间2022年8月4日：云端更新集合版hysteria工具ip1和ip2配置信息，按照使用说明运行ip更新文件即可同步。**
-
-**北京时间2022年6月23日：更新谷歌高内核所有版本。升级浏览器内核到103，更新集合版clash版本至1.11.0，更新v2rayN版本至5.26，更新hysteria版本至1.0.5。**
-
-**北京时间2022年5月29日：更新集合版，增加hysteria工具。**
-
 
 ...
 
@@ -38,11 +35,11 @@
 
 ***
 
-[谷歌翻墙浏览器103高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2022年6月23日更新所有版本）
+[谷歌翻墙浏览器104高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2022年8月5日更新所有版本）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2022年5月29日更新集合版）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2022年8月5日更新集合版）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2022年5月29日更新集合版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2022年8月5日更新集合版）
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub) （2022年6月7日发布）
 
