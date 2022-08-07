@@ -51,8 +51,8 @@ github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/ss免费账�
 <tr>
 <tr>
 <td>洛杉矶1</td>
-<td>ssrfree3.free4444.xyz</td>
-<td>44000</td>
+<td>clash30.free4444.xyz</td>
+<td>443</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -63,7 +63,7 @@ github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/ss免费账�
 
 **SSR链接：**
 
-ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjQ0MDAwOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmtnNXJTYjVwMko1NS0yTVZOVFVn
+ssr://Y2xhc2gzMC5mcmVlNDQ0NC54eXo6NDQzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmtnNXJTYjVwMko1NS0yTVZOVFVn
 
 **SS-Websocket节点：**
 
