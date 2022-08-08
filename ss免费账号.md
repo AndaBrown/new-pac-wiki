@@ -71,7 +71,7 @@ SS-Websocket节点需要SS客户端配合v2ray-plugin插件来使用。v2ray-plu
 
 windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下载地址1](https://tr201.free4444.xyz/SS-v2ray-plugin-v1.7z) [下载地址2](https://tr601.free4444.xyz/SS-v2ray-plugin-v1.7z) 下载后解压，启动文件夹中的Shadowsocks.exe，填写以下SS节点信息即可。
 
-**注意：新账号增加了插件选项，需要将插件选项的内容填入到客户端里面。**
+**注意：新账号增加了插件选项，需要将插件选项的内容填入到插件选项那一栏里面。**
 
 <table id="tablepress-1">
 <thead>
