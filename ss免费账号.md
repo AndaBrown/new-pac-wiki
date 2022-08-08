@@ -88,8 +88,8 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <tr>
 <tr>
 <td>洛杉矶2</td>
-<td>185.216.72.16</td>
-<td>15567</td>
+<td>107.167.12.135</td>
+<td>11000</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td>v2ray-plugin</td>
