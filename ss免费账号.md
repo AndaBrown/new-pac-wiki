@@ -71,6 +71,7 @@ SS-Websocket节点需要SS客户端配合v2ray-plugin插件来使用。v2ray-plu
 
 windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下载地址1](https://tr201.free4444.xyz/SS-v2ray-plugin-v1.7z) [下载地址2](https://tr601.free4444.xyz/SS-v2ray-plugin-v1.7z) 下载后解压，启动文件夹中的Shadowsocks.exe，填写以下SS节点信息即可。
 
+**注意：新账号增加了插件选项，需要将插件选项的内容填入到插件选项那一栏里面。**
 
 <table id="tablepress-1">
 <thead>
@@ -81,6 +82,7 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <th>密码</th>
 <th>加密方式</th>
 <th>插件程序</th>
+<th>插件选项</th>
 </tr>
 </thead>
 <tbody>
@@ -92,13 +94,14 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td>v2ray-plugin</td>
+<td>host=cloudfront.com;path=/MCvTP;mux=8</td>
 </tr>
 </tbody>
 </table>
 
 **SS链接：**
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@107.167.12.136:11001/?plugin=v2ray-plugin#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b62
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.216.72.16:15567/?plugin=v2ray-plugin%3bhost%3dcloudfront.com%3bpath%3d%2fMCvTP%3bmux%3d8#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑付费[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr服务-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
