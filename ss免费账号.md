@@ -81,7 +81,6 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <th>密码</th>
 <th>加密方式</th>
 <th>插件程序</th>
-<th>插件选项</th>
 </tr>
 </thead>
 <tbody>
