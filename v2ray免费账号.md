@@ -25,7 +25,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年8月18日10点00分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
+**北京时间2022年8月19日8点00分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
 
 
 备用网址：https://tr2.freeair888.club/v2ray免费账号/ （记得前面加https） 
@@ -38,11 +38,11 @@ github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/v2ray免费�
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
 
-Address(地址): 190.93.245.126
+Address(地址): lg4.free4444.xyz
 
 Port（端口）: 443
 
-UUID（用户id）: af146786-b15d-40a7-9267-e2ed5e1bcd64
+UUID（用户id）: fd0c0fca-599a-4ca7-931c-beec46d4f71b
 
 alterId（额外ID）: 0
 
@@ -52,13 +52,14 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）: m3.v2rayfree1.xyz
+伪装域名（host）: 不填
 
 路径（不要落下/）：/ray
 
 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf576O5Zu9IiwNCiAgImFkZCI6ICIxOTAuOTMuMjQ1LjEyNiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhZjE0Njc4Ni1iMTVkLTQwYTctOTI2Ny1lMmVkNWUxYmNkNjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm0zLnYycmF5ZnJlZTEueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf5rSb5p2J55+2IiwNCiAgImFkZCI6ICJsZzQuZnJlZTQ0NDQueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImZkMGMwZmNhLTU5OWEtNGNhNy05MzFjLWJlZWM0NmQ0ZjcxYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+
 
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑付费v2ray服务-[V2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
