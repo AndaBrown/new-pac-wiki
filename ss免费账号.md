@@ -23,7 +23,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年8月24日13点30分更新SS-Websocket节点。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。节点限速500kb/s，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
+**北京时间2022年8月25日13点00分更新SSR节点。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。节点限速500kb/s，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
 
 备用网址：https://tr2.freeair888.club/ss免费账号/ （记得前面加https） 
 
@@ -52,7 +52,7 @@ github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/ss免费账�
 <tr>
 <td>洛杉矶1</td>
 <td>ssrfree3.free4444.xyz</td>
-<td>44000</td>
+<td>33000</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -63,7 +63,7 @@ github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/ss免费账�
 
 **SSR链接：**
 
-ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjQ0MDAwOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmtnNXJTYjVwMko1NS0yTVZOVFVn
+ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjMzMDAwOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWFIUjBjSE02THk5bmFYUm9kV0l1WTI5dEwwRnNkbWx1T1RrNU9TOXVaWGN0Y0dGakwzZHBhMmtnNXJTYjVwMko1NS0yTVZOVFVn
 
 **SS-Websocket节点：**
 
